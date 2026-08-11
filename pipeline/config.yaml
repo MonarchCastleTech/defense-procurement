@@ -1,0 +1,26 @@
+# Defense Procurement Intelligence Configuration
+project:
+  id: defense-procurement
+  name: "Defense Procurement Intelligence"
+  description: "Global defense spending tracker via public contracts."
+
+openrouter:
+  model: "openrouter/free"
+  fallback_model: "openrouter/free"
+
+gdelt_query: "defense military contract procurement"
+include_forex: true
+
+sources:
+  - name: "GDELT"
+
+refresh:
+  interval_hours: 6
+  retry_attempts: 3
+
+scoring:
+  scale: "1-10"
+  thresholds:
+    high: 7
+    medium: 4
+    low: 0
