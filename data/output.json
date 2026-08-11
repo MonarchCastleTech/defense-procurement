@@ -1,10 +1,11 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-05T22:57:18.581144+00:00",
+    "generated": "2026-08-11T03:21:06.023635+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
+      "defense_news",
       "exchange_rates"
     ],
     "version": "1.0.0"
@@ -32,7 +33,8 @@
     }
   ],
   "live_data": {
-    "gdelt_articles": [
+    "gdelt_articles": [],
+    "defense_news": [
       {
         "title": "新闻蒸馏器丨萨德拦截弹消耗八成高端导弹库存告急 ， 美军全球威慑受限",
         "url": "https://baijiahao.baidu.com/s?id=1872658534535130645",
@@ -52,12 +54,237 @@
         "source": "GDELT"
       },
       {
+        "title": "Italy removes Israeli companies , including Rafael , from counter - drone project",
+        "url": "https://www.jpost.com/defense-and-tech/article-904752",
+        "domain": "jpost.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260806T110000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "DOGE said it saved $1 . 7 billion by terminating a military health IT contract . GAO found the contract was never terminated . ",
+        "url": "https://www.militarytimes.com/news/pentagon-congress/2026/08/10/doge-said-it-saved-17-billion-by-terminating-a-military-health-it-contract-gao-found-the-contract-was-never-terminated/",
+        "domain": "militarytimes.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260810T223000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "DOGE said it saved $1 . 7 billion by terminating a military health IT contract . GAO found the contract was never terminated . ",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/10/doge-said-it-saved-17-billion-by-terminating-a-military-health-it-contract-gao-found-the-contract-was-never-terminated/",
+        "domain": "defensenews.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260810T220000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "A California company is about to arm US forces with a drone - killing machine nobody talking about",
+        "url": "https://www.techradar.com/pro/pentagon-signs-usd500-million-deal-for-unmanned-counter-drone-missile-systems-promising-decisive-advantage",
+        "domain": "techradar.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260808T000000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Італія готує молодих хакерів для участі у новітніх війнах",
+        "url": "http://internetua.com/italiya-gotuye-molodih-hakeriv-dlya-ucsasti-u-novitnih-viinah",
+        "domain": "internetua.com",
+        "language": "Ukrainian",
+        "tone": 0,
+        "seendate": "20260809T130000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Армия Швейцарии не готова к войне , показал отчет",
+        "url": "https://ria.ru/20260807/armija-2109468856.html",
+        "domain": "ria.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260806T230000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "五角大楼斥巨资采激光武器推进  金穹  防空",
+        "url": "https://www.zaobao.com.sg/news/world/story20260808-9491372",
+        "domain": "zaobao.com.sg",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260808T120000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "中共军工腐败再曝光 高官涉贪判刑",
+        "url": "https://www.renminbao.com/rmb/articles/2026/8/7/96163.html",
+        "domain": "renminbao.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260807T051500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Contracts for Aug . 7 , 2026",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/08/dod-contracts_4566629.htm",
+        "domain": "globalsecurity.org",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260808T133000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Війна : Закупівлі води для армії затримуються через кадрові зміни в Міноборони - ЗМІ",
+        "url": "https://gazeta.ua/articles/life/_zakupivli-vodi-dlya-armiyi-zatrimuyutsya-cherez-kadrovi-zmini-v-minoboroni-zmi/1256196",
+        "domain": "gazeta.ua",
+        "language": "Ukrainian",
+        "tone": 0,
+        "seendate": "20260807T193000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "У ЗСУ можуть початись перебої з постачанням води після зміни міністра оборони | Новини України",
+        "url": "https://news.liga.net/ua/war/news/minoborony-pereyshlo-u-rezhym-tyshi-spovilnylos-navit-postachannia-vody-zsu-dzherela",
+        "domain": "news.liga.net",
+        "language": "Ukrainian",
+        "tone": 0,
+        "seendate": "20260807T173000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美打伊朗爆彈藥告急 ！ 下令軍工業者21天提加速武器生產計畫 | ETtoday國際新聞",
+        "url": "https://www.ettoday.net/news/20260809/3215934.htm",
+        "domain": "ettoday.net",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260809T034500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Telesat Lightspeed Wins $1 . 64B Deal to Fix Arctic Decades - Long Satellite Gap for Canada",
+        "url": "https://www.techtimes.com/articles/323400/20260806/telesat-lightspeed-wins-164b-deal-fix-arctics-decades-long-satellite-gap-canada.htm",
+        "domain": "techtimes.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260806T234500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Italian court forces airport to ditch Israeli defense maker",
+        "url": "https://www.clevelandjewishnews.com/jns/italian-court-forces-airport-to-ditch-israeli-defense-maker/article_5c56dd87-345d-5ea4-95c6-80ee9d8c2c8c.html",
+        "domain": "clevelandjewishnews.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260809T110000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "В Италии суд распорядился демонтировать израильскую систему защиты от дронов | MigNews - Новости Израиля и Мира на русском языке",
+        "url": "https://mignews.com/news/politic/v-italii-sud-rasporyadilsya-demontirovat-izrailskuyu-sistemu-zashity-ot-dronov.html",
+        "domain": "mignews.com",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260809T194500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "В Италии суд распорядился демонтировать израильскую систему защиты от дронов | MigNews - Новости Израиля и Мира на русском языке",
+        "url": "http://mignews.com/news/politic/v-italii-sud-rasporyadilsya-demontirovat-izrailskuyu-sistemu-zashity-ot-dronov.html",
+        "domain": "mignews.com",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260809T194500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "В ВСУ могут начаться перебои с поставками воды после смены министра обороны | Новости Украины",
+        "url": "https://news.liga.net/war/news/minoborony-pereshlo-v-rezhim-tishiny-zamedlilos-dazhe-snabzhenie-vsu-vodoi-istochniki",
+        "domain": "news.liga.net",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260807T173000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美国防部将中企列  黑名单 ， 被美法院驳回 _ 凤凰网",
+        "url": "https://news.ifeng.com/c/8vQWcxetEAc",
+        "domain": "news.ifeng.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260808T110000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Секрет раскрыт : вот где в Европе начнут производить израильские дроны",
+        "url": "https://www.9tv.co.il/item/257712",
+        "domain": "9tv.co.il",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260809T110000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "New Defense Minister Hires Ukraine Top Audit Firm for Due Diligence on Army Contractors",
+        "url": "https://www.kyivpost.com/post/81698",
+        "domain": "kyivpost.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260804T131500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Pentagon Cancels $300 Million Lithium Carbonate Tender for Defense Stockpile – NaturalNews . com",
+        "url": "https://www.naturalnews.com/2026-08-05-pentagon-cancels-lithium-carbonate-tender-defense-stockpile.html",
+        "domain": "naturalnews.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260806T023000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Дефіцит зброї у США - Пентагон дав оборонним компаніям 21 день на план дій",
+        "url": "https://24tv.ua/geopolitics/defitsit-zbroyi-ssha-pentagon-dav-oboronnim-kompaniyam-21-den_n3120167",
+        "domain": "24tv.ua",
+        "language": "Ukrainian",
+        "tone": 0,
+        "seendate": "20260809T084500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美国防部将中企列入  黑名单 ， 被美联邦法院驳回",
+        "url": "https://www.wenxuecity.com/news/2026/08/08/126735621.html",
+        "domain": "wenxuecity.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260808T190000Z",
+        "source": "GDELT"
+      },
+      {
         "title": "Bežično prenošenje energije moglo bi omogućiti vojnim dronovima duži let i manje zamjena baterija",
         "url": "https://www.klix.ba/scitech/tehnologija/bezicno-prenosenje-energije-moglo-bi-omoguciti-vojnim-dronovima-duzi-let-i-manje-zamjena-baterija/260805070",
         "domain": "klix.ba",
         "language": "Bosnian",
         "tone": 0,
         "seendate": "20260805T111500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美军最大AI供应商公布炸裂业绩 ， 算法战争  进入现实 ？_ 新浪财经 _ 新浪网",
+        "url": "https://finance.sina.com.cn/roll/2026-08-04/doc-inimcxxc4029865.shtml",
+        "domain": "finance.sina.com.cn",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260804T084500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Кремль усиливает мобилизационную готовность - разведка",
+        "url": "https://korrespondent.net/ukraine/4899985-kreml-usylyvaet-mobylyzatsyonnuui-hotovnost-razvedka",
+        "domain": "korrespondent.net",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260804T211500Z",
         "source": "GDELT"
       },
       {
@@ -70,6 +297,24 @@
         "source": "GDELT"
       },
       {
+        "title": "Звільнення від ПДВ в оборонних контрактах - роз  яснення консультації Мінфіну",
+        "url": "https://www.rbc.ua/rus/news/pdv-oboronnih-kontraktah-shcho-potribno-pereviriti-1786012164.html",
+        "domain": "rbc.ua",
+        "language": "Ukrainian",
+        "tone": 0,
+        "seendate": "20260806T130000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Radu Miruță explică toate comenzile prin SAFE : Nu cumpărăm de pe raftul altor țări",
+        "url": "https://www.stiripesurse.ro/radu-miruta-explica-toate-comenzile-prin-safe-nu-cumparam-de-pe-raftul-altor-tari_3910975",
+        "domain": "stiripesurse.ro",
+        "language": "Romanian",
+        "tone": 0,
+        "seendate": "20260810T174500Z",
+        "source": "GDELT"
+      },
+      {
         "title": "美军陷入喷气式发动机生产困境 ， 印度也成受害者 供应链问题凸显 _ 军事频道 _ 中华网",
         "url": "https://military.china.com/news/13004177/20260805/49654645.html",
         "domain": "military.china.com",
@@ -79,12 +324,129 @@
         "source": "GDELT"
       },
       {
+        "title": "Pentagon Approves Advanced Smart Missile Production | Boeing",
+        "url": "https://www.americanmachinist.com:443/news/news/55396423/pentagon-approves-advanced-smart-missile-production-boeing",
+        "domain": "americanmachinist.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260807T053000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Italian court forces airport to ditch Israeli defense maker",
+        "url": "https://www.jns.org/news/world/italian-court-forces-airport-to-ditch-israeli-defense-maker",
+        "domain": "jns.org",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260809T111500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Жінки в ЗСУ 2026 : статистика , посади та історії",
+        "url": "https://mignews.com.ua/blogs/zhinky-v-zsu-2026-statystyka-boiovi-posady-istorii.html",
+        "domain": "mignews.com.ua",
+        "language": "Ukrainian",
+        "tone": 0,
+        "seendate": "20260804T184500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Турция , Саудовская Аравия и Пакистан заключили трехсторонний оборонный пакт",
+        "url": "https://profile.ru/news/abroad/turciya-saudovskaya-araviya-i-pakistan-zakljuchili-trehstoronnij-oboronnyj-pakt-1888637/",
+        "domain": "profile.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260807T134500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "未来重大战场突破 ？ 美军激光武器迈向实战",
+        "url": "https://www.epochtimes.com/gb/26/8/6/n14824899.htm",
+        "domain": "epochtimes.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260808T194500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Rocket Lab Just Won Another Massive Government Contract",
+        "url": "https://www.fool.com/investing/2026/08/06/rocket-lab-wins-another-massive-government-contract/?source=iedfolrf0000001",
+        "domain": "fool.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260806T201500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Пока не утихают слухи о нехватке оружия у США , WP раздобыл любопытный документ Пентагона",
+        "url": "https://www.9tv.co.il/item/257743",
+        "domain": "9tv.co.il",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260810T053000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ослепленный « Сокол »: Дублин отказался от израильской системы для своего борта №1",
+        "url": "https://news.israelinfo.co.il/146633",
+        "domain": "news.israelinfo.co.il",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260804T154500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Рост цен сократит поставки ракет Patriot Пентагону в 2027 году",
+        "url": "https://news.mail.ru/politics/71933570/",
+        "domain": "news.mail.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260810T013000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "  İsrailden Türkiye itirafı : F - 35 ve KAAN ABDye baskı yapıyoruz . ",
+        "url": "https://www.yeniakit.com.tr/haber/israilden-turkiye-itirafi-f-35-ve-kaan-abdye-baski-yapiyoruz-2016523.html",
+        "domain": "yeniakit.com.tr",
+        "language": "Turkish",
+        "tone": 0,
+        "seendate": "20260808T211500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Armata Română cumpără mașini de teren prin Programul Rabla . Licitație de peste 584 . 000 de lei pentru cinci vehicule",
+        "url": "https://business24.ro/rabla/armata-romana-masini-teren-1663493",
+        "domain": "business24.ro",
+        "language": "Romanian",
+        "tone": 0,
+        "seendate": "20260807T173000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Opinion - Will the Pentagon prioritize munitions when the Iran conflict ends ? ",
+        "url": "https://www.yahoo.com/news/politics/articles/opinion-pentagon-prioritize-munitions-iran-143000772.html",
+        "domain": "yahoo.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260807T174500Z",
+        "source": "GDELT"
+      },
+      {
         "title": "Állítsuk meg a korrupciót : Nem túlárazott , színvonalas és transzparens módon épített kórházakat akarunk ! ",
         "url": "https://www.bumm.sk/2026/08/05/allitsuk-meg-a-korrupciot-nem-tularazott-szinvonalas-es-transzparens-modon-epitett-korhazakat-akarunk",
         "domain": "bumm.sk",
         "language": "Hungarian",
         "tone": 0,
         "seendate": "20260805T141500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Pirmais Latvijas privātās un publiskās partnerības projekts aizsardzības jomā ; Lietuva rāda piemēru",
+        "url": "https://www.delfi.lv/bizness/37293360/bankas_un_finanses/120129523/pirmais-latvijas-privatas-un-publiskas-partneribas-projekts-aizsardzibas-joma-lietuva-rada-piemeru",
+        "domain": "delfi.lv",
+        "language": "Latvian",
+        "tone": 0,
+        "seendate": "20260808T121500Z",
         "source": "GDELT"
       },
       {
@@ -106,156 +468,21 @@
         "source": "GDELT"
       },
       {
-        "title": "Irish Government Removes Israeli - Made Navigation System From €53 Million State Jet in Latest Move Targeting Israel",
-        "url": "https://www.algemeiner.com/2026/08/04/irish-government-removes-israeli-made-navigation-system-from-e53-million-state-jet-in-latest-move-targeting-israel/",
-        "domain": "algemeiner.com",
+        "title": "Indonesia M - 346F deal supports crewed - uncrewed teaming , says GlobalData",
+        "url": "https://www.airforce-technology.com/news/indonesia-m346f-deal-globaldata/",
+        "domain": "airforce-technology.com",
         "language": "English",
         "tone": 0,
-        "seendate": "20260805T000000Z",
+        "seendate": "20260804T170000Z",
         "source": "GDELT"
       },
       {
-        "title": "Optex Systems Holdings Announces Third Quarter Earnings Call",
-        "url": "https://www.pr-inside.com/optex-systems-holdings-announces-third-quarter-earnings-call-r5208740.htm",
-        "domain": "pr-inside.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T144500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Optex Systems Holdings , Inc .: Optex Systems Holdings Announces Third Quarter Earnings Call",
-        "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69225956-optex-systems-holdings-inc-optex-systems-holdings-announces-third-quarter-earnings-call-200.htm",
-        "domain": "finanznachrichten.de",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T144500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Allison Transmission Q2 Earnings Call Highlights",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/allison-transmission-q2-earnings-call-230350677.html",
-        "domain": "finance.yahoo.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T093000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  Сапсан  на 500 кілометрів : що відомо про балістику , яку показали на параді ще у 2018 - му",
-        "url": "https://kontrakty.ua/article/294660",
-        "domain": "kontrakty.ua",
-        "language": "Ukrainian",
-        "tone": 0,
-        "seendate": "20260805T084500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Тихий океан примеряет новое оружие : итоги RIMPAC , пуск  Томагавка  и корабль - невидимка",
-        "url": "https://primamedia.ru/news/2580269/",
-        "domain": "primamedia.ru",
+        "title": "Армия Швейцарии не готова к войне , показал отчет",
+        "url": "https://news.mail.ru/politics/71906311/",
+        "domain": "news.mail.ru",
         "language": "Russian",
         "tone": 0,
-        "seendate": "20260805T040000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Fighter Deal Opens Path to Drone Teaming",
-        "url": "https://www.halldale.com/defence/fighter-deal-opens-path-to-drone-teaming",
-        "domain": "halldale.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T004500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Optex Systems Holdings Announces Third Quarter Earnings Call",
-        "url": "http://www.tennesseedaily.com/news/279223582/optex-systems-holdings-announces-third-quarter-earnings-call",
-        "domain": "tennesseedaily.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T144500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Optex Systems Holdings Announces Third Quarter Earnings Call",
-        "url": "http://www.californiatelegraph.com/news/279223582/optex-systems-holdings-announces-third-quarter-earnings-call",
-        "domain": "californiatelegraph.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T183000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Leidos ( LDOS ) Q2 2026 Earnings Call Transcript",
-        "url": "https://www.fool.com/earnings/call-transcripts/2026/08/04/leidos-ldos-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
-        "domain": "fool.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T061500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Європа надто залежить від Palantir . Власної цифрової альтернативи вона поки не має – Politico",
-        "url": "https://ipress.ua/articles/yevropa_nadto_zalezhyt_vid_palantir_vlasnoi_tsyfrovoi_alternatyvy_vona_poky_ne_maie__politico_388730.html",
-        "domain": "ipress.ua",
-        "language": "Ukrainian",
-        "tone": 0,
-        "seendate": "20260805T094500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Korean Peninsula Update , August 4 , 2026",
-        "url": "https://www.aei.org/commentary/korean-peninsula-update-august-4-2026/",
-        "domain": "aei.org",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260804T230000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "晚报丨特朗普扬言  猛烈打击  后 ， 伊朗称霍尔木兹海峡不会立即开放 ； 胡塞武装称击中沙特油轮 ； 闪迪 、 西部数据财报将于美股盘后发布 ； 段永平减持泡泡玛特 ； SpaceX即将迎来美股史上最大解禁 _ 东方财富网",
-        "url": "https://finance.eastmoney.com/a/202608053832699773.html",
-        "domain": "finance.eastmoney.com",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260805T130000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Единственный путь на юг . Границы монгольского суверенитета : к чему обязывает зависимость от Китая ( Modern Diplomacy , Бельгия ) ",
-        "url": "https://inosmi.ru/20260805/mongoliya-279565479.html",
-        "domain": "inosmi.ru",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260805T150000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "聯合新聞網 ： 觸動未來新識力",
-        "url": "https://udn.com/",
-        "domain": "udn.com",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260805T053000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "One Stop Systems Q2 Earnings Call Highlights",
-        "url": "https://www.tickerreport.com/banking-finance/13531167/one-stop-systems-q2-earnings-call-highlights.html",
-        "domain": "tickerreport.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T183000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "From  Top Gun  to Ghost Bats : How AI Is Redefining the Future of Air Combat – Sri Lanka Guardian",
-        "url": "https://slguardian.org/from-top-gun-to-ghost-bats-how-ai-is-redefining-the-future-of-air-combat/",
-        "domain": "slguardian.org",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T120000Z",
+        "seendate": "20260806T230000Z",
         "source": "GDELT"
       }
     ],
@@ -270,15 +497,15 @@
       },
       {
         "currency": "AFN",
-        "rate": 65.72
+        "rate": 65.51
       },
       {
         "currency": "ALL",
-        "rate": 81.07
+        "rate": 80.66
       },
       {
         "currency": "AMD",
-        "rate": 366.47
+        "rate": 366.5
       },
       {
         "currency": "ANG",
@@ -286,11 +513,11 @@
       },
       {
         "currency": "AOA",
-        "rate": 926.54
+        "rate": 925.26
       },
       {
         "currency": "ARS",
-        "rate": 1496.45
+        "rate": 1498.09
       },
       {
         "currency": "AUD",
@@ -306,7 +533,7 @@
       },
       {
         "currency": "BAM",
-        "rate": 1.7
+        "rate": 1.69
       },
       {
         "currency": "BBD",
@@ -314,11 +541,11 @@
       },
       {
         "currency": "BDT",
-        "rate": 123.71
+        "rate": 123.59
       },
       {
         "currency": "BGN",
-        "rate": 1.7
+        "rate": 1.69
       },
       {
         "currency": "BHD",
@@ -326,7 +553,7 @@
       },
       {
         "currency": "BIF",
-        "rate": 2991.62
+        "rate": 2991.46
       },
       {
         "currency": "BMD",
@@ -338,229 +565,12 @@
       },
       {
         "currency": "BOB",
-        "rate": 12.17
+        "rate": 11.96
       }
     ]
   },
-  "entities": [
-    {
-      "id": 1,
-      "name": "新闻蒸馏器丨萨德拦截弹消耗八成高端导弹库存告急 ， 美军全球威慑受限",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260805T091500Z",
-      "source": "baijiahao.baidu.com"
-    },
-    {
-      "id": 2,
-      "name": " 「 百億軍服標案 」 兩度失靈 投書呼籲 ： 國防部不能只靠罰錢卸責 | 唐可欣 | 風生活",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260805T091500Z",
-      "source": "storm.mg"
-    },
-    {
-      "id": 3,
-      "name": "Bežično prenošenje energije moglo bi omogućiti vojnim dronov",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260805T111500Z",
-      "source": "klix.ba"
-    },
-    {
-      "id": 4,
-      "name": "特朗普支持自建关键矿产供应链 美军工巨头与北美矿企洽谈长协 _ 东方财富网",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260805T031500Z",
-      "source": "finance.eastmoney.com"
-    },
-    {
-      "id": 5,
-      "name": "美军陷入喷气式发动机生产困境 ， 印度也成受害者 供应链问题凸显 _ 军事频道 _ 中华网",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260805T044500Z",
-      "source": "military.china.com"
-    },
-    {
-      "id": 6,
-      "name": "Állítsuk meg a korrupciót : Nem túlárazott , színvonalas és ",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260805T141500Z",
-      "source": "bumm.sk"
-    },
-    {
-      "id": 7,
-      "name": "现场没有一家中企出现 ， 五角大楼被迫取消碳酸锂招标 ， 白宫这下傻眼了 ！ ",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260805T130000Z",
-      "source": "vava8.com"
-    },
-    {
-      "id": 8,
-      "name": " « Никчемные разговоры »: с кем на самом деле спорит мэр Мос",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260805T213000Z",
-      "source": "bfm.ru"
-    },
-    {
-      "id": 9,
-      "name": "Irish Government Removes Israeli - Made Navigation System Fr",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260805T000000Z",
-      "source": "algemeiner.com"
-    },
-    {
-      "id": 10,
-      "name": "Optex Systems Holdings Announces Third Quarter Earnings Call",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260805T144500Z",
-      "source": "pr-inside.com"
-    }
-  ],
-  "events": [
-    {
-      "title": "新闻蒸馏器丨萨德拦截弹消耗八成高端导弹库存告急 ， 美军全球威慑受限",
-      "url": "https://baijiahao.baidu.com/s?id=1872658534535130645",
-      "domain": "baijiahao.baidu.com",
-      "language": "Chinese",
-      "tone": 0,
-      "seendate": "20260805T091500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": " 「 百億軍服標案 」 兩度失靈 投書呼籲 ： 國防部不能只靠罰錢卸責 | 唐可欣 | 風生活",
-      "url": "https://www.storm.mg/lifestyle/11154230",
-      "domain": "storm.mg",
-      "language": "Chinese",
-      "tone": 0,
-      "seendate": "20260805T091500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Bežično prenošenje energije moglo bi omogućiti vojnim dronovima duži let i manje zamjena baterija",
-      "url": "https://www.klix.ba/scitech/tehnologija/bezicno-prenosenje-energije-moglo-bi-omoguciti-vojnim-dronovima-duzi-let-i-manje-zamjena-baterija/260805070",
-      "domain": "klix.ba",
-      "language": "Bosnian",
-      "tone": 0,
-      "seendate": "20260805T111500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "特朗普支持自建关键矿产供应链 美军工巨头与北美矿企洽谈长协 _ 东方财富网",
-      "url": "https://finance.eastmoney.com/a/202608053832304898.html",
-      "domain": "finance.eastmoney.com",
-      "language": "Chinese",
-      "tone": 0,
-      "seendate": "20260805T031500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "美军陷入喷气式发动机生产困境 ， 印度也成受害者 供应链问题凸显 _ 军事频道 _ 中华网",
-      "url": "https://military.china.com/news/13004177/20260805/49654645.html",
-      "domain": "military.china.com",
-      "language": "Chinese",
-      "tone": 0,
-      "seendate": "20260805T044500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Állítsuk meg a korrupciót : Nem túlárazott , színvonalas és transzparens módon épített kórházakat akarunk ! ",
-      "url": "https://www.bumm.sk/2026/08/05/allitsuk-meg-a-korrupciot-nem-tularazott-szinvonalas-es-transzparens-modon-epitett-korhazakat-akarunk",
-      "domain": "bumm.sk",
-      "language": "Hungarian",
-      "tone": 0,
-      "seendate": "20260805T141500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "现场没有一家中企出现 ， 五角大楼被迫取消碳酸锂招标 ， 白宫这下傻眼了 ！ ",
-      "url": "https://www.vava8.com/index.php?app=index&act=view&id=122814",
-      "domain": "vava8.com",
-      "language": "Chinese",
-      "tone": 0,
-      "seendate": "20260805T130000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": " « Никчемные разговоры »: с кем на самом деле спорит мэр Москвы . Комментарий Георгия Бовта",
-      "url": "https://www.bfm.ru/news/614268",
-      "domain": "bfm.ru",
-      "language": "Russian",
-      "tone": 0,
-      "seendate": "20260805T213000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Irish Government Removes Israeli - Made Navigation System From €53 Million State Jet in Latest Move Targeting Israel",
-      "url": "https://www.algemeiner.com/2026/08/04/irish-government-removes-israeli-made-navigation-system-from-e53-million-state-jet-in-latest-move-targeting-israel/",
-      "domain": "algemeiner.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260805T000000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Optex Systems Holdings Announces Third Quarter Earnings Call",
-      "url": "https://www.pr-inside.com/optex-systems-holdings-announces-third-quarter-earnings-call-r5208740.htm",
-      "domain": "pr-inside.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260805T144500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Optex Systems Holdings , Inc .: Optex Systems Holdings Announces Third Quarter Earnings Call",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69225956-optex-systems-holdings-inc-optex-systems-holdings-announces-third-quarter-earnings-call-200.htm",
-      "domain": "finanznachrichten.de",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260805T144500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Allison Transmission Q2 Earnings Call Highlights",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/allison-transmission-q2-earnings-call-230350677.html",
-      "domain": "finance.yahoo.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260805T093000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "  Сапсан  на 500 кілометрів : що відомо про балістику , яку показали на параді ще у 2018 - му",
-      "url": "https://kontrakty.ua/article/294660",
-      "domain": "kontrakty.ua",
-      "language": "Ukrainian",
-      "tone": 0,
-      "seendate": "20260805T084500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Тихий океан примеряет новое оружие : итоги RIMPAC , пуск  Томагавка  и корабль - невидимка",
-      "url": "https://primamedia.ru/news/2580269/",
-      "domain": "primamedia.ru",
-      "language": "Russian",
-      "tone": 0,
-      "seendate": "20260805T040000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Fighter Deal Opens Path to Drone Teaming",
-      "url": "https://www.halldale.com/defence/fighter-deal-opens-path-to-drone-teaming",
-      "domain": "halldale.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260805T004500Z",
-      "source": "GDELT"
-    }
-  ],
+  "entities": [],
+  "events": [],
   "timeseries": [],
-  "llm_summary": "**Brief – Defense‑Procurement Intelligence (2026‑08‑05)**  \n1. Germany has recently secured a multi‑million‑dollar contract for high‑end guided munitions, signalling a continued focus on advanced precision weapons that may shift European procurement balances toward German‑made systems.  \n2. U.S. defense procurement remains globally expansive, but recent reports highlight supply‑chain bottlenecks—particularly in North American components—raising concerns about the resilience of U.S.‑based production lines.  \n3. China is actively reinforcing its domestic key‑component supply chain, with state‑owned firms stepping in to supply critical parts for U.S.‑origin defense equipment, a move that could reduce reliance on foreign suppliers and mitigate export‑control risks.  \n4. A breakthrough in wireless power transfer for military drones, reported by Bosnian media, could extend operational endurance and reduce logistical burdens, prompting U.S. and allied forces to accelerate trials of this technology.  \n\n*Currency fluctuations (exchange_rates) are currently modest, but any sharp Euro or Yuan depreciation could alter the cost dynamics of these procurement deals.*"
+  "llm_summary": "Pending API key..."
 }
