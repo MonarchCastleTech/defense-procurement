@@ -1,11 +1,10 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-11T03:21:06.023635+00:00",
+    "generated": "2026-08-11T07:47:20.772633+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
-      "defense_news",
       "exchange_rates"
     ],
     "version": "1.0.0"
@@ -33,35 +32,7 @@
     }
   ],
   "live_data": {
-    "gdelt_articles": [],
-    "defense_news": [
-      {
-        "title": "新闻蒸馏器丨萨德拦截弹消耗八成高端导弹库存告急 ， 美军全球威慑受限",
-        "url": "https://baijiahao.baidu.com/s?id=1872658534535130645",
-        "domain": "baijiahao.baidu.com",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260805T091500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": " 「 百億軍服標案 」 兩度失靈 投書呼籲 ： 國防部不能只靠罰錢卸責 | 唐可欣 | 風生活",
-        "url": "https://www.storm.mg/lifestyle/11154230",
-        "domain": "storm.mg",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260805T091500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Italy removes Israeli companies , including Rafael , from counter - drone project",
-        "url": "https://www.jpost.com/defense-and-tech/article-904752",
-        "domain": "jpost.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260806T110000Z",
-        "source": "GDELT"
-      },
+    "gdelt_articles": [
       {
         "title": "DOGE said it saved $1 . 7 billion by terminating a military health IT contract . GAO found the contract was never terminated . ",
         "url": "https://www.militarytimes.com/news/pentagon-congress/2026/08/10/doge-said-it-saved-17-billion-by-terminating-a-military-health-it-contract-gao-found-the-contract-was-never-terminated/",
@@ -81,231 +52,6 @@
         "source": "GDELT"
       },
       {
-        "title": "A California company is about to arm US forces with a drone - killing machine nobody talking about",
-        "url": "https://www.techradar.com/pro/pentagon-signs-usd500-million-deal-for-unmanned-counter-drone-missile-systems-promising-decisive-advantage",
-        "domain": "techradar.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260808T000000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Італія готує молодих хакерів для участі у новітніх війнах",
-        "url": "http://internetua.com/italiya-gotuye-molodih-hakeriv-dlya-ucsasti-u-novitnih-viinah",
-        "domain": "internetua.com",
-        "language": "Ukrainian",
-        "tone": 0,
-        "seendate": "20260809T130000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Армия Швейцарии не готова к войне , показал отчет",
-        "url": "https://ria.ru/20260807/armija-2109468856.html",
-        "domain": "ria.ru",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260806T230000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "五角大楼斥巨资采激光武器推进  金穹  防空",
-        "url": "https://www.zaobao.com.sg/news/world/story20260808-9491372",
-        "domain": "zaobao.com.sg",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260808T120000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "中共军工腐败再曝光 高官涉贪判刑",
-        "url": "https://www.renminbao.com/rmb/articles/2026/8/7/96163.html",
-        "domain": "renminbao.com",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260807T051500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Contracts for Aug . 7 , 2026",
-        "url": "https://www.globalsecurity.org/military/library/news/2026/08/dod-contracts_4566629.htm",
-        "domain": "globalsecurity.org",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260808T133000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Війна : Закупівлі води для армії затримуються через кадрові зміни в Міноборони - ЗМІ",
-        "url": "https://gazeta.ua/articles/life/_zakupivli-vodi-dlya-armiyi-zatrimuyutsya-cherez-kadrovi-zmini-v-minoboroni-zmi/1256196",
-        "domain": "gazeta.ua",
-        "language": "Ukrainian",
-        "tone": 0,
-        "seendate": "20260807T193000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "У ЗСУ можуть початись перебої з постачанням води після зміни міністра оборони | Новини України",
-        "url": "https://news.liga.net/ua/war/news/minoborony-pereyshlo-u-rezhym-tyshi-spovilnylos-navit-postachannia-vody-zsu-dzherela",
-        "domain": "news.liga.net",
-        "language": "Ukrainian",
-        "tone": 0,
-        "seendate": "20260807T173000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "美打伊朗爆彈藥告急 ！ 下令軍工業者21天提加速武器生產計畫 | ETtoday國際新聞",
-        "url": "https://www.ettoday.net/news/20260809/3215934.htm",
-        "domain": "ettoday.net",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260809T034500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Telesat Lightspeed Wins $1 . 64B Deal to Fix Arctic Decades - Long Satellite Gap for Canada",
-        "url": "https://www.techtimes.com/articles/323400/20260806/telesat-lightspeed-wins-164b-deal-fix-arctics-decades-long-satellite-gap-canada.htm",
-        "domain": "techtimes.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260806T234500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Italian court forces airport to ditch Israeli defense maker",
-        "url": "https://www.clevelandjewishnews.com/jns/italian-court-forces-airport-to-ditch-israeli-defense-maker/article_5c56dd87-345d-5ea4-95c6-80ee9d8c2c8c.html",
-        "domain": "clevelandjewishnews.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260809T110000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "В Италии суд распорядился демонтировать израильскую систему защиты от дронов | MigNews - Новости Израиля и Мира на русском языке",
-        "url": "https://mignews.com/news/politic/v-italii-sud-rasporyadilsya-demontirovat-izrailskuyu-sistemu-zashity-ot-dronov.html",
-        "domain": "mignews.com",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260809T194500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "В Италии суд распорядился демонтировать израильскую систему защиты от дронов | MigNews - Новости Израиля и Мира на русском языке",
-        "url": "http://mignews.com/news/politic/v-italii-sud-rasporyadilsya-demontirovat-izrailskuyu-sistemu-zashity-ot-dronov.html",
-        "domain": "mignews.com",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260809T194500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "В ВСУ могут начаться перебои с поставками воды после смены министра обороны | Новости Украины",
-        "url": "https://news.liga.net/war/news/minoborony-pereshlo-v-rezhim-tishiny-zamedlilos-dazhe-snabzhenie-vsu-vodoi-istochniki",
-        "domain": "news.liga.net",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260807T173000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "美国防部将中企列  黑名单 ， 被美法院驳回 _ 凤凰网",
-        "url": "https://news.ifeng.com/c/8vQWcxetEAc",
-        "domain": "news.ifeng.com",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260808T110000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Секрет раскрыт : вот где в Европе начнут производить израильские дроны",
-        "url": "https://www.9tv.co.il/item/257712",
-        "domain": "9tv.co.il",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260809T110000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "New Defense Minister Hires Ukraine Top Audit Firm for Due Diligence on Army Contractors",
-        "url": "https://www.kyivpost.com/post/81698",
-        "domain": "kyivpost.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260804T131500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Pentagon Cancels $300 Million Lithium Carbonate Tender for Defense Stockpile – NaturalNews . com",
-        "url": "https://www.naturalnews.com/2026-08-05-pentagon-cancels-lithium-carbonate-tender-defense-stockpile.html",
-        "domain": "naturalnews.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260806T023000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Дефіцит зброї у США - Пентагон дав оборонним компаніям 21 день на план дій",
-        "url": "https://24tv.ua/geopolitics/defitsit-zbroyi-ssha-pentagon-dav-oboronnim-kompaniyam-21-den_n3120167",
-        "domain": "24tv.ua",
-        "language": "Ukrainian",
-        "tone": 0,
-        "seendate": "20260809T084500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "美国防部将中企列入  黑名单 ， 被美联邦法院驳回",
-        "url": "https://www.wenxuecity.com/news/2026/08/08/126735621.html",
-        "domain": "wenxuecity.com",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260808T190000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Bežično prenošenje energije moglo bi omogućiti vojnim dronovima duži let i manje zamjena baterija",
-        "url": "https://www.klix.ba/scitech/tehnologija/bezicno-prenosenje-energije-moglo-bi-omoguciti-vojnim-dronovima-duzi-let-i-manje-zamjena-baterija/260805070",
-        "domain": "klix.ba",
-        "language": "Bosnian",
-        "tone": 0,
-        "seendate": "20260805T111500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "美军最大AI供应商公布炸裂业绩 ， 算法战争  进入现实 ？_ 新浪财经 _ 新浪网",
-        "url": "https://finance.sina.com.cn/roll/2026-08-04/doc-inimcxxc4029865.shtml",
-        "domain": "finance.sina.com.cn",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260804T084500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Кремль усиливает мобилизационную готовность - разведка",
-        "url": "https://korrespondent.net/ukraine/4899985-kreml-usylyvaet-mobylyzatsyonnuui-hotovnost-razvedka",
-        "domain": "korrespondent.net",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260804T211500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "特朗普支持自建关键矿产供应链 美军工巨头与北美矿企洽谈长协 _ 东方财富网",
-        "url": "https://finance.eastmoney.com/a/202608053832304898.html",
-        "domain": "finance.eastmoney.com",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260805T031500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Звільнення від ПДВ в оборонних контрактах - роз  яснення консультації Мінфіну",
-        "url": "https://www.rbc.ua/rus/news/pdv-oboronnih-kontraktah-shcho-potribno-pereviriti-1786012164.html",
-        "domain": "rbc.ua",
-        "language": "Ukrainian",
-        "tone": 0,
-        "seendate": "20260806T130000Z",
-        "source": "GDELT"
-      },
-      {
         "title": "Radu Miruță explică toate comenzile prin SAFE : Nu cumpărăm de pe raftul altor țări",
         "url": "https://www.stiripesurse.ro/radu-miruta-explica-toate-comenzile-prin-safe-nu-cumparam-de-pe-raftul-altor-tari_3910975",
         "domain": "stiripesurse.ro",
@@ -315,174 +61,282 @@
         "source": "GDELT"
       },
       {
-        "title": "美军陷入喷气式发动机生产困境 ， 印度也成受害者 供应链问题凸显 _ 军事频道 _ 中华网",
-        "url": "https://military.china.com/news/13004177/20260805/49654645.html",
-        "domain": "military.china.com",
+        "title": "英無人艇用中國零件爆資安疑慮 攝影機竟向中國傳數據",
+        "url": "https://def.ltn.com.tw/article/breakingnews/5535493",
+        "domain": "def.ltn.com.tw",
         "language": "Chinese",
         "tone": 0,
-        "seendate": "20260805T044500Z",
+        "seendate": "20260811T030000Z",
         "source": "GDELT"
       },
       {
-        "title": "Pentagon Approves Advanced Smart Missile Production | Boeing",
-        "url": "https://www.americanmachinist.com:443/news/news/55396423/pentagon-approves-advanced-smart-missile-production-boeing",
-        "domain": "americanmachinist.com",
+        "title": "One Microwave Burst , Dozens of Drones Down : Marines Fund Fiber - Optic Defeat System",
+        "url": "https://www.techtimes.com/articles/323754/20260810/one-microwave-burst-dozens-drones-down-marines-fund-fiber-optic-defeat-system.htm",
+        "domain": "techtimes.com",
         "language": "English",
         "tone": 0,
-        "seendate": "20260807T053000Z",
+        "seendate": "20260810T170000Z",
         "source": "GDELT"
       },
       {
-        "title": "Italian court forces airport to ditch Israeli defense maker",
-        "url": "https://www.jns.org/news/world/italian-court-forces-airport-to-ditch-israeli-defense-maker",
-        "domain": "jns.org",
+        "title": "NDAA - Certified Royal Navy Cameras Sent Signals to China for Five Months",
+        "url": "https://www.techtimes.com/articles/323757/20260810/ndaa-certified-royal-navy-cameras-sent-signals-china-five-months.htm",
+        "domain": "techtimes.com",
         "language": "English",
         "tone": 0,
-        "seendate": "20260809T111500Z",
+        "seendate": "20260810T170000Z",
         "source": "GDELT"
       },
       {
-        "title": "Жінки в ЗСУ 2026 : статистика , посади та історії",
-        "url": "https://mignews.com.ua/blogs/zhinky-v-zsu-2026-statystyka-boiovi-posady-istorii.html",
-        "domain": "mignews.com.ua",
-        "language": "Ukrainian",
-        "tone": 0,
-        "seendate": "20260804T184500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Турция , Саудовская Аравия и Пакистан заключили трехсторонний оборонный пакт",
-        "url": "https://profile.ru/news/abroad/turciya-saudovskaya-araviya-i-pakistan-zakljuchili-trehstoronnij-oboronnyj-pakt-1888637/",
-        "domain": "profile.ru",
+        "title": "КНДР , Россия , Мали … и США . Париж записал Америку в изгои , а Европа хоронит НАТО - Наша аналитика",
+        "url": "https://haqqin.az/newsarchive/390513",
+        "domain": "haqqin.az",
         "language": "Russian",
         "tone": 0,
-        "seendate": "20260807T134500Z",
+        "seendate": "20260811T003000Z",
         "source": "GDELT"
       },
       {
-        "title": "未来重大战场突破 ？ 美军激光武器迈向实战",
-        "url": "https://www.epochtimes.com/gb/26/8/6/n14824899.htm",
-        "domain": "epochtimes.com",
+        "title": "Carahsoft Accelerates Autonomous Technology Through Industry - Leading Autonomy and Robotics Events for Government in 2026",
+        "url": "https://www.manilatimes.net/2026/08/11/tmt-newswire/globenewswire/carahsoft-accelerates-autonomous-technology-through-industry-leading-autonomy-and-robotics-events-for-government-in-2026/2402288",
+        "domain": "manilatimes.net",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260810T164500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "苹果也得排队 ？ 库克这次硬头皮  求  长鑫 _ 凤凰网",
+        "url": "https://tech.ifeng.com/c/8vU2mwDppnP",
+        "domain": "tech.ifeng.com",
         "language": "Chinese",
         "tone": 0,
-        "seendate": "20260808T194500Z",
+        "seendate": "20260810T233000Z",
         "source": "GDELT"
       },
       {
-        "title": "Rocket Lab Just Won Another Massive Government Contract",
-        "url": "https://www.fool.com/investing/2026/08/06/rocket-lab-wins-another-massive-government-contract/?source=iedfolrf0000001",
-        "domain": "fool.com",
+        "title": "UN continued awarding millions in Syria contracts to firms with Assad - era links after regime",
+        "url": "https://weeklyblitz.net/2026/08/11/un-continued-awarding-millions-in-syria-contracts-to-firms-with-assad-era-links-after-regime/",
+        "domain": "weeklyblitz.net",
         "language": "English",
         "tone": 0,
-        "seendate": "20260806T201500Z",
+        "seendate": "20260810T233000Z",
         "source": "GDELT"
       },
       {
-        "title": "Пока не утихают слухи о нехватке оружия у США , WP раздобыл любопытный документ Пентагона",
-        "url": "https://www.9tv.co.il/item/257743",
-        "domain": "9tv.co.il",
+        "title": "Сводка событий в Иране и странах Ближнего Востока за 9 августа 2026 г . ",
+        "url": "https://anna-news.info/svodka-sobytij-v-irane-i-stranah-blizhnego-vostoka-za-9-avgusta-2026-g/",
+        "domain": "anna-news.info",
         "language": "Russian",
         "tone": 0,
-        "seendate": "20260810T053000Z",
+        "seendate": "20260810T093000Z",
         "source": "GDELT"
       },
       {
-        "title": "Ослепленный « Сокол »: Дублин отказался от израильской системы для своего борта №1",
-        "url": "https://news.israelinfo.co.il/146633",
-        "domain": "news.israelinfo.co.il",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260804T154500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Рост цен сократит поставки ракет Patriot Пентагону в 2027 году",
-        "url": "https://news.mail.ru/politics/71933570/",
-        "domain": "news.mail.ru",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260810T013000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  İsrailden Türkiye itirafı : F - 35 ve KAAN ABDye baskı yapıyoruz . ",
-        "url": "https://www.yeniakit.com.tr/haber/israilden-turkiye-itirafi-f-35-ve-kaan-abdye-baski-yapiyoruz-2016523.html",
-        "domain": "yeniakit.com.tr",
-        "language": "Turkish",
-        "tone": 0,
-        "seendate": "20260808T211500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Armata Română cumpără mașini de teren prin Programul Rabla . Licitație de peste 584 . 000 de lei pentru cinci vehicule",
-        "url": "https://business24.ro/rabla/armata-romana-masini-teren-1663493",
-        "domain": "business24.ro",
-        "language": "Romanian",
-        "tone": 0,
-        "seendate": "20260807T173000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Opinion - Will the Pentagon prioritize munitions when the Iran conflict ends ? ",
-        "url": "https://www.yahoo.com/news/politics/articles/opinion-pentagon-prioritize-munitions-iran-143000772.html",
-        "domain": "yahoo.com",
+        "title": "Islamic NATO is a Turkish power play",
+        "url": "http://www.laosnews.net/news/279231839/islamic-nato-is-a-turkish-power-play",
+        "domain": "laosnews.net",
         "language": "English",
         "tone": 0,
-        "seendate": "20260807T174500Z",
+        "seendate": "20260810T204500Z",
         "source": "GDELT"
       },
       {
-        "title": "Állítsuk meg a korrupciót : Nem túlárazott , színvonalas és transzparens módon épített kórházakat akarunk ! ",
-        "url": "https://www.bumm.sk/2026/08/05/allitsuk-meg-a-korrupciot-nem-tularazott-szinvonalas-es-transzparens-modon-epitett-korhazakat-akarunk",
-        "domain": "bumm.sk",
-        "language": "Hungarian",
+        "title": "Islamic NATO is a Turkish power play",
+        "url": "http://www.nepalnational.com/news/279231839/islamic-nato-is-a-turkish-power-play",
+        "domain": "nepalnational.com",
+        "language": "English",
         "tone": 0,
-        "seendate": "20260805T141500Z",
+        "seendate": "20260810T204500Z",
         "source": "GDELT"
       },
       {
-        "title": "Pirmais Latvijas privātās un publiskās partnerības projekts aizsardzības jomā ; Lietuva rāda piemēru",
-        "url": "https://www.delfi.lv/bizness/37293360/bankas_un_finanses/120129523/pirmais-latvijas-privatas-un-publiskas-partneribas-projekts-aizsardzibas-joma-lietuva-rada-piemeru",
-        "domain": "delfi.lv",
-        "language": "Latvian",
+        "title": "Islamic NATO is a Turkish power play",
+        "url": "http://www.russiaherald.com/news/279231839/islamic-nato-is-a-turkish-power-play",
+        "domain": "russiaherald.com",
+        "language": "English",
         "tone": 0,
-        "seendate": "20260808T121500Z",
+        "seendate": "20260810T204500Z",
         "source": "GDELT"
       },
       {
-        "title": "现场没有一家中企出现 ， 五角大楼被迫取消碳酸锂招标 ， 白宫这下傻眼了 ！ ",
-        "url": "https://www.vava8.com/index.php?app=index&act=view&id=122814",
-        "domain": "vava8.com",
+        "title": "Islamic NATO is a Turkish power play",
+        "url": "http://www.heraldglobe.com/news/279231839/islamic-nato-is-a-turkish-power-play",
+        "domain": "heraldglobe.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260810T200000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Islamic NATO is a Turkish power play",
+        "url": "http://www.batonrougepost.com/news/279231839/islamic-nato-is-a-turkish-power-play",
+        "domain": "batonrougepost.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260810T211500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Islamic NATO is a Turkish power play",
+        "url": "http://www.malaysiasun.com/news/279231839/islamic-nato-is-a-turkish-power-play",
+        "domain": "malaysiasun.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260810T213000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Islamic NATO is a Turkish power play",
+        "url": "http://www.arabherald.com/news/279231839/islamic-nato-is-a-turkish-power-play",
+        "domain": "arabherald.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260810T213000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Islamic NATO is a Turkish power play",
+        "url": "http://www.vietnamtribune.com/news/279231839/islamic-nato-is-a-turkish-power-play",
+        "domain": "vietnamtribune.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260810T233000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Islamic NATO is a Turkish power play",
+        "url": "http://www.iranherald.com/news/279231839/islamic-nato-is-a-turkish-power-play",
+        "domain": "iranherald.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260810T220000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Islamic NATO is a Turkish power play",
+        "url": "http://www.myanmarnews.net/news/279231839/islamic-nato-is-a-turkish-power-play",
+        "domain": "myanmarnews.net",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260810T221500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Trkiye has its own plans for Islamic NATO",
+        "url": "http://www.southeastasiapost.com/news/279233572/trkiye-has-its-own-plans-for-islamic-nato",
+        "domain": "southeastasiapost.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260811T024500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Trkiye has its own plans for Islamic NATO",
+        "url": "http://www.israelherald.com/news/279233572/trkiye-has-its-own-plans-for-islamic-nato",
+        "domain": "israelherald.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260811T021500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Islamic NATO is a Turkish power play",
+        "url": "http://www.pakistantelegraph.com/news/279231839/islamic-nato-is-a-turkish-power-play",
+        "domain": "pakistantelegraph.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260810T223000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Trkiye has its own plans for Islamic NATO",
+        "url": "http://www.middleeaststar.com/news/279233572/trkiye-has-its-own-plans-for-islamic-nato",
+        "domain": "middleeaststar.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260811T010000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Trkiye has its own plans for Islamic NATO",
+        "url": "http://www.arabherald.com/news/279233572/trkiye-has-its-own-plans-for-islamic-nato",
+        "domain": "arabherald.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260811T014500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Trkiye has its own plans for Islamic NATO",
+        "url": "http://www.pakistantelegraph.com/news/279233572/trkiye-has-its-own-plans-for-islamic-nato",
+        "domain": "pakistantelegraph.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260811T033000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Trkiye has its own plans for Islamic NATO",
+        "url": "http://www.iraqsun.com/news/279233572/trkiye-has-its-own-plans-for-islamic-nato",
+        "domain": "iraqsun.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260811T033000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Trkiye has its own plans for Islamic NATO",
+        "url": "http://www.iranherald.com/news/279233572/trkiye-has-its-own-plans-for-islamic-nato",
+        "domain": "iranherald.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260811T030000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Trkiye has its own plans for Islamic NATO",
+        "url": "http://www.europesun.com/news/279233572/trkiye-has-its-own-plans-for-islamic-nato",
+        "domain": "europesun.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260811T053000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Draganfly Q2 Earnings Call Highlights",
+        "url": "https://www.dailypolitical.com/2026/08/10/draganfly-q2-earnings-call-highlights.html",
+        "domain": "dailypolitical.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260811T004500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Draganfly Q2 Earnings Call Highlights",
+        "url": "https://www.tickerreport.com/banking-finance/13537927/draganfly-q2-earnings-call-highlights.html",
+        "domain": "tickerreport.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260811T003000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "华尔街见闻早餐FM - Radio | 2026年8月11日",
+        "url": "https://www.163.com/dy/article/L41IV9BL05198NMR.html",
+        "domain": "163.com",
         "language": "Chinese",
         "tone": 0,
-        "seendate": "20260805T130000Z",
+        "seendate": "20260811T003000Z",
         "source": "GDELT"
       },
       {
-        "title": " « Никчемные разговоры »: с кем на самом деле спорит мэр Москвы . Комментарий Георгия Бовта",
-        "url": "https://www.bfm.ru/news/614268",
-        "domain": "bfm.ru",
-        "language": "Russian",
+        "title": "华尔街见闻早餐FM - Radio | 2026年8月11日",
+        "url": "https://wallstreetcn.com/articles/3779117",
+        "domain": "wallstreetcn.com",
+        "language": "Chinese",
         "tone": 0,
-        "seendate": "20260805T213000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Indonesia M - 346F deal supports crewed - uncrewed teaming , says GlobalData",
-        "url": "https://www.airforce-technology.com/news/indonesia-m346f-deal-globaldata/",
-        "domain": "airforce-technology.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260804T170000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Армия Швейцарии не готова к войне , показал отчет",
-        "url": "https://news.mail.ru/politics/71906311/",
-        "domain": "news.mail.ru",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260806T230000Z",
+        "seendate": "20260810T233000Z",
         "source": "GDELT"
       }
     ],
@@ -569,8 +423,225 @@
       }
     ]
   },
-  "entities": [],
-  "events": [],
+  "entities": [
+    {
+      "id": 1,
+      "name": "DOGE said it saved $1 . 7 billion by terminating a military ",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260810T223000Z",
+      "source": "militarytimes.com"
+    },
+    {
+      "id": 2,
+      "name": "DOGE said it saved $1 . 7 billion by terminating a military ",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260810T220000Z",
+      "source": "defensenews.com"
+    },
+    {
+      "id": 3,
+      "name": "Radu Miruță explică toate comenzile prin SAFE : Nu cumpărăm ",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260810T174500Z",
+      "source": "stiripesurse.ro"
+    },
+    {
+      "id": 4,
+      "name": "英無人艇用中國零件爆資安疑慮 攝影機竟向中國傳數據",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260811T030000Z",
+      "source": "def.ltn.com.tw"
+    },
+    {
+      "id": 5,
+      "name": "One Microwave Burst , Dozens of Drones Down : Marines Fund F",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260810T170000Z",
+      "source": "techtimes.com"
+    },
+    {
+      "id": 6,
+      "name": "NDAA - Certified Royal Navy Cameras Sent Signals to China fo",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260810T170000Z",
+      "source": "techtimes.com"
+    },
+    {
+      "id": 7,
+      "name": "КНДР , Россия , Мали … и США . Париж записал Америку в изгои",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260811T003000Z",
+      "source": "haqqin.az"
+    },
+    {
+      "id": 8,
+      "name": "Carahsoft Accelerates Autonomous Technology Through Industry",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260810T164500Z",
+      "source": "manilatimes.net"
+    },
+    {
+      "id": 9,
+      "name": "苹果也得排队 ？ 库克这次硬头皮  求  长鑫 _ 凤凰网",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260810T233000Z",
+      "source": "tech.ifeng.com"
+    },
+    {
+      "id": 10,
+      "name": "UN continued awarding millions in Syria contracts to firms w",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260810T233000Z",
+      "source": "weeklyblitz.net"
+    }
+  ],
+  "events": [
+    {
+      "title": "DOGE said it saved $1 . 7 billion by terminating a military health IT contract . GAO found the contract was never terminated . ",
+      "url": "https://www.militarytimes.com/news/pentagon-congress/2026/08/10/doge-said-it-saved-17-billion-by-terminating-a-military-health-it-contract-gao-found-the-contract-was-never-terminated/",
+      "domain": "militarytimes.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260810T223000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "DOGE said it saved $1 . 7 billion by terminating a military health IT contract . GAO found the contract was never terminated . ",
+      "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/10/doge-said-it-saved-17-billion-by-terminating-a-military-health-it-contract-gao-found-the-contract-was-never-terminated/",
+      "domain": "defensenews.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260810T220000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Radu Miruță explică toate comenzile prin SAFE : Nu cumpărăm de pe raftul altor țări",
+      "url": "https://www.stiripesurse.ro/radu-miruta-explica-toate-comenzile-prin-safe-nu-cumparam-de-pe-raftul-altor-tari_3910975",
+      "domain": "stiripesurse.ro",
+      "language": "Romanian",
+      "tone": 0,
+      "seendate": "20260810T174500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "英無人艇用中國零件爆資安疑慮 攝影機竟向中國傳數據",
+      "url": "https://def.ltn.com.tw/article/breakingnews/5535493",
+      "domain": "def.ltn.com.tw",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260811T030000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "One Microwave Burst , Dozens of Drones Down : Marines Fund Fiber - Optic Defeat System",
+      "url": "https://www.techtimes.com/articles/323754/20260810/one-microwave-burst-dozens-drones-down-marines-fund-fiber-optic-defeat-system.htm",
+      "domain": "techtimes.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260810T170000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "NDAA - Certified Royal Navy Cameras Sent Signals to China for Five Months",
+      "url": "https://www.techtimes.com/articles/323757/20260810/ndaa-certified-royal-navy-cameras-sent-signals-china-five-months.htm",
+      "domain": "techtimes.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260810T170000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "КНДР , Россия , Мали … и США . Париж записал Америку в изгои , а Европа хоронит НАТО - Наша аналитика",
+      "url": "https://haqqin.az/newsarchive/390513",
+      "domain": "haqqin.az",
+      "language": "Russian",
+      "tone": 0,
+      "seendate": "20260811T003000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Carahsoft Accelerates Autonomous Technology Through Industry - Leading Autonomy and Robotics Events for Government in 2026",
+      "url": "https://www.manilatimes.net/2026/08/11/tmt-newswire/globenewswire/carahsoft-accelerates-autonomous-technology-through-industry-leading-autonomy-and-robotics-events-for-government-in-2026/2402288",
+      "domain": "manilatimes.net",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260810T164500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "苹果也得排队 ？ 库克这次硬头皮  求  长鑫 _ 凤凰网",
+      "url": "https://tech.ifeng.com/c/8vU2mwDppnP",
+      "domain": "tech.ifeng.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260810T233000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "UN continued awarding millions in Syria contracts to firms with Assad - era links after regime",
+      "url": "https://weeklyblitz.net/2026/08/11/un-continued-awarding-millions-in-syria-contracts-to-firms-with-assad-era-links-after-regime/",
+      "domain": "weeklyblitz.net",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260810T233000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Сводка событий в Иране и странах Ближнего Востока за 9 августа 2026 г . ",
+      "url": "https://anna-news.info/svodka-sobytij-v-irane-i-stranah-blizhnego-vostoka-za-9-avgusta-2026-g/",
+      "domain": "anna-news.info",
+      "language": "Russian",
+      "tone": 0,
+      "seendate": "20260810T093000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Islamic NATO is a Turkish power play",
+      "url": "http://www.laosnews.net/news/279231839/islamic-nato-is-a-turkish-power-play",
+      "domain": "laosnews.net",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260810T204500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Islamic NATO is a Turkish power play",
+      "url": "http://www.nepalnational.com/news/279231839/islamic-nato-is-a-turkish-power-play",
+      "domain": "nepalnational.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260810T204500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Islamic NATO is a Turkish power play",
+      "url": "http://www.russiaherald.com/news/279231839/islamic-nato-is-a-turkish-power-play",
+      "domain": "russiaherald.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260810T204500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Islamic NATO is a Turkish power play",
+      "url": "http://www.heraldglobe.com/news/279231839/islamic-nato-is-a-turkish-power-play",
+      "domain": "heraldglobe.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260810T200000Z",
+      "source": "GDELT"
+    }
+  ],
   "timeseries": [],
   "llm_summary": "Pending API key..."
 }
