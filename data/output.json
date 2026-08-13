@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-12T19:39:33.325352+00:00",
+    "generated": "2026-08-13T03:10:34.398340+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -162,15 +162,6 @@
         "source": "GDELT"
       },
       {
-        "title": "Війна : Закупівлі води для армії затримуються через кадрові зміни в Міноборони - ЗМІ",
-        "url": "https://gazeta.ua/articles/life/_zakupivli-vodi-dlya-armiyi-zatrimuyutsya-cherez-kadrovi-zmini-v-minoboroni-zmi/1256196",
-        "domain": "gazeta.ua",
-        "language": "Ukrainian",
-        "tone": 0,
-        "seendate": "20260807T193000Z",
-        "source": "GDELT"
-      },
-      {
         "title": "美打伊朗爆彈藥告急 ！ 下令軍工業者21天提加速武器生產計畫 | ETtoday國際新聞",
         "url": "https://www.ettoday.net/news/20260809/3215934.htm",
         "domain": "ettoday.net",
@@ -180,12 +171,12 @@
         "source": "GDELT"
       },
       {
-        "title": "У ЗСУ можуть початись перебої з постачанням води після зміни міністра оборони | Новини України",
-        "url": "https://news.liga.net/ua/war/news/minoborony-pereyshlo-u-rezhym-tyshi-spovilnylos-navit-postachannia-vody-zsu-dzherela",
-        "domain": "news.liga.net",
+        "title": "Війна : Закупівлі води для армії затримуються через кадрові зміни в Міноборони - ЗМІ",
+        "url": "https://gazeta.ua/articles/life/_zakupivli-vodi-dlya-armiyi-zatrimuyutsya-cherez-kadrovi-zmini-v-minoboroni-zmi/1256196",
+        "domain": "gazeta.ua",
         "language": "Ukrainian",
         "tone": 0,
-        "seendate": "20260807T173000Z",
+        "seendate": "20260807T193000Z",
         "source": "GDELT"
       },
       {
@@ -195,6 +186,15 @@
         "language": "English",
         "tone": 0,
         "seendate": "20260809T110000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "У ЗСУ можуть початись перебої з постачанням води після зміни міністра оборони | Новини України",
+        "url": "https://news.liga.net/ua/war/news/minoborony-pereyshlo-u-rezhym-tyshi-spovilnylos-navit-postachannia-vody-zsu-dzherela",
+        "domain": "news.liga.net",
+        "language": "Ukrainian",
+        "tone": 0,
+        "seendate": "20260807T173000Z",
         "source": "GDELT"
       },
       {
@@ -225,15 +225,6 @@
         "source": "GDELT"
       },
       {
-        "title": "В ВСУ могут начаться перебои с поставками воды после смены министра обороны | Новости Украины",
-        "url": "https://news.liga.net/war/news/minoborony-pereshlo-v-rezhim-tishiny-zamedlilos-dazhe-snabzhenie-vsu-vodoi-istochniki",
-        "domain": "news.liga.net",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260807T173000Z",
-        "source": "GDELT"
-      },
-      {
         "title": "Секрет раскрыт : вот где в Европе начнут производить израильские дроны",
         "url": "https://www.9tv.co.il/item/257712",
         "domain": "9tv.co.il",
@@ -243,12 +234,12 @@
         "source": "GDELT"
       },
       {
-        "title": "美国防部将中企列  黑名单 ， 被美法院驳回 _ 凤凰网",
-        "url": "https://news.ifeng.com/c/8vQWcxetEAc",
-        "domain": "news.ifeng.com",
-        "language": "Chinese",
+        "title": "В ВСУ могут начаться перебои с поставками воды после смены министра обороны | Новости Украины",
+        "url": "https://news.liga.net/war/news/minoborony-pereshlo-v-rezhim-tishiny-zamedlilos-dazhe-snabzhenie-vsu-vodoi-istochniki",
+        "domain": "news.liga.net",
+        "language": "Russian",
         "tone": 0,
-        "seendate": "20260808T110000Z",
+        "seendate": "20260807T173000Z",
         "source": "GDELT"
       },
       {
@@ -261,12 +252,12 @@
         "source": "GDELT"
       },
       {
-        "title": "Pentagon Cancels $300 Million Lithium Carbonate Tender for Defense Stockpile – NaturalNews . com",
-        "url": "https://www.naturalnews.com/2026-08-05-pentagon-cancels-lithium-carbonate-tender-defense-stockpile.html",
-        "domain": "naturalnews.com",
-        "language": "English",
+        "title": "美国防部将中企列  黑名单 ， 被美法院驳回 _ 凤凰网",
+        "url": "https://news.ifeng.com/c/8vQWcxetEAc",
+        "domain": "news.ifeng.com",
+        "language": "Chinese",
         "tone": 0,
-        "seendate": "20260806T023000Z",
+        "seendate": "20260808T110000Z",
         "source": "GDELT"
       },
       {
@@ -297,21 +288,21 @@
         "source": "GDELT"
       },
       {
-        "title": "審計部質疑Mk54魚雷升級包沒給齊 海軍 ： 美依庫存提供 、 履約正常",
-        "url": "https://def.ltn.com.tw/article/breakingnews/5537209",
-        "domain": "def.ltn.com.tw",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260812T063000Z",
-        "source": "GDELT"
-      },
-      {
         "title": "Кипр хочет купить израильские танки , но Израиль не спешит их продавать",
         "url": "https://www.9tv.co.il/item/257840",
         "domain": "9tv.co.il",
         "language": "Russian",
         "tone": 0,
         "seendate": "20260812T091500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "審計部質疑Mk54魚雷升級包沒給齊 海軍 ： 美依庫存提供 、 履約正常",
+        "url": "https://def.ltn.com.tw/article/breakingnews/5537209",
+        "domain": "def.ltn.com.tw",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260812T063000Z",
         "source": "GDELT"
       },
       {
@@ -378,21 +369,21 @@
         "source": "GDELT"
       },
       {
-        "title": "未来重大战场突破 ？ 美军激光武器迈向实战",
-        "url": "https://www.epochtimes.com/gb/26/8/6/n14824899.htm",
-        "domain": "epochtimes.com",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260808T194500Z",
-        "source": "GDELT"
-      },
-      {
         "title": "Пока не утихают слухи о нехватке оружия у США , WP раздобыл любопытный документ Пентагона",
         "url": "https://www.9tv.co.il/item/257743",
         "domain": "9tv.co.il",
         "language": "Russian",
         "tone": 0,
         "seendate": "20260810T053000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "未来重大战场突破 ？ 美军激光武器迈向实战",
+        "url": "https://www.epochtimes.com/gb/26/8/6/n14824899.htm",
+        "domain": "epochtimes.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260808T194500Z",
         "source": "GDELT"
       },
       {
@@ -450,12 +441,21 @@
         "source": "GDELT"
       },
       {
-        "title": " « Никчемные разговоры »: с кем на самом деле спорит мэр Москвы . Комментарий Георгия Бовта",
-        "url": "https://www.bfm.ru/news/614268",
-        "domain": "bfm.ru",
-        "language": "Russian",
+        "title": "美国海军推出首艘  无人机航母 ， 美媒 ： 太迟 _ 新浪新闻",
+        "url": "https://news.sina.com.cn/w/2026-08-13/doc-ininchnw4896470.shtml",
+        "domain": "news.sina.com.cn",
+        "language": "Chinese",
         "tone": 0,
-        "seendate": "20260805T213000Z",
+        "seendate": "20260813T014500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美国海军推出首艘  无人机航母 ， 美媒 ： 太迟|加油机|舰载机|美国航母",
+        "url": "https://www.163.com/dy/article/L46NAGB50514R9OJ.html",
+        "domain": "163.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260812T233000Z",
         "source": "GDELT"
       },
       {
@@ -497,15 +497,15 @@
       },
       {
         "currency": "AFN",
-        "rate": 65.23
+        "rate": 65.11
       },
       {
         "currency": "ALL",
-        "rate": 80.6
+        "rate": 80.62
       },
       {
         "currency": "AMD",
-        "rate": 366.49
+        "rate": 366.02
       },
       {
         "currency": "ANG",
@@ -513,11 +513,11 @@
       },
       {
         "currency": "AOA",
-        "rate": 926.67
+        "rate": 923.71
       },
       {
         "currency": "ARS",
-        "rate": 1492.18
+        "rate": 1492.55
       },
       {
         "currency": "AUD",
@@ -533,7 +533,7 @@
       },
       {
         "currency": "BAM",
-        "rate": 1.69
+        "rate": 1.7
       },
       {
         "currency": "BBD",
@@ -541,11 +541,11 @@
       },
       {
         "currency": "BDT",
-        "rate": 123.53
+        "rate": 123.23
       },
       {
         "currency": "BGN",
-        "rate": 1.69
+        "rate": 1.7
       },
       {
         "currency": "BHD",
@@ -553,7 +553,7 @@
       },
       {
         "currency": "BIF",
-        "rate": 2991.59
+        "rate": 2990.55
       },
       {
         "currency": "BMD",
@@ -565,7 +565,7 @@
       },
       {
         "currency": "BOB",
-        "rate": 11.93
+        "rate": 11.87
       }
     ]
   },
