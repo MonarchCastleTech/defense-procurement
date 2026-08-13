@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 64" role="img" aria-labelledby="title desc">
+  <title id="title">Defense Procurement Intelligence</title>
+  <desc id="desc">Defense Procurement Intelligence product logo</desc>
+  <g fill="none" stroke="#2dd4bf" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M10 54h44M14 49h36M18 22h28v27H18zM14 22 32 9l18 13"/><path d="M24 29v13M32 29v13M40 29v13"/></g>
+  <text x="70" y="30" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" letter-spacing=".2">Defense</text>
+  <text x="70" y="51" fill="#2dd4bf" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" letter-spacing=".2">Procurement</text>
+</svg>
