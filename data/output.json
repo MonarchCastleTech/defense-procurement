@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-13T08:02:52.271201+00:00",
+    "generated": "2026-08-13T14:00:23.429482+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -32,7 +32,143 @@
     }
   ],
   "live_data": {
-    "gdelt_articles": [],
+    "gdelt_articles": [
+      {
+        "title": "美军正大幅提高拦截弹采购 为备战提高库存",
+        "url": "https://www.epochtimes.com/gb/26/8/12/n14828587.htm",
+        "domain": "epochtimes.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260812T161500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "沙土巴三國 「 麥加聯合防禦協議 」 將建立政治與軍事協調機制 - 政治圈",
+        "url": "https://www.chinatimes.com/realtimenews/20260813004283-260408",
+        "domain": "chinatimes.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260813T103000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "韩国回应泽连斯基求援 拒绝提供防空系统 _ 军事频道 _ 中华网",
+        "url": "https://military.china.com/news/13004177/20260813/49673065.html",
+        "domain": "military.china.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260813T080000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美国海军推出首艘  无人机航母 ， 美媒 ： 太迟 _ 新浪新闻",
+        "url": "https://news.sina.com.cn/w/2026-08-13/doc-ininchnw4896470.shtml",
+        "domain": "news.sina.com.cn",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260813T014500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美国海军推出首艘  无人机航母 ， 美媒 ： 太迟 _ 中国网",
+        "url": "http://news.china.com.cn/2026-08/13/content_118645348.shtml",
+        "domain": "news.china.com.cn",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260813T030000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美国海军推出首艘  无人机航母 ， 美媒 ： 太迟|加油机|舰载机|美国航母",
+        "url": "https://www.163.com/dy/article/L46NAGB50514R9OJ.html",
+        "domain": "163.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260812T233000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美国海军推出首艘  无人机航母 ， 美媒 ： 太迟|加油机|舰载机|美国航母",
+        "url": "https://www.163.com/dy/article/L46ULH1C05504DOQ.html",
+        "domain": "163.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260813T050000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Kampfflugzeugprojekt FCAS : Nach dem Scheitern der Zusammenarbeit mit Deutschland ist Indien bereit , sich mit Frankreich zusammenzuschließen",
+        "url": "https://www.focus.de/politik/ausland/kampfflugzeugprojekt-fcas-nach-dem-scheitern-der-zusammenarbeit-mit-deutschland-ist-indien-bereit-sich-mit-frankreich-zusammenzuschliessen_2e54ad12-5d12-4017-a697-9611dc4905fa.html",
+        "domain": "focus.de",
+        "language": "German",
+        "tone": 0,
+        "seendate": "20260813T110000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "How Taurus Won a US$7 . 3 Million Philippine Army Rifle Contract",
+        "url": "https://www.riotimesonline.com/how-taurus-won-a-us7-3-million-philippine-army-rifle-contract/",
+        "domain": "riotimesonline.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T090000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Russian Chip Importer CEO Jailed in $1 . 8M Tax Evasion Case",
+        "url": "https://www.themoscowtimes.com/2026/08/12/russian-chip-importer-ceo-jailed-in-18m-tax-evasion-case-a93479",
+        "domain": "themoscowtimes.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260812T161500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Russia after Ukraine war : why wont economy enter recession ? ",
+        "url": "https://www.azernews.az/analysis/262208.html",
+        "domain": "azernews.az",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T110000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Сводка событий в Иране и на Ближнем Востоке за 12 августа 2026 г . ",
+        "url": "https://anna-news.info/svodka-sobytij-v-irane-i-na-blizhnem-vostoke-za-12-avgusta-2026-g/",
+        "domain": "anna-news.info",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260813T044500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Magellan Aerospace Corporation Announces Financial Results",
+        "url": "https://montrealgazette.com/press-releases/business-wire/magellan-aerospace-corporation-announces-financial-results-3/",
+        "domain": "montrealgazette.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260812T214500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": " [ 中报 ] 九丰能源 ( 605090 ): 2026年半年度报告 - CFi . CN 中财网",
+        "url": "http://www.cfi.net.cn/p20260813001214.html",
+        "domain": "cfi.net.cn",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260813T104500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "海外研选日报0813 | Bespoke ： 黄金再现超买信号 历史数据显示后续回报往往偏弱 _ 东方财富网",
+        "url": "https://finance.eastmoney.com/a/202608133840535841.html",
+        "domain": "finance.eastmoney.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260813T111500Z",
+        "source": "GDELT"
+      }
+    ],
     "exchange_rates": [
       {
         "currency": "USD",
@@ -116,8 +252,225 @@
       }
     ]
   },
-  "entities": [],
-  "events": [],
+  "entities": [
+    {
+      "id": 1,
+      "name": "美军正大幅提高拦截弹采购 为备战提高库存",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260812T161500Z",
+      "source": "epochtimes.com"
+    },
+    {
+      "id": 2,
+      "name": "沙土巴三國 「 麥加聯合防禦協議 」 將建立政治與軍事協調機制 - 政治圈",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T103000Z",
+      "source": "chinatimes.com"
+    },
+    {
+      "id": 3,
+      "name": "韩国回应泽连斯基求援 拒绝提供防空系统 _ 军事频道 _ 中华网",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T080000Z",
+      "source": "military.china.com"
+    },
+    {
+      "id": 4,
+      "name": "美国海军推出首艘  无人机航母 ， 美媒 ： 太迟 _ 新浪新闻",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T014500Z",
+      "source": "news.sina.com.cn"
+    },
+    {
+      "id": 5,
+      "name": "美国海军推出首艘  无人机航母 ， 美媒 ： 太迟 _ 中国网",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T030000Z",
+      "source": "news.china.com.cn"
+    },
+    {
+      "id": 6,
+      "name": "美国海军推出首艘  无人机航母 ， 美媒 ： 太迟|加油机|舰载机|美国航母",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260812T233000Z",
+      "source": "163.com"
+    },
+    {
+      "id": 7,
+      "name": "美国海军推出首艘  无人机航母 ， 美媒 ： 太迟|加油机|舰载机|美国航母",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T050000Z",
+      "source": "163.com"
+    },
+    {
+      "id": 8,
+      "name": "Kampfflugzeugprojekt FCAS : Nach dem Scheitern der Zusammena",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T110000Z",
+      "source": "focus.de"
+    },
+    {
+      "id": 9,
+      "name": "How Taurus Won a US$7 . 3 Million Philippine Army Rifle Cont",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T090000Z",
+      "source": "riotimesonline.com"
+    },
+    {
+      "id": 10,
+      "name": "Russian Chip Importer CEO Jailed in $1 . 8M Tax Evasion Case",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260812T161500Z",
+      "source": "themoscowtimes.com"
+    }
+  ],
+  "events": [
+    {
+      "title": "美军正大幅提高拦截弹采购 为备战提高库存",
+      "url": "https://www.epochtimes.com/gb/26/8/12/n14828587.htm",
+      "domain": "epochtimes.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260812T161500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "沙土巴三國 「 麥加聯合防禦協議 」 將建立政治與軍事協調機制 - 政治圈",
+      "url": "https://www.chinatimes.com/realtimenews/20260813004283-260408",
+      "domain": "chinatimes.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260813T103000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "韩国回应泽连斯基求援 拒绝提供防空系统 _ 军事频道 _ 中华网",
+      "url": "https://military.china.com/news/13004177/20260813/49673065.html",
+      "domain": "military.china.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260813T080000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "美国海军推出首艘  无人机航母 ， 美媒 ： 太迟 _ 新浪新闻",
+      "url": "https://news.sina.com.cn/w/2026-08-13/doc-ininchnw4896470.shtml",
+      "domain": "news.sina.com.cn",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260813T014500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "美国海军推出首艘  无人机航母 ， 美媒 ： 太迟 _ 中国网",
+      "url": "http://news.china.com.cn/2026-08/13/content_118645348.shtml",
+      "domain": "news.china.com.cn",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260813T030000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "美国海军推出首艘  无人机航母 ， 美媒 ： 太迟|加油机|舰载机|美国航母",
+      "url": "https://www.163.com/dy/article/L46NAGB50514R9OJ.html",
+      "domain": "163.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260812T233000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "美国海军推出首艘  无人机航母 ， 美媒 ： 太迟|加油机|舰载机|美国航母",
+      "url": "https://www.163.com/dy/article/L46ULH1C05504DOQ.html",
+      "domain": "163.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260813T050000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Kampfflugzeugprojekt FCAS : Nach dem Scheitern der Zusammenarbeit mit Deutschland ist Indien bereit , sich mit Frankreich zusammenzuschließen",
+      "url": "https://www.focus.de/politik/ausland/kampfflugzeugprojekt-fcas-nach-dem-scheitern-der-zusammenarbeit-mit-deutschland-ist-indien-bereit-sich-mit-frankreich-zusammenzuschliessen_2e54ad12-5d12-4017-a697-9611dc4905fa.html",
+      "domain": "focus.de",
+      "language": "German",
+      "tone": 0,
+      "seendate": "20260813T110000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "How Taurus Won a US$7 . 3 Million Philippine Army Rifle Contract",
+      "url": "https://www.riotimesonline.com/how-taurus-won-a-us7-3-million-philippine-army-rifle-contract/",
+      "domain": "riotimesonline.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260813T090000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Russian Chip Importer CEO Jailed in $1 . 8M Tax Evasion Case",
+      "url": "https://www.themoscowtimes.com/2026/08/12/russian-chip-importer-ceo-jailed-in-18m-tax-evasion-case-a93479",
+      "domain": "themoscowtimes.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260812T161500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Russia after Ukraine war : why wont economy enter recession ? ",
+      "url": "https://www.azernews.az/analysis/262208.html",
+      "domain": "azernews.az",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260813T110000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Сводка событий в Иране и на Ближнем Востоке за 12 августа 2026 г . ",
+      "url": "https://anna-news.info/svodka-sobytij-v-irane-i-na-blizhnem-vostoke-za-12-avgusta-2026-g/",
+      "domain": "anna-news.info",
+      "language": "Russian",
+      "tone": 0,
+      "seendate": "20260813T044500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Magellan Aerospace Corporation Announces Financial Results",
+      "url": "https://montrealgazette.com/press-releases/business-wire/magellan-aerospace-corporation-announces-financial-results-3/",
+      "domain": "montrealgazette.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260812T214500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": " [ 中报 ] 九丰能源 ( 605090 ): 2026年半年度报告 - CFi . CN 中财网",
+      "url": "http://www.cfi.net.cn/p20260813001214.html",
+      "domain": "cfi.net.cn",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260813T104500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "海外研选日报0813 | Bespoke ： 黄金再现超买信号 历史数据显示后续回报往往偏弱 _ 东方财富网",
+      "url": "https://finance.eastmoney.com/a/202608133840535841.html",
+      "domain": "finance.eastmoney.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260813T111500Z",
+      "source": "GDELT"
+    }
+  ],
   "timeseries": [],
   "llm_summary": "Pending API key..."
 }
