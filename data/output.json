@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-13T19:36:40.541503+00:00",
+    "generated": "2026-08-14T03:08:31.004342+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -32,7 +32,242 @@
     }
   ],
   "live_data": {
-    "gdelt_articles": [],
+    "gdelt_articles": [
+      {
+        "title": "Contracts for Aug . 12 , 2026",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/08/dod-contracts_4572212.htm",
+        "domain": "globalsecurity.org",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T141500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "沙土巴三國 「 麥加聯合防禦協議 」 將建立政治與軍事協調機制 - 政治圈",
+        "url": "https://www.chinatimes.com/realtimenews/20260813004283-260408",
+        "domain": "chinatimes.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260813T103000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "ZELENSKI U OČAJNIČKOJ POTRAZI ZA RAKETAMA :  Tražim samo pet posto američkih zaliha da preživimo zimu  ",
+        "url": "https://www.slobodna-bosna.ba/vijest/499962/zelenski_u_ochajnichkoj_potrazi_za_raketama_trazim_samo_pet_posto_americhkih_zaliha_da_prezivimo_zimu.html",
+        "domain": "slobodna-bosna.ba",
+        "language": "Bosnian",
+        "tone": 0,
+        "seendate": "20260813T181500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "韩国回应泽连斯基求援 拒绝提供防空系统 _ 军事频道 _ 中华网",
+        "url": "https://military.china.com/news/13004177/20260813/49673065.html",
+        "domain": "military.china.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260813T080000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "The Pentagon has unveiled an improved online store to buy counter - drone kits , but you probably wont ever be able to see it",
+        "url": "https://www.techradar.com/pro/the-pentagon-has-unveiled-an-improved-online-store-to-buy-counter-drone-kits-but-you-probably-wont-ever-be-able-to-see-it",
+        "domain": "techradar.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T211500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美国土安全部花4亿多美元买飞机却闲置不用 ？ ",
+        "url": "https://baijiahao.baidu.com/s?id=1873453206175116529",
+        "domain": "baijiahao.baidu.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260814T001500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美国土安全部花4亿多美元买飞机却闲置不用 ？ ",
+        "url": "https://baijiahao.baidu.com/s?id=1873455355244673718",
+        "domain": "baijiahao.baidu.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260814T004500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Pentagon Memo Directs $244M Funding to Palantir Through 2027",
+        "url": "https://www.executivegov.com/articles/pentagon-memo-palantir-funding",
+        "domain": "executivegov.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T220000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "اسکواد سپاهان برای لیگ بیست‌وششم ؛ نویدکیا با چه ترکیبی به استقبال فصل می‌رود ؟ - خبرگزاری ورزش ایران",
+        "url": "https://www.ipna.ir/%D8%A7%D8%B3%DA%A9%D9%88%D8%A7%D8%AF-%D8%B3%D9%BE%D8%A7%D9%87%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%DB%8C%DA%AF-%D8%A8%DB%8C%D8%B3%D8%AA%D9%88%D8%B4%D8%B4%D9%85%D8%9B-%D9%86%D9%88%DB%8C/",
+        "domain": "ipna.ir",
+        "language": "Persian",
+        "tone": 0,
+        "seendate": "20260813T143000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美国海军推出首艘  无人机航母 ， 美媒 ： 太迟|加油机|舰载机|美国航母",
+        "url": "https://www.163.com/dy/article/L46ULH1C05504DOQ.html",
+        "domain": "163.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260813T050000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Kampfflugzeugprojekt FCAS : Nach dem Scheitern der Zusammenarbeit mit Deutschland ist Indien bereit , sich mit Frankreich zusammenzuschließen",
+        "url": "https://www.focus.de/politik/ausland/kampfflugzeugprojekt-fcas-nach-dem-scheitern-der-zusammenarbeit-mit-deutschland-ist-indien-bereit-sich-mit-frankreich-zusammenzuschliessen_2e54ad12-5d12-4017-a697-9611dc4905fa.html",
+        "domain": "focus.de",
+        "language": "German",
+        "tone": 0,
+        "seendate": "20260813T110000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "A Pentagon memo tells staff to spend $244m with Palantir . Its subject line is  Funding Palantir  ",
+        "url": "https://thenextweb.com/news/palantir-pentagon-244m-no-bid-feinberg-memo",
+        "domain": "thenextweb.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T151500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "How Taurus Won a US$7 . 3 Million Philippine Army Rifle Contract",
+        "url": "https://www.riotimesonline.com/how-taurus-won-a-us7-3-million-philippine-army-rifle-contract/",
+        "domain": "riotimesonline.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T090000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Uniunea Europeană pregătește investiții record pentru o nouă industrie europeană de apărare",
+        "url": "https://business24.ro/aparare-europeana/uniune-europeana-investitii-record-noua-industrie-aparare-1663734",
+        "domain": "business24.ro",
+        "language": "Romanian",
+        "tone": 0,
+        "seendate": "20260813T170000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": " [ 전문 ] 美 해군 선박의 해외 건조 허용에 대한 백악관 팩트시트",
+        "url": "https://www.newspim.com/news/view/20260814000468",
+        "domain": "newspim.com",
+        "language": "Korean",
+        "tone": 0,
+        "seendate": "20260814T021500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Merlin , Inc . Reports Second Quarter 2026 Results",
+        "url": "https://www.manilatimes.net/2026/08/14/tmt-newswire/globenewswire/merlin-inc-reports-second-quarter-2026-results/2405288",
+        "domain": "manilatimes.net",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T203000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Russia after Ukraine war : why wont economy enter recession ? ",
+        "url": "https://www.azernews.az/analysis/262208.html",
+        "domain": "azernews.az",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T110000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Carahsoft and Partners Showcase DoW and Cybersecurity Solutions at TechNet Augusta 2026 in Augusta , Ga ., on Aug . 17 - 20",
+        "url": "https://www.manilatimes.net/2026/08/13/tmt-newswire/globenewswire/carahsoft-and-partners-showcase-dow-and-cybersecurity-solutions-at-technet-augusta-2026-in-augusta-ga-on-aug-17-20/2404995",
+        "domain": "manilatimes.net",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T140000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Hanwha Aerospace anunță un contract de cel puțin 667 , 6 miliarde de woni pentru proiectul spaniol de artilerie",
+        "url": "https://business24.ro/hanwha-aerospace/hanwha-aerospace-contract-miliarde-woni-proiect-spaniol-artilerie-1663750",
+        "domain": "business24.ro",
+        "language": "Romanian",
+        "tone": 0,
+        "seendate": "20260813T211500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Самая быстрорастущая ИТ - компания России завязана всего на одного клиента . И это не госзаказ и не оборонка",
+        "url": "https://www.cnews.ru/news/top/2026-08-13_samaya_bystrorastushchaya_it-kompaniya",
+        "domain": "cnews.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260813T154500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "5 Ways FEOC Regulatory Changes Are Reshaping GovCon",
+        "url": "https://www.executivegov.com/articles/foreign-entities-of-concern-feoc-dow-govcon-intel",
+        "domain": "executivegov.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T220000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Сводка событий в Иране и на Ближнем Востоке за 12 августа 2026 г . ",
+        "url": "https://anna-news.info/svodka-sobytij-v-irane-i-na-blizhnem-vostoke-za-12-avgusta-2026-g/",
+        "domain": "anna-news.info",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260813T044500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Red Cat Holdings ( RCAT ) Q2 2026 Earnings Call Transcript",
+        "url": "https://www.fool.com/earnings/call-transcripts/2026/08/13/red-cat-holdings-rcat-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+        "domain": "fool.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260814T004500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": " [ 中报 ] 九丰能源 ( 605090 ): 2026年半年度报告 - CFi . CN 中财网",
+        "url": "http://www.cfi.net.cn/p20260813001214.html",
+        "domain": "cfi.net.cn",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260813T104500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "海外研选日报0813 | Bespoke ： 黄金再现超买信号 历史数据显示后续回报往往偏弱 _ 东方财富网",
+        "url": "https://finance.eastmoney.com/a/202608133840535841.html",
+        "domain": "finance.eastmoney.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260813T111500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Самая быстрорастущая ИТ - компания России завязана всего на одного клиента . И это не госзаказ и не оборонка",
+        "url": "https://corp.cnews.ru/news/top/2026-08-13_samaya_bystrorastushchaya_it-kompaniya",
+        "domain": "corp.cnews.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260813T183000Z",
+        "source": "GDELT"
+      }
+    ],
     "exchange_rates": [
       {
         "currency": "USD",
@@ -44,7 +279,7 @@
       },
       {
         "currency": "AFN",
-        "rate": 65.11
+        "rate": 65.28
       },
       {
         "currency": "ALL",
@@ -52,7 +287,7 @@
       },
       {
         "currency": "AMD",
-        "rate": 366.02
+        "rate": 365.98
       },
       {
         "currency": "ANG",
@@ -60,11 +295,11 @@
       },
       {
         "currency": "AOA",
-        "rate": 923.71
+        "rate": 925.58
       },
       {
         "currency": "ARS",
-        "rate": 1492.55
+        "rate": 1491.84
       },
       {
         "currency": "AUD",
@@ -88,7 +323,7 @@
       },
       {
         "currency": "BDT",
-        "rate": 123.23
+        "rate": 122.89
       },
       {
         "currency": "BGN",
@@ -100,7 +335,7 @@
       },
       {
         "currency": "BIF",
-        "rate": 2990.55
+        "rate": 2991.47
       },
       {
         "currency": "BMD",
@@ -112,12 +347,229 @@
       },
       {
         "currency": "BOB",
-        "rate": 11.87
+        "rate": 11.78
       }
     ]
   },
-  "entities": [],
-  "events": [],
+  "entities": [
+    {
+      "id": 1,
+      "name": "Contracts for Aug . 12 , 2026",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T141500Z",
+      "source": "globalsecurity.org"
+    },
+    {
+      "id": 2,
+      "name": "沙土巴三國 「 麥加聯合防禦協議 」 將建立政治與軍事協調機制 - 政治圈",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T103000Z",
+      "source": "chinatimes.com"
+    },
+    {
+      "id": 3,
+      "name": "ZELENSKI U OČAJNIČKOJ POTRAZI ZA RAKETAMA :  Tražim samo pet",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T181500Z",
+      "source": "slobodna-bosna.ba"
+    },
+    {
+      "id": 4,
+      "name": "韩国回应泽连斯基求援 拒绝提供防空系统 _ 军事频道 _ 中华网",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T080000Z",
+      "source": "military.china.com"
+    },
+    {
+      "id": 5,
+      "name": "The Pentagon has unveiled an improved online store to buy co",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T211500Z",
+      "source": "techradar.com"
+    },
+    {
+      "id": 6,
+      "name": "美国土安全部花4亿多美元买飞机却闲置不用 ？ ",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260814T001500Z",
+      "source": "baijiahao.baidu.com"
+    },
+    {
+      "id": 7,
+      "name": "美国土安全部花4亿多美元买飞机却闲置不用 ？ ",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260814T004500Z",
+      "source": "baijiahao.baidu.com"
+    },
+    {
+      "id": 8,
+      "name": "Pentagon Memo Directs $244M Funding to Palantir Through 2027",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T220000Z",
+      "source": "executivegov.com"
+    },
+    {
+      "id": 9,
+      "name": "اسکواد سپاهان برای لیگ بیست‌وششم ؛ نویدکیا با چه ترکیبی به ا",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T143000Z",
+      "source": "ipna.ir"
+    },
+    {
+      "id": 10,
+      "name": "美国海军推出首艘  无人机航母 ， 美媒 ： 太迟|加油机|舰载机|美国航母",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T050000Z",
+      "source": "163.com"
+    }
+  ],
+  "events": [
+    {
+      "title": "Contracts for Aug . 12 , 2026",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/08/dod-contracts_4572212.htm",
+      "domain": "globalsecurity.org",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260813T141500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "沙土巴三國 「 麥加聯合防禦協議 」 將建立政治與軍事協調機制 - 政治圈",
+      "url": "https://www.chinatimes.com/realtimenews/20260813004283-260408",
+      "domain": "chinatimes.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260813T103000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "ZELENSKI U OČAJNIČKOJ POTRAZI ZA RAKETAMA :  Tražim samo pet posto američkih zaliha da preživimo zimu  ",
+      "url": "https://www.slobodna-bosna.ba/vijest/499962/zelenski_u_ochajnichkoj_potrazi_za_raketama_trazim_samo_pet_posto_americhkih_zaliha_da_prezivimo_zimu.html",
+      "domain": "slobodna-bosna.ba",
+      "language": "Bosnian",
+      "tone": 0,
+      "seendate": "20260813T181500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "韩国回应泽连斯基求援 拒绝提供防空系统 _ 军事频道 _ 中华网",
+      "url": "https://military.china.com/news/13004177/20260813/49673065.html",
+      "domain": "military.china.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260813T080000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "The Pentagon has unveiled an improved online store to buy counter - drone kits , but you probably wont ever be able to see it",
+      "url": "https://www.techradar.com/pro/the-pentagon-has-unveiled-an-improved-online-store-to-buy-counter-drone-kits-but-you-probably-wont-ever-be-able-to-see-it",
+      "domain": "techradar.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260813T211500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "美国土安全部花4亿多美元买飞机却闲置不用 ？ ",
+      "url": "https://baijiahao.baidu.com/s?id=1873453206175116529",
+      "domain": "baijiahao.baidu.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260814T001500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "美国土安全部花4亿多美元买飞机却闲置不用 ？ ",
+      "url": "https://baijiahao.baidu.com/s?id=1873455355244673718",
+      "domain": "baijiahao.baidu.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260814T004500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Pentagon Memo Directs $244M Funding to Palantir Through 2027",
+      "url": "https://www.executivegov.com/articles/pentagon-memo-palantir-funding",
+      "domain": "executivegov.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260813T220000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "اسکواد سپاهان برای لیگ بیست‌وششم ؛ نویدکیا با چه ترکیبی به استقبال فصل می‌رود ؟ - خبرگزاری ورزش ایران",
+      "url": "https://www.ipna.ir/%D8%A7%D8%B3%DA%A9%D9%88%D8%A7%D8%AF-%D8%B3%D9%BE%D8%A7%D9%87%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%DB%8C%DA%AF-%D8%A8%DB%8C%D8%B3%D8%AA%D9%88%D8%B4%D8%B4%D9%85%D8%9B-%D9%86%D9%88%DB%8C/",
+      "domain": "ipna.ir",
+      "language": "Persian",
+      "tone": 0,
+      "seendate": "20260813T143000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "美国海军推出首艘  无人机航母 ， 美媒 ： 太迟|加油机|舰载机|美国航母",
+      "url": "https://www.163.com/dy/article/L46ULH1C05504DOQ.html",
+      "domain": "163.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260813T050000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Kampfflugzeugprojekt FCAS : Nach dem Scheitern der Zusammenarbeit mit Deutschland ist Indien bereit , sich mit Frankreich zusammenzuschließen",
+      "url": "https://www.focus.de/politik/ausland/kampfflugzeugprojekt-fcas-nach-dem-scheitern-der-zusammenarbeit-mit-deutschland-ist-indien-bereit-sich-mit-frankreich-zusammenzuschliessen_2e54ad12-5d12-4017-a697-9611dc4905fa.html",
+      "domain": "focus.de",
+      "language": "German",
+      "tone": 0,
+      "seendate": "20260813T110000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "A Pentagon memo tells staff to spend $244m with Palantir . Its subject line is  Funding Palantir  ",
+      "url": "https://thenextweb.com/news/palantir-pentagon-244m-no-bid-feinberg-memo",
+      "domain": "thenextweb.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260813T151500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "How Taurus Won a US$7 . 3 Million Philippine Army Rifle Contract",
+      "url": "https://www.riotimesonline.com/how-taurus-won-a-us7-3-million-philippine-army-rifle-contract/",
+      "domain": "riotimesonline.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260813T090000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Uniunea Europeană pregătește investiții record pentru o nouă industrie europeană de apărare",
+      "url": "https://business24.ro/aparare-europeana/uniune-europeana-investitii-record-noua-industrie-aparare-1663734",
+      "domain": "business24.ro",
+      "language": "Romanian",
+      "tone": 0,
+      "seendate": "20260813T170000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": " [ 전문 ] 美 해군 선박의 해외 건조 허용에 대한 백악관 팩트시트",
+      "url": "https://www.newspim.com/news/view/20260814000468",
+      "domain": "newspim.com",
+      "language": "Korean",
+      "tone": 0,
+      "seendate": "20260814T021500Z",
+      "source": "GDELT"
+    }
+  ],
   "timeseries": [],
   "llm_summary": "Pending API key..."
 }
