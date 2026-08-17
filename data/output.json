@@ -1,10 +1,11 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-16T18:57:46.022945+00:00",
+    "generated": "2026-08-17T02:05:38.620319+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
+      "defense_news",
       "exchange_rates"
     ],
     "version": "1.0.0"
@@ -33,6 +34,458 @@
   ],
   "live_data": {
     "gdelt_articles": [],
+    "defense_news": [
+      {
+        "title": "無人機陸廠大疆上訴告贏五角大廈 有機會脫離美國防部採購黑名單 | 全球財經 | 全球",
+        "url": "https://udn.com/news/story/6811/9693543",
+        "domain": "udn.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260815T083000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美军正大幅提高拦截弹采购 为备战提高库存",
+        "url": "https://www.epochtimes.com/gb/26/8/12/n14828587.htm",
+        "domain": "epochtimes.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260812T161500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "DOGE said it saved $1 . 7 billion by terminating a military health IT contract . GAO found the contract was never terminated . ",
+        "url": "https://www.militarytimes.com/news/pentagon-congress/2026/08/10/doge-said-it-saved-17-billion-by-terminating-a-military-health-it-contract-gao-found-the-contract-was-never-terminated/",
+        "domain": "militarytimes.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260810T223000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "DOGE said it saved $1 . 7 billion by terminating a military health IT contract . GAO found the contract was never terminated . ",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/10/doge-said-it-saved-17-billion-by-terminating-a-military-health-it-contract-gao-found-the-contract-was-never-terminated/",
+        "domain": "defensenews.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260810T220000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Contracts for Aug . 12 , 2026",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/08/dod-contracts_4572212.htm",
+        "domain": "globalsecurity.org",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T141500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Indija i Rusija u novom vojnom projektu : Proizvodnja lovaca Su - 30MKI",
+        "url": "https://www.novosti.rs/planeta/svet/1636756/indija-rusija-proizvodnja-lovaca-nova-faza-suhoj-30mki-indija",
+        "domain": "novosti.rs",
+        "language": "Serbian",
+        "tone": 0,
+        "seendate": "20260811T183000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Оружия нет , а деньги ушли : Украина потеряла миллиард на невыполненных контрактах",
+        "url": "https://www.mk.ru/politics/2026/08/11/oruzhiya-net-a-dengi-ushli-ukraina-poteryala-milliard-na-nevypolnennykh-kontraktakh.html",
+        "domain": "mk.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260811T184500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "日本印度将探讨共同研发军用无人机",
+        "url": "https://news.ifeng.com/c/8vdc9lTI83U",
+        "domain": "news.ifeng.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260817T010000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "11 августа Польша подписала соглашение с Boeing – создадут крупнейший сервисный центр для Apache | Новости Украины",
+        "url": "https://news.liga.net/world/news/polsha-podpisala-soglashenie-s-boeing-o-sozdanii-krupneishego-v-evrope-servisnogo-tsentra-dlya-apache",
+        "domain": "news.liga.net",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260811T140000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "埃及会采购歼 - 10CE吗 技术脱困的诱惑 _ 军事频道 _ 中华网",
+        "url": "https://military.china.com/news/13004177/20260815/49677240.html",
+        "domain": "military.china.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260815T154500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Security Centric and Carahsoft Partner to Deliver Defense - Grade CUI Protection Platform to the DIB",
+        "url": "https://www.manilatimes.net/2026/08/12/tmt-newswire/globenewswire/security-centric-and-carahsoft-partner-to-deliver-defense-grade-cui-protection-platform-to-the-dib/2403313",
+        "domain": "manilatimes.net",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260811T164500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Lietuva ruošiasi kitai SAFE paskolos išmokai – prašymą pateiks iki rugsėjo pabaigos",
+        "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3022112/lietuva-ruosiasi-kitai-safe-paskolos-ismokai-prasyma-pateiks-iki-rugsejo-pabaigos",
+        "domain": "lrt.lt",
+        "language": "Lithuanian",
+        "tone": 0,
+        "seendate": "20260815T233000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Lietuva ruošiasi kitai SAFE paskolos išmokai – prašymą pateiks iki rugsėjo pabaigos",
+        "url": "https://www.respublika.lt/lt/naujienos/lietuva/lietuvos_politika/lietuva-ruosiasi-kitai-safe-paskolos-ismokai---prasyma-pateiks-iki-rugsejo-pabaigos/",
+        "domain": "respublika.lt",
+        "language": "Lithuanian",
+        "tone": 0,
+        "seendate": "20260815T143000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "沙土巴三國 「 麥加聯合防禦協議 」 將建立政治與軍事協調機制 - 政治圈",
+        "url": "https://www.chinatimes.com/realtimenews/20260813004283-260408",
+        "domain": "chinatimes.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260813T103000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Eks Pejabat Kemhan Leonardi Nilai Tuntutan Jaksa Cacat Hukum",
+        "url": "https://www.cnnindonesia.com/nasional/20260811224238-12-1391242/eks-pejabat-kemhan-leonardi-nilai-tuntutan-jaksa-cacat-hukum",
+        "domain": "cnnindonesia.com",
+        "language": "Indonesian",
+        "tone": 0,
+        "seendate": "20260811T210000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Pentagon Paid Code Metal $80M to Prove Wargame AI Wont Break Old Simulations",
+        "url": "https://www.techtimes.com/articles/324602/20260815/pentagon-paid-code-metal-80m-prove-wargame-ai-wont-break-old-simulations.htm",
+        "domain": "techtimes.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260815T173000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Kineski Gugl Baidu na udaru američke vlade",
+        "url": "https://www.blic.rs/biznis/tech/kineski-gugl-baidu-na-udaru-americke-vlade/bspf7mh",
+        "domain": "blic.rs",
+        "language": "Serbian",
+        "tone": 0,
+        "seendate": "20260814T090000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "ZELENSKI U OČAJNIČKOJ POTRAZI ZA RAKETAMA :  Tražim samo pet posto američkih zaliha da preživimo zimu  ",
+        "url": "https://www.slobodna-bosna.ba/vijest/499962/zelenski_u_ochajnichkoj_potrazi_za_raketama_trazim_samo_pet_posto_americhkih_zaliha_da_prezivimo_zimu.html",
+        "domain": "slobodna-bosna.ba",
+        "language": "Bosnian",
+        "tone": 0,
+        "seendate": "20260813T181500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "韩国回应泽连斯基求援 拒绝提供防空系统 _ 军事频道 _ 中华网",
+        "url": "https://military.china.com/news/13004177/20260813/49673065.html",
+        "domain": "military.china.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260813T080000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "The Pentagon has unveiled an improved online store to buy counter - drone kits , but you probably wont ever be able to see it",
+        "url": "https://www.techradar.com/pro/the-pentagon-has-unveiled-an-improved-online-store-to-buy-counter-drone-kits-but-you-probably-wont-ever-be-able-to-see-it",
+        "domain": "techradar.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T211500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美国土安全部花4亿多美元买飞机却闲置不用 ？ ",
+        "url": "https://baijiahao.baidu.com/s?id=1873453206175116529",
+        "domain": "baijiahao.baidu.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260814T001500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美国土安全部花4亿多美元买飞机却闲置不用 ？ ",
+        "url": "http://news.china.com.cn/2026-08/14/content_118647660.shtml",
+        "domain": "news.china.com.cn",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260814T044500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美国土安全部被曝花4亿多美元买飞机却闲置不用",
+        "url": "https://baijiahao.baidu.com/s?id=1873465916797760872",
+        "domain": "baijiahao.baidu.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260814T033000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "審計部質疑Mk54魚雷升級包沒給齊 海軍 ： 美依庫存提供 、 履約正常",
+        "url": "https://def.ltn.com.tw/article/breakingnews/5537209",
+        "domain": "def.ltn.com.tw",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260812T063000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Кипр хочет купить израильские танки , но Израиль не спешит их продавать",
+        "url": "https://www.9tv.co.il/item/257840",
+        "domain": "9tv.co.il",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260812T091500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美国土安全部花4亿多美元买飞机却闲置不用 ？ ",
+        "url": "https://baijiahao.baidu.com/s?id=1873455355244673718",
+        "domain": "baijiahao.baidu.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260814T004500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "US Military Aid Deliveries to Ukraine Drop Over 50 % in 2026",
+        "url": "https://sputnikglobe.com/20260812/us-military-aid-deliveries-to-ukraine-drop-over-50-in-2026-1124563800.html",
+        "domain": "sputnikglobe.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260812T021500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "The dwindling shield and the regional security equation",
+        "url": "https://www.arabnews.com/node/2654802",
+        "domain": "arabnews.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260815T223000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Radu Miruță explică toate comenzile prin SAFE : Nu cumpărăm de pe raftul altor țări",
+        "url": "https://www.stiripesurse.ro/radu-miruta-explica-toate-comenzile-prin-safe-nu-cumparam-de-pe-raftul-altor-tari_3910975",
+        "domain": "stiripesurse.ro",
+        "language": "Romanian",
+        "tone": 0,
+        "seendate": "20260810T174500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "英無人艇用中國零件爆資安疑慮 攝影機竟向中國傳數據",
+        "url": "https://def.ltn.com.tw/article/breakingnews/5535493",
+        "domain": "def.ltn.com.tw",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260811T030000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Officials and lawmakers clash over drone funding",
+        "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/12/2003862354",
+        "domain": "taipeitimes.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260811T164500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "特朗普政府警告苹果勿用中国芯片",
+        "url": "https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%AD%A6%E5%91%8A%E8%8B%B9%E6%9E%9C%E5%8B%BF%E7%94%A8%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87/a-78388866",
+        "domain": "dw.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260816T153000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "EagleNXT Reports Second Quarter 2026 Financial Results Highlighted by Strategic Repositioning and Multi - Division Sales Growth",
+        "url": "https://www.manilatimes.net/2026/08/15/tmt-newswire/globenewswire/eaglenxt-reports-second-quarter-2026-financial-results-highlighted-by-strategic-repositioning-and-multi-division-sales-growth/2406023",
+        "domain": "manilatimes.net",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260814T204500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": " 【 名家专栏 】 中共被曝向伊朗提供肩扛式导弹",
+        "url": "https://www.epochtimes.com/gb/26/8/15/n14830536.htm",
+        "domain": "epochtimes.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260815T174500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "特朗普政府向北约盟国发  忠诚度  效益主义问卷",
+        "url": "https://www.wenxuecity.com/news/2026/08/14/126741894.html",
+        "domain": "wenxuecity.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260814T174500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "日本印度将探讨共同研发军用无人机 - 华侨网",
+        "url": "https://www.chinesepress.com/2026/195783.html",
+        "domain": "chinesepress.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260816T203000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Министерство обороны кодифицировало дрон - перехватчик Kolibri - i10 производства TAF Industries",
+        "url": "https://itc.ua/news/mynysterstvo-oborony-kodyfytsyrovalo-dron-perehvatchyk-kolibri-i10-proyzvodstva-taf-industries/",
+        "domain": "itc.ua",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260814T140000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Пока не утихают слухи о нехватке оружия у США , WP раздобыл любопытный документ Пентагона",
+        "url": "https://www.9tv.co.il/item/257743",
+        "domain": "9tv.co.il",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260810T053000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Pentagon Memo Directs $244M Funding to Palantir Through 2027",
+        "url": "https://www.executivegov.com/articles/pentagon-memo-palantir-funding",
+        "domain": "executivegov.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T220000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "اسکواد سپاهان برای لیگ بیست‌وششم ؛ نویدکیا با چه ترکیبی به استقبال فصل می‌رود ؟ - خبرگزاری ورزش ایران",
+        "url": "https://www.ipna.ir/%D8%A7%D8%B3%DA%A9%D9%88%D8%A7%D8%AF-%D8%B3%D9%BE%D8%A7%D9%87%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%DB%8C%DA%AF-%D8%A8%DB%8C%D8%B3%D8%AA%D9%88%D8%B4%D8%B4%D9%85%D8%9B-%D9%86%D9%88%DB%8C/",
+        "domain": "ipna.ir",
+        "language": "Persian",
+        "tone": 0,
+        "seendate": "20260813T143000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美国海军推出首艘  无人机航母 ， 美媒 ： 太迟 _ 新浪新闻",
+        "url": "https://news.sina.com.cn/w/2026-08-13/doc-ininchnw4896470.shtml",
+        "domain": "news.sina.com.cn",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260813T014500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美国海军推出首艘  无人机航母 ， 美媒 ： 太迟 _ 中国网",
+        "url": "http://news.china.com.cn/2026-08/13/content_118645348.shtml",
+        "domain": "news.china.com.cn",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260813T030000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美国海军推出首艘  无人机航母 ， 美媒 ： 太迟|加油机|舰载机|美国航母",
+        "url": "https://www.163.com/dy/article/L46ULH1C05504DOQ.html",
+        "domain": "163.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260813T050000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美国海军推出首艘  无人机航母 ， 美媒 ： 太迟|加油机|舰载机|美国航母",
+        "url": "https://www.163.com/dy/article/L46NAGB50514R9OJ.html",
+        "domain": "163.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260812T233000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "The Xinjiang Connection : CCP Providing Shoulder - Fired Missiles to Iran",
+        "url": "https://www.theepochtimes.com/opinion/the-xinjiang-connection-ccp-providing-shoulder-fired-missiles-to-iran-6073521",
+        "domain": "theepochtimes.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260814T100000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Kampfflugzeugprojekt FCAS : Nach dem Scheitern der Zusammenarbeit mit Deutschland ist Indien bereit , sich mit Frankreich zusammenzuschließen",
+        "url": "https://www.focus.de/politik/ausland/kampfflugzeugprojekt-fcas-nach-dem-scheitern-der-zusammenarbeit-mit-deutschland-ist-indien-bereit-sich-mit-frankreich-zusammenzuschliessen_2e54ad12-5d12-4017-a697-9611dc4905fa.html",
+        "domain": "focus.de",
+        "language": "German",
+        "tone": 0,
+        "seendate": "20260813T110000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "A Pentagon memo tells staff to spend $244m with Palantir . Its subject line is  Funding Palantir  ",
+        "url": "https://thenextweb.com/news/palantir-pentagon-244m-no-bid-feinberg-memo",
+        "domain": "thenextweb.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T151500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "DATAMED  bomb  for Christodoulakis – Adonis Georgiadis opens the file , PASOK No . 2 under scrutiny",
+        "url": "https://www.bankingnews.gr/mayri-pena/articles/893758/datamed-bomb-for-christodoulakis-adonis-georgiadis-opens-the-file-pasok-s-no-2-under-scrutiny%20title=",
+        "domain": "bankingnews.gr",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260814T114500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "5 % BPT on military construction contracts holds ; senators argue over out - of - order amendments",
+        "url": "https://www.guampdn.com/news/5-bpt-on-military-construction-contracts-holds-senators-argue-over-out-of-order-amendments/article_d36a164b-09c2-4a23-bab6-9d6206a02c41.html",
+        "domain": "guampdn.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260815T043000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "日本买的  战斧  导弹 ， 到底谁来掌控 ？_ 凤凰网",
+        "url": "https://news.ifeng.com/c/8vTXSwhmS23",
+        "domain": "news.ifeng.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260810T071500Z",
+        "source": "GDELT"
+      }
+    ],
     "exchange_rates": [
       {
         "currency": "USD",
@@ -44,15 +497,15 @@
       },
       {
         "currency": "AFN",
-        "rate": 65.23
+        "rate": 65.3
       },
       {
         "currency": "ALL",
-        "rate": 80.61
+        "rate": 80.25
       },
       {
         "currency": "AMD",
-        "rate": 366
+        "rate": 365.77
       },
       {
         "currency": "ANG",
@@ -60,7 +513,7 @@
       },
       {
         "currency": "AOA",
-        "rate": 925.12
+        "rate": 919.86
       },
       {
         "currency": "ARS",
@@ -88,7 +541,7 @@
       },
       {
         "currency": "BDT",
-        "rate": 122.85
+        "rate": 122.72
       },
       {
         "currency": "BGN",
@@ -100,7 +553,7 @@
       },
       {
         "currency": "BIF",
-        "rate": 2995.39
+        "rate": 2985.21
       },
       {
         "currency": "BMD",
@@ -112,7 +565,7 @@
       },
       {
         "currency": "BOB",
-        "rate": 11.77
+        "rate": 11.68
       }
     ]
   },
