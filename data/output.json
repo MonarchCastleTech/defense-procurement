@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-17T19:08:45.153864+00:00",
+    "generated": "2026-08-18T01:59:34.500826+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -32,7 +32,152 @@
     }
   ],
   "live_data": {
-    "gdelt_articles": [],
+    "gdelt_articles": [
+      {
+        "title": "日本樂天不只做電商 ！ 聯手德國軍火巨頭 助陸自測試AI無人機",
+        "url": "https://def.ltn.com.tw/article/breakingnews/5542864",
+        "domain": "def.ltn.com.tw",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260817T094500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "2 , 5 milyar dolar dev büte ayrýldý : 16 adet Gripen savaþ uça askeri üsse geliyor",
+        "url": "https://www.star.com.tr/savunma/25-milyar-dolar-dev-butce-ayrildi-16-adet-gripen-savas-ucagi-askeri-usse-geliyor-haber-2034413/",
+        "domain": "star.com.tr",
+        "language": "Turkish",
+        "tone": 0,
+        "seendate": "20260817T103000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Vijetnam jača flotu zbog Kine : Sve češće pretnje naterale ih na zanimljivo ulaganje",
+        "url": "https://www.telegraf.rs/vesti/svet/4377437-vijetnam-jaca-flotu-zbog-kine-sve-cesce-pretnje-naterale-ih-na-zanimljivo-ulaganje",
+        "domain": "telegraf.rs",
+        "language": "Serbian",
+        "tone": 0,
+        "seendate": "20260817T050000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "特朗普政府警告苹果 ： 勿用中国芯片",
+        "url": "https://www.wenxuecity.com/news/2026/08/16/126744474.html",
+        "domain": "wenxuecity.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260817T040000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Navy Awards $22 . 9B to 17x Tomahawk Output ; Chemistry Limits What Money Cant Buy",
+        "url": "https://www.techtimes.com/articles/324741/20260817/navy-awards-229b-17x-tomahawk-output-chemistry-limits-what-money-cant-buy.htm",
+        "domain": "techtimes.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260818T001500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Letonia cere 7 miliarde de euro de la UE . Riga vrea compensații pentru cheltuielile de apărare și pierderea comerțului cu Rusia",
+        "url": "https://www.capital.ro/letonia-cere-7-miliarde-de-euro-de-la-ue-riga-vrea-compensatii-pentru-cheltuielile-de-aparare-si-pierderea-comertului-cu-rusia.html",
+        "domain": "capital.ro",
+        "language": "Romanian",
+        "tone": 0,
+        "seendate": "20260817T194500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Moravskoslezské novinky - Domácí - Nedodané zbraně za miliardu , aneb ukrajinská korupce v praxi",
+        "url": "https://www.moravskoslezskenovinky.cz/zpravy/zpravy/nedodane-zbrane-za-miliardu-aneb-ukrajinska-korupce-v-praxi/",
+        "domain": "moravskoslezskenovinky.cz",
+        "language": "Czech",
+        "tone": 0,
+        "seendate": "20260817T044500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Olomoucké novinky - Domácí - Nedodané zbraně za miliardu , aneb ukrajinská korupce v praxi",
+        "url": "https://www.olomouckenovinky.cz/zpravy/zpravy/nedodane-zbrane-za-miliardu-aneb-ukrajinska-korupce-v-praxi/",
+        "domain": "olomouckenovinky.cz",
+        "language": "Czech",
+        "tone": 0,
+        "seendate": "20260817T034500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Plzeňské novinky - Domácí - Nedodané zbraně za miliardu , aneb ukrajinská korupce v praxi",
+        "url": "https://www.plzenskenovinky.cz/zpravy/zpravy/nedodane-zbrane-za-miliardu-aneb-ukrajinska-korupce-v-praxi/",
+        "domain": "plzenskenovinky.cz",
+        "language": "Czech",
+        "tone": 0,
+        "seendate": "20260817T034500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Pardubické novinky - Domácí - Nedodané zbraně za miliardu , aneb ukrajinská korupce v praxi",
+        "url": "https://www.pardubickenovinky.cz/zpravy/zpravy/nedodane-zbrane-za-miliardu-aneb-ukrajinska-korupce-v-praxi/",
+        "domain": "pardubickenovinky.cz",
+        "language": "Czech",
+        "tone": 0,
+        "seendate": "20260817T031500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "澳洲將採購AIM - 260飛彈 ！ 中國端出PL - 16對抗 決定誰贏關鍵是 「 這個 」.... | 國際",
+        "url": "https://newtalk.tw/news/view/2026-08-17/1053885",
+        "domain": "newtalk.tw",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260817T064500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Navy awards Raytheon $22 . 9B to boost Tomahawk production",
+        "url": "https://www.vtcng.com/shelburnenews/state_and_world/world_news/navy-awards-raytheon-22-9b-to-boost-tomahawk-production/article_3116efce-cebc-5340-a116-d189ca055f8e.html",
+        "domain": "vtcng.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260818T010000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Navy awards Raytheon $22 . 9B to boost Tomahawk production",
+        "url": "https://www.kten.com/news/navy-awards-raytheon-22-9b-to-boost-tomahawk-production/article_0ae70b98-ef64-5865-8683-c53e2e5e9aa9.html",
+        "domain": "kten.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260818T010000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Navy awards Raytheon $22 . 9B to boost Tomahawk production",
+        "url": "https://www.hometownregister.com/news/national/navy-awards-raytheon-22-9b-to-boost-tomahawk-production/article_f14cdfb7-2f79-5de2-b4fc-e0c69aeb5482.html",
+        "domain": "hometownregister.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260818T003000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Rocket Lab Now Prime and Bus Supplier in GEO : Viasat Selects Lightning - GEO for Anti - Jam Satellite",
+        "url": "https://www.techtimes.com/articles/324772/20260817/rocket-lab-now-prime-bus-supplier-geo-viasat-selects-lightning-geo-anti-jam-satellite.htm",
+        "domain": "techtimes.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260818T001500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "8点1氪丨李书福辞任董事会主席 ， 吉利汽车管理层大调整 ； iPhone17或全球涨价 ， 最高涨价近千元 ； 宇树科技发布  超人  |知名企业",
+        "url": "https://www.163.com/dy/article/L4JNQ7M305118DFD.html",
+        "domain": "163.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260818T011500Z",
+        "source": "GDELT"
+      }
+    ],
     "exchange_rates": [
       {
         "currency": "USD",
@@ -44,15 +189,15 @@
       },
       {
         "currency": "AFN",
-        "rate": 65.3
+        "rate": 65.23
       },
       {
         "currency": "ALL",
-        "rate": 80.25
+        "rate": 80.16
       },
       {
         "currency": "AMD",
-        "rate": 365.77
+        "rate": 365.59
       },
       {
         "currency": "ANG",
@@ -60,7 +205,7 @@
       },
       {
         "currency": "AOA",
-        "rate": 919.86
+        "rate": 927.79
       },
       {
         "currency": "ARS",
@@ -88,7 +233,7 @@
       },
       {
         "currency": "BDT",
-        "rate": 122.72
+        "rate": 122.68
       },
       {
         "currency": "BGN",
@@ -100,7 +245,7 @@
       },
       {
         "currency": "BIF",
-        "rate": 2985.21
+        "rate": 2991.77
       },
       {
         "currency": "BMD",
@@ -112,12 +257,229 @@
       },
       {
         "currency": "BOB",
-        "rate": 11.68
+        "rate": 11.63
       }
     ]
   },
-  "entities": [],
-  "events": [],
+  "entities": [
+    {
+      "id": 1,
+      "name": "日本樂天不只做電商 ！ 聯手德國軍火巨頭 助陸自測試AI無人機",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T094500Z",
+      "source": "def.ltn.com.tw"
+    },
+    {
+      "id": 2,
+      "name": "2 , 5 milyar dolar dev büte ayrýldý : 16 adet Gripen savaþ u",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T103000Z",
+      "source": "star.com.tr"
+    },
+    {
+      "id": 3,
+      "name": "Vijetnam jača flotu zbog Kine : Sve češće pretnje naterale i",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T050000Z",
+      "source": "telegraf.rs"
+    },
+    {
+      "id": 4,
+      "name": "特朗普政府警告苹果 ： 勿用中国芯片",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T040000Z",
+      "source": "wenxuecity.com"
+    },
+    {
+      "id": 5,
+      "name": "Navy Awards $22 . 9B to 17x Tomahawk Output ; Chemistry Limi",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260818T001500Z",
+      "source": "techtimes.com"
+    },
+    {
+      "id": 6,
+      "name": "Letonia cere 7 miliarde de euro de la UE . Riga vrea compens",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T194500Z",
+      "source": "capital.ro"
+    },
+    {
+      "id": 7,
+      "name": "Moravskoslezské novinky - Domácí - Nedodané zbraně za miliar",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T044500Z",
+      "source": "moravskoslezskenovinky.cz"
+    },
+    {
+      "id": 8,
+      "name": "Olomoucké novinky - Domácí - Nedodané zbraně za miliardu , a",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T034500Z",
+      "source": "olomouckenovinky.cz"
+    },
+    {
+      "id": 9,
+      "name": "Plzeňské novinky - Domácí - Nedodané zbraně za miliardu , an",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T034500Z",
+      "source": "plzenskenovinky.cz"
+    },
+    {
+      "id": 10,
+      "name": "Pardubické novinky - Domácí - Nedodané zbraně za miliardu , ",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T031500Z",
+      "source": "pardubickenovinky.cz"
+    }
+  ],
+  "events": [
+    {
+      "title": "日本樂天不只做電商 ！ 聯手德國軍火巨頭 助陸自測試AI無人機",
+      "url": "https://def.ltn.com.tw/article/breakingnews/5542864",
+      "domain": "def.ltn.com.tw",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260817T094500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "2 , 5 milyar dolar dev büte ayrýldý : 16 adet Gripen savaþ uça askeri üsse geliyor",
+      "url": "https://www.star.com.tr/savunma/25-milyar-dolar-dev-butce-ayrildi-16-adet-gripen-savas-ucagi-askeri-usse-geliyor-haber-2034413/",
+      "domain": "star.com.tr",
+      "language": "Turkish",
+      "tone": 0,
+      "seendate": "20260817T103000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Vijetnam jača flotu zbog Kine : Sve češće pretnje naterale ih na zanimljivo ulaganje",
+      "url": "https://www.telegraf.rs/vesti/svet/4377437-vijetnam-jaca-flotu-zbog-kine-sve-cesce-pretnje-naterale-ih-na-zanimljivo-ulaganje",
+      "domain": "telegraf.rs",
+      "language": "Serbian",
+      "tone": 0,
+      "seendate": "20260817T050000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "特朗普政府警告苹果 ： 勿用中国芯片",
+      "url": "https://www.wenxuecity.com/news/2026/08/16/126744474.html",
+      "domain": "wenxuecity.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260817T040000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Navy Awards $22 . 9B to 17x Tomahawk Output ; Chemistry Limits What Money Cant Buy",
+      "url": "https://www.techtimes.com/articles/324741/20260817/navy-awards-229b-17x-tomahawk-output-chemistry-limits-what-money-cant-buy.htm",
+      "domain": "techtimes.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260818T001500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Letonia cere 7 miliarde de euro de la UE . Riga vrea compensații pentru cheltuielile de apărare și pierderea comerțului cu Rusia",
+      "url": "https://www.capital.ro/letonia-cere-7-miliarde-de-euro-de-la-ue-riga-vrea-compensatii-pentru-cheltuielile-de-aparare-si-pierderea-comertului-cu-rusia.html",
+      "domain": "capital.ro",
+      "language": "Romanian",
+      "tone": 0,
+      "seendate": "20260817T194500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Moravskoslezské novinky - Domácí - Nedodané zbraně za miliardu , aneb ukrajinská korupce v praxi",
+      "url": "https://www.moravskoslezskenovinky.cz/zpravy/zpravy/nedodane-zbrane-za-miliardu-aneb-ukrajinska-korupce-v-praxi/",
+      "domain": "moravskoslezskenovinky.cz",
+      "language": "Czech",
+      "tone": 0,
+      "seendate": "20260817T044500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Olomoucké novinky - Domácí - Nedodané zbraně za miliardu , aneb ukrajinská korupce v praxi",
+      "url": "https://www.olomouckenovinky.cz/zpravy/zpravy/nedodane-zbrane-za-miliardu-aneb-ukrajinska-korupce-v-praxi/",
+      "domain": "olomouckenovinky.cz",
+      "language": "Czech",
+      "tone": 0,
+      "seendate": "20260817T034500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Plzeňské novinky - Domácí - Nedodané zbraně za miliardu , aneb ukrajinská korupce v praxi",
+      "url": "https://www.plzenskenovinky.cz/zpravy/zpravy/nedodane-zbrane-za-miliardu-aneb-ukrajinska-korupce-v-praxi/",
+      "domain": "plzenskenovinky.cz",
+      "language": "Czech",
+      "tone": 0,
+      "seendate": "20260817T034500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Pardubické novinky - Domácí - Nedodané zbraně za miliardu , aneb ukrajinská korupce v praxi",
+      "url": "https://www.pardubickenovinky.cz/zpravy/zpravy/nedodane-zbrane-za-miliardu-aneb-ukrajinska-korupce-v-praxi/",
+      "domain": "pardubickenovinky.cz",
+      "language": "Czech",
+      "tone": 0,
+      "seendate": "20260817T031500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "澳洲將採購AIM - 260飛彈 ！ 中國端出PL - 16對抗 決定誰贏關鍵是 「 這個 」.... | 國際",
+      "url": "https://newtalk.tw/news/view/2026-08-17/1053885",
+      "domain": "newtalk.tw",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260817T064500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Navy awards Raytheon $22 . 9B to boost Tomahawk production",
+      "url": "https://www.vtcng.com/shelburnenews/state_and_world/world_news/navy-awards-raytheon-22-9b-to-boost-tomahawk-production/article_3116efce-cebc-5340-a116-d189ca055f8e.html",
+      "domain": "vtcng.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260818T010000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Navy awards Raytheon $22 . 9B to boost Tomahawk production",
+      "url": "https://www.kten.com/news/navy-awards-raytheon-22-9b-to-boost-tomahawk-production/article_0ae70b98-ef64-5865-8683-c53e2e5e9aa9.html",
+      "domain": "kten.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260818T010000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Navy awards Raytheon $22 . 9B to boost Tomahawk production",
+      "url": "https://www.hometownregister.com/news/national/navy-awards-raytheon-22-9b-to-boost-tomahawk-production/article_f14cdfb7-2f79-5de2-b4fc-e0c69aeb5482.html",
+      "domain": "hometownregister.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260818T003000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Rocket Lab Now Prime and Bus Supplier in GEO : Viasat Selects Lightning - GEO for Anti - Jam Satellite",
+      "url": "https://www.techtimes.com/articles/324772/20260817/rocket-lab-now-prime-bus-supplier-geo-viasat-selects-lightning-geo-anti-jam-satellite.htm",
+      "domain": "techtimes.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260818T001500Z",
+      "source": "GDELT"
+    }
+  ],
   "timeseries": [],
   "llm_summary": "Pending API key..."
 }
