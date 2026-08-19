@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-19T13:26:46.435977+00:00",
+    "generated": "2026-08-19T19:04:28.392283+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -32,7 +32,260 @@
     }
   ],
   "live_data": {
-    "gdelt_articles": [],
+    "gdelt_articles": [
+      {
+        "title": "無人機國防標案爆中國製品 馬文君喊話 ： 國防部全面清查 | 政治 | 三立新聞網 SETN . COM",
+        "url": "https://www.setn.com/news/1892062",
+        "domain": "setn.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260819T093000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "台灣首例 涉用中國零件組軍用無人機 廠商被押 | 無人機採購 | 台灣陸軍第八軍團 | 台灣航見科技公司",
+        "url": "https://www.ntdtv.com/b5/2026/08/18/a104125285.html",
+        "domain": "ntdtv.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260819T004500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": " 《 TAIPEI TIMES 》 Drone contractor allegedly ordered parts from Taobao - 焦點",
+        "url": "https://news.ltn.com.tw/news/focus/breakingnews/5544457",
+        "domain": "news.ltn.com.tw",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260818T200000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美國陸軍MTC專案 韓國韓華航太 「 獨獲 」 訂單出口K9輪式自走砲 | 國際",
+        "url": "https://newtalk.tw/news/view/2026-08-19/1054426",
+        "domain": "newtalk.tw",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260819T093000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Італія адаптує свою військову доктрину під епоху гібридних загроз , ",
+        "url": "https://www.dsnews.ua/ukr/world/italiya-adaptuye-svoyu-viyskovu-doktrinu-pid-epohu-gibridnih-zagroz-szr-18082026-465722",
+        "domain": "dsnews.ua",
+        "language": "Ukrainian",
+        "tone": 0,
+        "seendate": "20260818T214500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "無人機國防標案爆中國製品負責人遭羈押 馬文君籲國防部全面清查 - 政治",
+        "url": "https://news.ltn.com.tw/news/politics/breakingnews/5545045",
+        "domain": "news.ltn.com.tw",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260819T071500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "替换牵引炮 美军采购韩国卡车炮 提升火力机动性 _ 军事频道 _ 中华网",
+        "url": "https://military.china.com/news/13004177/20260819/49685244.html",
+        "domain": "military.china.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260819T060000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Суд начал процесс над бывшими чиновниками ГУСС за злоупотребления в Новороссийском порту",
+        "url": "https://www.kommersant.ru/doc/8892899",
+        "domain": "kommersant.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260819T121500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Viasat Selects Rocket Lab to Build Small GEO Satellite Bus for Space Force PTS - G Program – SatNews",
+        "url": "https://satnews.com/2026/08/18/viasat-selects-rocket-lab-to-build-small-geo-satellite-bus-for-space-force-pts-g-program/",
+        "domain": "satnews.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T003000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Индия и Армения расширяют военное сотрудничество : к чему приведет новый этап партнерства",
+        "url": "https://iz.ru/2151019/igor-karmazin/sploshnoi-kumar-kak-armeniia-ishchet-zamenu-rossii-v-sfere-bezopasnosti",
+        "domain": "iz.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260818T213000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "БМП Bradley – США ищут поставщика , который восстановит технику для Украины",
+        "url": "https://www.unian.net/weapons/bmp-bradley-ssha-ishchut-postavshchika-kotoryy-vosstanovit-tehniku-dlya-ukrainy-13473978.html",
+        "domain": "unian.net",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260818T201500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "RTX ( NYSE : RTX ) Secures $22 . 9 Billion Tomahawk Cruise Missile Contract With U . S . Navy In Seven - Year Production Deal",
+        "url": "https://www.foreignpolicyjournal.com/2026/08/18/rtx-nyse-rtx-secures-22-9-billion-tomahawk-cruise-missile-contract-with-u-s-navy-in-seven-year-production-deal/",
+        "domain": "foreignpolicyjournal.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T000000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Rocket One Launches Swarm Stage AI Drone - Swarm Threat Emulation Platform ... ",
+        "url": "https://www.pr-inside.com/rocket-one-launches-swarm-stage-ai-drone-swarm-threat-emulation-platform-r5213746.htm",
+        "domain": "pr-inside.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260818T211500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "大疆起诉美国国防部 ， 取得重要进展 _ 财经精选 _ 财经网 - CAIJING . COM . CN",
+        "url": "http://yuanchuang.caijing.com.cn/2026/0818/5177888.shtml",
+        "domain": "yuanchuang.caijing.com.cn",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260819T081500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Schiffbau : Griechische Werften setzen auf Wachstum mit Rüstungsprojekten",
+        "url": "https://www.handelsblatt.com/unternehmen/industrie/schiffbau-griechische-werften-setzen-auf-wachstum-mit-ruestungsprojekten/100247572.html",
+        "domain": "handelsblatt.com",
+        "language": "German",
+        "tone": 0,
+        "seendate": "20260819T023000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "ROCKET ONE INC : Rocket One Launches Swarm Stage AI Drone - Swarm Threat Emulation Platform for U . S . Military Counter - UAS",
+        "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69345750-rocket-one-inc-rocket-one-launches-swarm-stage-ai-drone-swarm-threat-emulation-platform-for-u-s-military-counter-uas-200.htm",
+        "domain": "finanznachrichten.de",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260818T210000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "  Армії РФ із 2022 року не існує . Української – теж . Глава Fire Point – про те , чому ЄС треба перестати рахувати гроші",
+        "url": "https://gordonua.com/ukr/section-war/news-armyy-rf-s-2022-hoda-ne-sushchestvuet-ukraynskoy-tozhe-hlava-fire-point-o-tom-pochemu-es-nuzhno-perestat-schytat-denhy-18-08-2026.html",
+        "domain": "gordonua.com",
+        "language": "Ukrainian",
+        "tone": 0,
+        "seendate": "20260818T204500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "One Of Russia Youngest Political Prisoners Turns 18 . And He Faces New Charges . ",
+        "url": "https://www.rferl.org/a/russia-teen-prisoner-protest-putin/33832932.html",
+        "domain": "rferl.org",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T080000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Rocket One Launches Swarm Stage AI Drone - Swarm Threat Emulation Platform for U . S . Military Counter - UAS",
+        "url": "http://www.newjerseytelegraph.com/news/279249953/rocket-one-launches-swarm-stage-ai-drone-swarm-threat-emulation-platform-for-us-military-counter-uas",
+        "domain": "newjerseytelegraph.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260818T224500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Rocket One Launches Swarm Stage AI Drone - Swarm Threat Emulation Platform for U . S . Military Counter - UAS",
+        "url": "http://www.tennesseedaily.com/news/279249953/rocket-one-launches-swarm-stage-ai-drone-swarm-threat-emulation-platform-for-us-military-counter-uas",
+        "domain": "tennesseedaily.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260818T210000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Rocket One Launches Swarm Stage AI Drone - Swarm Threat Emulation Platform for U . S . Military Counter - UAS",
+        "url": "http://www.hawaiitelegraph.com/news/279249953/rocket-one-launches-swarm-stage-ai-drone-swarm-threat-emulation-platform-for-us-military-counter-uas",
+        "domain": "hawaiitelegraph.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260818T210000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Rocket One Launches Swarm Stage AI Drone - Swarm Threat Emulation Platform for U . S . Military Counter - UAS",
+        "url": "http://www.californiatelegraph.com/news/279249953/rocket-one-launches-swarm-stage-ai-drone-swarm-threat-emulation-platform-for-us-military-counter-uas",
+        "domain": "californiatelegraph.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260818T210000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Rocket One Launches Swarm Stage AI Drone - Swarm Threat Emulation Platform for U . S . Military Counter - UAS",
+        "url": "http://www.baltimorestar.com/news/279249953/rocket-one-launches-swarm-stage-ai-drone-swarm-threat-emulation-platform-for-us-military-counter-uas",
+        "domain": "baltimorestar.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260818T214500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Coffee Break : Armed Madhouse - The Lonely Voice of Ted Postol",
+        "url": "https://www.nakedcapitalism.com/2026/08/coffee-break-armed-madhouse-the-lonely-voice-of-ted-postel.html",
+        "domain": "nakedcapitalism.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260818T200000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "US Antimony ( UAMY ) Q2 2026 Earnings Call Transcript",
+        "url": "https://www.fool.com/earnings/call-transcripts/2026/08/18/us-antimony-uamy-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+        "domain": "fool.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T011500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Кыргызстан - Индия : от торговли и образования до IT и военно - технического сотрудничества » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
+        "url": "https://gazeta.kg/exclusive/214581-kyrgyzstan-indija-ot-torgovli-i-obrazovanija-do-it-i-voenno-tehnicheskogo-sotrudnichestva.html",
+        "domain": "gazeta.kg",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260819T144500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "华尔街见闻早餐FM - Radio | 2026年8月19日",
+        "url": "https://wallstreetcn.com/articles/3779742",
+        "domain": "wallstreetcn.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260819T010000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Humacyte ( HUMA ) Q2 2026 Earnings Call Transcript",
+        "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/humacyte-huma-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+        "domain": "fool.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T144500Z",
+        "source": "GDELT"
+      }
+    ],
     "exchange_rates": [
       {
         "currency": "USD",
@@ -116,8 +369,225 @@
       }
     ]
   },
-  "entities": [],
-  "events": [],
+  "entities": [
+    {
+      "id": 1,
+      "name": "無人機國防標案爆中國製品 馬文君喊話 ： 國防部全面清查 | 政治 | 三立新聞網 SETN . COM",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260819T093000Z",
+      "source": "setn.com"
+    },
+    {
+      "id": 2,
+      "name": "台灣首例 涉用中國零件組軍用無人機 廠商被押 | 無人機採購 | 台灣陸軍第八軍團 | 台灣航見科技公司",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260819T004500Z",
+      "source": "ntdtv.com"
+    },
+    {
+      "id": 3,
+      "name": " 《 TAIPEI TIMES 》 Drone contractor allegedly ordered parts f",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260818T200000Z",
+      "source": "news.ltn.com.tw"
+    },
+    {
+      "id": 4,
+      "name": "美國陸軍MTC專案 韓國韓華航太 「 獨獲 」 訂單出口K9輪式自走砲 | 國際",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260819T093000Z",
+      "source": "newtalk.tw"
+    },
+    {
+      "id": 5,
+      "name": "Італія адаптує свою військову доктрину під епоху гібридних з",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260818T214500Z",
+      "source": "dsnews.ua"
+    },
+    {
+      "id": 6,
+      "name": "無人機國防標案爆中國製品負責人遭羈押 馬文君籲國防部全面清查 - 政治",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260819T071500Z",
+      "source": "news.ltn.com.tw"
+    },
+    {
+      "id": 7,
+      "name": "替换牵引炮 美军采购韩国卡车炮 提升火力机动性 _ 军事频道 _ 中华网",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260819T060000Z",
+      "source": "military.china.com"
+    },
+    {
+      "id": 8,
+      "name": "Суд начал процесс над бывшими чиновниками ГУСС за злоупотреб",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260819T121500Z",
+      "source": "kommersant.ru"
+    },
+    {
+      "id": 9,
+      "name": "Viasat Selects Rocket Lab to Build Small GEO Satellite Bus f",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260819T003000Z",
+      "source": "satnews.com"
+    },
+    {
+      "id": 10,
+      "name": "Индия и Армения расширяют военное сотрудничество : к чему пр",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260818T213000Z",
+      "source": "iz.ru"
+    }
+  ],
+  "events": [
+    {
+      "title": "無人機國防標案爆中國製品 馬文君喊話 ： 國防部全面清查 | 政治 | 三立新聞網 SETN . COM",
+      "url": "https://www.setn.com/news/1892062",
+      "domain": "setn.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260819T093000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "台灣首例 涉用中國零件組軍用無人機 廠商被押 | 無人機採購 | 台灣陸軍第八軍團 | 台灣航見科技公司",
+      "url": "https://www.ntdtv.com/b5/2026/08/18/a104125285.html",
+      "domain": "ntdtv.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260819T004500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": " 《 TAIPEI TIMES 》 Drone contractor allegedly ordered parts from Taobao - 焦點",
+      "url": "https://news.ltn.com.tw/news/focus/breakingnews/5544457",
+      "domain": "news.ltn.com.tw",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260818T200000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "美國陸軍MTC專案 韓國韓華航太 「 獨獲 」 訂單出口K9輪式自走砲 | 國際",
+      "url": "https://newtalk.tw/news/view/2026-08-19/1054426",
+      "domain": "newtalk.tw",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260819T093000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Італія адаптує свою військову доктрину під епоху гібридних загроз , ",
+      "url": "https://www.dsnews.ua/ukr/world/italiya-adaptuye-svoyu-viyskovu-doktrinu-pid-epohu-gibridnih-zagroz-szr-18082026-465722",
+      "domain": "dsnews.ua",
+      "language": "Ukrainian",
+      "tone": 0,
+      "seendate": "20260818T214500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "無人機國防標案爆中國製品負責人遭羈押 馬文君籲國防部全面清查 - 政治",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5545045",
+      "domain": "news.ltn.com.tw",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260819T071500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "替换牵引炮 美军采购韩国卡车炮 提升火力机动性 _ 军事频道 _ 中华网",
+      "url": "https://military.china.com/news/13004177/20260819/49685244.html",
+      "domain": "military.china.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260819T060000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Суд начал процесс над бывшими чиновниками ГУСС за злоупотребления в Новороссийском порту",
+      "url": "https://www.kommersant.ru/doc/8892899",
+      "domain": "kommersant.ru",
+      "language": "Russian",
+      "tone": 0,
+      "seendate": "20260819T121500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Viasat Selects Rocket Lab to Build Small GEO Satellite Bus for Space Force PTS - G Program – SatNews",
+      "url": "https://satnews.com/2026/08/18/viasat-selects-rocket-lab-to-build-small-geo-satellite-bus-for-space-force-pts-g-program/",
+      "domain": "satnews.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260819T003000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Индия и Армения расширяют военное сотрудничество : к чему приведет новый этап партнерства",
+      "url": "https://iz.ru/2151019/igor-karmazin/sploshnoi-kumar-kak-armeniia-ishchet-zamenu-rossii-v-sfere-bezopasnosti",
+      "domain": "iz.ru",
+      "language": "Russian",
+      "tone": 0,
+      "seendate": "20260818T213000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "БМП Bradley – США ищут поставщика , который восстановит технику для Украины",
+      "url": "https://www.unian.net/weapons/bmp-bradley-ssha-ishchut-postavshchika-kotoryy-vosstanovit-tehniku-dlya-ukrainy-13473978.html",
+      "domain": "unian.net",
+      "language": "Russian",
+      "tone": 0,
+      "seendate": "20260818T201500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "RTX ( NYSE : RTX ) Secures $22 . 9 Billion Tomahawk Cruise Missile Contract With U . S . Navy In Seven - Year Production Deal",
+      "url": "https://www.foreignpolicyjournal.com/2026/08/18/rtx-nyse-rtx-secures-22-9-billion-tomahawk-cruise-missile-contract-with-u-s-navy-in-seven-year-production-deal/",
+      "domain": "foreignpolicyjournal.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260819T000000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Rocket One Launches Swarm Stage AI Drone - Swarm Threat Emulation Platform ... ",
+      "url": "https://www.pr-inside.com/rocket-one-launches-swarm-stage-ai-drone-swarm-threat-emulation-platform-r5213746.htm",
+      "domain": "pr-inside.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260818T211500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "大疆起诉美国国防部 ， 取得重要进展 _ 财经精选 _ 财经网 - CAIJING . COM . CN",
+      "url": "http://yuanchuang.caijing.com.cn/2026/0818/5177888.shtml",
+      "domain": "yuanchuang.caijing.com.cn",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260819T081500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Schiffbau : Griechische Werften setzen auf Wachstum mit Rüstungsprojekten",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/schiffbau-griechische-werften-setzen-auf-wachstum-mit-ruestungsprojekten/100247572.html",
+      "domain": "handelsblatt.com",
+      "language": "German",
+      "tone": 0,
+      "seendate": "20260819T023000Z",
+      "source": "GDELT"
+    }
+  ],
   "timeseries": [],
   "llm_summary": "Pending API key..."
 }
