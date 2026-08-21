@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-21T02:09:41.306408+00:00",
+    "generated": "2026-08-21T07:25:30.520178+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -32,7 +32,188 @@
     }
   ],
   "live_data": {
-    "gdelt_articles": [],
+    "gdelt_articles": [
+      {
+        "title": "Арсен Жумаділов іде з посади керівника Агенції оборонних закупівель",
+        "url": "https://24tv.ua/arsen-zhumadilov-ide-posadi-kerivnika-agentsiyi-oboronnih-zakupivel_n3126927",
+        "domain": "24tv.ua",
+        "language": "Ukrainian",
+        "tone": 0,
+        "seendate": "20260820T113000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "保加利亞F - 16V交機大延宕 ！ 洛克希德馬丁生產線出問題 ， 最快2030年才能拿到 | 李靖棠 | 新聞",
+        "url": "https://www.storm.mg/article/11158185",
+        "domain": "storm.mg",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260820T123000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Жумаділов залишає АОЗ : 1 , 2 млн дронів і 45 , 8 млрд грн прострочених поставок",
+        "url": "https://delo.ua/oboronna-industriya/golovnii-zakupivelnik-minoboroni-ide-z-posadi-uspixi-provali-ta-skandali-arsena-zumadilova-471078/",
+        "domain": "delo.ua",
+        "language": "Ukrainian",
+        "tone": 0,
+        "seendate": "20260820T133000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Новые радары и борьба с дронами : как изменится система обороны Швейцарии",
+        "url": "https://military.pravda.ru/news/2392870-switzerland-air-defense-funding/",
+        "domain": "military.pravda.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260820T210000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Суд повторно рассмотрит дело о хищениях на ПАО Ил",
+        "url": "https://www.kommersant.ru/doc/8893683",
+        "domain": "kommersant.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260820T111500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Вашингтон руши баријере у НАТО арсеналу",
+        "url": "https://www.politika.rs/scc/clanak/779688/vasington-rusi-barijere-u-nato-arsenalu",
+        "domain": "politika.rs",
+        "language": "Serbian",
+        "tone": 0,
+        "seendate": "20260820T080000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Castelion 「 黑鬍子 」 低成本極音速飛彈公開 ， 美軍馬上要買一萬枚",
+        "url": "https://technews.tw/2026/08/21/castelion-officially-unveiled-its-blackbeard-low-cost-hypersonic-missile/",
+        "domain": "technews.tw",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260821T034500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Тендери і ТТХ на дрони - чому фронту загрожує зрив постачань",
+        "url": "https://www.rbc.ua/rus/news/chi-stane-brave1-ukrayinskoyu-darpa-ta-chi-1787138711.html",
+        "domain": "rbc.ua",
+        "language": "Ukrainian",
+        "tone": 0,
+        "seendate": "20260820T101500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Otkriveni detalji o beogradskom biznismenu koji je uhapšen zbog prevare od 4 , 9 miliona evra",
+        "url": "https://www.blic.rs/vesti/hronika/otkriveni-detalji-o-beogradskom-biznismenu-koji-je-uhapsen-zbog-prevare-od-49-miliona/sng2d7p",
+        "domain": "blic.rs",
+        "language": "Serbian",
+        "tone": 0,
+        "seendate": "20260821T043000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Станет ли Brave1 украинской DARPA и будет ли оружие на фронте : интервью с CEO Совета оружейников",
+        "url": "https://vv.com.ua/20260820/stanet-li-brave1-ykrainskoi-darpa-i-bydet-li-oryjie-na-fronte-intervu-s-ceo-soveta-oryjeinikov/",
+        "domain": "vv.com.ua",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260820T113000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "光州腾产令以产能换席位 ？ 细算韩美AI深度绑定战略账",
+        "url": "https://baijiahao.baidu.com/s?id=1874100584446105456",
+        "domain": "baijiahao.baidu.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260821T033000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "光州腾场令以产能换席位 ？ 细算韩美AI深度绑定战略账",
+        "url": "https://baijiahao.baidu.com/s?id=1874100599976902015",
+        "domain": "baijiahao.baidu.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260821T044500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "山姆 ， 终于又开始干正事了",
+        "url": "https://www.163.com/dy/article/L4RTFMD105118O92.html",
+        "domain": "163.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260821T044500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "光州腾产令以产能换席位 ？ 细算韩美AI深度绑定战略账",
+        "url": "https://finance.sina.com.cn/jjxw/2026-08-21/doc-ininzyev8189275.shtml",
+        "domain": "finance.sina.com.cn",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260821T033000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Forge Nano Breaks Ground on  America Battery Gigafactory  to Strengthen U . S . Defense Supply Chains",
+        "url": "https://www.azocleantech.com/news.aspx?newsID=36554",
+        "domain": "azocleantech.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T064500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Actele adoptate în ședința Guvernului României din 20 august 2026",
+        "url": "https://www.stiripesurse.ro/actele-adoptate-in-sedinta-guvernului-romaniei-din-20-august-2026_3913592",
+        "domain": "stiripesurse.ro",
+        "language": "Romanian",
+        "tone": 0,
+        "seendate": "20260820T101500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "HawkEye 360 ( HAWK ) Q2 2026 Earnings Call Transcript",
+        "url": "https://www.fool.com/earnings/call-transcripts/2026/08/20/hawkeye-360-hawk-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+        "domain": "fool.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260820T233000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "York Space Systems ( YSS ) Q2 2026 Earnings Call Transcript",
+        "url": "https://www.fool.com/earnings/call-transcripts/2026/08/20/york-space-systems-yss-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+        "domain": "fool.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260820T233000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": " [ 中报 ] 振宏股份 ( 920200 ): 2026年半年度报告 - CFi . CN 中财网",
+        "url": "http://www.cfi.net.cn/p20260820001572.html",
+        "domain": "cfi.net.cn",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260820T101500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "US Antimony ( UAMY ) Q2 2026 Earnings Call Transcript",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/us-antimony-uamy-q2-2026-231511276.html",
+        "domain": "finance.yahoo.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260820T113000Z",
+        "source": "GDELT"
+      }
+    ],
     "exchange_rates": [
       {
         "currency": "USD",
@@ -116,8 +297,225 @@
       }
     ]
   },
-  "entities": [],
-  "events": [],
+  "entities": [
+    {
+      "id": 1,
+      "name": "Арсен Жумаділов іде з посади керівника Агенції оборонних зак",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260820T113000Z",
+      "source": "24tv.ua"
+    },
+    {
+      "id": 2,
+      "name": "保加利亞F - 16V交機大延宕 ！ 洛克希德馬丁生產線出問題 ， 最快2030年才能拿到 | 李靖棠 | 新聞",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260820T123000Z",
+      "source": "storm.mg"
+    },
+    {
+      "id": 3,
+      "name": "Жумаділов залишає АОЗ : 1 , 2 млн дронів і 45 , 8 млрд грн п",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260820T133000Z",
+      "source": "delo.ua"
+    },
+    {
+      "id": 4,
+      "name": "Новые радары и борьба с дронами : как изменится система обор",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260820T210000Z",
+      "source": "military.pravda.ru"
+    },
+    {
+      "id": 5,
+      "name": "Суд повторно рассмотрит дело о хищениях на ПАО Ил",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260820T111500Z",
+      "source": "kommersant.ru"
+    },
+    {
+      "id": 6,
+      "name": "Вашингтон руши баријере у НАТО арсеналу",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260820T080000Z",
+      "source": "politika.rs"
+    },
+    {
+      "id": 7,
+      "name": "Castelion 「 黑鬍子 」 低成本極音速飛彈公開 ， 美軍馬上要買一萬枚",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T034500Z",
+      "source": "technews.tw"
+    },
+    {
+      "id": 8,
+      "name": "Тендери і ТТХ на дрони - чому фронту загрожує зрив постачань",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260820T101500Z",
+      "source": "rbc.ua"
+    },
+    {
+      "id": 9,
+      "name": "Otkriveni detalji o beogradskom biznismenu koji je uhapšen z",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T043000Z",
+      "source": "blic.rs"
+    },
+    {
+      "id": 10,
+      "name": "Станет ли Brave1 украинской DARPA и будет ли оружие на фронт",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260820T113000Z",
+      "source": "vv.com.ua"
+    }
+  ],
+  "events": [
+    {
+      "title": "Арсен Жумаділов іде з посади керівника Агенції оборонних закупівель",
+      "url": "https://24tv.ua/arsen-zhumadilov-ide-posadi-kerivnika-agentsiyi-oboronnih-zakupivel_n3126927",
+      "domain": "24tv.ua",
+      "language": "Ukrainian",
+      "tone": 0,
+      "seendate": "20260820T113000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "保加利亞F - 16V交機大延宕 ！ 洛克希德馬丁生產線出問題 ， 最快2030年才能拿到 | 李靖棠 | 新聞",
+      "url": "https://www.storm.mg/article/11158185",
+      "domain": "storm.mg",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260820T123000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Жумаділов залишає АОЗ : 1 , 2 млн дронів і 45 , 8 млрд грн прострочених поставок",
+      "url": "https://delo.ua/oboronna-industriya/golovnii-zakupivelnik-minoboroni-ide-z-posadi-uspixi-provali-ta-skandali-arsena-zumadilova-471078/",
+      "domain": "delo.ua",
+      "language": "Ukrainian",
+      "tone": 0,
+      "seendate": "20260820T133000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Новые радары и борьба с дронами : как изменится система обороны Швейцарии",
+      "url": "https://military.pravda.ru/news/2392870-switzerland-air-defense-funding/",
+      "domain": "military.pravda.ru",
+      "language": "Russian",
+      "tone": 0,
+      "seendate": "20260820T210000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Суд повторно рассмотрит дело о хищениях на ПАО Ил",
+      "url": "https://www.kommersant.ru/doc/8893683",
+      "domain": "kommersant.ru",
+      "language": "Russian",
+      "tone": 0,
+      "seendate": "20260820T111500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Вашингтон руши баријере у НАТО арсеналу",
+      "url": "https://www.politika.rs/scc/clanak/779688/vasington-rusi-barijere-u-nato-arsenalu",
+      "domain": "politika.rs",
+      "language": "Serbian",
+      "tone": 0,
+      "seendate": "20260820T080000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Castelion 「 黑鬍子 」 低成本極音速飛彈公開 ， 美軍馬上要買一萬枚",
+      "url": "https://technews.tw/2026/08/21/castelion-officially-unveiled-its-blackbeard-low-cost-hypersonic-missile/",
+      "domain": "technews.tw",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260821T034500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Тендери і ТТХ на дрони - чому фронту загрожує зрив постачань",
+      "url": "https://www.rbc.ua/rus/news/chi-stane-brave1-ukrayinskoyu-darpa-ta-chi-1787138711.html",
+      "domain": "rbc.ua",
+      "language": "Ukrainian",
+      "tone": 0,
+      "seendate": "20260820T101500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Otkriveni detalji o beogradskom biznismenu koji je uhapšen zbog prevare od 4 , 9 miliona evra",
+      "url": "https://www.blic.rs/vesti/hronika/otkriveni-detalji-o-beogradskom-biznismenu-koji-je-uhapsen-zbog-prevare-od-49-miliona/sng2d7p",
+      "domain": "blic.rs",
+      "language": "Serbian",
+      "tone": 0,
+      "seendate": "20260821T043000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Станет ли Brave1 украинской DARPA и будет ли оружие на фронте : интервью с CEO Совета оружейников",
+      "url": "https://vv.com.ua/20260820/stanet-li-brave1-ykrainskoi-darpa-i-bydet-li-oryjie-na-fronte-intervu-s-ceo-soveta-oryjeinikov/",
+      "domain": "vv.com.ua",
+      "language": "Russian",
+      "tone": 0,
+      "seendate": "20260820T113000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "光州腾产令以产能换席位 ？ 细算韩美AI深度绑定战略账",
+      "url": "https://baijiahao.baidu.com/s?id=1874100584446105456",
+      "domain": "baijiahao.baidu.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260821T033000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "光州腾场令以产能换席位 ？ 细算韩美AI深度绑定战略账",
+      "url": "https://baijiahao.baidu.com/s?id=1874100599976902015",
+      "domain": "baijiahao.baidu.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260821T044500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "山姆 ， 终于又开始干正事了",
+      "url": "https://www.163.com/dy/article/L4RTFMD105118O92.html",
+      "domain": "163.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260821T044500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "光州腾产令以产能换席位 ？ 细算韩美AI深度绑定战略账",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-21/doc-ininzyev8189275.shtml",
+      "domain": "finance.sina.com.cn",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260821T033000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Forge Nano Breaks Ground on  America Battery Gigafactory  to Strengthen U . S . Defense Supply Chains",
+      "url": "https://www.azocleantech.com/news.aspx?newsID=36554",
+      "domain": "azocleantech.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260821T064500Z",
+      "source": "GDELT"
+    }
+  ],
   "timeseries": [],
   "llm_summary": "Pending API key..."
 }
