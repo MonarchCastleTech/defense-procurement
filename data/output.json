@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-21T13:27:27.956457+00:00",
+    "generated": "2026-08-21T19:07:51.848172+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -32,7 +32,161 @@
     }
   ],
   "live_data": {
-    "gdelt_articles": [],
+    "gdelt_articles": [
+      {
+        "title": "Valstybės kontrolė : ginkluotės įsigijimų sistema nespėja atliepti kariuomenės poreikių",
+        "url": "https://www.vz.lt/verslo-aplinka/2026/08/21/valstybes-kontrole-ginkluotes-isigijimu-sistema-nespeja-atliepti-kariuomenes-poreikiu-589013",
+        "domain": "vz.lt",
+        "language": "Lithuanian",
+        "tone": 0,
+        "seendate": "20260821T090000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Karinės įrangos įsigijimų efektyvumas mažėja , neįvykusių pirkimų dalis išaugo 2 , 5 karto",
+        "url": "https://www.respublika.lt/lt/naujienos/lietuva/kitos-lietuvos-zinios/karines-irangos-isigijimu-efektyvumas-mazeja-neivykusiu-pirkimu-dalis-isaugo-25-karto/",
+        "domain": "respublika.lt",
+        "language": "Lithuanian",
+        "tone": 0,
+        "seendate": "20260821T084500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Contracts for Aug . 20 , 2026",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/08/dod-contracts_4578834.htm",
+        "domain": "globalsecurity.org",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T111500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Новые радары и борьба с дронами : как изменится система обороны Швейцарии",
+        "url": "https://military.pravda.ru/news/2392870-switzerland-air-defense-funding/",
+        "domain": "military.pravda.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260820T210000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Castelion 「 黑鬍子 」 低成本極音速飛彈公開 ， 美軍馬上要買一萬枚",
+        "url": "https://technews.tw/2026/08/21/castelion-officially-unveiled-its-blackbeard-low-cost-hypersonic-missile/",
+        "domain": "technews.tw",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260821T034500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "XTEND US X - Strike enters Pentagon Drone Dominance Program",
+        "url": "http://www.jpost.com/defense-and-tech/article-906205",
+        "domain": "jpost.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T163000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Otkriveni detalji o beogradskom biznismenu koji je uhapšen zbog prevare od 4 , 9 miliona evra",
+        "url": "https://www.blic.rs/vesti/hronika/otkriveni-detalji-o-beogradskom-biznismenu-koji-je-uhapsen-zbog-prevare-od-49-miliona/sng2d7p",
+        "domain": "blic.rs",
+        "language": "Serbian",
+        "tone": 0,
+        "seendate": "20260821T043000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Мобілізація жінок в Україні у 2026 році : кого можуть призвати і чи заборонять виїзд , Фокус",
+        "url": "https://focus.ua/uk/eksklyuzivy/765305-mobilizaciya-zhinok-v-ukrajini-u-2026-roci-kogo-mozhut-prizvati-i-chi-zaboronyat-vijizd-fokus",
+        "domain": "focus.ua",
+        "language": "Ukrainian",
+        "tone": 0,
+        "seendate": "20260821T144500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Mindaugas Sinkevičius : tokie tempai manęs netenkina – šiemet panaudota 37 proc . lėšų",
+        "url": "https://m.kauno.diena.lt/naujienos/verslas/ekonomika/mindaugas-sinkevicius-tokie-tempai-manes-netenkina-siemet-panaudota-37-proc-lesu-1771105",
+        "domain": "m.kauno.diena.lt",
+        "language": "Lithuanian",
+        "tone": 0,
+        "seendate": "20260821T100000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "光州腾产令以产能换席位 ？ 细算韩美AI深度绑定战略账",
+        "url": "https://baijiahao.baidu.com/s?id=1874100584446105456",
+        "domain": "baijiahao.baidu.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260821T033000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "光州腾场令以产能换席位 ？ 细算韩美AI深度绑定战略账",
+        "url": "https://baijiahao.baidu.com/s?id=1874100599976902015",
+        "domain": "baijiahao.baidu.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260821T044500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "山姆 ， 终于又开始干正事了",
+        "url": "https://www.163.com/dy/article/L4RTFMD105118O92.html",
+        "domain": "163.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260821T044500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "光州腾产令以产能换席位 ？ 细算韩美AI深度绑定战略账",
+        "url": "https://finance.sina.com.cn/jjxw/2026-08-21/doc-ininzyev8189275.shtml",
+        "domain": "finance.sina.com.cn",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260821T033000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Forge Nano Breaks Ground on  America Battery Gigafactory  to Strengthen U . S . Defense Supply Chains",
+        "url": "https://www.azocleantech.com/news.aspx?newsID=36554",
+        "domain": "azocleantech.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T064500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "HawkEye 360 ( HAWK ) Q2 2026 Earnings Call Transcript",
+        "url": "https://www.fool.com/earnings/call-transcripts/2026/08/20/hawkeye-360-hawk-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+        "domain": "fool.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260820T233000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "York Space Systems ( YSS ) Q2 2026 Earnings Call Transcript",
+        "url": "https://www.fool.com/earnings/call-transcripts/2026/08/20/york-space-systems-yss-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+        "domain": "fool.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260820T233000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Михаил Федоров , интервью – протесты и увольнения , коррупция , выборы в Украине",
+        "url": "https://24tv.ua/ru/mihail-fedorov-intervju-protesty-i-uvolnenija-korrupcija-vybory-v-ukraine_n3127599",
+        "domain": "24tv.ua",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260821T163000Z",
+        "source": "GDELT"
+      }
+    ],
     "exchange_rates": [
       {
         "currency": "USD",
@@ -116,8 +270,225 @@
       }
     ]
   },
-  "entities": [],
-  "events": [],
+  "entities": [
+    {
+      "id": 1,
+      "name": "Valstybės kontrolė : ginkluotės įsigijimų sistema nespėja at",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T090000Z",
+      "source": "vz.lt"
+    },
+    {
+      "id": 2,
+      "name": "Karinės įrangos įsigijimų efektyvumas mažėja , neįvykusių pi",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T084500Z",
+      "source": "respublika.lt"
+    },
+    {
+      "id": 3,
+      "name": "Contracts for Aug . 20 , 2026",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T111500Z",
+      "source": "globalsecurity.org"
+    },
+    {
+      "id": 4,
+      "name": "Новые радары и борьба с дронами : как изменится система обор",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260820T210000Z",
+      "source": "military.pravda.ru"
+    },
+    {
+      "id": 5,
+      "name": "Castelion 「 黑鬍子 」 低成本極音速飛彈公開 ， 美軍馬上要買一萬枚",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T034500Z",
+      "source": "technews.tw"
+    },
+    {
+      "id": 6,
+      "name": "XTEND US X - Strike enters Pentagon Drone Dominance Program",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T163000Z",
+      "source": "jpost.com"
+    },
+    {
+      "id": 7,
+      "name": "Otkriveni detalji o beogradskom biznismenu koji je uhapšen z",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T043000Z",
+      "source": "blic.rs"
+    },
+    {
+      "id": 8,
+      "name": "Мобілізація жінок в Україні у 2026 році : кого можуть призва",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T144500Z",
+      "source": "focus.ua"
+    },
+    {
+      "id": 9,
+      "name": "Mindaugas Sinkevičius : tokie tempai manęs netenkina – šieme",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T100000Z",
+      "source": "m.kauno.diena.lt"
+    },
+    {
+      "id": 10,
+      "name": "光州腾产令以产能换席位 ？ 细算韩美AI深度绑定战略账",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T033000Z",
+      "source": "baijiahao.baidu.com"
+    }
+  ],
+  "events": [
+    {
+      "title": "Valstybės kontrolė : ginkluotės įsigijimų sistema nespėja atliepti kariuomenės poreikių",
+      "url": "https://www.vz.lt/verslo-aplinka/2026/08/21/valstybes-kontrole-ginkluotes-isigijimu-sistema-nespeja-atliepti-kariuomenes-poreikiu-589013",
+      "domain": "vz.lt",
+      "language": "Lithuanian",
+      "tone": 0,
+      "seendate": "20260821T090000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Karinės įrangos įsigijimų efektyvumas mažėja , neįvykusių pirkimų dalis išaugo 2 , 5 karto",
+      "url": "https://www.respublika.lt/lt/naujienos/lietuva/kitos-lietuvos-zinios/karines-irangos-isigijimu-efektyvumas-mazeja-neivykusiu-pirkimu-dalis-isaugo-25-karto/",
+      "domain": "respublika.lt",
+      "language": "Lithuanian",
+      "tone": 0,
+      "seendate": "20260821T084500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Contracts for Aug . 20 , 2026",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/08/dod-contracts_4578834.htm",
+      "domain": "globalsecurity.org",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260821T111500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Новые радары и борьба с дронами : как изменится система обороны Швейцарии",
+      "url": "https://military.pravda.ru/news/2392870-switzerland-air-defense-funding/",
+      "domain": "military.pravda.ru",
+      "language": "Russian",
+      "tone": 0,
+      "seendate": "20260820T210000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Castelion 「 黑鬍子 」 低成本極音速飛彈公開 ， 美軍馬上要買一萬枚",
+      "url": "https://technews.tw/2026/08/21/castelion-officially-unveiled-its-blackbeard-low-cost-hypersonic-missile/",
+      "domain": "technews.tw",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260821T034500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "XTEND US X - Strike enters Pentagon Drone Dominance Program",
+      "url": "http://www.jpost.com/defense-and-tech/article-906205",
+      "domain": "jpost.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260821T163000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Otkriveni detalji o beogradskom biznismenu koji je uhapšen zbog prevare od 4 , 9 miliona evra",
+      "url": "https://www.blic.rs/vesti/hronika/otkriveni-detalji-o-beogradskom-biznismenu-koji-je-uhapsen-zbog-prevare-od-49-miliona/sng2d7p",
+      "domain": "blic.rs",
+      "language": "Serbian",
+      "tone": 0,
+      "seendate": "20260821T043000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Мобілізація жінок в Україні у 2026 році : кого можуть призвати і чи заборонять виїзд , Фокус",
+      "url": "https://focus.ua/uk/eksklyuzivy/765305-mobilizaciya-zhinok-v-ukrajini-u-2026-roci-kogo-mozhut-prizvati-i-chi-zaboronyat-vijizd-fokus",
+      "domain": "focus.ua",
+      "language": "Ukrainian",
+      "tone": 0,
+      "seendate": "20260821T144500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Mindaugas Sinkevičius : tokie tempai manęs netenkina – šiemet panaudota 37 proc . lėšų",
+      "url": "https://m.kauno.diena.lt/naujienos/verslas/ekonomika/mindaugas-sinkevicius-tokie-tempai-manes-netenkina-siemet-panaudota-37-proc-lesu-1771105",
+      "domain": "m.kauno.diena.lt",
+      "language": "Lithuanian",
+      "tone": 0,
+      "seendate": "20260821T100000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "光州腾产令以产能换席位 ？ 细算韩美AI深度绑定战略账",
+      "url": "https://baijiahao.baidu.com/s?id=1874100584446105456",
+      "domain": "baijiahao.baidu.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260821T033000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "光州腾场令以产能换席位 ？ 细算韩美AI深度绑定战略账",
+      "url": "https://baijiahao.baidu.com/s?id=1874100599976902015",
+      "domain": "baijiahao.baidu.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260821T044500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "山姆 ， 终于又开始干正事了",
+      "url": "https://www.163.com/dy/article/L4RTFMD105118O92.html",
+      "domain": "163.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260821T044500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "光州腾产令以产能换席位 ？ 细算韩美AI深度绑定战略账",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-21/doc-ininzyev8189275.shtml",
+      "domain": "finance.sina.com.cn",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260821T033000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Forge Nano Breaks Ground on  America Battery Gigafactory  to Strengthen U . S . Defense Supply Chains",
+      "url": "https://www.azocleantech.com/news.aspx?newsID=36554",
+      "domain": "azocleantech.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260821T064500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "HawkEye 360 ( HAWK ) Q2 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/20/hawkeye-360-hawk-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "domain": "fool.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260820T233000Z",
+      "source": "GDELT"
+    }
+  ],
   "timeseries": [],
   "llm_summary": "Pending API key..."
 }
