@@ -8,7 +8,7 @@ openrouter:
   model: "z-ai/glm-5.2:free"
   fallback_model: "google/gemma-4-31b-it:free"
 
-gdelt_query: "("defense contract" OR procurement OR "military contract")"
+gdelt_query: "(procurement OR contracting OR military OR defense)"
 include_forex: true
 
 sources:
