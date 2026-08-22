@@ -1,10 +1,11 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-22T13:11:03.150136+00:00",
+    "generated": "2026-08-22T15:03:04.571362+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
+      "defense_news",
       "exchange_rates"
     ],
     "version": "1.0.0"
@@ -32,7 +33,550 @@
     }
   ],
   "live_data": {
-    "gdelt_articles": [],
+    "gdelt_articles": [
+      {
+        "title": "Germany plans €12B long - range missile program in major defense strategy shift",
+        "url": "https://www.bankingnews.gr/diethni/articles/895035/germany-plans-12b-long-range-missile-program-in-major-defense-strategy-shift",
+        "domain": "bankingnews.gr",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T104500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Germany plans €12B long - range missile program in major defense strategy shift",
+        "url": "https://www.bankingnews.gr/diethni/articles/895039/germany-plans-12b-long-range-missile-program-in-major-defense-strategy-shift%20title=",
+        "domain": "bankingnews.gr",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T104500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Мисајловски : Армијата се модернизира со засилено темпо , од јануари и повисоки плати",
+        "url": "https://libertas.mk/misa-lovski-armi-ata-se-modernizira-so-zasileno-tempo-od-anuari-i-povisoki-plati/",
+        "domain": "libertas.mk",
+        "language": "Macedonian",
+        "tone": 0,
+        "seendate": "20260821T191500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Remote weapon systems to be supplied for Canadian armored vehicles",
+        "url": "https://militaryembedded.com/comms/vetronics/remote-weapon-systems-to-be-supplied-for-canadian-armored-vehicles",
+        "domain": "militaryembedded.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T213000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "XTEND US X - Strike enters Pentagon Drone Dominance Program",
+        "url": "http://www.jpost.com/defense-and-tech/article-906205",
+        "domain": "jpost.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T163000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美初创公司展示  廉价高超  武器 ， 计划明年部署 _ 凤凰网",
+        "url": "https://mil.ifeng.com/c/8vm5D9QCSWT",
+        "domain": "mil.ifeng.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260821T233000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "签署海洋安全合作备忘录 、 举行联合军演 … 日印为何强化防务合作",
+        "url": "https://news.ifeng.com/c/8vngW94JXLR",
+        "domain": "news.ifeng.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260822T103000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Misajlovski : major investments in the military , the US remains our main strategic ally",
+        "url": "https://english.republika.mk/macedonia/misajlovski-major-investments-in-the-military-the-us-remains-our-main-strategic-ally/",
+        "domain": "english.republika.mk",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T211500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Михаил Федоров , интервью – протесты и увольнения , коррупция , выборы в Украине",
+        "url": "https://24tv.ua/ru/mihail-fedorov-intervju-protesty-i-uvolnenija-korrupcija-vybory-v-ukraine_n3127599",
+        "domain": "24tv.ua",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260821T163000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "AMB GORDON SONDLAND : Our allies enjoyed a free ride trading with Iran . Trump is shutting that down",
+        "url": "https://www.wfmd.com/2026/08/22/amb-gordon-sondland-our-allies-enjoyed-a-free-ride-trading-with-iran-trump-is-shutting-that-down/",
+        "domain": "wfmd.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T111500Z",
+        "source": "GDELT"
+      }
+    ],
+    "defense_news": [
+      {
+        "title": "Виробництво ракет Tomahawk – США підписали контракт на $22 , 9 млрд Світ",
+        "url": "https://tsn.ua/svit/ssha-pryskoriuiut-vyrobnytstvo-raket-tomahawk-ukladeno-kontrakt-na-229-mlrd-3150569.html",
+        "domain": "tsn.ua",
+        "language": "Ukrainian",
+        "tone": 0,
+        "seendate": "20260818T064500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Valstybės kontrolė : ginkluotės įsigijimų sistema nespėja atliepti kariuomenės poreikių",
+        "url": "https://www.vz.lt/verslo-aplinka/2026/08/21/valstybes-kontrole-ginkluotes-isigijimu-sistema-nespeja-atliepti-kariuomenes-poreikiu-589013",
+        "domain": "vz.lt",
+        "language": "Lithuanian",
+        "tone": 0,
+        "seendate": "20260821T090000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "無人機國防標案爆中國製品 馬文君喊話 ： 國防部全面清查 | 政治 | 三立新聞網 SETN . COM",
+        "url": "https://www.setn.com/news/1892062",
+        "domain": "setn.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260819T093000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Two investigated for suspected military drone procurement fraud",
+        "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/18/2003862705",
+        "domain": "taipeitimes.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260818T073000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "台灣首例 涉用中國零件組軍用無人機 廠商被押 | 無人機採購 | 台灣陸軍第八軍團 | 台灣航見科技公司",
+        "url": "https://www.ntdtv.com/b5/2026/08/18/a104125285.html",
+        "domain": "ntdtv.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260819T004500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Drone contractor allegedly ordered parts from Taobao",
+        "url": "https://www.taipeitimes.com/News/front/archives/2026/08/19/2003862729",
+        "domain": "taipeitimes.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260818T173000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Арсен Жумаділов іде з посади керівника Агенції оборонних закупівель",
+        "url": "https://24tv.ua/arsen-zhumadilov-ide-posadi-kerivnika-agentsiyi-oboronnih-zakupivel_n3126927",
+        "domain": "24tv.ua",
+        "language": "Ukrainian",
+        "tone": 0,
+        "seendate": "20260820T113000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": " 《 TAIPEI TIMES 》 Drone contractor allegedly ordered parts from Taobao - 焦點",
+        "url": "https://news.ltn.com.tw/news/focus/breakingnews/5544457",
+        "domain": "news.ltn.com.tw",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260818T200000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "США нарощують виробництво Tomahawk з 60 до понад 1000 ракет на рік",
+        "url": "https://www.obozrevatel.com/ukr/novosti-mir/ssha-rizko-naroschuyut-virobnitstvo-raket-tomahawk-ukladeno-kontrakt-na-ponad-20-mlrd.htm",
+        "domain": "obozrevatel.com",
+        "language": "Ukrainian",
+        "tone": 0,
+        "seendate": "20260818T030000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "替换牵引炮 美军采购韩国卡车炮 _ 军事频道 _ 中华网",
+        "url": "https://military.china.com/important/64/20260820/49687226.html",
+        "domain": "military.china.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260820T041500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美军核基地点名采购大疆 国产替代完全不合格 ？_ 军事频道 _ 中华网",
+        "url": "https://military.china.com/photo/13004178/20260820/49687534.html",
+        "domain": "military.china.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260820T040000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Karinės įrangos įsigijimų efektyvumas mažėja , neįvykusių pirkimų dalis išaugo 2 , 5 karto",
+        "url": "https://www.respublika.lt/lt/naujienos/lietuva/kitos-lietuvos-zinios/karines-irangos-isigijimu-efektyvumas-mazeja-neivykusiu-pirkimu-dalis-isaugo-25-karto/",
+        "domain": "respublika.lt",
+        "language": "Lithuanian",
+        "tone": 0,
+        "seendate": "20260821T084500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Contracts for Aug . 17 , 2026",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/08/dod-contracts_4575681.htm",
+        "domain": "globalsecurity.org",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260818T101500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Італія посилює оборону : створять Об  єднане командування кіберрозвідки",
+        "url": "https://espreso.tv/svit-italiya-stvorit-obednane-komanduvannya-kiberrozvidki-ta-posilit-protidiyu-gibridnim-zagrozam-szr",
+        "domain": "espreso.tv",
+        "language": "Ukrainian",
+        "tone": 0,
+        "seendate": "20260818T154500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美國陸軍MTC專案 韓國韓華航太 「 獨獲 」 訂單出口K9輪式自走砲 | 國際",
+        "url": "https://newtalk.tw/news/view/2026-08-19/1054426",
+        "domain": "newtalk.tw",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260819T093000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "首例國防無人機採購涉犯國安法 ！ 航見科技負責人張東琳低價標得國防無人機採購案竟以中國晶片組無人機交貨收押 - 社會",
+        "url": "https://news.ltn.com.tw/news/society/breakingnews/5543422",
+        "domain": "news.ltn.com.tw",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260818T024500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Італія адаптує свою військову доктрину під епоху гібридних загроз , ",
+        "url": "https://www.dsnews.ua/ukr/world/italiya-adaptuye-svoyu-viyskovu-doktrinu-pid-epohu-gibridnih-zagroz-szr-18082026-465722",
+        "domain": "dsnews.ua",
+        "language": "Ukrainian",
+        "tone": 0,
+        "seendate": "20260818T214500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Germany plans €12B long - range missile program in major defense strategy shift",
+        "url": "https://www.bankingnews.gr/diethni/articles/895035/germany-plans-12b-long-range-missile-program-in-major-defense-strategy-shift",
+        "domain": "bankingnews.gr",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T104500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Germany plans €12B long - range missile program in major defense strategy shift",
+        "url": "https://www.bankingnews.gr/diethni/articles/895039/germany-plans-12b-long-range-missile-program-in-major-defense-strategy-shift%20title=",
+        "domain": "bankingnews.gr",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T104500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "保加利亞F - 16V交機大延宕 ！ 洛克希德馬丁生產線出問題 ， 最快2030年才能拿到 | 李靖棠 | 新聞",
+        "url": "https://www.storm.mg/article/11158185",
+        "domain": "storm.mg",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260820T123000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "無人機國防標案爆中國製品負責人遭羈押 馬文君籲國防部全面清查 - 政治",
+        "url": "https://news.ltn.com.tw/news/politics/breakingnews/5545045",
+        "domain": "news.ltn.com.tw",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260819T071500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "日本樂天不只做電商 ！ 聯手德國軍火巨頭 助陸自測試AI無人機",
+        "url": "https://def.ltn.com.tw/article/breakingnews/5542864",
+        "domain": "def.ltn.com.tw",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260817T094500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "日本印度将探讨共同研发军用无人机",
+        "url": "https://news.ifeng.com/c/8vdc9lTI83U",
+        "domain": "news.ifeng.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260817T010000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Жумаділов залишає АОЗ : 1 , 2 млн дронів і 45 , 8 млрд грн прострочених поставок",
+        "url": "https://delo.ua/oboronna-industriya/golovnii-zakupivelnik-minoboroni-ide-z-posadi-uspixi-provali-ta-skandali-arsena-zumadilova-471078/",
+        "domain": "delo.ua",
+        "language": "Ukrainian",
+        "tone": 0,
+        "seendate": "20260820T133000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "得標陸軍無人機採購 … 黑心公司涉混充 「 中國製晶片 」 交貨 ！ 負責人遭押 | 社會 | 三立新聞網 SETN . COM",
+        "url": "https://www.setn.com/news/1891223",
+        "domain": "setn.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260818T030000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Contracts for Aug . 20 , 2026",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/08/dod-contracts_4578834.htm",
+        "domain": "globalsecurity.org",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T111500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "替换牵引炮 美军采购韩国卡车炮 提升火力机动性 _ 军事频道 _ 中华网",
+        "url": "https://military.china.com/news/13004177/20260819/49685244.html",
+        "domain": "military.china.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260819T060000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "埃及会采购歼 - 10CE吗 技术脱困的诱惑 _ 军事频道 _ 中华网",
+        "url": "https://military.china.com/news/13004177/20260815/49677240.html",
+        "domain": "military.china.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260815T154500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "首例國防無人機採購涉犯國安法案 橋檢向法院聲請羈押禁見獲准 | 社會",
+        "url": "https://newtalk.tw/news/view/2026-08-18/1054070",
+        "domain": "newtalk.tw",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260818T064500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Lietuva ruošiasi kitai SAFE paskolos išmokai – prašymą pateiks iki rugsėjo pabaigos",
+        "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3022112/lietuva-ruosiasi-kitai-safe-paskolos-ismokai-prasyma-pateiks-iki-rugsejo-pabaigos",
+        "domain": "lrt.lt",
+        "language": "Lithuanian",
+        "tone": 0,
+        "seendate": "20260815T233000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Левица : 34 години македонска армија , со преку 4 % од БДП - то за одбрана до најслаба војска во регионот",
+        "url": "https://telma.com.mk/2026/08/18/levicza-34-godini-makedonska-armija-so-preku-4-od-bdp-to-za-odbrana-do-najslaba-vojska-vo-regionot/",
+        "domain": "telma.com.mk",
+        "language": "Macedonian",
+        "tone": 0,
+        "seendate": "20260818T104500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美台簽署38億海軍後勤大單 維持我國反潛直升機丶艦載飛彈妥善率",
+        "url": "https://def.ltn.com.tw/article/breakingnews/5545977",
+        "domain": "def.ltn.com.tw",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260820T023000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Суд начал процесс над бывшими чиновниками ГУСС за злоупотребления в Новороссийском порту",
+        "url": "https://www.kommersant.ru/doc/8892899",
+        "domain": "kommersant.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260819T121500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Pentagon Paid Code Metal $80M to Prove Wargame AI Wont Break Old Simulations",
+        "url": "https://www.techtimes.com/articles/324602/20260815/pentagon-paid-code-metal-80m-prove-wargame-ai-wont-break-old-simulations.htm",
+        "domain": "techtimes.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260815T173000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Мисајловски : Армијата се модернизира со засилено темпо , од јануари и повисоки плати",
+        "url": "https://libertas.mk/misa-lovski-armi-ata-se-modernizira-so-zasileno-tempo-od-anuari-i-povisoki-plati/",
+        "domain": "libertas.mk",
+        "language": "Macedonian",
+        "tone": 0,
+        "seendate": "20260821T191500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Slovenija nabavlja 3 . 000 raketa zrak - zemlja za potrebe Slovenske vojske",
+        "url": "https://www.federalna.ba/slovenija-nabavlja-3000-raketa-zrak-zemlja-za-potrebe-slovenske-vojske-fdwkb",
+        "domain": "federalna.ba",
+        "language": "Bosnian",
+        "tone": 0,
+        "seendate": "20260818T174500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Пентагон заключил контракт на $23 млрд по производству Tomahawk",
+        "url": "https://news.mail.ru/politics/72029368/",
+        "domain": "news.mail.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260818T063000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Time . ai",
+        "url": "https://time.mk/ai/dcdaedc593/mk/",
+        "domain": "time.mk",
+        "language": "Macedonian",
+        "tone": 0,
+        "seendate": "20260818T063000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Viasat Selects Rocket Lab to Build Small GEO Satellite Bus for Space Force PTS - G Program – SatNews",
+        "url": "https://satnews.com/2026/08/18/viasat-selects-rocket-lab-to-build-small-geo-satellite-bus-for-space-force-pts-g-program/",
+        "domain": "satnews.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T003000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Индия и Армения расширяют военное сотрудничество : к чему приведет новый этап партнерства",
+        "url": "https://iz.ru/2151019/igor-karmazin/sploshnoi-kumar-kak-armeniia-ishchet-zamenu-rossii-v-sfere-bezopasnosti",
+        "domain": "iz.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260818T213000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Новые радары и борьба с дронами : как изменится система обороны Швейцарии",
+        "url": "https://military.pravda.ru/news/2392870-switzerland-air-defense-funding/",
+        "domain": "military.pravda.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260820T210000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "The dwindling shield and the regional security equation",
+        "url": "https://www.arabnews.com/node/2654802",
+        "domain": "arabnews.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260815T223000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Пентагон заключил с Raytheon контракт на $22 , 9 млрд для ускорения производства Tomahawk",
+        "url": "https://profile.ru/news/abroad/pentagon-zakljuchil-s-raytheon-kontrakt-na-22-9-mlrd-dlya-uskoreniya-proizvodstva-tomahawk-1892274/",
+        "domain": "profile.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260818T111500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": " [ 단독 ] 北 감시  하늘의 눈  레이더 두뇌 단종 … E - 737 성능개량",
+        "url": "https://segye.com:443/newsView/20260818512958",
+        "domain": "segye.com",
+        "language": "Korean",
+        "tone": 0,
+        "seendate": "20260818T054500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "БМП Bradley – США ищут поставщика , который восстановит технику для Украины",
+        "url": "https://www.unian.net/weapons/bmp-bradley-ssha-ishchut-postavshchika-kotoryy-vosstanovit-tehniku-dlya-ukrainy-13473978.html",
+        "domain": "unian.net",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260818T201500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Vijetnam jača flotu zbog Kine : Sve češće pretnje naterale ih na zanimljivo ulaganje",
+        "url": "https://www.telegraf.rs/vesti/svet/4377437-vijetnam-jaca-flotu-zbog-kine-sve-cesce-pretnje-naterale-ih-na-zanimljivo-ulaganje",
+        "domain": "telegraf.rs",
+        "language": "Serbian",
+        "tone": 0,
+        "seendate": "20260817T050000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Суд повторно рассмотрит дело о хищениях на ПАО Ил",
+        "url": "https://www.kommersant.ru/doc/8893683",
+        "domain": "kommersant.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260820T111500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "2 , 5 milyar dolar dev büte ayrýldý : 16 adet Gripen savaþ uça askeri üsse geliyor",
+        "url": "https://www.star.com.tr/savunma/25-milyar-dolar-dev-butce-ayrildi-16-adet-gripen-savas-ucagi-askeri-usse-geliyor-haber-2034413/",
+        "domain": "star.com.tr",
+        "language": "Turkish",
+        "tone": 0,
+        "seendate": "20260817T103000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ереван делает ставку на Индию : что это меняет для Баку",
+        "url": "https://zerkalo.az/erevan-delaet-stavku-na-indiyu-chto-eto-menyaet-dlya-baku/",
+        "domain": "zerkalo.az",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260818T171500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": " 【 名家专栏 】 中共被曝向伊朗提供肩扛式导弹",
+        "url": "https://www.epochtimes.com/gb/26/8/15/n14830536.htm",
+        "domain": "epochtimes.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260815T174500Z",
+        "source": "GDELT"
+      }
+    ],
     "exchange_rates": [
       {
         "currency": "USD",
@@ -116,8 +660,180 @@
       }
     ]
   },
-  "entities": [],
-  "events": [],
+  "entities": [
+    {
+      "id": 1,
+      "name": "Germany plans €12B long - range missile program in major def",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260822T104500Z",
+      "source": "bankingnews.gr"
+    },
+    {
+      "id": 2,
+      "name": "Germany plans €12B long - range missile program in major def",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260822T104500Z",
+      "source": "bankingnews.gr"
+    },
+    {
+      "id": 3,
+      "name": "Мисајловски : Армијата се модернизира со засилено темпо , од",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T191500Z",
+      "source": "libertas.mk"
+    },
+    {
+      "id": 4,
+      "name": "Remote weapon systems to be supplied for Canadian armored ve",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T213000Z",
+      "source": "militaryembedded.com"
+    },
+    {
+      "id": 5,
+      "name": "XTEND US X - Strike enters Pentagon Drone Dominance Program",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T163000Z",
+      "source": "jpost.com"
+    },
+    {
+      "id": 6,
+      "name": "美初创公司展示  廉价高超  武器 ， 计划明年部署 _ 凤凰网",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T233000Z",
+      "source": "mil.ifeng.com"
+    },
+    {
+      "id": 7,
+      "name": "签署海洋安全合作备忘录 、 举行联合军演 … 日印为何强化防务合作",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260822T103000Z",
+      "source": "news.ifeng.com"
+    },
+    {
+      "id": 8,
+      "name": "Misajlovski : major investments in the military , the US rem",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T211500Z",
+      "source": "english.republika.mk"
+    },
+    {
+      "id": 9,
+      "name": "Михаил Федоров , интервью – протесты и увольнения , коррупци",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T163000Z",
+      "source": "24tv.ua"
+    },
+    {
+      "id": 10,
+      "name": "AMB GORDON SONDLAND : Our allies enjoyed a free ride trading",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260822T111500Z",
+      "source": "wfmd.com"
+    }
+  ],
+  "events": [
+    {
+      "title": "Germany plans €12B long - range missile program in major defense strategy shift",
+      "url": "https://www.bankingnews.gr/diethni/articles/895035/germany-plans-12b-long-range-missile-program-in-major-defense-strategy-shift",
+      "domain": "bankingnews.gr",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260822T104500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Germany plans €12B long - range missile program in major defense strategy shift",
+      "url": "https://www.bankingnews.gr/diethni/articles/895039/germany-plans-12b-long-range-missile-program-in-major-defense-strategy-shift%20title=",
+      "domain": "bankingnews.gr",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260822T104500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Мисајловски : Армијата се модернизира со засилено темпо , од јануари и повисоки плати",
+      "url": "https://libertas.mk/misa-lovski-armi-ata-se-modernizira-so-zasileno-tempo-od-anuari-i-povisoki-plati/",
+      "domain": "libertas.mk",
+      "language": "Macedonian",
+      "tone": 0,
+      "seendate": "20260821T191500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Remote weapon systems to be supplied for Canadian armored vehicles",
+      "url": "https://militaryembedded.com/comms/vetronics/remote-weapon-systems-to-be-supplied-for-canadian-armored-vehicles",
+      "domain": "militaryembedded.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260821T213000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "XTEND US X - Strike enters Pentagon Drone Dominance Program",
+      "url": "http://www.jpost.com/defense-and-tech/article-906205",
+      "domain": "jpost.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260821T163000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "美初创公司展示  廉价高超  武器 ， 计划明年部署 _ 凤凰网",
+      "url": "https://mil.ifeng.com/c/8vm5D9QCSWT",
+      "domain": "mil.ifeng.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260821T233000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "签署海洋安全合作备忘录 、 举行联合军演 … 日印为何强化防务合作",
+      "url": "https://news.ifeng.com/c/8vngW94JXLR",
+      "domain": "news.ifeng.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260822T103000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Misajlovski : major investments in the military , the US remains our main strategic ally",
+      "url": "https://english.republika.mk/macedonia/misajlovski-major-investments-in-the-military-the-us-remains-our-main-strategic-ally/",
+      "domain": "english.republika.mk",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260821T211500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Михаил Федоров , интервью – протесты и увольнения , коррупция , выборы в Украине",
+      "url": "https://24tv.ua/ru/mihail-fedorov-intervju-protesty-i-uvolnenija-korrupcija-vybory-v-ukraine_n3127599",
+      "domain": "24tv.ua",
+      "language": "Russian",
+      "tone": 0,
+      "seendate": "20260821T163000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "AMB GORDON SONDLAND : Our allies enjoyed a free ride trading with Iran . Trump is shutting that down",
+      "url": "https://www.wfmd.com/2026/08/22/amb-gordon-sondland-our-allies-enjoyed-a-free-ride-trading-with-iran-trump-is-shutting-that-down/",
+      "domain": "wfmd.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260822T111500Z",
+      "source": "GDELT"
+    }
+  ],
   "timeseries": [],
   "llm_summary": ""
 }
