@@ -1,13 +1,15 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-23T13:13:54.443959+00:00",
+    "generated": "2026-08-23T19:01:02.052894+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
       "exchange_rates"
     ],
-    "source_notes": [],
+    "source_notes": [
+      "GDELT unavailable; headlines sourced via Google News RSS fallback."
+    ],
     "version": "1.1.0"
   },
   "stats": [
@@ -18,7 +20,7 @@
     },
     {
       "label": "News Domains",
-      "value": "43",
+      "value": "42",
       "delta": "deduplicated"
     },
     {
@@ -35,454 +37,454 @@
   "live_data": {
     "gdelt_articles": [
       {
-        "title": "國防專家憂心 … 無人機國家隊缺長期戰略 恐淪提款機國家隊 | 軍事 | 要聞",
-        "url": "https://udn.com/news/story/10930/9708285",
-        "domain": "udn.com",
-        "language": "Chinese",
+        "title": "Zelenskyy details rift with Ukraine’s dismissed defense minister Fedorov",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONV81OVhGQUZYeXc2ZU5aQUlwZWRCdGU5OGlqdllsZXVZbEtJQzVXQ05ZMlZVRlVua0xUdDRpVmg3b25KRnNUbEVPc1JhQks5OHlPYi13RDdleGNxM2tlWnV2TUxYMXRsenNSN3VmdEoycFVSaFNEVll5Um1fOUFxbUNac3lfM1pTbTg3WVpHd21IdnU3R1ZkS2dyai0?oc=5",
+        "domain": "apnews",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T171500Z",
-        "source": "GDELT"
+        "seendate": "20260823T161600Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Зеленский объявил о дефиците средств на оборону",
-        "url": "https://lenta.ru/news/2026/08/23/zelenskiy-ob-yavil-o-defitsite-sredstv-na-oboronu/",
-        "domain": "lenta.ru",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260823T121500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Taiwan Tech Company Head Detained Over China - Made Parts in Military Drone Contract",
-        "url": "https://www.theepochtimes.com/china/taiwan-tech-company-head-detained-over-china-made-parts-in-military-drone-contract-6078469",
-        "domain": "theepochtimes.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260823T014500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "В Минобороны ФРГ сравнили поставки оружия с покупками в IKEA",
-        "url": "https://lenta.ru/news/2026/08/23/v-minoborony-frg-sravnili-postavki-oruzhiya-s-pokupkami-v-ikea/",
-        "domain": "lenta.ru",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260823T121500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Тайные отряды рвут последний оплот ВСУ : главная новость СВО 22 августа",
-        "url": "https://aif.ru/society/taynye-otryady-rvut-posledniy-oplot-vsu-glavnaya-novost-svo-22-avgusta",
-        "domain": "aif.ru",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260822T174500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Израилю не хватает боеприпасов и резервистов : оборонный бюджет увеличат – СМИ | MigNews - Новости Израиля и Мира на русском языке",
-        "url": "http://mignews.com/news/politic/izrailyu-ne-hvataet-boepripasov-i-rezervistov-oboronnyj-byudzhet-uvelichat-smi.html",
-        "domain": "mignews.com",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260823T114500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Saudi Arabia signs $1 . 16bn battery storage deals for 2 GW",
-        "url": "https://www.arabnews.com/node/2655593/business-economy",
-        "domain": "arabnews.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260823T113000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "砸4200億打造 「 長臂殺手鐧 」 德國密件曝戰斧 、 極音速武器全上陣 - 國際",
-        "url": "https://www.chinatimes.com/realtimenews/20260822002941-260408",
-        "domain": "chinatimes.com",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260822T131500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Ather Energy Breaks Into Canteen Stores Department , Bringing Electric Scooters to Army Canteens",
-        "url": "https://idrw.org/ather-energy-breaks-into-canteen-stores-department-bringing-electric-scooters-to-army-canteens/",
-        "domain": "idrw.org",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260822T133000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "賴清德暴雨中追思823提醒國人 「 天下雖平 、 忘戰必危 」 和平協議換來屈辱",
-        "url": "https://n.yam.com/Article/20260823944197",
-        "domain": "n.yam.com",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260823T061500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "滂沱雨中紀念八二三 賴總統 ： 盼朝野秉持反共保台精神支持國防 | 政治 | 要聞",
-        "url": "https://udn.com/news/story/6656/9708798",
-        "domain": "udn.com",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260823T050000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  Auch für Katastropheneinsatz  – Bundesheer - Jets sollen jetzt Waldbrände löschen",
-        "url": "https://www.heute.at/s/bundesheer-jets-sollen-jetzt-waldbraende-loeschen-120241731",
-        "domain": "heute.at",
-        "language": "German",
-        "tone": 0,
-        "seendate": "20260822T213000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Inside America Drone Arms Race : What Industry Experts See Ahead Of Procurement Supercycle",
-        "url": "https://www.zerohedge.com/military/inside-americas-drone-arms-race-what-industry-insiders-see-ahead-procurement-supercycle",
-        "domain": "zerohedge.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260823T063000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "賴清德 ： 和平協議只換來屈辱 823勝利是以實力確保和平最佳證明 | ETtoday政治新聞",
-        "url": "https://www.ettoday.net/news/20260823/3224181.htm",
-        "domain": "ettoday.net",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260823T044500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "823金門較勁 ！ 鄭麗文籲承認九二共識 賴清德 ： 盼朝野反共保台支持國防預算 | 政治",
-        "url": "https://newtalk.tw/news/view/2026-08-23/1055133",
-        "domain": "newtalk.tw",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260823T064500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Ex ministro Fedorov ,  Zelensky ha domande a cui rispondere su corruzione governo  - Ultima ora",
-        "url": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/ex-ministro-fedorov-zelensky-ha-domande-a-cui-rispondere-su-corruzione-governo_82fa2cf9-aa16-4546-ac27-676d4e8ea449.html",
-        "domain": "ansa.it",
-        "language": "Italian",
+        "title": "Exclusive | Russia Tests Readiness for New Round of Military Mobilization",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRm5UM3FpTktzX3FaLTFUN2ZFaHNOQ3hTTEstckJfUS1JQlRSOHFXNnlRZ3BMSXNuRVlJSzJXZEdlV1JlQXU4a1FNZGpyTjFqZXJhZmd4Qm1ONTJFQlI0MGt1SXNtcFJvRVEyUjlHdlB0Sk5HSEtvRDdvTHpvM3hvcXh3TUpOSER0VGczeDNEaUlwWG8xeEpzcUhNcktaSFdnWURtS1hR?oc=5",
+        "domain": "wsj",
+        "language": "",
         "tone": 0,
         "seendate": "20260823T093000Z",
-        "source": "GDELT"
+        "source": "GoogleNews"
       },
       {
-        "title": "Ex ministro Fedorov ,  Zelensky ha domande a cui rispondere su corruzione governo  - Notizie",
-        "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/23/ex-ministro-fedorov-zelensky-ha-domande-a-cui-rispondere-su-corruzione-governo_5a8c4dfe-a7d1-4cd7-b31d-e006173401d5.html",
-        "domain": "ansa.it",
-        "language": "Italian",
+        "title": "Mailbag: Will the run defense be improved?",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0VYZ2Fnc1NrdUNTRXdmM1lUaF8wdVdsRW4wZFR2blplY2lsTmpGZm9xWGdOYXNISExsUG5yaktkdDdkYTlzZ01oM1FHMTVFM2w1QmVEZlZsM3pxeWIxekhOMW54ZE5jdl9ROHRpRVNxRjBuQk9wUVlFWWkwS0VvaQ?oc=5",
+        "domain": "dallascowboys",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T120000Z",
-        "source": "GDELT"
+        "seendate": "20260823T154602Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "The future of Islamic NATO",
-        "url": "https://dailypioneer.com/news/the-future-of-islamic-nato",
-        "domain": "dailypioneer.com",
-        "language": "English",
+        "title": "Saudi Arabia, Turkey, Pakistan invited Iran to join newly-established Mecca defense pact - report",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80R3dhT053Yzh1RWhoLVZkaFprOWdVMUh3S0g0a1ZNZm41UTJuU1NRYlNkd2F0OV94b2N3MU9RWVRUV2hsQkdidktIR0VIMXNTeGlEZjgzMVJBYWZ0V0tSaWFKZFYyd0tkWWc?oc=5",
+        "domain": "thejerusalempost",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T083000Z",
-        "source": "GDELT"
+        "seendate": "20260823T121557Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Ексміністр оборони Резніков : чи бачив корупцію , чому не підтримує протести , про мобілізацію жінок та знову яйця по 17",
-        "url": "https://www.radiosvoboda.org/a/reznikov-minoborony-mobilizatsiya-zhinky/33835174.html",
-        "domain": "radiosvoboda.org",
-        "language": "Ukrainian",
+        "title": "Todd Bowles: The Defense is Setting The Tone | Press Conference",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWs5cWxfRHpXcUx4RlVQMVRYbnl6bFBqU0pqQThOcXNFUHdzdWhYQ1ZVVDJuaUotcmdWM2s4WVI4ajVHV3k3b2ZOSnZaeWhpOXRYTjN3SWExTXZZRlhhVnJIVjdLN0p2VENxTE5FUHR4RlJLTVdxMllDTnNyVXFSM3NMZktHdWhHY2E3bTdHamFyeVRMcjl5M0ZINUUxeWM?oc=5",
+        "domain": "tampabaybuccaneers",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T120000Z",
-        "source": "GDELT"
+        "seendate": "20260823T135422Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Германия потратит почти 12 миллиардов евро на сдерживание России ( Die Welt , Германия ) ",
-        "url": "https://inosmi.ru/20260823/germaniya-279812775.html",
-        "domain": "inosmi.ru",
-        "language": "Russian",
+        "title": "Zelensky Says His Ex-Defense Minister Was Wrong to Call for Elections",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNmIzbENIVk94WjJCTVJnUF85S0x2MkhRZHEyU0JjcWFwYU5RU1RfbkdDVjlYb3paYjdfd2Jxb2Zkak9LbG8wN1A1bXluSFlGaFhRYk5wV3UyX1d3WTltMTctRk5aYTdFSWhQemlsX1ZCcG1lNUc0NGFkUURkNHVkQWZ3RW1jX1BXemVLWjl0M0k?oc=5",
+        "domain": "thenewyorktimes",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T093000Z",
-        "source": "GDELT"
+        "seendate": "20260823T140959Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "八二三68週年 賴清德 ： 天下雖平 、 忘戰必危 ， 國防預算明年首破兆元",
-        "url": "https://n.yam.com/Article/20260823565736",
-        "domain": "n.yam.com",
-        "language": "Chinese",
+        "title": "Canada ‘doesn’t have a military,’ Duffy says as cross-border trade war ignites",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaTVGNXlKR1VBR3RVNVZxdFg2QXlBTGlQYmd2NHFpN0FydmNmSnNrT21sbWI5MWgtWEZERjh2MTZBMWRaTmFzY0FIOUlmdW93dkpmSmJFVU1fMGtKU09aeUxhU1N1MUNSOTNINWZsX0c5T1ZGZW1DMlhBbU1kNS1UQkttN3lBNEpFT0VqVFYtYXRVSzVEMGw0WlQ4SWI1MlhZYjB0Qw?oc=5",
+        "domain": "washingtonexaminer",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T093000Z",
-        "source": "GDELT"
+        "seendate": "20260823T151200Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Ex ministro Fedorov ,  Zelensky ha domande a cui rispondere su corruzione governo  ",
-        "url": "https://www.lagazzettadelmezzogiorno.it/news/ultima-ora/2102824/ex-ministro-fedorov-zelensky-ha-domande-a-cui-rispondere-su-corruzione-governo.html",
-        "domain": "lagazzettadelmezzogiorno.it",
-        "language": "Italian",
+        "title": "In Defense Of The Broccoli Heads",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuVm13TmoyVzFIaU9FYUVHUEZkeU85NHoxUXNFNTl3cGNTczJPdmc2azlGaEJkREJjeHV5TU1OT29QRDBIVnVCVVRyczA0MGdOQXMyemUtMjFkUERDaHZnME8yX1dOR2lNRWxYdmdn?oc=5",
+        "domain": "theautopian",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T111500Z",
-        "source": "GDELT"
+        "seendate": "20260823T154432Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Türk müteahhitlerin dünya sıralamasındaki yeri belli oldu : 48 firma listede",
-        "url": "https://t24.com.tr/ekonomi/turk-muteahhitlerin-dunya-siralamasindaki-yeri-belli-oldu-48-firma-listede,1343415",
-        "domain": "t24.com.tr",
-        "language": "Turkish",
+        "title": "Gov. DeSantis clears $9M for military ship building infrastructure in Pensacola",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHF4R1c3VVpjamttekZLcTJzRlYxekVZTnpYM0tJVHFVMmpsQUF5N0FDSjFDcVlGaUpGY011Z0d1d3hjUldVeWk5bjFrYnpJS1JDZG9lYTFOa1FEby01QmlZbHp2bnpNVXl1eW5oaTJWc1V4ZWRLVU5kNmkwYXBaWmRoakdHQjhEWnpmRFhrcVlodGZ2cl93TG9fOHRhWTNmcGoyN1ZFcWxUajJHTTNrMHFhUEtlYWl6cWtOVGgtMA?oc=5",
+        "domain": "floridapolitics",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T141500Z",
-        "source": "GDELT"
+        "seendate": "20260823T154500Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Busia ( Anac ) a Milano Finanza : ecco perché i contratti pubblici sono una leva di politica industriale e di crescita economica",
-        "url": "https://www.milanofinanza.it/news/busia-anac-a-milano-finanza-ecco-perche-i-contratti-pubblici-sono-una-leva-di-politica-industriale-e-202608211804579642",
-        "domain": "milanofinanza.it",
-        "language": "Italian",
+        "title": "Zelensky details rift with dismissed defense chief Federov, saying some of his actions were misguided",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOWdtTTVxcnhzV0hkaHBucVFFVW9fMDktSk9yN2FXcTI1aUVPeEJEeElhblh1VC1PSVM5Si1MMWc0aWtlcDNLekVXajF1YzI4cnN2RVgzdDU0eHp2VXJFVXM2c1pJLTR6bF9nZ1hVLUxSQjQ1emhoTnNFOHRyTzZ2NTJqaERuUS1lRFZneXYxRVR6bzJFelZOZTYwVlhmVTFDMGtrWkJTTi1DOTlkU3c?oc=5",
+        "domain": "losangelestimes",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T193000Z",
-        "source": "GDELT"
+        "seendate": "20260823T171045Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Cimic ( ACS ) pagará un dividendo de 73 millones tras el  boom  de adjudicaciones en centros de datos y defensa",
-        "url": "https://www.economiadigital.es/empresas/cimic-acs-pagara-dividendo-73-millones-boom-adjudicaciones-centros-datos-defensa.html",
-        "domain": "economiadigital.es",
-        "language": "Spanish",
+        "title": "Man fatally shot in Frankford, gunman claims self defense",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSGtYcDVLbXplWklRZWdfUUhLZnhlM3dmaV9GVFkxZl92aHJxeUhSWndwLU5zYmhpZnotNDdnVkpkMVhvOFVyemotTjJ3T2R5ZG1vNjRwdzBpWUhmRGgzU2szbTVuZjNXUm16OExmNUJPdWVJVlFIWkdzbUpCOXRUXzBRbDlJcHfSAYwBQVVfeXFMT1ZLdFo1VnZLLWVZU1RTMnRTQTBGdkhXdFlxcDBzUFpUV2FTcVlabTZyQU1tTGNLOHJGcU5nSGl5TU5UVWVTZXpmZGxjT3V5S0xoZFJBNktuT2U1QnRCWDd3YjJudjgyOUlnWTRsNUxndDRMN3VuVjFOTTBsTkw3V2l1MW1qTWpmNEhpaGQ?oc=5",
+        "domain": "6abcphiladelphia",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T070000Z",
-        "source": "GDELT"
+        "seendate": "20260823T132800Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "신안군 안심숙소 사업 ,  인권보호  취지 무색 … 40억 사업에 27억 집행",
-        "url": "https://www.nspna.com/country/?mode=view&newsid=825182",
-        "domain": "nspna.com",
-        "language": "Korean",
+        "title": "Pentagon fires U.S. military newspaper leadership for 'insubordination'",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSDlQY0NlRGhkWHp0UGNxdk03NzlxRFRPRW52U3BmVm84VE9OZTl2bDNwa185eFEyNm93cU1WRHhKTy1mX2QtaUhlZDU0XzMzOURsS3pjWlQ0NEFvNktoUlNUb2YxbFlmOGFGZ0c4RWxHYm1zcDJLVGhkSUtoczBYMEdJdmkxVTVfRkI1LdIBkgFBVV95cUxQNWlaVVZoMGRmUE5rdmtJQXZNRm5KRFJTc1hhV2EyVXRYd3pHSUlxRVd5aU4xSGRSeEJMNFVaRXNkTFBlZzZfb1hQS0VJSzJNUktJc3JuWjl3OFZEQTFKeWNyWkNhLXVoMXhuc0JVN25Fd0hDTVR2R1JsbU9ZeWZoZTdOcWd1MjBhaWxHb2todXZ0UQ?oc=5",
+        "domain": "cnbc",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T121500Z",
-        "source": "GDELT"
+        "seendate": "20260822T000500Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "乌前防长公开发难 ， 要求泽连斯基给个说法",
-        "url": "https://news.ifeng.com/c/8vpIri6fBJs",
-        "domain": "news.ifeng.com",
-        "language": "Chinese",
+        "title": "Why Speed Matters: The Predictive Procurement Revolution",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNlV2elVkbGQzVEh4d0ZET3hiei05X3k1SVYwRElZSHdGZnhXbTFTMXY2ckdBeEY1UGFGbUVzMHJkNFRXWVMyQ1pYR1hPZUpPYWt5aDZXN2RyeXd6SERDbm9iR2Y5a0RubVZCNG1TejVBNTZMTVRLUlU1UTlFbWtDTlZZclEwZlllZFd5MmE3b2tud3FwdVluNUQ3YVJLY0pONXoyTG9ZenlBODFLcmhNRnVkWDJwNUJvUTZFWkhBbmdBakotMmZnU0lERW1zYS0xMlllS3cxRkZrN2dsdmJDSg?oc=5",
+        "domain": "supplydemandchainexecutive",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T114500Z",
-        "source": "GDELT"
+        "seendate": "20260823T160347Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Patriot : Σε εξέλιξη η μεταφορά τους από την Κάρπαθο στη Σούδα - Στο τραπέζι και επιστροφή τους από τη Σαουδική Αραβία",
-        "url": "https://www.ethnos.gr/greece/article/418385/patriotseexelixhhmetaforatoysapothnkarpathosthsoydastotrapezikaiepistrofhtoysapothsaoydikharabia",
-        "domain": "ethnos.gr",
-        "language": "Greek",
+        "title": "Poles express doubts over military readiness as security fears mount",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOODZya25sQ2ZUOHhiWUhiS0c3VHJkbk1HQkc0VjRUY1VrdlkwUUJpTkl3UDZlU2M3emozaXJJTEp3NUpFZ3pjUThIWFZPS2V3V1p2eWhpQXYxQ1dSLXVkb3B2Tm5qRTZsMFBBaGxXWE1mYURGdndtUmhyaUF2R1JrV01pWHhCLWJ3SzgzZGFucV91Z2xjdm5kSVRNUnM2dw?oc=5",
+        "domain": "tvpworld",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T121500Z",
-        "source": "GDELT"
+        "seendate": "20260823T144500Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Ucraina , Fedorov chiede a Zelensky di fare chiarezza sulla corruzione nel governo",
-        "url": "https://www.laregione.ch/estero/estero/1945495/ministro-zelensky-corruzione-ucraina-governo-fare-fedorov",
-        "domain": "laregione.ch",
-        "language": "Italian",
+        "title": "Chiefs News: The rookies are flashing athleticism and speed on defense",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTEFLRXozbDhNX1JoNG9pRmNxRnpneGdQV2FwR19vRHlrWUV1WTZWcW0ydGQ1bWltNmNYZEpKSU9WN3VfU3ZPYjhpQmhiR0xqWWR4Z0hONmlPRkNib1pPbENnUDdxWjYwSFg2dklvbk93NFdNQXJDZW5OZ1RYN0w3Z2RBeVFwOUxpNC1YMWlYMW5GUzB0OXFSSVctS0xveUwwWmkyMjduc2lHR2F3eUF3RmxrMFdqY0U?oc=5",
+        "domain": "arrowheadpride",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T114500Z",
-        "source": "GDELT"
+        "seendate": "20260823T130000Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "無人機條例拚本周三讀 藍白聚焦預算上限 | 軍事 | 要聞",
-        "url": "https://udn.com/news/story/10930/9708288",
-        "domain": "udn.com",
-        "language": "Chinese",
+        "title": "The defense rests in the murder trial of Lindsay Clancy",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VYlZpdGpVSmNPem14X21pSzNmWUVZMDl0ay15emR5RzAxMW1ZaWZYdFFYVnhicGxucjcwYjZ0TmpTUVo3S0gtRHVRaE1OLVhSYWJodW5ONUFocW5EdGdJMGZ2US01bWxPVVlyMG41WjBFamc?oc=5",
+        "domain": "wbur",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T171500Z",
-        "source": "GDELT"
+        "seendate": "20260821T164603Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "386 . 5 ألف منشأة تعمل في قطاع المقاولات",
-        "url": "https://www.alwatan.com.sa/article/1184495",
-        "domain": "alwatan.com.sa",
-        "language": "Arabic",
+        "title": "Veterans Can Get $50,000 Loans to Get Their Small Businesses Off the Ground",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTlV2R01rV3VQaFVhdmZieEJTeHNvVjJsZlRTYzZINlNmUTl4cmtHbVBCVnl0TDA5OGM2VHQtam1BNFREMjdJWk5JeDB4MFRMR3lqZlExMEx3YzJIeVBIUVp3WGo5RXpnVnZOMEd1WmhQY2lzZk9oQjNReWZpc0NxOFE3OE5MQkUydlpzTDJpb2pWb0x6Mk1lNGNDT0NmZUE5UGJqOVRFVzJ6TXJKNl9Dd1RzcG1MNnFH?oc=5",
+        "domain": "military.com",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T171500Z",
-        "source": "GDELT"
+        "seendate": "20260823T090014Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "寿光圣城街道出新招 ！ 抱团守安全 邻企联防补短织密安全生产防护网",
-        "url": "https://baijiahao.baidu.com/s?id=1874234356645284725",
-        "domain": "baijiahao.baidu.com",
-        "language": "Chinese",
+        "title": "US military newspaper editor voices censorship fears after being fired",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ROEtkLTZSNVZjX0dUamhRUDkyTEVVajlQT0s5ZkFuV0dvQ3JaUkk3WV9wUG9XREdFRXc0N01CODRCYzRtOFlBYks3MldsdU0wTVFpSzlBaVBYdw?oc=5",
+        "domain": "bbc",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T150000Z",
-        "source": "GDELT"
+        "seendate": "20260822T165719Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Український ракетний завод у Данії подорожчав утричі : у чому проблема",
-        "url": "https://glavcom.ua/columns/igor_petrenko/ukrajinskij-raketnij-zavod-u-daniji-podorozhchav-utrichi-u-chomu-problema-1138247.html",
-        "domain": "glavcom.ua",
-        "language": "Ukrainian",
+        "title": "Sailors and Marines advised to hide military ties on social media, report suspicious activity",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KcTJvb2VOelZKVkd4ODluS2NoNWpVUzMwMUpVZ29IdnZpTzV1Q0tyRlZPbEI4b05NeEtzTW9TelZ4QkxuQ1JOT1JwclF0NmpOSzE5V3VXbVdmejJLbXFkLWZUa3N6VFdoU2FNTEtHMldVMEUtSm5MTA?oc=5",
+        "domain": "taskpurpose",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T180000Z",
-        "source": "GDELT"
+        "seendate": "20260822T213602Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Zelenski se sastao sa američkim izaslanikom Kelogom i hitno zatražio rakete Patriot",
-        "url": "https://naslovi.net/2026-08-23/danas/zelenski-se-sastao-sa-americkim-izaslanikom-kelogom-i-hitno-zatrazio-rakete-patriot/42255139",
-        "domain": "naslovi.net",
-        "language": "Serbian",
+        "title": "Blackwater’s Erik Prince Launches Air-Defense Startup",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdEJnREE4ZUFtcTR6UEdzWFFHeFQyaVBhbFY3Y0VocHlEeEE2WXdmZDI0Ty1MZGstVmVJaGdxR1RvTTlEMEtEbG4tTGdBajAyVEJ0RFIwbmstU2x1akVMNms4Nm02dVdXYlpfYXd1SlVNdWRVTjZNLVFsVDBHN1otSmFDYlNWTnhzMXZyU090d2szMGd6?oc=5",
+        "domain": "wsj",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T163000Z",
-        "source": "GDELT"
+        "seendate": "20260821T100000Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Украинская авиабомба  Выравниватель  призвана снизить зависимость от оружия из США и Европы ( Fox News , США ) ",
-        "url": "https://inosmi.ru/20260822/ukraina-279808261.html",
-        "domain": "inosmi.ru",
-        "language": "Russian",
+        "title": "The Blogs: Sunrise in a Closed Military Zone",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SeG9KTXViNmZhZnR6WVhoUjdVOTcwdjRXR1hPQ3NiQlN5YWdOR05qaWNtdml6OTJSOXFSRWRacU8tTnNwM3VYdktiQkZYdDhBNC1TNkdRRmtyelBuRjdyMDAwX3FuY1ZUemVsU0tCR0hkRUxU?oc=5",
+        "domain": "thetimesofisrael",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T193000Z",
-        "source": "GDELT"
+        "seendate": "20260823T084900Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Російський аналог Starlink  Рассвет  має  ахіллесову п  яту : що виявили експерти",
-        "url": "https://kontrakty.ua/article/295811",
-        "domain": "kontrakty.ua",
-        "language": "Ukrainian",
+        "title": "Pentagon Fires Editor and Publisher of Independent Military Publication",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdmZOMG1hRVRTUEM4cU1mY2M2Nk1jLW9qeWsxUnQ4LXpkQnNad0xuUTY3RnZlcUxzajY4enpudHNQNkF1NWZveGMxcmNNQjVTMDgzWmhjb290Q0Q2ZEJEX2pzbFQ1RnU0NFBEY1JIM3dfRmpWS3d6a0o1bzFxREYyd0xTUTZlR0djRml3NDFjaXQ?oc=5",
+        "domain": "thenewyorktimes",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T143000Z",
-        "source": "GDELT"
+        "seendate": "20260821T225442Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "40万亿国债压顶 、 昔日宿敌抱团 ： 后霸权时代真的来了吗 ？ - 博客",
-        "url": "https://blog.wenxuecity.com/myblog/83497/202608/17327.html",
-        "domain": "blog.wenxuecity.com",
-        "language": "Chinese",
+        "title": "These Are the Five Largest Countries Without a Military",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaVhPV3BHOEF4RWJaSmh1RmlMcGdmLWljVFRlbG5Gdm9udmFXQ2ZQR3IxX2kzdmJ5cmhoTHJQLXFpZUZRWXRDa18zbVJWZ0Q5em9qWHNWaEFNMm1wcTdfbUdtRXhRZVNDSnVQLXI4V1NfQk80TjVtLXJOMVl1VzJjdVUwSm45NWRsT0lrRE83MzZmbWJDWFFpZXBsemFQdGZ4VDRiOWEtRQ?oc=5",
+        "domain": "thenationalinterest",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T183000Z",
-        "source": "GDELT"
+        "seendate": "20260823T150035Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Rekordowe miliardy na armię tylko na papierze . Fundusz wydał dopiero grosze",
-        "url": "https://spidersweb.pl/2026/08/wojsko-wydatki-fwsz-14-5-proc-planu.html",
-        "domain": "spidersweb.pl",
-        "language": "Polish",
+        "title": "Israeli military launches criminal probes into killings of 5-year-old and paramedics",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQakpGb0dqVXlnNlpoNDVJM2RUaHQzVEFlUHZDTGtWNTQwU3pVRkxrbDZCQW04UEE3ckdwWXVLcDgxVzZIVWF2dmVZc0RIaFBZOEVoTjNPR3RxMnQwU0Y1YXh1c2UyQVR2dHhjczZzYkdmMUFGQy01NGRSbS00Q2o1ckZkYw?oc=5",
+        "domain": "npr",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T073000Z",
-        "source": "GDELT"
+        "seendate": "20260820T055053Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Türkiye zincirleri kýrdý ! Ambargolara kar yerli ve milli züm",
-        "url": "https://www.aksam.com.tr/trend/turkiye-zincirleri-kirdi-ambargolara-karsi-yerli-ve-milli-cozum/haber-1692692",
-        "domain": "aksam.com.tr",
-        "language": "Turkish",
+        "title": "Stars And Stripes Editor Says He’s Worried About Military Censorship—After Pentagon Fires Him For ‘Insubordination’",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRTBGOFl4RWVmbU9sZ2EwOV84djhuZ1BhNFlHLW5DbGdZbkYxZTU4aXNxQVUzRWtHdlVrd3dOQjh3d1lDSzU4Q2Q5MUpnd2pGWW5ySVFBS1pRQXBmeTB3Sk42Rk9vV09lclFXMXVXZjFCQVR0ZUl6S2lMZktubjB3QXZqd05HN096dEM1cm9ib05URUdLWDNSNkR0MXJMLVlzQUZybjZ5WDFkTUszaHl0U0wxX1c2Qkh5SUp1TWlsVV90Z0xwN2NRYkNPR256QXVLcHFSWmJuQUFsdDRmLUNRZk1GYTFGd25hdXI0MVdR?oc=5",
+        "domain": "forbes",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T111500Z",
-        "source": "GDELT"
+        "seendate": "20260822T204841Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Zwölf Milliarden Euro Abschreckung : Deutschland plant neues Arsenal weitreichender Raketen",
-        "url": "https://weltwoche.ch/daily/zwoelf-milliarden-euro-abschreckung-deutschland-plant-neues-arsenal-weitreichender-raketen/",
-        "domain": "weltwoche.ch",
-        "language": "German",
+        "title": "Townsend Military Band to perform Aug. 27 on Townsend Common",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSFJ6QXQtUUpTdFVMZGNZLW1oS2ZXV1VsbFNNRjV4S1dYWS1zWER2SGdEa2dIYlVkLWswcE5GMzZpQm50amNjREI2YTVac2F4bGZLQTlKNWotNDkxdGZpT2ZCRllTREplMjgxenByM3lmaWtLRDNaSTNGY3VqZE1nZFRKamxFOUVESTVwQU5weXlOaTJsNmxqOU9MWEhVQQ?oc=5",
+        "domain": "lowellsun",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T061500Z",
-        "source": "GDELT"
+        "seendate": "20260823T093111Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Zelenski se sastao sa američkim izaslanikom Kelogom i hitno zatražio rakete Patriot",
-        "url": "https://www.danas.rs/svet/zelenski-se-sastao-sa-americkim-izaslanikom-kelogom-i-hitno-zatrazio-rakete-patriot/",
-        "domain": "danas.rs",
-        "language": "Serbian",
+        "title": "DOE edtech guidance makes outcomes evidence a procurement ba",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcEh5MmF0SHZsMVk3aW5uZEkyVEx2c3Y3ZzVxeXJSYzd1YTJiMzVSNXdoQmlOZkdxN09VaFRYZFhlZTQ4ajc3aE9sYjNaRlZTakgxTTR4TGxTWG1EU0x2d2czRENEZjZNSDRrQ1g1TWdoNVVQb3RGR1NoZ0lQY2xPdVlOTUVlZG83dnBEOVNVRFZERWRuN3BGOE8yWWVVMzBVT2Vvc01YOXdYbEpMVGR5blEwYUozdzNudEVTeVN4NkluWlpyb3l1b05WVTFRQ0djS28zaEoxaHc0ZzlFS2pCbnNWLUlZTWpjLUpfU1RQR09fbVF5T3Z0dDUxYWw2cUFDZ0xCYjJES3AzOGNMczRrU2tn?oc=5",
+        "domain": "marketscale",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T161500Z",
-        "source": "GDELT"
+        "seendate": "20260823T132533Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Ministarstvo : Prikupljena saznanja o 31 mogućem mjestu prikrivenih grobnica",
-        "url": "https://www.vecernji.hr/vijesti/ministarstvo-prikupljena-saznanja-o-31-mogucem-mjestu-prikrivenih-grobnica-1988612",
-        "domain": "vecernji.hr",
-        "language": "Croatian",
+        "title": "Zac Alley Shares Encouraging Update on WVU Defense Ahead of Season Opener",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTdEcG05c1gwQ0k0dVcwejV2X1dPTkpKcThuZkJhOEIwdVhfUklWNGZHODJqVzQtMERpZ0xRUmRNY2wtWm9yNDdoYllYWVVscm9NNzZKbkcyU2tvQzRKT2pQU0RWVHBZdHAwbTg3QWF0VzFoNHBkYUp1XzZNbTc2ajh5eHF4bnFZWEdlcS1FaUZDempld1ZvVF9SeXpHdHoycGE5Q0VJZ1NHQkx3RWJzcUVIVHJYS1c5QTZSTTVQZw?oc=5",
+        "domain": "sportsillustrated",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T061500Z",
-        "source": "GDELT"
+        "seendate": "20260823T153308Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "آیا دریای خزر به شریان حیاتی تازه‌ای میان ایران و روسیه تبدیل شده است ؟ ",
-        "url": "https://www.radiofarda.com/a/caspian-lifeline-russia-iran-ukraine-shipping/33836184.html",
-        "domain": "radiofarda.com",
-        "language": "Persian",
+        "title": "Pence denies that Iran war hurting Ukraine by depleting US stockpiles",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNWh3aW14VFMxbHgteUFHbXdxWlMxbXRCTHZrTndxVDVWSy1IN2RudWVGeVZ4RktudTQ0WWI4bkpia3hIM2l1eThPUEtJNmlheFJ2LUpjcHItOThYR3ZRNXRuZUlyaTRBUENMT2piTUJJS0JPa2VFTmxDX1VZNEhlRHMzWmhRWUVaaWl6SURXX0k4anNOZFVseVdhcVNpaHRYRXJrRUdWNmZDZGlnekJMWVM5UTR6YXNQSGE0?oc=5",
+        "domain": "thehill",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T134500Z",
-        "source": "GDELT"
+        "seendate": "20260823T184400Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "星期專論 》 台灣正成為中國難以征服的目標",
-        "url": "https://talk.ltn.com.tw/article/paper/1767713",
-        "domain": "talk.ltn.com.tw",
-        "language": "Chinese",
+        "title": "Insider Trading on Polymarket Is Revealing Military Secrets",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KX3kwSlpXUkJSaDNxb2xiRGtFVVZzS2dDY1Ixc1JDLTVGWUU1N1BNN1VtOWlDdnNsS1VnWWIxRkxDdy1sYm5sZkJ4YThWWEpFRnhYcmlVNVF3REFaOEFnczVickVkYU5TdDZKNDZHd3BadzVKZEllZEwwX3lfdw?oc=5",
+        "domain": "futurism",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T004500Z",
-        "source": "GDELT"
+        "seendate": "20260823T110200Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "HAL Focuses on Engine Sensor Sovereignty with New Aerospace Pressure Sensor RFI",
-        "url": "https://idrw.org/hal-focuses-on-engine-sensor-sovereignty-with-new-aerospace-pressure-sensor-rfi/",
-        "domain": "idrw.org",
-        "language": "English",
+        "title": "Military news: Mid-Hudson Valley residents serving in NY Army National guard promoted",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOakFfZlYtTHBMZC1lZGFQU3c2cVJwMl9sSUJwQ2t0Qk1fQmg1MVVxbnNlUmEwd2xnajhrYWF0SWRwbXBGakw4SS1KeDNqNU4zdFk3NkQyd1dlelFuYS1nTU96UGpMNm83RWFTT0wyTUlieDdFR0g5dlJHNHhIMHVkQmFlOVdmdGpCcUNaNWt5a2pHQmdsb3hJYWVPWVlpSUM3Yzc0WUFzNVBDUFVRTUhHVC1lWG9EWG9UUDJKRldZS3JuV3c?oc=5",
+        "domain": "dailyfreeman",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T040000Z",
-        "source": "GDELT"
+        "seendate": "20260823T123244Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "국힘  안규백 경질해야 … 탈영 의혹 · 방사청 비리로 공세",
-        "url": "https://www.etoday.co.kr/news/view/2617051",
-        "domain": "etoday.co.kr",
-        "language": "Korean",
+        "title": "Military told to act forcefully against Gaza kites",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVWFpWDdwdms0THlvMEZqc045WC1WVG5rck8ta1dVYTZtYVRpMFYyM2c5MFQ3Y3V5MHJ2N3JRSnZiVmMtUURORW5kYzJkdFFTRWdlLW1VYUZRNDF5LTJrS201bURVc1R4VVQ3YUdKamhEYmJmODUyYkJNVzFEWGpFNFowT0dBVkJ0eThwaXhhcUdrSDFoR0tUV2FBTXU?oc=5",
+        "domain": "thetimesofisrael",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T033000Z",
-        "source": "GDELT"
+        "seendate": "20260823T104205Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Hrvatska traga za 1725 nestalih :  Imamo saznanja o 31 mogućem mjestu prikrivenih grobnica  ",
-        "url": "https://www.24sata.hr/news/hrvatska-traga-za-1725-nestalih-imamo-saznanja-o-31-mogucem-mjestu-prikrivenih-grobnica-1149044",
-        "domain": "24sata.hr",
-        "language": "Croatian",
+        "title": "Israel Defense Minister Katz orders IDF to retaliate against Gaza kite launches",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNTVPdjdmMk03Z052TmlMWE9xQ1d2UHZJbDdxU0ozSkZYZFpMclZkbHA5WDFqT3g3VFNwbTdqX0xjSGlHOHAwU0IzWl9XdERxb2JSLWxNbXZzajV6cVJUZms0Q0dyTkp1NmxSWjhGeVg0aVZUSnRnaEdMbVk2bnZBSE0tRjlKRjVOVzg3T25jZ2ZVMVhvRDRYcE5KbU0ta3p4MnF5SUE2bXBmZWFia1d2aG9paDk3UzFfVUw0RUpnaElnQkY4cFNrbE1IdUljdDFxbEg1ZVI1UEFYU0tSM1E0OC1GbGl3Q29KaDNGc19PSERjcVRyU2V6RWtLaHZKRDNKM3liUWpqQQ?oc=5",
+        "domain": "haaretz",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T064500Z",
-        "source": "GDELT"
+        "seendate": "20260823T184800Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Hanwha Group to invest $299 mil . into US defense subsidiaries",
-        "url": "https://www.koreatimes.co.kr/business/companies/20260823/hanwha-group-to-invest-299-mil-into-us-defense-subsidiaries",
-        "domain": "koreatimes.co.kr",
-        "language": "English",
+        "title": "Trump’s Order to Cut Military Exercises With South Korea Carries Risks, Experts Say",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZUNYOURJdHBQbTVuMXdSRF9XUXVOQ3c5azVOZFA2Z1BTN2dtS1FnOGdSSXFmRnBUS1RnRFdDejQydlRQUmRvM0xlZUpWblVYdVc4Ukk3YkFaYXQwR2N3R0MyWkc5NWxfeE9XQnhrcTVESzYzcmgweF9JMGpjbXRUYVNtZVlpcXZmNmtBTkVOVS1oazg?oc=5",
+        "domain": "thenewyorktimes",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T064500Z",
-        "source": "GDELT"
+        "seendate": "20260820T090419Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Ministarstvo : Prikupljena saznanja o 31 mogućem mjestu prikrivenih grobnica",
-        "url": "https://www.telegram.hr/vijesti/ministarstvo-imamo-saznanja-o-31-mogucem-mjestu-prikrivenih-grobnica-iz-domovinskoga-rata/",
-        "domain": "telegram.hr",
-        "language": "Croatian",
+        "title": "Eight die in plane crash at remote Alaskan military site, air force says",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QMWpRVXlwM3BCSldIekxzaUFudkI0Qlh6d1RoV29EbmNGeEE5cGFsYUp0V0pRZXlPWVBhZDJISms5Q1ZtUDFJSkZXdE1mTWR1UkJvZ2hWa1hMdw?oc=5",
+        "domain": "bbc",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T074500Z",
-        "source": "GDELT"
+        "seendate": "20260821T195930Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Prikupljena saznanja o 31 mogućem mjestu grobnica iz Domovinskog rata , Hrvatska još traga za 1725 nestalih",
-        "url": "https://www.glas-slavonije.hr/novosti/hrvatska/2026/08/23/prikupljena-saznanja-o-31-mogucem-mjestu-grobnica-iz-domovinskog-rata-hrvatska-jos-traga-za-1725-nestalih-781246/",
-        "domain": "glas-slavonije.hr",
-        "language": "Croatian",
+        "title": "This Anthony Poindexter Quote Provides Reason To Be Confident About Tennessee's Defense",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaFprS2V4TWNKRUp4X285LVBYYXVDS1dYaW95WEVuYXlobjRUY0NVeFFRRHNUZ3JBOXdOOHVpcndLQzhLZ1BYZ1lhaDdCaWVnSEg5LTY5b2dsRDJWUXZ1bWRBMmkzQzFyWmtfV2ZPSWRRRk54TW5OVTUzV2VsamdyS3dYRHJkNGswMFM4ZWdvVTZHMGFQWGVtYVVvOFFPMHJ3M0VLYXZ6dXFvalhLdVVnSVpOYmJadzJzdnhqYmw1Tmtnakk1RlJ5bQ?oc=5",
+        "domain": "rockytopinsider",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T114500Z",
-        "source": "GDELT"
+        "seendate": "20260823T150332Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "NAACP Legal Defense Fund talks to Rankin County residents about end of desegregation order",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaXhGam8zRHNwXzNJMUd0RzJyV2YzNmJRaGN2OXZhTnpIZl8wMUNidDdNQnhpTWhXTW1GMDlNMEZtX29KZTFPVjdpZlRkQ2tYalpUODdtWUlvOFhFQ3FSV0hOZU5JWUVjelVOV2xaUjJTSWtFX3dYZEZKUzdINXdGckZMOTJtTWN3ZHZ3ZkVFcDFrSVdiU2d3Y29sSGRVVGRjY3JNVWV4anZSa1FfaHdQTEQ1WnU1MXBGSzNmX3RFOVduN3hDbG9oa21oQXpXTWRVckMzVjJBbUtXYXRPTDNPMXVRUlhSaE92c2tR?oc=5",
+        "domain": "theclarion-ledger",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T095500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Taiwan's F-16Vs Arrive; Beijing Says They Won't Matter",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yeEdNcE1KWjExQ3JLVS1yYmdIWmdYNzYtUkxua19xNTdnb295UldDV1dKUWhBWEI1U3liZ1BsbWs4bGhudm9DLXBSc0VEejY4Q2d5aWpVZlp3bGZxWGhZTXFDYkQ2MFBXem5zRnFCYXp6TnBlOHh3MGlPMVhLQQ?oc=5",
+        "domain": "migflug",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T155839Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Myanmar military bombing kills 14 at Buddhist monastery, opposition reports",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWmdSZ19OZkdoS2QwZ2VRZGlGejZ3VVd6UGlTYTltakxyeUQtRFdma2w3dzRwY2swdElxaWZvZ2pyVGttZ3lxeXRScTJ2anhoVU1NMjlGcjJGLVo0NTFpM0hyRjFqbTlVQjUyUElNd2FlVXBQd2NTZGhSeTJuUFlJRExEb3h1cTk0NUtCS2RfNW13aHd4bWFjWGFtRXpCanVfaExBcDFiZGxwb3p5dmdjaGVpX3dlZ9IBuwFBVV95cUxNemFQcG5TdldRUVFwWjZCOUVqT0hNeUw3WXhzWFQxZWl0LVpFSGZyUUdtcFA4TGFBQzY2dENWTnltZnRSMEs0UFlqeE05VHZEN0d3dDdZYjZTenhDTVl4OXVuSDk5WHhtSXA1cmlobTlkVmRmSGdLaHlyWEhZaDJVRlRET3JhaDAza3JHV2RWSWdVc2lCaUFPbkNFYjVwZVZNRHFVNWxFcHlyRUkzaktQRUJ3U0VZcEJRM2Y0?oc=5",
+        "domain": "aljazeera",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260821T235653Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "News Wrap: Defense rests in murder trial of Lindsay Clancy",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWmYtRXlvT0E5cGJZVWdKSVZMdWRNTVpNOWhZbzFfSVBialJLMXg3ZzNXMklOMVNOcGJ6end0eXdtUlJtSldSeGZscjdLOWtTVFJQcFp0VmVZSzRiV0tYa29CLWJkNUJBbVZoX0VJdzQxdElkVi01V1hmTkoxa1BtZU9qNll2TVl4akcycGMwdmVYaGNQbkE?oc=5",
+        "domain": "pbs",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260821T224540Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Preseason Week 2 notes for Chiefs’ offense, defense and special teams",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVjVjOUlULXZLM0MxTUNBLXpYSXFRenBZRkpYeDNVTU5QS0EzWm5yUHZJWFFqcDVMSS1BcUdXUGxzeU9mM1A4b2hoNmR6SGRDNjNGdTA0d25DS1dycDc1Q0xVSnNQb2stNWplUl90Zlo5ek4xLUg1emRUNUVYX3g2eVgyTGloeWhudm1RWWZCcjhBWGlpS3g3cVNqeWFmWlFuc1BoVEpGbWJkMnoyXzBkc3RPOXhlQTBlaXJQOGtUZkV5T2s?oc=5",
+        "domain": "arrowheadpride",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T160000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Mike Vrabel calls timeout to scold Patriots defense",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUGhOQ1FnT0ZmX21NTVRZSjFPcnZCXzRpaHJSU1czV2hYeTNpTjJ2eW10UWhpcy0tdVNfQXIwLTVzSlB6RWQ5Tk9Id3NVNWE2Q2tuMGVNTHJSZFZDUVJjQWliNmdPQXJZaFY3eUVSTlZMaHU3cG5CelVZRVU5V1ZLS2hJb05iNG83S1BoemR6dy1wN0lsNENEaEVNTDdBUVnSAbMBQVVfeXFMUG5aYlpFRVVDdTNtdzdZQl9UOThKQ1ZUSWZkZWh1VWtyc2pMNXpyNDdwV1hjZWtnT1FuZGswUnZfMDFCNEl3WlhZeTVXTzAxOXhibE9CTGhLODhyMVNMTnFJblowSEVkSmFpR2hSQkdxTHY0bS1FOC1RMS1Edm5DQVhzMkotekhvRGl2ajA2NUx6TjhybzRXUDlPQ0NvRGZIUlM2NjRJR19LM1daT2ZreGpJSEU?oc=5",
+        "domain": "masslive",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T100000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "U.S. Military Flyovers ahead of Freedom 250 🏁 INDYCAR on FOX",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UVW1WSDZUc0ZsVV9BLVJOdGt3NzhWSHVkb1ZlUjdhdFhKR0Vnd25LTFVwLURDNkRhOEhQZFVJVDBfU1h5NkcwVWY1YmVHTFlCU3ZJSlpuaF95UDl2R3lCb013?oc=5",
+        "domain": "foxsports",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T180553Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Why Air Forces Retire Fighters Before They Wear Out",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZWkpYalI2UFBuVTdqZ2FGakZ3OVpxNTUzSkkzaHY1MFNWdTB3UnVYeFlNNmRrNnZuV09MT1p1LWxIcU5fOU5Pc2VNNV93QlNIYUpyVXdjXzlndmkxN0ozR09PZ3dPTkpzZWFQbHpxX085TXdBREtrYmNVRUZRUQ?oc=5",
+        "domain": "migflug",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T160230Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Defense Rests Case in Lindsay Clancy Murder Trial",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kdEVJbnhHOV9Bekt0a1R6bWJFV3JFNTNnSHpnZXBKMVFZdm1iU0Zlb3UwOEdFaUV6N2dTaEJRTjl1Z0Y0UUhFVUJPWE5kcnJQRk5MOUpaLUN0anozTTZPVldDTzB1Wlk2VGVZUUlwdUVsLVhHQWFhS1dtaw?oc=5",
+        "domain": "thenewyorktimes",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260821T224820Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Travis Hunter spends entire day on defense as Jaguars have light practice",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWVVZZ1V0dHowY0QyVmxJc2JrWHlwc1dpZ3V6MXlTWWttTzc3akp2NTJvTUYtZ2tZbzVldXpsOUVEeHlXMnp4cTVVU0FjdmRGWWt5N0ZnbDJMU1BYQlFuMlZSY180U29WTThQSUZKNDBsR1ZpNHplM0ZKOFpTZS1KYlV3bHZDUUljTERuaFk1U2RmVHJseFdkNFJSUHZvVlhXWFc4Q09MUGxBYlAtc0g2cGM3QW9XU3NFQm80amxUR0N2UXZ6WlV6REg0NXl0OERKazhXSXVaNmJpQk53a0FV?oc=5",
+        "domain": "thefloridatimes-union",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T160421Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "UNLV football needs its defense to shine to achieve 2026 goals",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ2ctVG9VYVhCWVpQM1BIU2EydVpRN1U3em1xSkJpbFN1Q3Q0emRkY2xTU1R4X1czd2tOMllicUUyQnZXR0tVdGZlX1BlME83eGZkbWwwZWIwejBrUk1rRnJnaTAxR1QtMkJPWThHWUJpMEhVbHF3NWk5WDh2cklzVnZ0WE9ybktOUEdDemxNaDlRSjZwQlQ3N0k5WkVER1VzNkpJX3VxVms0TXBxWVlHa1pkcGlBMDBTS3RkRF9BQnN3QlBHTHc?oc=5",
+        "domain": "lasvegasreview-journal",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T140000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Dennis Allen details how Marcus Davenport can help Bears defense",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2dNdkxlQWplZThWeVBsU3IwYVlqdnhjLU1IQzRKamRzM25UMUdudmI5R0xmVXhESTR2eWpiT3pLYWpnWHhTeDM2aVp5NkhWSHZqNFozRHZBUkJzRzZKb0lJbGRNMTFVcTgyYlQyY2xTWnU1Tng2NFl1dVNuQzBJRHk0dm9uYzYzWGlvT3MwT21IVjRoaW51LVJzZXltQjVlUzVzbFZjMlQ5WmJZbzc3YW1BaHF6N2NtNEZkeTJBQmg?oc=5",
+        "domain": "bearswire",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T183000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Warriors defense preparing to take on Stanford’s experienced O-line",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdXlTYU93TXI3U0J5bHJ2NHdYVW9MaHRqVEo1NWJELUZiUXQ4b2ZRcGFFdUxBZlpNRV9mUFJYcGVSbFpMdkh0VnR5RTlmUy1XR0tjRjhRajgtS21oOFgxRDNYNlNQbzVuU014azVEQ3lNdHRJMU9DeVVpMTdpZlpIS01ISEFfZWxHMEM4ZTUyT0I1LTlzVVpSMFdzeWkyTzF2X1lVajhxVHR6QWl3Z2NIUXBvVzZnU2s?oc=5",
+        "domain": "honolulustar-advertiser",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T154425Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Pentagon Fires Journalists at Military Newspaper, Raising Alarms",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3ZrUmp3eVJSUkZYR1NKcktGQUFlSG45cm9aSFctMWwtcjBHY3VQZjQ1R3N3UFdfbEp3Nkc5a1lKXzU4Tm9TMmtKZDFKcVNod1dfdzJNaHVhUFFjNGhFdFRkajRUU0g0XzBWeE1aNmIyb1c2NGJyZ0tvRVJqMGZvMnZGU0k1cl93d1hBUDBqendjeFBBc25nRFdXVDIwVlJWV2E0ZE5Odw?oc=5",
+        "domain": "theamericanconservative",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T150600Z",
+        "source": "GoogleNews"
       }
     ],
     "exchange_rates": [
@@ -571,139 +573,139 @@
   "entities": [],
   "events": [
     {
-      "title": "國防專家憂心 … 無人機國家隊缺長期戰略 恐淪提款機國家隊 | 軍事 | 要聞",
-      "url": "https://udn.com/news/story/10930/9708285",
-      "domain": "udn.com",
-      "language": "Chinese",
+      "title": "Zelenskyy details rift with Ukraine’s dismissed defense minister Fedorov",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONV81OVhGQUZYeXc2ZU5aQUlwZWRCdGU5OGlqdllsZXVZbEtJQzVXQ05ZMlZVRlVua0xUdDRpVmg3b25KRnNUbEVPc1JhQks5OHlPYi13RDdleGNxM2tlWnV2TUxYMXRsenNSN3VmdEoycFVSaFNEVll5Um1fOUFxbUNac3lfM1pTbTg3WVpHd21IdnU3R1ZkS2dyai0?oc=5",
+      "domain": "apnews",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T171500Z",
-      "source": "GDELT"
+      "seendate": "20260823T161600Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Зеленский объявил о дефиците средств на оборону",
-      "url": "https://lenta.ru/news/2026/08/23/zelenskiy-ob-yavil-o-defitsite-sredstv-na-oboronu/",
-      "domain": "lenta.ru",
-      "language": "Russian",
+      "title": "Exclusive | Russia Tests Readiness for New Round of Military Mobilization",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRm5UM3FpTktzX3FaLTFUN2ZFaHNOQ3hTTEstckJfUS1JQlRSOHFXNnlRZ3BMSXNuRVlJSzJXZEdlV1JlQXU4a1FNZGpyTjFqZXJhZmd4Qm1ONTJFQlI0MGt1SXNtcFJvRVEyUjlHdlB0Sk5HSEtvRDdvTHpvM3hvcXh3TUpOSER0VGczeDNEaUlwWG8xeEpzcUhNcktaSFdnWURtS1hR?oc=5",
+      "domain": "wsj",
+      "language": "",
       "tone": 0,
-      "seendate": "20260823T121500Z",
-      "source": "GDELT"
+      "seendate": "20260823T093000Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Taiwan Tech Company Head Detained Over China - Made Parts in Military Drone Contract",
-      "url": "https://www.theepochtimes.com/china/taiwan-tech-company-head-detained-over-china-made-parts-in-military-drone-contract-6078469",
-      "domain": "theepochtimes.com",
-      "language": "English",
+      "title": "Mailbag: Will the run defense be improved?",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0VYZ2Fnc1NrdUNTRXdmM1lUaF8wdVdsRW4wZFR2blplY2lsTmpGZm9xWGdOYXNISExsUG5yaktkdDdkYTlzZ01oM1FHMTVFM2w1QmVEZlZsM3pxeWIxekhOMW54ZE5jdl9ROHRpRVNxRjBuQk9wUVlFWWkwS0VvaQ?oc=5",
+      "domain": "dallascowboys",
+      "language": "",
       "tone": 0,
-      "seendate": "20260823T014500Z",
-      "source": "GDELT"
+      "seendate": "20260823T154602Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "В Минобороны ФРГ сравнили поставки оружия с покупками в IKEA",
-      "url": "https://lenta.ru/news/2026/08/23/v-minoborony-frg-sravnili-postavki-oruzhiya-s-pokupkami-v-ikea/",
-      "domain": "lenta.ru",
-      "language": "Russian",
+      "title": "Saudi Arabia, Turkey, Pakistan invited Iran to join newly-established Mecca defense pact - report",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80R3dhT053Yzh1RWhoLVZkaFprOWdVMUh3S0g0a1ZNZm41UTJuU1NRYlNkd2F0OV94b2N3MU9RWVRUV2hsQkdidktIR0VIMXNTeGlEZjgzMVJBYWZ0V0tSaWFKZFYyd0tkWWc?oc=5",
+      "domain": "thejerusalempost",
+      "language": "",
       "tone": 0,
-      "seendate": "20260823T121500Z",
-      "source": "GDELT"
+      "seendate": "20260823T121557Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Тайные отряды рвут последний оплот ВСУ : главная новость СВО 22 августа",
-      "url": "https://aif.ru/society/taynye-otryady-rvut-posledniy-oplot-vsu-glavnaya-novost-svo-22-avgusta",
-      "domain": "aif.ru",
-      "language": "Russian",
+      "title": "Todd Bowles: The Defense is Setting The Tone | Press Conference",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWs5cWxfRHpXcUx4RlVQMVRYbnl6bFBqU0pqQThOcXNFUHdzdWhYQ1ZVVDJuaUotcmdWM2s4WVI4ajVHV3k3b2ZOSnZaeWhpOXRYTjN3SWExTXZZRlhhVnJIVjdLN0p2VENxTE5FUHR4RlJLTVdxMllDTnNyVXFSM3NMZktHdWhHY2E3bTdHamFyeVRMcjl5M0ZINUUxeWM?oc=5",
+      "domain": "tampabaybuccaneers",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T174500Z",
-      "source": "GDELT"
+      "seendate": "20260823T135422Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Израилю не хватает боеприпасов и резервистов : оборонный бюджет увеличат – СМИ | MigNews - Новости Израиля и Мира на русском языке",
-      "url": "http://mignews.com/news/politic/izrailyu-ne-hvataet-boepripasov-i-rezervistov-oboronnyj-byudzhet-uvelichat-smi.html",
-      "domain": "mignews.com",
-      "language": "Russian",
+      "title": "Zelensky Says His Ex-Defense Minister Was Wrong to Call for Elections",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNmIzbENIVk94WjJCTVJnUF85S0x2MkhRZHEyU0JjcWFwYU5RU1RfbkdDVjlYb3paYjdfd2Jxb2Zkak9LbG8wN1A1bXluSFlGaFhRYk5wV3UyX1d3WTltMTctRk5aYTdFSWhQemlsX1ZCcG1lNUc0NGFkUURkNHVkQWZ3RW1jX1BXemVLWjl0M0k?oc=5",
+      "domain": "thenewyorktimes",
+      "language": "",
       "tone": 0,
-      "seendate": "20260823T114500Z",
-      "source": "GDELT"
+      "seendate": "20260823T140959Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Saudi Arabia signs $1 . 16bn battery storage deals for 2 GW",
-      "url": "https://www.arabnews.com/node/2655593/business-economy",
-      "domain": "arabnews.com",
-      "language": "English",
+      "title": "Canada ‘doesn’t have a military,’ Duffy says as cross-border trade war ignites",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaTVGNXlKR1VBR3RVNVZxdFg2QXlBTGlQYmd2NHFpN0FydmNmSnNrT21sbWI5MWgtWEZERjh2MTZBMWRaTmFzY0FIOUlmdW93dkpmSmJFVU1fMGtKU09aeUxhU1N1MUNSOTNINWZsX0c5T1ZGZW1DMlhBbU1kNS1UQkttN3lBNEpFT0VqVFYtYXRVSzVEMGw0WlQ4SWI1MlhZYjB0Qw?oc=5",
+      "domain": "washingtonexaminer",
+      "language": "",
       "tone": 0,
-      "seendate": "20260823T113000Z",
-      "source": "GDELT"
+      "seendate": "20260823T151200Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "砸4200億打造 「 長臂殺手鐧 」 德國密件曝戰斧 、 極音速武器全上陣 - 國際",
-      "url": "https://www.chinatimes.com/realtimenews/20260822002941-260408",
-      "domain": "chinatimes.com",
-      "language": "Chinese",
+      "title": "In Defense Of The Broccoli Heads",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuVm13TmoyVzFIaU9FYUVHUEZkeU85NHoxUXNFNTl3cGNTczJPdmc2azlGaEJkREJjeHV5TU1OT29QRDBIVnVCVVRyczA0MGdOQXMyemUtMjFkUERDaHZnME8yX1dOR2lNRWxYdmdn?oc=5",
+      "domain": "theautopian",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T131500Z",
-      "source": "GDELT"
+      "seendate": "20260823T154432Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Ather Energy Breaks Into Canteen Stores Department , Bringing Electric Scooters to Army Canteens",
-      "url": "https://idrw.org/ather-energy-breaks-into-canteen-stores-department-bringing-electric-scooters-to-army-canteens/",
-      "domain": "idrw.org",
-      "language": "English",
+      "title": "Gov. DeSantis clears $9M for military ship building infrastructure in Pensacola",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHF4R1c3VVpjamttekZLcTJzRlYxekVZTnpYM0tJVHFVMmpsQUF5N0FDSjFDcVlGaUpGY011Z0d1d3hjUldVeWk5bjFrYnpJS1JDZG9lYTFOa1FEby01QmlZbHp2bnpNVXl1eW5oaTJWc1V4ZWRLVU5kNmkwYXBaWmRoakdHQjhEWnpmRFhrcVlodGZ2cl93TG9fOHRhWTNmcGoyN1ZFcWxUajJHTTNrMHFhUEtlYWl6cWtOVGgtMA?oc=5",
+      "domain": "floridapolitics",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T133000Z",
-      "source": "GDELT"
+      "seendate": "20260823T154500Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "賴清德暴雨中追思823提醒國人 「 天下雖平 、 忘戰必危 」 和平協議換來屈辱",
-      "url": "https://n.yam.com/Article/20260823944197",
-      "domain": "n.yam.com",
-      "language": "Chinese",
+      "title": "Zelensky details rift with dismissed defense chief Federov, saying some of his actions were misguided",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOWdtTTVxcnhzV0hkaHBucVFFVW9fMDktSk9yN2FXcTI1aUVPeEJEeElhblh1VC1PSVM5Si1MMWc0aWtlcDNLekVXajF1YzI4cnN2RVgzdDU0eHp2VXJFVXM2c1pJLTR6bF9nZ1hVLUxSQjQ1emhoTnNFOHRyTzZ2NTJqaERuUS1lRFZneXYxRVR6bzJFelZOZTYwVlhmVTFDMGtrWkJTTi1DOTlkU3c?oc=5",
+      "domain": "losangelestimes",
+      "language": "",
       "tone": 0,
-      "seendate": "20260823T061500Z",
-      "source": "GDELT"
+      "seendate": "20260823T171045Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "滂沱雨中紀念八二三 賴總統 ： 盼朝野秉持反共保台精神支持國防 | 政治 | 要聞",
-      "url": "https://udn.com/news/story/6656/9708798",
-      "domain": "udn.com",
-      "language": "Chinese",
+      "title": "Man fatally shot in Frankford, gunman claims self defense",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSGtYcDVLbXplWklRZWdfUUhLZnhlM3dmaV9GVFkxZl92aHJxeUhSWndwLU5zYmhpZnotNDdnVkpkMVhvOFVyemotTjJ3T2R5ZG1vNjRwdzBpWUhmRGgzU2szbTVuZjNXUm16OExmNUJPdWVJVlFIWkdzbUpCOXRUXzBRbDlJcHfSAYwBQVVfeXFMT1ZLdFo1VnZLLWVZU1RTMnRTQTBGdkhXdFlxcDBzUFpUV2FTcVlabTZyQU1tTGNLOHJGcU5nSGl5TU5UVWVTZXpmZGxjT3V5S0xoZFJBNktuT2U1QnRCWDd3YjJudjgyOUlnWTRsNUxndDRMN3VuVjFOTTBsTkw3V2l1MW1qTWpmNEhpaGQ?oc=5",
+      "domain": "6abcphiladelphia",
+      "language": "",
       "tone": 0,
-      "seendate": "20260823T050000Z",
-      "source": "GDELT"
+      "seendate": "20260823T132800Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "  Auch für Katastropheneinsatz  – Bundesheer - Jets sollen jetzt Waldbrände löschen",
-      "url": "https://www.heute.at/s/bundesheer-jets-sollen-jetzt-waldbraende-loeschen-120241731",
-      "domain": "heute.at",
-      "language": "German",
+      "title": "Pentagon fires U.S. military newspaper leadership for 'insubordination'",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSDlQY0NlRGhkWHp0UGNxdk03NzlxRFRPRW52U3BmVm84VE9OZTl2bDNwa185eFEyNm93cU1WRHhKTy1mX2QtaUhlZDU0XzMzOURsS3pjWlQ0NEFvNktoUlNUb2YxbFlmOGFGZ0c4RWxHYm1zcDJLVGhkSUtoczBYMEdJdmkxVTVfRkI1LdIBkgFBVV95cUxQNWlaVVZoMGRmUE5rdmtJQXZNRm5KRFJTc1hhV2EyVXRYd3pHSUlxRVd5aU4xSGRSeEJMNFVaRXNkTFBlZzZfb1hQS0VJSzJNUktJc3JuWjl3OFZEQTFKeWNyWkNhLXVoMXhuc0JVN25Fd0hDTVR2R1JsbU9ZeWZoZTdOcWd1MjBhaWxHb2todXZ0UQ?oc=5",
+      "domain": "cnbc",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T213000Z",
-      "source": "GDELT"
+      "seendate": "20260822T000500Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Inside America Drone Arms Race : What Industry Experts See Ahead Of Procurement Supercycle",
-      "url": "https://www.zerohedge.com/military/inside-americas-drone-arms-race-what-industry-insiders-see-ahead-procurement-supercycle",
-      "domain": "zerohedge.com",
-      "language": "English",
+      "title": "Why Speed Matters: The Predictive Procurement Revolution",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNlV2elVkbGQzVEh4d0ZET3hiei05X3k1SVYwRElZSHdGZnhXbTFTMXY2ckdBeEY1UGFGbUVzMHJkNFRXWVMyQ1pYR1hPZUpPYWt5aDZXN2RyeXd6SERDbm9iR2Y5a0RubVZCNG1TejVBNTZMTVRLUlU1UTlFbWtDTlZZclEwZlllZFd5MmE3b2tud3FwdVluNUQ3YVJLY0pONXoyTG9ZenlBODFLcmhNRnVkWDJwNUJvUTZFWkhBbmdBakotMmZnU0lERW1zYS0xMlllS3cxRkZrN2dsdmJDSg?oc=5",
+      "domain": "supplydemandchainexecutive",
+      "language": "",
       "tone": 0,
-      "seendate": "20260823T063000Z",
-      "source": "GDELT"
+      "seendate": "20260823T160347Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "賴清德 ： 和平協議只換來屈辱 823勝利是以實力確保和平最佳證明 | ETtoday政治新聞",
-      "url": "https://www.ettoday.net/news/20260823/3224181.htm",
-      "domain": "ettoday.net",
-      "language": "Chinese",
+      "title": "Poles express doubts over military readiness as security fears mount",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOODZya25sQ2ZUOHhiWUhiS0c3VHJkbk1HQkc0VjRUY1VrdlkwUUJpTkl3UDZlU2M3emozaXJJTEp3NUpFZ3pjUThIWFZPS2V3V1p2eWhpQXYxQ1dSLXVkb3B2Tm5qRTZsMFBBaGxXWE1mYURGdndtUmhyaUF2R1JrV01pWHhCLWJ3SzgzZGFucV91Z2xjdm5kSVRNUnM2dw?oc=5",
+      "domain": "tvpworld",
+      "language": "",
       "tone": 0,
-      "seendate": "20260823T044500Z",
-      "source": "GDELT"
+      "seendate": "20260823T144500Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "823金門較勁 ！ 鄭麗文籲承認九二共識 賴清德 ： 盼朝野反共保台支持國防預算 | 政治",
-      "url": "https://newtalk.tw/news/view/2026-08-23/1055133",
-      "domain": "newtalk.tw",
-      "language": "Chinese",
+      "title": "Chiefs News: The rookies are flashing athleticism and speed on defense",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTEFLRXozbDhNX1JoNG9pRmNxRnpneGdQV2FwR19vRHlrWUV1WTZWcW0ydGQ1bWltNmNYZEpKSU9WN3VfU3ZPYjhpQmhiR0xqWWR4Z0hONmlPRkNib1pPbENnUDdxWjYwSFg2dklvbk93NFdNQXJDZW5OZ1RYN0w3Z2RBeVFwOUxpNC1YMWlYMW5GUzB0OXFSSVctS0xveUwwWmkyMjduc2lHR2F3eUF3RmxrMFdqY0U?oc=5",
+      "domain": "arrowheadpride",
+      "language": "",
       "tone": 0,
-      "seendate": "20260823T064500Z",
-      "source": "GDELT"
+      "seendate": "20260823T130000Z",
+      "source": "GoogleNews"
     }
   ],
   "timeseries": [],
