@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-24T02:10:02.851787+00:00",
+    "generated": "2026-08-24T07:40:35.998828+00:00",
     "mode": "live",
     "sources": [
       "news_articles",
@@ -35,21 +35,21 @@
   "live_data": {
     "news_articles": [
       {
-        "title": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him.",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSFd6YTFxaFZwTkRZSFh4eG5oNGRyRFVycjJVaUlPWmhjTHZyRHowdVpHak5vTXU4RVp2LS1WS0RQMEFHOHYxa3ZwV28tTGFLZmtEV1plaXdxanFYYUo3VkJ3eEtUcVkycmxJeE1GOV9WekRsNHFCSk5SR0NIR0FDVlROWG5vSFFsLVlEeXJnb0JpQmY3Mzc4MmVBc29TRFE0LUxaenktLWw0NEQ0RFFYaW5lcVkzWUxTNndvWUhSeGdUX3c?oc=5",
-        "domain": "pbs",
+        "title": "Zelenskyy details rift with Ukraine’s dismissed Defense Minister Fedorov",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONV81OVhGQUZYeXc2ZU5aQUlwZWRCdGU5OGlqdllsZXVZbEtJQzVXQ05ZMlZVRlVua0xUdDRpVmg3b25KRnNUbEVPc1JhQks5OHlPYi13RDdleGNxM2tlWnV2TUxYMXRsenNSN3VmdEoycFVSaFNEVll5Um1fOUFxbUNac3lfM1pTbTg3WVpHd21IdnU3R1ZkS2dyai0?oc=5",
+        "domain": "apnews",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T220209Z",
+        "seendate": "20260824T024200Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Training Camp Notebook 8/23: Defense, special teams working diligently to make quick improvements",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVU14T1E3amFFSEVCaDRfUG8wdjlscF9nNV9JVEZwblNna1YyYXlxQUpmRkIxUjY0WVRpTHlsQkRCNDdrVDBIZlNMX2s0YllaVUV3VGVhZjY0dFNmbWx1cEU4Zldzc0RoeGhXc213MndBdFZEbzJwN29LNlBPNWJQRnowVWNfQ2pNNnEtM3V0d1FOZzdLZ21ENzFfWDZzTEdVVmNzc3Y0azFsLVhnWTZPQXNPZFVZNGh0NjJmVDQySktMdw?oc=5",
-        "domain": "raiders.com",
+        "title": "The Risks of Downplaying China’s Military",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zakZkV1FYT1lIX3BuQTFSNjI4TTNqdjRkZUctSDNIVjVUNXRiSmVybTVfVU1aX0w1R1N2THBWeEJHdzJUaUd4ZFRzUkFBcHAxLU9YR2F2cUZDU2Z0U2FiemxCYUh3UlIwWGNIemwxTFk2Y1VKVUE?oc=5",
+        "domain": "warontherocks",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T234816Z",
+        "seendate": "20260824T073331Z",
         "source": "GoogleNews"
       },
       {
@@ -62,6 +62,15 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Training Camp Notebook 8/23: Defense, special teams working diligently to make quick improvements",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVU14T1E3amFFSEVCaDRfUG8wdjlscF9nNV9JVEZwblNna1YyYXlxQUpmRkIxUjY0WVRpTHlsQkRCNDdrVDBIZlNMX2s0YllaVUV3VGVhZjY0dFNmbWx1cEU4Zldzc0RoeGhXc213MndBdFZEbzJwN29LNlBPNWJQRnowVWNfQ2pNNnEtM3V0d1FOZzdLZ21ENzFfWDZzTEdVVmNzc3Y0azFsLVhnWTZPQXNPZFVZNGh0NjJmVDQySktMdw?oc=5",
+        "domain": "raiders.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T234821Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Chargers Training Camp Report: Mack & Mesidor Lead Defense on Day 18",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2RUtKZEx0NU1xZDNkM2pEcWZXMDZSWjhYMDBhUHI5cVY3ZW1Jbnl4XzA2ZlpsaUlEb3oySDVndFA4T3hkQW5HN3lmc2JMUkRKcW9OR3FicFNMZWNxZk0xdnRpbXRZSktuZzlZbDNuUnM5dTZWWlJaaQ?oc=5",
         "domain": "losangeleschargers",
@@ -71,12 +80,30 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Zelenskyy details rift with Ukraine’s dismissed defense minister Fedorov",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONV81OVhGQUZYeXc2ZU5aQUlwZWRCdGU5OGlqdllsZXVZbEtJQzVXQ05ZMlZVRlVua0xUdDRpVmg3b25KRnNUbEVPc1JhQks5OHlPYi13RDdleGNxM2tlWnV2TUxYMXRsenNSN3VmdEoycFVSaFNEVll5Um1fOUFxbUNac3lfM1pTbTg3WVpHd21IdnU3R1ZkS2dyai0?oc=5",
-        "domain": "apnews",
+        "title": "31 ex-lawmakers, staffers joined military firms in past 10 years",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xbTk3NFVFVXVrb0ppcVNZTUNUcV9XOTRWa0pkM19RMlMwU055Z0VpRHBUeFlTeGM2NHdxOF9RQmFDMHQtQi1jb1gyRThfbG5fbDZPS3B2bENPUTZfcE9xazJIc0FlT2V5S3Vzc3JnVHRaY2VrZ2NtZg?oc=5",
+        "domain": "responsiblestatecraft",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T161600Z",
+        "seendate": "20260824T040915Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "A preseason primer for some key pieces on the KU football defense",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOEtvX1UtY2JrZW04dFdKdHZXQkxLb0U0ZldIbTU2bTR2cF9kbkxVVnVVZ2NfTE0ySTlGMzZob0FVYmlGanZSMVhVZjFxZHI2QzRLUmJOcXdpRHJ6ZGlYR0VYU05VczJSTVlVZUhZNnVTLXlXSndVM3RzZXJpOVVqejBLYmhXOW9ubE5ZV253UVRjTUxoaHBZUA?oc=5",
+        "domain": "r1s1wavethewheat",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260824T050433Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "In Defense Of The Broccoli Heads",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuVm13TmoyVzFIaU9FYUVHUEZkeU85NHoxUXNFNTl3cGNTczJPdmc2azlGaEJkREJjeHV5TU1OT29QRDBIVnVCVVRyczA0MGdOQXMyemUtMjFkUERDaHZnME8yX1dOR2lNRWxYdmdn?oc=5",
+        "domain": "theautopian",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260824T030621Z",
         "source": "GoogleNews"
       },
       {
@@ -86,15 +113,6 @@
         "language": "",
         "tone": 0,
         "seendate": "20260823T093000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "MCRD San Diego performs at Padres Military Sunday",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcVdXWkNLdEdjbjVzRlpwNUJUNGtmVjhJMExET0x2cGNjNldiQXlXSWJVcU4wbXhMZXJFa2FkRzNXUGE4eE50QlpXUnRNS3BzU29HODJuTHZCVlFvdDBqSHI3OFo2NVNQLWktUjNBaUs3VGxmOTE4SDAxcWdpR2p5UzdtV0QtM0doREE?oc=5",
-        "domain": "mlb.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260824T000319Z",
         "source": "GoogleNews"
       },
       {
@@ -116,102 +134,39 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Todd Bowles: The Defense is Setting The Tone | Press Conference",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWs5cWxfRHpXcUx4RlVQMVRYbnl6bFBqU0pqQThOcXNFUHdzdWhYQ1ZVVDJuaUotcmdWM2s4WVI4ajVHV3k3b2ZOSnZaeWhpOXRYTjN3SWExTXZZRlhhVnJIVjdLN0p2VENxTE5FUHR4RlJLTVdxMllDTnNyVXFSM3NMZktHdWhHY2E3bTdHamFyeVRMcjl5M0ZINUUxeWM?oc=5",
-        "domain": "tampabaybuccaneers",
+        "title": "MCRD San Diego performs at Padres Military Sunday",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcVdXWkNLdEdjbjVzRlpwNUJUNGtmVjhJMExET0x2cGNjNldiQXlXSWJVcU4wbXhMZXJFa2FkRzNXUGE4eE50QlpXUnRNS3BzU29HODJuTHZCVlFvdDBqSHI3OFo2NVNQLWktUjNBaUs3VGxmOTE4SDAxcWdpR2p5UzdtV0QtM0doREE?oc=5",
+        "domain": "mlb.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T135422Z",
+        "seendate": "20260824T000319Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Saudi Arabia, Turkey, Pakistan invited Iran to join newly-established Mecca defense pact - report",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80R3dhT053Yzh1RWhoLVZkaFprOWdVMUh3S0g0a1ZNZm41UTJuU1NRYlNkd2F0OV94b2N3MU9RWVRUV2hsQkdidktIR0VIMXNTeGlEZjgzMVJBYWZ0V0tSaWFKZFYyd0tkWWc?oc=5",
-        "domain": "thejerusalempost",
+        "title": "Antiviral defense mechanisms in viral infection",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GSk1VbVVjaC1uTHc4UWFQcldvc2NQbWNjU2U3aV9UY3h6bTUxMWZxVkJDTTNRQXNWSzZZSV9tRFpPMkUyUlRwbHlLYzJqUkdCcnNrUFNzVUM?oc=5",
+        "domain": "nature",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T121557Z",
+        "seendate": "20260824T044819Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Defense Secretary Hegseth to speak at Oshkosh Corp. Monday",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa2JUcTh3d01rYUN0clp3RGxMUjFRZGpnbUp5dS1HMjFDWks1ZjF1X3YtMFMyNmItT3JZYUFmMTAyd0g4X0Z5aTRYaWJtVllLQXgyb3ZlTnZadWlzb2RydC02YV9VdUxMSnVEZFVXN3kta2x4bGc5clRTWVdGNDVTZHZhUkxELVB5RXFiMzRQUEZjZlFOa0E?oc=5",
-        "domain": "wtmj",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T224921Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.S. Navy sailor on USS Lincoln says dad was arrested by immigration officials",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTgzVUtrcV9BcllzZkQzandhZDNOX1QxWHZHTjRZdjBOZGEzenMyTXBXZGJORERFcGVGOG5oOXJiSHZyMnIyX2d2SnZ6ZXk5Y3hFZm5GNmlhd2tXZ0hsamFmR3JBbnZzWU5wQTBWTVQ0ekR0VUxydElndmxxQm1mSlF4cXQwZnpkZU80RTRvdUFNa2d1ZDA0YXJR?oc=5",
-        "domain": "cbsnews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T224615Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Syria Tells Israel It Won't Limit Military Buildup in Security Deal Talks",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxONmVscmh3aTJTYVVMTlZCVFAtZEZuWURLQnBtX0tOemNnZGc1cWw5RFB4elZ0dEsxMWtURFBYRUVlS183bDdJTnBIRERLajNtSmV2MjI5NUNXcEJpMnAtXzRVLXNzbkwxQ1Y1bkpyZ1k2TEgzcXhwUlJPXzM4UXVJb0p5YlVhelRDbGdrYVVuMWVSbnpmMHJmTjNESEVmQnNfZ0c3NkFNS3diM0toeXhBZ2c5Zm5mTzg2ejd5Q2VHdE9CakdCcjkwc2Y0amVUNUFLeEYxZEF3dmloN3F5ejFZR2p3RElmTFhsQi1nUVkyTEJEU2ItQUtnQ3BCbzRQN2xZZDBUZlhDc09jaE4yaW1DdGNXeUZkZnlWckdWbA?oc=5",
+        "title": "Katz orders IDF to retaliate 'forcefully' against kites launched from Gaza",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNTVPdjdmMk03Z052TmlMWE9xQ1d2UHZJbDdxU0ozSkZYZFpMclZkbHA5WDFqT3g3VFNwbTdqX0xjSGlHOHAwU0IzWl9XdERxb2JSLWxNbXZzajV6cVJUZms0Q0dyTkp1NmxSWjhGeVg0aVZUSnRnaEdMbVk2bnZBSE0tRjlKRjVOVzg3T25jZ2ZVMVhvRDRYcE5KbU0ta3p4MnF5SUE2bXBmZWFia1d2aG9paDk3UzFfVUw0RUpnaElnQkY4cFNrbE1IdUljdDFxbEg1ZVI1UEFYU0tSM1E0OC1GbGl3Q29KaDNGc19PSERjcVRyU2V6RWtLaHZKRDNKM3liUWpqQQ?oc=5",
         "domain": "haaretz",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T215200Z",
+        "seendate": "20260823T184800Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Stifling UMass Defense Lifts Minutemen to 3-1 Victory Over #24 UConn",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFMyUmxmQ3JIZHJjUEZKQjNsbm0xNWpVSDlicEt2MWlaZnVtcG9OY216elZ3MHVZVmYtaUFEQzdIbkVhZWFlNGtlc3E2X2NrMVVhYWNYX0dfcWYzTTNJdjZhSjdJLVUzQ3hnSGhMazZvWFdwbFBueE9lbUU0YXJYcmJ1c3Vlcno3dnhmUEJvYXMyQzkzd0EzRi1sOG9yem5JcDM0aHJLZUltWFU5OUNtWm1iUDUtNWRjSWRPcEpB?oc=5",
-        "domain": "universityofmassachusettsathletics",
+        "title": "Team Defense Tiers, Targets, and Teams to Avoid 2026",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZllOQjdFTlZqVkNuUjd1VXJUM1BrQ3UxQ2s1WEM2UTUtUmpGUlgzNmxLN2RSTWpfTFR0b0lQOHgzMHJkWUtoS3NRaFlYLUpIZk81RGZ1SVdjQnhvWlpIZGtTQVNUdHhDMkxaSDVtaGh6X3paY3ljM0RGRGlDNm5mZ3p3MFdiUlJwQlZj?oc=5",
+        "domain": "footballguys",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T200933Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Zelensky Says His Ex-Defense Minister Was Wrong to Call for Elections",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNmIzbENIVk94WjJCTVJnUF85S0x2MkhRZHEyU0JjcWFwYU5RU1RfbkdDVjlYb3paYjdfd2Jxb2Zkak9LbG8wN1A1bXluSFlGaFhRYk5wV3UyX1d3WTltMTctRk5aYTdFSWhQemlsX1ZCcG1lNUc0NGFkUURkNHVkQWZ3RW1jX1BXemVLWjl0M0k?oc=5",
-        "domain": "thenewyorktimes",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T140959Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Press Conference: Elijah Molden on Building Continuity Across the Defense",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZkRYaElwZ1haMFY2T3lVRUtnNVpJZHJrVjBxalZJaXJzU2ZVZTJWaktqbVhGVC1WSDZlSzRucWQwZzF0RFFNdkIwbDcwd2REd0xCaE9vQkh0UmhxOGoyYTJoVlVUNzdRWjc3Z3BaUjdkcEVnYzF4eVRWUnVYT3hSSElnOFh5ZDNXek5uN3hNdHg?oc=5",
-        "domain": "losangeleschargers",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T200546Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Opinion | Ukraine’s Next Missile Defense: Starlink?",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNkx5VUpocW90akhaaHhocDE3ZlBPSXkyMzZCYmNrYlE1RVV4NkhHaUl0SDhMZlBrYmRvQlhIb0V0U0FvME9hbEg4bXppZFVCNjRCMTZpaEdSQXo4OUJNX2ZFQ0xjcGx1blpHUmhFR0xrNFBiTUNuRlZtOGF3djZWR1piLXgwTmNoV1YwZzNvVTROS29OY0E?oc=5",
-        "domain": "wsj",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T191300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Greece moves Patriot interceptor to protect key military base amid rising US-Iran tensions - report",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RYVhzdXpEcVF0bnV0WVI1Q3NxYld3QWdSb05NNmZWTDJXb0tGRzVrNVoxTVd1YmZ4ekNzNmRBX1Y4NUtyb25WWjZDRFN6bl9CLVMwWkU1Z0RiX0NrMklz?oc=5",
-        "domain": "thejerusalempost",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T231400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Blackwater’s Erik Prince Launches Air-Defense Startup",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdEJnREE4ZUFtcTR6UEdzWFFHeFQyaVBhbFY3Y0VocHlEeEE2WXdmZDI0Ty1MZGstVmVJaGdxR1RvTTlEMEtEbG4tTGdBajAyVEJ0RFIwbmstU2x1akVMNms4Nm02dVdXYlpfYXd1SlVNdWRVTjZNLVFsVDBHN1otSmFDYlNWTnhzMXZyU090d2szMGd6?oc=5",
-        "domain": "wsj",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260821T100000Z",
+        "seendate": "20260823T164819Z",
         "source": "GoogleNews"
       },
       {
@@ -224,21 +179,75 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Jonny DeLuca on his strong defense",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGdmtoS05hZHRsbTQ4ZGFyTFNCZWpqWkhwWHdkUFBndEV6VXRPQXZTOHFpdC15dHRyZy1STjJza1NSdmhXbDJEb0VOTVhyU0pqb1BqT2U2b2V0QWl3MURFLUQtYXFyT3JpLU44VTVlNGpSakU?oc=5",
-        "domain": "mlb.com",
+        "title": "Press Conference: Elijah Molden on Building Continuity Across the Defense",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZkRYaElwZ1haMFY2T3lVRUtnNVpJZHJrVjBxalZJaXJzU2ZVZTJWaktqbVhGVC1WSDZlSzRucWQwZzF0RFFNdkIwbDcwd2REd0xCaE9vQkh0UmhxOGoyYTJoVlVUNzdRWjc3Z3BaUjdkcEVnYzF4eVRWUnVYT3hSSElnOFh5ZDNXek5uN3hNdHg?oc=5",
+        "domain": "losangeleschargers",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T210408Z",
+        "seendate": "20260823T200546Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Video - Military Aircraft Soar Above Freedom 250 Grand Prix",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVUp0a05iVkVfNkF0ZW9YSllnMzJKUnh5ajhGTEtzRWJuTEVqd1BhS2x1VzFuRDFsak5jWEN1c05QeHg1QzRwdWdSaTAwZndSVUxOU181UjVkUEUxRE5MUHh4WU9iWnJWcFpyalBvR2dkVjM4LTMySFNleTZQMW9CeGM4TE5RYXBzakxpQ2dlaVhLeGNO?oc=5",
-        "domain": "dvids",
+        "title": "Pitch for defense treaty and moving US military to Israel is insane",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFWlJ2Q3VGUkVpQWNrQU1vbWgyU0t2b283VGR5aUx4TE5GTmtDa05DWFhNT3hublFKaXNYM3VSTWpKSDU4aW5XZUx1YlY0bEVDcFNFRk83Y0p1N25jN1ZZdWM5cVBseFdSd3dFaw?oc=5",
+        "domain": "responsiblestatecraft",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T214100Z",
+        "seendate": "20260824T040915Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Opinion | Ukraine’s Next Missile Defense: Starlink?",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNkx5VUpocW90akhaaHhocDE3ZlBPSXkyMzZCYmNrYlE1RVV4NkhHaUl0SDhMZlBrYmRvQlhIb0V0U0FvME9hbEg4bXppZFVCNjRCMTZpaEdSQXo4OUJNX2ZFQ0xjcGx1blpHUmhFR0xrNFBiTUNuRlZtOGF3djZWR1piLXgwTmNoV1YwZzNvVTROS29OY0E?oc=5",
+        "domain": "wsj",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T191300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Blackwater’s Erik Prince Launches Air-Defense Startup",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdEJnREE4ZUFtcTR6UEdzWFFHeFQyaVBhbFY3Y0VocHlEeEE2WXdmZDI0Ty1MZGstVmVJaGdxR1RvTTlEMEtEbG4tTGdBajAyVEJ0RFIwbmstU2x1akVMNms4Nm02dVdXYlpfYXd1SlVNdWRVTjZNLVFsVDBHN1otSmFDYlNWTnhzMXZyU090d2szMGd6?oc=5",
+        "domain": "wsj",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260821T100000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Mulberry, Bison Defense Shut Out Washington State in Scoreless Draw",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUnRsM1NqcUR5aU93dWdkT0pqZkdhMTNuaEt6cU1xTlhzZlptb3JabXhNY1dXOHN1UHNzSHA3dks4R3hXZGIta3BrMVk4ZU55V1JEandTaV9EVFdRQXQ4VEZ5MEFXZmxldG5QN3ZZRVlnZkZicEtRV0F5d2tXeFZZX1VjREk5X0h0MTBuNTlsaHJyY2ZTS2F5VDJ6Q1Jfbll1elBLYjROU2V6Z9IBvgFBVV95cUxQMU1vLU8xOVJmaXMwclVNWmFwYlBTbTY5d2ZfSklYQ3g3NG1SVTczSHdobC16YVk1ZC1TNEZYaUFiVC1iQ2ZhVnU2YkFHV09ZekhKbXNZVjRJUmFZZElmNFBpUFM4b0RPM3NGNHhhb0tWX2RJOGo0NllIMFc1aDhGbFRVc01vamYxTDJEVnc3RkxIcXZjNXM0bGFycEZhR2ppcEtxMDZDSDQ1SnI2NmY0SVJya0psNGZWNGx4ZVhB?oc=5",
+        "domain": "valleynewslive",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260824T035500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Uganda and Burundi military officials visit Israel to discuss Gaza troop deployment",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNFl0Zm5zMUJxNjNoN3U1UDVDaGhDUy1ETU5Xcm5WSkJmVXJ5QjlQVlV2TVFYZlNud0R0cUdkVVZPR1l6MVNydDhPc2doV1ZrTkV2V1I0SW84UmVrQkhNU1BjaFY1bVpSSW0wTG55X1ktRlBydjZRRjhnVGNFVGJwZVNJbFlJMU9MamhreWhXaVdBenBnWWZva2JWUHd4SkY3QWl1bVUydi0xUQ?oc=5",
+        "domain": "apnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260824T041400Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump can huff & puff but without political fix Iran won't come down",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2UHQtR0pqaUlDWG0xNVNqODl2eW5zcE1nTEc2YkJ5VHpNdXpZLWVCUHNVajlTZGZiNEx6ejN3QWtCSkNKZ2ZKMjhzM2JXVXV1dVJCeG9YWk4yTGNHSUhucFI3bGdNOHg2Umc?oc=5",
+        "domain": "responsiblestatecraft",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260824T040915Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Defense Secretary Hegseth to speak at Oshkosh Corp. Monday",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa2JUcTh3d01rYUN0clp3RGxMUjFRZGpnbUp5dS1HMjFDWks1ZjF1X3YtMFMyNmItT3JZYUFmMTAyd0g4X0Z5aTRYaWJtVllLQXgyb3ZlTnZadWlzb2RydC02YV9VdUxMSnVEZFVXN3kta2x4bGc5clRTWVdGNDVTZHZhUkxELVB5RXFiMzRQUEZjZlFOa0E?oc=5",
+        "domain": "wtmj",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T224921Z",
         "source": "GoogleNews"
       },
       {
@@ -260,51 +269,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Inside Turkey’s military machine: Tanks, drones and regional power",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rSE1teWc4MFBQaEpKeEpJSXhsaE1fQzVrbnQxeldkME5FUzYxeTQzdFk1MGVkU3lVc1hlWVJMaXFWdE9JZmdobEYyY21HM2tWc1VPdjl3?oc=5",
-        "domain": "ynetnews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260824T002008Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Gov. DeSantis clears $9M for military ship building infrastructure in Pensacola",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHF4R1c3VVpjamttekZLcTJzRlYxekVZTnpYM0tJVHFVMmpsQUF5N0FDSjFDcVlGaUpGY011Z0d1d3hjUldVeWk5bjFrYnpJS1JDZG9lYTFOa1FEby01QmlZbHp2bnpNVXl1eW5oaTJWc1V4ZWRLVU5kNmkwYXBaWmRoakdHQjhEWnpmRFhrcVlodGZ2cl93TG9fOHRhWTNmcGoyN1ZFcWxUajJHTTNrMHFhUEtlYWl6cWtOVGgtMA?oc=5",
-        "domain": "floridapolitics",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T154503Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Golden Dome director confident in project’s funding",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00aXY4MmEzWEdYNTBqMmNXU1JLaUtpMmhjdENjRkFZMkJrdmN6X3pIWFdWSTd4NHJHWjh6Z1JCLUdyckhUUTlTWXVRUXg3UUktNTZWdk1xLW1KbW1Ic184Rlhtb1ZHQW53VXk0REFvNHI2Yk9xd09J?oc=5",
-        "domain": "punchbowlnews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T213250Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "SUN | Ravens risers and fallers: Defense delivers again in 13-3 win over Vikings",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWRscmFkNUg2Nl9kRGpVNndQWnluN015el8yY2YzLXJ6X1diTC0wTmt4Ym5LWXdjdFhud1BDNWJ5ejlHMGN1azdFY0JYckdjaHY1VE9wRmRLakxDd0FhcW9wMGp3TXNQcTZjMHpDbGFtYVlSYkxIdmJUdHA5QWZ0b0N4LVhjNWxOMHJaRjV2QzZNbzViWXRFeWF4NGNIQk5aMTJ3cUt4YU5BcldOaHR1V2tsMlI5ZDk0UkQw?oc=5",
-        "domain": "wbff",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260824T011623Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Palantir’s in-house lobbying boom",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QcEZGTjk4M1Q3Q0xyUG5TdlBfX2ZuY1Q1Y0l2dXV4NTV6Y3pTT3VQaWtKU0FUY1ZjVXpoRF9UVUkyOGpBQlQ1MWNGc1hKbjRzNDc3RUpaTTRpSnRBZWtwSDVrQm5nb1Y5XzI5TVA1eTZ4Y0Rh?oc=5",
-        "domain": "punchbowlnews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T214250Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "The defense rests in the murder trial of Lindsay Clancy",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VYlZpdGpVSmNPem14X21pSzNmWUVZMDl0ay15emR5RzAxMW1ZaWZYdFFYVnhicGxucjcwYjZ0TmpTUVo3S0gtRHVRaE1OLVhSYWJodW5ONUFocW5EdGdJMGZ2US01bWxPVVlyMG41WjBFamc?oc=5",
         "domain": "wbur",
@@ -314,12 +278,30 @@
         "source": "GoogleNews"
       },
       {
-        "title": "What We Know About The Notre Dame Defense",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXZWVpNVloSUFFalBYTUJRUVYyQy1jQ2xrLV84RmlaUW5oanVNaHg4NXV4bEtQYmp5UnNiVmI2eDhUb002QjAyakNvRWh5UEpYWDBsODZvMjJNNllkSURQSE5MeWhBaHhZc055NThsNElqMDhpMlVRaVY1T1k?oc=5",
-        "domain": "yahoosports",
+        "title": "U.S. Navy sailor on USS Lincoln says dad was arrested by immigration officials",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTgzVUtrcV9BcllzZkQzandhZDNOX1QxWHZHTjRZdjBOZGEzenMyTXBXZGJORERFcGVGOG5oOXJiSHZyMnIyX2d2SnZ6ZXk5Y3hFZm5GNmlhd2tXZ0hsamFmR3JBbnZzWU5wQTBWTVQ0ekR0VUxydElndmxxQm1mSlF4cXQwZnpkZU80RTRvdUFNa2d1ZDA0YXJR?oc=5",
+        "domain": "cbsnews",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T180033Z",
+        "seendate": "20260823T224600Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Stifling UMass Defense Lifts Minutemen to 3-1 Victory Over #24 UConn",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFMyUmxmQ3JIZHJjUEZKQjNsbm0xNWpVSDlicEt2MWlaZnVtcG9OY216elZ3MHVZVmYtaUFEQzdIbkVhZWFlNGtlc3E2X2NrMVVhYWNYX0dfcWYzTTNJdjZhSjdJLVUzQ3hnSGhMazZvWFdwbFBueE9lbUU0YXJYcmJ1c3Vlcno3dnhmUEJvYXMyQzkzd0EzRi1sOG9yem5JcDM0aHJLZUltWFU5OUNtWm1iUDUtNWRjSWRPcEpB?oc=5",
+        "domain": "universityofmassachusettsathletics",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T200933Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Syria Tells Israel It Won't Limit Military Buildup in Security Deal Talks",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQaFhHVWtpV2pWazNIRUlETWtYMnRaZHo3d0hMd0NTT1pyV25qNVU4QXlfcG5ZU3U2cmpOVWxmT2wySUx3OWVTWHpSalJUNjhWYXRDbWNZdjlhbXBfalZvVUVHUm9pMDBGRkNvN0VQX05HRHgzSTMwYlBFNUE4dDdlMDFEV3NCNDZVMWFqSkZTTzJEWi1Scm52WXkxZnJyd1JHVW93WUdMU01lVVhiRnp4ZmZaMDF3Vmg3WjF0Z2ZWUndFTlJMT1VQMDVTRWhiV0tnam82RVQ4bWdrOFJ2RG5CZFBFWDdkcWZ4eDBWRWg1djNQNEpkZkRkQWt2LTZIems5eGdrRWVCTmRmTEhzd2h5bA?oc=5",
+        "domain": "haaretz",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T215200Z",
         "source": "GoogleNews"
       },
       {
@@ -332,21 +314,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Koretskyi discusses military cooperation and security with Danish PM",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUFZZVWlSM0QwSFFhbUV3aGpMNS0xU2RjT0tVczZ4cFk3dFhmeFhSMFgwempOMVRGZVhVSS1yUEtPbm54NEs5amRuMTBrbVY4ZWRzU0xvaGkwamRQa3ZRUl90ZEJPUFRsdFUzdnFtSUI2Z0N3SHNrd09NNGlzZ0xjTlpyVkUwM09zdlpPa0hLOGM1WGI3b2FoTkFCd2lGTFdsT3dWQ3NkUUQ3Yjkzc3NNOHdOd2VPU0Q4MFFMc0hyRGQ3dDZ6d3fSAcYBQVVfeXFMTVBWWVVpUjNEMEhRYW1Fd2hqTDUtMVNkY09LVXM2eHBZN3RYZnhYUjBYMHpqTjFURmVYVUktclBLT25ueDRLOWpkbjEwa21WOGVkc1NMb2hpMGpkUGt2UVJfdGRCT1BUbHRVM3ZxbUlCNmdDd0hza3dPTTRpc2dMY05aclZFMDNPc3ZaT2tISzhjNVhiN29haE5BQndpRkxXbE93VkNzZFFEN2I5M3NzTTh3TndlT1NEODBRTHNIckRkN3Q2end3?oc=5",
-        "domain": "ukrinform",
+        "title": "Saudi Arabia, Turkey, Pakistan invited Iran to join newly-established Mecca defense pact - report",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80R3dhT053Yzh1RWhoLVZkaFprOWdVMUh3S0g0a1ZNZm41UTJuU1NRYlNkd2F0OV94b2N3MU9RWVRUV2hsQkdidktIR0VIMXNTeGlEZjgzMVJBYWZ0V0tSaWFKZFYyd0tkWWc?oc=5",
+        "domain": "thejerusalempost",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T191700Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "In Defense Of The Broccoli Heads",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuVm13TmoyVzFIaU9FYUVHUEZkeU85NHoxUXNFNTl3cGNTczJPdmc2azlGaEJkREJjeHV5TU1OT29QRDBIVnVCVVRyczA0MGdOQXMyemUtMjFkUERDaHZnME8yX1dOR2lNRWxYdmdn?oc=5",
-        "domain": "theautopian",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T154432Z",
+        "seendate": "20260823T103034Z",
         "source": "GoogleNews"
       },
       {
@@ -359,21 +332,48 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Giants Defense Grades: Deonte Banks Shows New Physicality in Dolphins Win",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHB3ZnZ6TUJYdUpCWDA4aVpjbGZremx6d2lRY0JVRzBmbEFpbmxybFN6OFRaWmVfLUJQcEFJeUtGbVBvMmhZbEI0ekhVV2txWVVtN2I1M0N3SHhOSjlfcml4ZzN5NU9aclJsRmhYOG5XSEVuOHhpbkZKN0w0bEhKYXAzUU8?oc=5",
-        "domain": "sportsillustrated",
+        "title": "Russia is suffering from a slow-motion bank run as the Kremlin scavenges for war funding",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY19mb2NHdHRzLUJCcTN0WGxNREUtVllnRFltem1jVVVNLU5VeHNmMDNlTXRfal9oRl9EaUxIS1RRV1Vhd3MyOXBTUmpsb2dUcXhlZTd0Y3F6SG92a0pBOWRiV3otYW5yOGU1TmVKQzNNTWVFblNMNDVWNmhlbHFnTHBtY1NlNWRQYmluRWMtc0pNSWlnU2NkanlnUi1lb3pKZkhweVQtX0hrR2xEOXc?oc=5",
+        "domain": "fortune",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T213000Z",
+        "seendate": "20260823T231500Z",
         "source": "GoogleNews"
       },
       {
-        "title": "The $1 Trillion Black Box",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIUFNBVjUxdkc3LXoyaE15b2JSUlIxVkp0b1JrZ3Jmd1QxX2VJay1xdUZKb2xvLW5ST0l4NjhTdktycHU1Vld6RzJQeTVmNjhfVUhld1NieUsyZzY0VXFVanV4d09rcjhYRFZOWUpiYXBiMGd6THZZcjg2STh3TDg?oc=5",
-        "domain": "propublica",
+        "title": "Indiana Fever bounce back from 'dismal defense' to beat Chicago Sky",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYURwY2pOVm1zM2xoeVlZZUotWTZfb1lKa1BxUVhLbFNOZVphZFJPYmFBd09jUEhVZlNQcFdYWlVlb2lONENrTnBEampJZGtLT1hIVmRYT2RsM3NlMXpQQWhIWEQzYnpIdEJRaGZPWUZ6VUVKMV9aTHd4Q3BCUF94WHNRZXZCXzM2c1BPbnBMOVdwQ2oxU184aWF6U3E1SG5hYnNrRlBoQVlsUjVhRm9ocWhCYUNaajJKa25kUUowaUo3Qzg4NmsxbG9tU3BUQWpXUWJ3NVNuc0ZWb2Fta2FJSHBnaS0?oc=5",
+        "domain": "indystar",
         "language": "",
         "tone": 0,
-        "seendate": "20260819T090000Z",
+        "seendate": "20260824T035448Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Zelensky Says His Ex-Defense Minister Was Wrong to Call for Elections",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNmIzbENIVk94WjJCTVJnUF85S0x2MkhRZHEyU0JjcWFwYU5RU1RfbkdDVjlYb3paYjdfd2Jxb2Zkak9LbG8wN1A1bXluSFlGaFhRYk5wV3UyX1d3WTltMTctRk5aYTdFSWhQemlsX1ZCcG1lNUc0NGFkUURkNHVkQWZ3RW1jX1BXemVLWjl0M0k?oc=5",
+        "domain": "thenewyorktimes",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T141000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Defense Secretary Pete Hegseth to visit Oshkosh Corporation headquarters",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcmlQX044djlmOHNkOHVGQ2VXTUU1QUZZWVIyMGZRYzU3MEJwcGZhc2NCOXlpN2w0MEJLckNoVDF3T3lyYXEwOVI1TUFKMnpYRnFxVFYyeFEtU2dRX0xBLUg1czl3OTd3Q3ZsNXNFTFp1VGJDM3phclgzWmhUZ2VDSkZuVVcteUE2c1l6dDRpXzVIS2FEbHVLRGtkOXNUNm40M1hjWdIBuAFBVV95cUxOVFkyeTg4bFFPa3JHLTZxUTNLMlE0cDc5QTVxNUdTOWl2TTZiOEJ1a0VTbm15MjJLYW83Q1AxTFcya181VU1icG1LaVl6YmozZWd2eGxMdDkxcURqT1dDSzNTOUpHVmRhSzJHYUZXWjZIRUFJbWFWdWFPZXVBVjNJRjNlTVpQVjFQcmRJQWIyOHBQLVdLMlhkaVdRZ09sSnQ0cVlBeF9ELWVIZjdXYS1ZaGl5WHZBYzNV?oc=5",
+        "domain": "wbay",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T230900Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Louisiana girl, 8, dies after contracting suspected brain-eating amoeba linked to lake swim",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUmpfeXBYa2NBZDRrQUVycXZkeDQ0RU13UlZQS2pKZlBoUlJ2RTNUT1ZxdnVsak9KQmdYOVBTeG9sak1pYm9pejJ6N0k2MDVpWE5HZ29RYllYLXR5aXZ0Z0E0enZ4ZTFLMlhNTG9mZXRlZGFuemtiUG9JaTg3dGI5aWxxcVZidU13cHBYdDdXVGJXc3VjM01PQ084aHU0YWRYQTdoeC0zb1lxRzZBUktaV0d3ekI0Ykll0gG-AUFVX3lxTFBERTc3dVd2TnoxZEYwbnMzVlFtVE9HeGpfVnc0M0xUcTkyd0dXQ0Y3U3N2Z3ItN1BscHRYQXpsaUFYcTR0bWM3MmYyVHp5Ukc5VkkyWWU0UU9qWHVjOWFmOFRndy1ZUExNbGhnNmZmQXVDNFZvSFU4RGZUZER4SzNJQ3V6WEt1ZDJCeFc2SDZDM1BVRlRTcDJSa1NYRVkwVEFkSFZFeFYwU3BqT1RaMWdnaHhnRVlrbVh0N0lKOFE?oc=5",
+        "domain": "foxnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260824T005029Z",
         "source": "GoogleNews"
       },
       {
@@ -386,30 +386,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Cedanne Rafaela talks his three-hit game, defense",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1ZXdOTUVBQjdYQkFBZWpFVW1jVTVDeDVtaWhnek9fQXB6dGlfdy10SWdEdkdyYjRVSG1BYS11cUlHUVlZU0dZTEVucEUyZTRRY3BWVXRQNTduOTdLS0lETFQzNXgzN0VyTXVVYS1LV245SnNuRnlFRmhoZXdsR0E?oc=5",
-        "domain": "mlb.com",
+        "title": "Inside Turkey’s military machine: Tanks, drones and regional power",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rSE1teWc4MFBQaEpKeEpJSXhsaE1fQzVrbnQxeldkME5FUzYxeTQzdFk1MGVkU3lVc1hlWVJMaXFWdE9JZmdobEYyY21HM2tWc1VPdjl3?oc=5",
+        "domain": "ynetnews",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T230440Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Poles express doubts over military readiness as security fears mount",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOODZya25sQ2ZUOHhiWUhiS0c3VHJkbk1HQkc0VjRUY1VrdlkwUUJpTkl3UDZlU2M3emozaXJJTEp3NUpFZ3pjUThIWFZPS2V3V1p2eWhpQXYxQ1dSLXVkb3B2Tm5qRTZsMFBBaGxXWE1mYURGdndtUmhyaUF2R1JrV01pWHhCLWJ3SzgzZGFucV91Z2xjdm5kSVRNUnM2dw?oc=5",
-        "domain": "tvpworld",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T144500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Katz orders IDF to retaliate 'forcefully' against kites launched from Gaza",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNTVPdjdmMk03Z052TmlMWE9xQ1d2UHZJbDdxU0ozSkZYZFpMclZkbHA5WDFqT3g3VFNwbTdqX0xjSGlHOHAwU0IzWl9XdERxb2JSLWxNbXZzajV6cVJUZms0Q0dyTkp1NmxSWjhGeVg0aVZUSnRnaEdMbVk2bnZBSE0tRjlKRjVOVzg3T25jZ2ZVMVhvRDRYcE5KbU0ta3p4MnF5SUE2bXBmZWFia1d2aG9paDk3UzFfVUw0RUpnaElnQkY4cFNrbE1IdUljdDFxbEg1ZVI1UEFYU0tSM1E0OC1GbGl3Q29KaDNGc19PSERjcVRyU2V6RWtLaHZKRDNKM3liUWpqQQ?oc=5",
-        "domain": "haaretz",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T184800Z",
+        "seendate": "20260824T002008Z",
         "source": "GoogleNews"
       },
       {
@@ -422,66 +404,84 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Why Speed Matters: The Predictive Procurement Revolution",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNlV2elVkbGQzVEh4d0ZET3hiei05X3k1SVYwRElZSHdGZnhXbTFTMXY2ckdBeEY1UGFGbUVzMHJkNFRXWVMyQ1pYR1hPZUpPYWt5aDZXN2RyeXd6SERDbm9iR2Y5a0RubVZCNG1TejVBNTZMTVRLUlU1UTlFbWtDTlZZclEwZlllZFd5MmE3b2tud3FwdVluNUQ3YVJLY0pONXoyTG9ZenlBODFLcmhNRnVkWDJwNUJvUTZFWkhBbmdBakotMmZnU0lERW1zYS0xMlllS3cxRkZrN2dsdmJDSg?oc=5",
-        "domain": "supplydemandchainexecutive",
+        "title": "Jonny DeLuca on his strong defense",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGdmtoS05hZHRsbTQ4ZGFyTFNCZWpqWkhwWHdkUFBndEV6VXRPQXZTOHFpdC15dHRyZy1STjJza1NSdmhXbDJEb0VOTVhyU0pqb1BqT2U2b2V0QWl3MURFLUQtYXFyT3JpLU44VTVlNGpSakU?oc=5",
+        "domain": "mlb.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T160325Z",
+        "seendate": "20260823T210408Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Zelensky details rift with dismissed defense chief Federov, saying some of his actions were misguided",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOWdtTTVxcnhzV0hkaHBucVFFVW9fMDktSk9yN2FXcTI1aUVPeEJEeElhblh1VC1PSVM5Si1MMWc0aWtlcDNLekVXajF1YzI4cnN2RVgzdDU0eHp2VXJFVXM2c1pJLTR6bF9nZ1hVLUxSQjQ1emhoTnNFOHRyTzZ2NTJqaERuUS1lRFZneXYxRVR6bzJFelZOZTYwVlhmVTFDMGtrWkJTTi1DOTlkU3c?oc=5",
-        "domain": "losangelestimes",
+        "title": "Trump Has Good Reason to Reduce U.S.–South Korea Defense Ties",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGNZNks1NTRiTUlRcW1kVG02TndGRUlhbnlwSkZjdHZxM19ISm5tNXlqbXJvaGlCWUFYNFVKeExSVlhlMWlTaFBVVVlCWlA5M3ZTc3hoZ0FrOU95TEFNSDZFbU9CV2FaMnRMRmNYMWdDOWNMeS0wSVMtLTdleEZ6R0dMTWJlR1pJQUZEUTJ6T2dsaEFjNmlENFQ1Uk5Na0ROOEpB?oc=5",
+        "domain": "theamericanconservative",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T171045Z",
+        "seendate": "20260824T040500Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Whit Weeks Is Becoming the Quarterback of Lane Kiffin's Defense",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY1hIc0ZCSGNwd3hZN21iRVhVeEUtWjRjWnRvYk9nXzNRNW1KYWFWc0tuanVfa2VXcDB4alJfRGhtM1F4UC0ydEFBTjVac2c4aUV4cTZxMTllSHhHRnYtamNpX2FZQTk4YWdnang2eTFiNnFmeG90NDJyaDhxaUllWDRDemZHb1lDX19NNnVvMjFzLXBBRFFrMWJrdHhJVmFyZFRr?oc=5",
-        "domain": "sportsillustrated",
+        "title": "Video - Military Aircraft Soar Above Freedom 250 Grand Prix",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVUp0a05iVkVfNkF0ZW9YSllnMzJKUnh5ajhGTEtzRWJuTEVqd1BhS2x1VzFuRDFsak5jWEN1c05QeHg1QzRwdWdSaTAwZndSVUxOU181UjVkUEUxRE5MUHh4WU9iWnJWcFpyalBvR2dkVjM4LTMySFNleTZQMW9CeGM4TE5RYXBzakxpQ2dlaVhLeGNO?oc=5",
+        "domain": "dvids",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T194500Z",
+        "seendate": "20260823T214100Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Beth Macy campaign hosting military veterans listening session in Harrisonburg",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOUZfMVVDemJ6eUdOZXlSWmVqdFJfTXY4X0ZnQ1dObjhxWHVjVXVJVW84OHRscXBFZGQyNU93dmM2NFNWQmQyanV4WHh5cE1aNkY2QjJvR0F3dUIxcE1pLTc0ZjdVaDdxMjM1d0V5WDIwMEozVWlMT3lQWWEySXVkX0szWmZFM2dTaFpZWXNTNFlZdjBvZFdXYzlVM3h3SkVhZ3IySDhGOHhUSFZNWkV5LWZSVQ?oc=5",
-        "domain": "augustafreepress",
+        "title": "Trump’s Order to Cut Military Exercises With South Korea Carries Risks, Experts Say",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZUNYOURJdHBQbTVuMXdSRF9XUXVOQ3c5azVOZFA2Z1BTN2dtS1FnOGdSSXFmRnBUS1RnRFdDejQydlRQUmRvM0xlZUpWblVYdVc4Ukk3YkFaYXQwR2N3R0MyWkc5NWxfeE9XQnhrcTVESzYzcmgweF9JMGpjbXRUYVNtZVlpcXZmNmtBTkVOVS1oazg?oc=5",
+        "domain": "thenewyorktimes",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T205200Z",
+        "seendate": "20260820T090419Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Secretary of Defense Pete Hegseth to visit Oshkosh on Monday",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNSEozempLdUlYNGlXeS1vcXZuZFJiTllmWTBVMHp0ejNfZlFyN2FpRE1iejJDSVZLNG03dU5JZlZ2blh3cEg5NF9KYnNxZ2FFMng4bGs4TjZGVGRHQ0xmSDZBcHkwTnNDczQzVlNqaXhlbUNKQkwyendjOFFqbExoRlNzZzhMX21NM1A1X2NlRy1zLWprZll4Q0VWVEV5cFhpREZWWThTQTN1T2xFV1VGR3l3VkYzOE1XQUdDMExCZ3c0Tk9yNm5vYUFMWEh0VS1DWE0tbEx3UVpzS1owX1AzcFR5X3RkV0NGN2g5YUtyckVXVEVSWWh2dTEyME9TcUpZOF9EZ3pLOGNPUmZvRm1XdVdISEwxd2NlTGR3WQ?oc=5",
-        "domain": "wluk",
+        "title": "Louisiana girl, 8, dies after contracting suspected brain-eating amoeba linked to lake swim",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbk44UlozZzE5ZjFLczl4c1Y3c2w2UzJjS0RjWjZJM1JlYkY1LUVqMWZVbVo5RkVadG0wc0FmeWxRR3ZFUUo4eGM3QmV3eHZkeTQzb1pEanhKNTVZRG1EZGdUeWJqeEtVRy1XQ2NFT1pRcUUxVldESVI1d1BSV3B3UDlXYU1Jem5oWEdhNkl0RzdIZlhHUkJCNVV0R1lMejlEUnJHTl83NFBBeXhqd2phaEx0dnBwSHpwaTA5YUtSS01hN2tFdVR3RmNoNG94MzFXUkV6cEQzSQ?oc=5",
+        "domain": "newyorkpost",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T192947Z",
+        "seendate": "20260824T052900Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Eight die in plane crash at remote Alaskan military site, air force says",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QMWpRVXlwM3BCSldIekxzaUFudkI0Qlh6d1RoV29EbmNGeEE5cGFsYUp0V0pRZXlPWVBhZDJISms5Q1ZtUDFJSkZXdE1mTWR1UkJvZ2hWa1hMdw?oc=5",
-        "domain": "bbc",
+        "title": "What We Know About The Notre Dame Defense",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXZWVpNVloSUFFalBYTUJRUVYyQy1jQ2xrLV84RmlaUW5oanVNaHg4NXV4bEtQYmp5UnNiVmI2eDhUb002QjAyakNvRWh5UEpYWDBsODZvMjJNNllkSURQSE5MeWhBaHhZc055NThsNElqMDhpMlVRaVY1T1k?oc=5",
+        "domain": "yahoosports",
         "language": "",
         "tone": 0,
-        "seendate": "20260821T195930Z",
+        "seendate": "20260823T180033Z",
         "source": "GoogleNews"
       },
       {
-        "title": "David Teel: ODU’s veteran defense could be even saltier than last season",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSThnMGMtM2ZGZ05IRVRlQ3d6RHRpTHNlTERjZjMxRTVwM2c1WXluc3k4dG1TYjZqbU9vb1Jobm14V09qMkVoTnA3NDVKNXFGWHdFeDRFXzNWV19sVlhOYlBYaUNDZ25EeDhQenpSUVh3T3F4OW5NYUpGVnAwcGpGem5pS05ZUGN3dTNjbGJXOHZIeTVjbmZaSmtpNUNwazNxbjVRSE9TOFlPOHVyWmJB?oc=5",
-        "domain": "thevirginian-pilot",
+        "title": "Parker Moore Bringing ‘Plenty of Value’ to Pokes’ Defense",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xSnNnMEk3SnJrT21pY0FWNlpFS0V3TG0xVjFNMGM1dGJXMFUxeS01Vmp5cFRWN1hCV0oyWkpaOE85bFo4VVhsbE9vWFcwTERDb3l2cmhDV21mN3YtN1ZzUG9GR19Ta3daYXc?oc=5",
+        "domain": "7220sports.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T192430Z",
+        "seendate": "20260824T061544Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Greece moves Patriot interceptor to protect key military base amid rising US-Iran tensions - report",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RYVhzdXpEcVF0bnV0WVI1Q3NxYld3QWdSb05NNmZWTDJXb0tGRzVrNVoxTVd1YmZ4ekNzNmRBX1Y4NUtyb25WWjZDRFN6bl9CLVMwWkU1Z0RiX0NrMklz?oc=5",
+        "domain": "thejerusalempost",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T231400Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Great Moment in Bulldog History: defense shines in Seattle",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTzd6ZWtjSXJEYU1qX1NQNllfOVRtaXpwQW1kaVdrQUJRMVJkd20zYVUwdHpYX3FldGdKYk43QXZKZlVzZ3dVNkg4NDBGbDdzYTh3QVFZNFBtTWVEZVRNNENTWm45eU9XRDdLd2NiU3dKeTBzSjNSR3pIZFJyOE5iNnVRRjJpWlJOcTA1cUJOZWluZFRxQ3BTalYwYXRxQ0Nq0gGmAUFVX3lxTE5GV19KNG1UcDFnWWwzNWpHakdidXR2NmM0SmQ5dGNVRFJpbE9sYWRFRXZBeGJpNGdXdEpta3dlYjVoeDR2NW9MVkRyaHFlZ1NmTF9OcE5JTmN5bnFoT2N1WWlUS2J0ajI5RmlzOTd2V29xSldJWHgwQzdFc1JKeW9TVHdmbTI0ckJlYjM2bmt5SElGYUc5Vm1UTGpxdUFWMlU4RXZ3eEE?oc=5",
+        "domain": "yourcentralvalley.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260824T025316Z",
         "source": "GoogleNews"
       }
     ],
@@ -571,21 +571,21 @@
   "entities": [],
   "events": [
     {
-      "title": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSFd6YTFxaFZwTkRZSFh4eG5oNGRyRFVycjJVaUlPWmhjTHZyRHowdVpHak5vTXU4RVp2LS1WS0RQMEFHOHYxa3ZwV28tTGFLZmtEV1plaXdxanFYYUo3VkJ3eEtUcVkycmxJeE1GOV9WekRsNHFCSk5SR0NIR0FDVlROWG5vSFFsLVlEeXJnb0JpQmY3Mzc4MmVBc29TRFE0LUxaenktLWw0NEQ0RFFYaW5lcVkzWUxTNndvWUhSeGdUX3c?oc=5",
-      "domain": "pbs",
+      "title": "Zelenskyy details rift with Ukraine’s dismissed Defense Minister Fedorov",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONV81OVhGQUZYeXc2ZU5aQUlwZWRCdGU5OGlqdllsZXVZbEtJQzVXQ05ZMlZVRlVua0xUdDRpVmg3b25KRnNUbEVPc1JhQks5OHlPYi13RDdleGNxM2tlWnV2TUxYMXRsenNSN3VmdEoycFVSaFNEVll5Um1fOUFxbUNac3lfM1pTbTg3WVpHd21IdnU3R1ZkS2dyai0?oc=5",
+      "domain": "apnews",
       "language": "",
       "tone": 0,
-      "seendate": "20260823T220209Z",
+      "seendate": "20260824T024200Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Training Camp Notebook 8/23: Defense, special teams working diligently to make quick improvements",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVU14T1E3amFFSEVCaDRfUG8wdjlscF9nNV9JVEZwblNna1YyYXlxQUpmRkIxUjY0WVRpTHlsQkRCNDdrVDBIZlNMX2s0YllaVUV3VGVhZjY0dFNmbWx1cEU4Zldzc0RoeGhXc213MndBdFZEbzJwN29LNlBPNWJQRnowVWNfQ2pNNnEtM3V0d1FOZzdLZ21ENzFfWDZzTEdVVmNzc3Y0azFsLVhnWTZPQXNPZFVZNGh0NjJmVDQySktMdw?oc=5",
-      "domain": "raiders.com",
+      "title": "The Risks of Downplaying China’s Military",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zakZkV1FYT1lIX3BuQTFSNjI4TTNqdjRkZUctSDNIVjVUNXRiSmVybTVfVU1aX0w1R1N2THBWeEJHdzJUaUd4ZFRzUkFBcHAxLU9YR2F2cUZDU2Z0U2FiemxCYUh3UlIwWGNIemwxTFk2Y1VKVUE?oc=5",
+      "domain": "warontherocks",
       "language": "",
       "tone": 0,
-      "seendate": "20260823T234816Z",
+      "seendate": "20260824T073331Z",
       "source": "GoogleNews"
     },
     {
@@ -598,6 +598,15 @@
       "source": "GoogleNews"
     },
     {
+      "title": "Training Camp Notebook 8/23: Defense, special teams working diligently to make quick improvements",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVU14T1E3amFFSEVCaDRfUG8wdjlscF9nNV9JVEZwblNna1YyYXlxQUpmRkIxUjY0WVRpTHlsQkRCNDdrVDBIZlNMX2s0YllaVUV3VGVhZjY0dFNmbWx1cEU4Zldzc0RoeGhXc213MndBdFZEbzJwN29LNlBPNWJQRnowVWNfQ2pNNnEtM3V0d1FOZzdLZ21ENzFfWDZzTEdVVmNzc3Y0azFsLVhnWTZPQXNPZFVZNGh0NjJmVDQySktMdw?oc=5",
+      "domain": "raiders.com",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260823T234821Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "Chargers Training Camp Report: Mack & Mesidor Lead Defense on Day 18",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2RUtKZEx0NU1xZDNkM2pEcWZXMDZSWjhYMDBhUHI5cVY3ZW1Jbnl4XzA2ZlpsaUlEb3oySDVndFA4T3hkQW5HN3lmc2JMUkRKcW9OR3FicFNMZWNxZk0xdnRpbXRZSktuZzlZbDNuUnM5dTZWWlJaaQ?oc=5",
       "domain": "losangeleschargers",
@@ -607,12 +616,30 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Zelenskyy details rift with Ukraine’s dismissed defense minister Fedorov",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONV81OVhGQUZYeXc2ZU5aQUlwZWRCdGU5OGlqdllsZXVZbEtJQzVXQ05ZMlZVRlVua0xUdDRpVmg3b25KRnNUbEVPc1JhQks5OHlPYi13RDdleGNxM2tlWnV2TUxYMXRsenNSN3VmdEoycFVSaFNEVll5Um1fOUFxbUNac3lfM1pTbTg3WVpHd21IdnU3R1ZkS2dyai0?oc=5",
-      "domain": "apnews",
+      "title": "31 ex-lawmakers, staffers joined military firms in past 10 years",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xbTk3NFVFVXVrb0ppcVNZTUNUcV9XOTRWa0pkM19RMlMwU055Z0VpRHBUeFlTeGM2NHdxOF9RQmFDMHQtQi1jb1gyRThfbG5fbDZPS3B2bENPUTZfcE9xazJIc0FlT2V5S3Vzc3JnVHRaY2VrZ2NtZg?oc=5",
+      "domain": "responsiblestatecraft",
       "language": "",
       "tone": 0,
-      "seendate": "20260823T161600Z",
+      "seendate": "20260824T040915Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "A preseason primer for some key pieces on the KU football defense",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOEtvX1UtY2JrZW04dFdKdHZXQkxLb0U0ZldIbTU2bTR2cF9kbkxVVnVVZ2NfTE0ySTlGMzZob0FVYmlGanZSMVhVZjFxZHI2QzRLUmJOcXdpRHJ6ZGlYR0VYU05VczJSTVlVZUhZNnVTLXlXSndVM3RzZXJpOVVqejBLYmhXOW9ubE5ZV253UVRjTUxoaHBZUA?oc=5",
+      "domain": "r1s1wavethewheat",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260824T050433Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "In Defense Of The Broccoli Heads",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuVm13TmoyVzFIaU9FYUVHUEZkeU85NHoxUXNFNTl3cGNTczJPdmc2azlGaEJkREJjeHV5TU1OT29QRDBIVnVCVVRyczA0MGdOQXMyemUtMjFkUERDaHZnME8yX1dOR2lNRWxYdmdn?oc=5",
+      "domain": "theautopian",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260824T030621Z",
       "source": "GoogleNews"
     },
     {
@@ -622,15 +649,6 @@
       "language": "",
       "tone": 0,
       "seendate": "20260823T093000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "MCRD San Diego performs at Padres Military Sunday",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcVdXWkNLdEdjbjVzRlpwNUJUNGtmVjhJMExET0x2cGNjNldiQXlXSWJVcU4wbXhMZXJFa2FkRzNXUGE4eE50QlpXUnRNS3BzU29HODJuTHZCVlFvdDBqSHI3OFo2NVNQLWktUjNBaUs3VGxmOTE4SDAxcWdpR2p5UzdtV0QtM0doREE?oc=5",
-      "domain": "mlb.com",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260824T000319Z",
       "source": "GoogleNews"
     },
     {
@@ -652,57 +670,39 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Todd Bowles: The Defense is Setting The Tone | Press Conference",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWs5cWxfRHpXcUx4RlVQMVRYbnl6bFBqU0pqQThOcXNFUHdzdWhYQ1ZVVDJuaUotcmdWM2s4WVI4ajVHV3k3b2ZOSnZaeWhpOXRYTjN3SWExTXZZRlhhVnJIVjdLN0p2VENxTE5FUHR4RlJLTVdxMllDTnNyVXFSM3NMZktHdWhHY2E3bTdHamFyeVRMcjl5M0ZINUUxeWM?oc=5",
-      "domain": "tampabaybuccaneers",
+      "title": "MCRD San Diego performs at Padres Military Sunday",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcVdXWkNLdEdjbjVzRlpwNUJUNGtmVjhJMExET0x2cGNjNldiQXlXSWJVcU4wbXhMZXJFa2FkRzNXUGE4eE50QlpXUnRNS3BzU29HODJuTHZCVlFvdDBqSHI3OFo2NVNQLWktUjNBaUs3VGxmOTE4SDAxcWdpR2p5UzdtV0QtM0doREE?oc=5",
+      "domain": "mlb.com",
       "language": "",
       "tone": 0,
-      "seendate": "20260823T135422Z",
+      "seendate": "20260824T000319Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Saudi Arabia, Turkey, Pakistan invited Iran to join newly-established Mecca defense pact - report",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80R3dhT053Yzh1RWhoLVZkaFprOWdVMUh3S0g0a1ZNZm41UTJuU1NRYlNkd2F0OV94b2N3MU9RWVRUV2hsQkdidktIR0VIMXNTeGlEZjgzMVJBYWZ0V0tSaWFKZFYyd0tkWWc?oc=5",
-      "domain": "thejerusalempost",
+      "title": "Antiviral defense mechanisms in viral infection",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GSk1VbVVjaC1uTHc4UWFQcldvc2NQbWNjU2U3aV9UY3h6bTUxMWZxVkJDTTNRQXNWSzZZSV9tRFpPMkUyUlRwbHlLYzJqUkdCcnNrUFNzVUM?oc=5",
+      "domain": "nature",
       "language": "",
       "tone": 0,
-      "seendate": "20260823T121557Z",
+      "seendate": "20260824T044819Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Defense Secretary Hegseth to speak at Oshkosh Corp. Monday",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa2JUcTh3d01rYUN0clp3RGxMUjFRZGpnbUp5dS1HMjFDWks1ZjF1X3YtMFMyNmItT3JZYUFmMTAyd0g4X0Z5aTRYaWJtVllLQXgyb3ZlTnZadWlzb2RydC02YV9VdUxMSnVEZFVXN3kta2x4bGc5clRTWVdGNDVTZHZhUkxELVB5RXFiMzRQUEZjZlFOa0E?oc=5",
-      "domain": "wtmj",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260823T224921Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "U.S. Navy sailor on USS Lincoln says dad was arrested by immigration officials",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTgzVUtrcV9BcllzZkQzandhZDNOX1QxWHZHTjRZdjBOZGEzenMyTXBXZGJORERFcGVGOG5oOXJiSHZyMnIyX2d2SnZ6ZXk5Y3hFZm5GNmlhd2tXZ0hsamFmR3JBbnZzWU5wQTBWTVQ0ekR0VUxydElndmxxQm1mSlF4cXQwZnpkZU80RTRvdUFNa2d1ZDA0YXJR?oc=5",
-      "domain": "cbsnews",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260823T224615Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Syria Tells Israel It Won't Limit Military Buildup in Security Deal Talks",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxONmVscmh3aTJTYVVMTlZCVFAtZEZuWURLQnBtX0tOemNnZGc1cWw5RFB4elZ0dEsxMWtURFBYRUVlS183bDdJTnBIRERLajNtSmV2MjI5NUNXcEJpMnAtXzRVLXNzbkwxQ1Y1bkpyZ1k2TEgzcXhwUlJPXzM4UXVJb0p5YlVhelRDbGdrYVVuMWVSbnpmMHJmTjNESEVmQnNfZ0c3NkFNS3diM0toeXhBZ2c5Zm5mTzg2ejd5Q2VHdE9CakdCcjkwc2Y0amVUNUFLeEYxZEF3dmloN3F5ejFZR2p3RElmTFhsQi1nUVkyTEJEU2ItQUtnQ3BCbzRQN2xZZDBUZlhDc09jaE4yaW1DdGNXeUZkZnlWckdWbA?oc=5",
+      "title": "Katz orders IDF to retaliate 'forcefully' against kites launched from Gaza",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNTVPdjdmMk03Z052TmlMWE9xQ1d2UHZJbDdxU0ozSkZYZFpMclZkbHA5WDFqT3g3VFNwbTdqX0xjSGlHOHAwU0IzWl9XdERxb2JSLWxNbXZzajV6cVJUZms0Q0dyTkp1NmxSWjhGeVg0aVZUSnRnaEdMbVk2bnZBSE0tRjlKRjVOVzg3T25jZ2ZVMVhvRDRYcE5KbU0ta3p4MnF5SUE2bXBmZWFia1d2aG9paDk3UzFfVUw0RUpnaElnQkY4cFNrbE1IdUljdDFxbEg1ZVI1UEFYU0tSM1E0OC1GbGl3Q29KaDNGc19PSERjcVRyU2V6RWtLaHZKRDNKM3liUWpqQQ?oc=5",
       "domain": "haaretz",
       "language": "",
       "tone": 0,
-      "seendate": "20260823T215200Z",
+      "seendate": "20260823T184800Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Stifling UMass Defense Lifts Minutemen to 3-1 Victory Over #24 UConn",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFMyUmxmQ3JIZHJjUEZKQjNsbm0xNWpVSDlicEt2MWlaZnVtcG9OY216elZ3MHVZVmYtaUFEQzdIbkVhZWFlNGtlc3E2X2NrMVVhYWNYX0dfcWYzTTNJdjZhSjdJLVUzQ3hnSGhMazZvWFdwbFBueE9lbUU0YXJYcmJ1c3Vlcno3dnhmUEJvYXMyQzkzd0EzRi1sOG9yem5JcDM0aHJLZUltWFU5OUNtWm1iUDUtNWRjSWRPcEpB?oc=5",
-      "domain": "universityofmassachusettsathletics",
+      "title": "Team Defense Tiers, Targets, and Teams to Avoid 2026",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZllOQjdFTlZqVkNuUjd1VXJUM1BrQ3UxQ2s1WEM2UTUtUmpGUlgzNmxLN2RSTWpfTFR0b0lQOHgzMHJkWUtoS3NRaFlYLUpIZk81RGZ1SVdjQnhvWlpIZGtTQVNUdHhDMkxaSDVtaGh6X3paY3ljM0RGRGlDNm5mZ3p3MFdiUlJwQlZj?oc=5",
+      "domain": "footballguys",
       "language": "",
       "tone": 0,
-      "seendate": "20260823T200933Z",
+      "seendate": "20260823T164819Z",
       "source": "GoogleNews"
     }
   ],
