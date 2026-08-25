@@ -1,13 +1,15 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-25T02:05:24.095969+00:00",
-    "mode": "live",
+    "generated": "2026-08-25T07:27:34.943257+00:00",
+    "mode": "partial",
     "sources": [
-      "news_articles",
-      "exchange_rates"
+      "exchange_rates",
+      "news_articles"
     ],
-    "source_notes": [],
+    "source_notes": [
+      "News feed unavailable; retained last validated snapshot."
+    ],
     "version": "1.2.0"
   },
   "stats": [
@@ -33,6 +35,88 @@
     }
   ],
   "live_data": {
+    "exchange_rates": [
+      {
+        "currency": "USD",
+        "rate": 1
+      },
+      {
+        "currency": "AED",
+        "rate": 3.67
+      },
+      {
+        "currency": "AFN",
+        "rate": 65.02
+      },
+      {
+        "currency": "ALL",
+        "rate": 79.25
+      },
+      {
+        "currency": "AMD",
+        "rate": 364.85
+      },
+      {
+        "currency": "ANG",
+        "rate": 1.79
+      },
+      {
+        "currency": "AOA",
+        "rate": 926.26
+      },
+      {
+        "currency": "ARS",
+        "rate": 1506.9
+      },
+      {
+        "currency": "AUD",
+        "rate": 1.4
+      },
+      {
+        "currency": "AWG",
+        "rate": 1.79
+      },
+      {
+        "currency": "AZN",
+        "rate": 1.7
+      },
+      {
+        "currency": "BAM",
+        "rate": 1.68
+      },
+      {
+        "currency": "BBD",
+        "rate": 2
+      },
+      {
+        "currency": "BDT",
+        "rate": 122.45
+      },
+      {
+        "currency": "BGN",
+        "rate": 1.68
+      },
+      {
+        "currency": "BHD",
+        "rate": 0.376
+      },
+      {
+        "currency": "BIF",
+        "rate": 2986.73
+      },
+      {
+        "currency": "BMD",
+        "rate": 1
+      },
+      {
+        "currency": "BND",
+        "rate": 1.27
+      },
+      {
+        "currency": "BOB",
+        "rate": 11.53
+      }
+    ],
     "news_articles": [
       {
         "title": "CFR Report Takeaways: How to Reshape U.S. Defense Production to Counter China",
@@ -483,88 +567,6 @@
         "tone": 0,
         "seendate": "20260824T221400Z",
         "source": "GoogleNews"
-      }
-    ],
-    "exchange_rates": [
-      {
-        "currency": "USD",
-        "rate": 1
-      },
-      {
-        "currency": "AED",
-        "rate": 3.67
-      },
-      {
-        "currency": "AFN",
-        "rate": 65.02
-      },
-      {
-        "currency": "ALL",
-        "rate": 79.25
-      },
-      {
-        "currency": "AMD",
-        "rate": 364.85
-      },
-      {
-        "currency": "ANG",
-        "rate": 1.79
-      },
-      {
-        "currency": "AOA",
-        "rate": 926.26
-      },
-      {
-        "currency": "ARS",
-        "rate": 1506.9
-      },
-      {
-        "currency": "AUD",
-        "rate": 1.4
-      },
-      {
-        "currency": "AWG",
-        "rate": 1.79
-      },
-      {
-        "currency": "AZN",
-        "rate": 1.7
-      },
-      {
-        "currency": "BAM",
-        "rate": 1.68
-      },
-      {
-        "currency": "BBD",
-        "rate": 2
-      },
-      {
-        "currency": "BDT",
-        "rate": 122.45
-      },
-      {
-        "currency": "BGN",
-        "rate": 1.68
-      },
-      {
-        "currency": "BHD",
-        "rate": 0.376
-      },
-      {
-        "currency": "BIF",
-        "rate": 2986.73
-      },
-      {
-        "currency": "BMD",
-        "rate": 1
-      },
-      {
-        "currency": "BND",
-        "rate": 1.27
-      },
-      {
-        "currency": "BOB",
-        "rate": 11.53
       }
     ]
   },
