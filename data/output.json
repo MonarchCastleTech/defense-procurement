@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-25T13:30:40.907481+00:00",
+    "generated": "2026-08-25T19:10:52.292421+00:00",
     "mode": "live",
     "sources": [
       "news_articles",
@@ -18,7 +18,7 @@
     },
     {
       "label": "News Domains",
-      "value": "43",
+      "value": "45",
       "delta": "deduplicated"
     },
     {
@@ -35,6 +35,15 @@
   "live_data": {
     "news_articles": [
       {
+        "title": "CIA director flies unannounced to Moscow to hold talks, source says",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWXZGQUdDNVl5WDFRdUJsR2dYbkFHMmdhUkhKNU9EdXFJZEFiRGhMOURTX3pzZ1FtTENIX254TGsyWE9jMHZsbld0OXlsVndmNXJMT2diSmM2bFZzb19aWWVXT2xYeFRxWEFEZU9pcnRJYVB0X0ppRi1wVEttWklvSU9PSG1KRnhFQUhwTjAyVQ?oc=5",
+        "domain": "nbcnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260825T112234Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Exclusive | Russia Tests Readiness for New Round of Military Mobilization",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRm5UM3FpTktzX3FaLTFUN2ZFaHNOQ3hTTEstckJfUS1JQlRSOHFXNnlRZ3BMSXNuRVlJSzJXZEdlV1JlQXU4a1FNZGpyTjFqZXJhZmd4Qm1ONTJFQlI0MGt1SXNtcFJvRVEyUjlHdlB0Sk5HSEtvRDdvTHpvM3hvcXh3TUpOSER0VGczeDNEaUlwWG8xeEpzcUhNcktaSFdnWURtS1hR?oc=5",
         "domain": "wsj",
@@ -44,75 +53,48 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Mystery as U.S. military transport plane lands in Moscow",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWXZGQUdDNVl5WDFRdUJsR2dYbkFHMmdhUkhKNU9EdXFJZEFiRGhMOURTX3pzZ1FtTENIX254TGsyWE9jMHZsbld0OXlsVndmNXJMT2diSmM2bFZzb19aWWVXT2xYeFRxWEFEZU9pcnRJYVB0X0ppRi1wVEttWklvSU9PSG1KRnhFQUhwTjAyVQ?oc=5",
-        "domain": "nbcnews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260825T112234Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "US military transport plane lands in Moscow, Kremlin says it has no information yet",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa2ZPNmtEcFJVVzlrWERYanJKcWxXZVdkX29yOTkxbk1wRHNCX2loamJ5a3plZDRBTVd4c1ZMNjJjZ05PTExDOFdOZjFXRHJzZldNcUlqVHBGbXo2dk1aUWVDWmZtRlR4dTgzck9LMDRuaUJDLXFNem1PcERiOERqMVotdjJpcDByV0NjVWI4ZGpSRWtTWUZuaFVTZkFQLXE1SmZ0T3FKR3l5UnZSbkc2SHEwRmlnQ24tMnZBTHFvT2Rva2lsTkRFbVByTVZOMzM0am81WktOR2t5UQ?oc=5",
         "domain": "reuters",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T104925Z",
+        "seendate": "20260825T130357Z",
         "source": "GoogleNews"
       },
       {
-        "title": "A Missouri military family needed IVF. Starbucks offered better coverage than the Army",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZmtOZkZld3ZZekZWQzBsQjRhcG8ycTRDV18zUkRfekwwNEgya3RNdFk3bnlFMHc4eERFV00tYlZ6V3pSem9EUFBWZHA2YVZGQkJGalZEcXBuOGhzeUNBUXV4TUNEQ1RHRFlVY1diT190V1VkOHBpT24wN25SUGxvVldrcXVwSFlMTVBVR3A2Z2x1VDV5d0ZXV0paWElaNlJjSnF3bU10SE5wbjJjVkl3bElpVjNrS05jbFNlU0JGMXU5d1VwU3c?oc=5",
-        "domain": "missouriindependent",
+        "title": "From military service to student success at UTA",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdVNoR1ZFV1duejhRWUFPSDY4LW9GMklLOTZPeDgyMDJQdFR0R2sxUnVvb3NWa3FvMllmVlZrLVN6empNNVVsN2phSW1PeE43OTdfMHBVTlNsemFoUkhoSU1obUVOX1NnM1lZVUFocG9URlcyenlLZEVGRGJtUFNOQ0hhT1E3TFlhbE1PdVZlUC1tMlotNTZ4MVRXem9zQQ?oc=5",
+        "domain": "uta.edu",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T105717Z",
+        "seendate": "20260825T165720Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Cape Coral Receives Award for Excellence in Procurement",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YOGtPZWNTR19KN0x0Z25DSnQ3SEFnNGEzZjhfeXFMZDRfcW1vaUxfeTJDa1N5eWo3R2FrdEE3MnZCWUp0MnNrWmlTYWdCUl9NR0w3UThSUzZtNDZYN3c?oc=5",
-        "domain": "capecoralgov.gov",
+        "title": "First Cohort of Soldiers Complete UTEP’s Advanced Manufacturing for Defense Readiness Certificate",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNmhKVWdJQ2Z5Zk5WSE1hY1c2NWJGbm1WVEtiWmVEQTRlTlhRdGhoZEh2d04wQ04xaDEyMVRSYkF0YU1KeFpOc2pSYWp3dWEwR3pnTjNueURKV0ZPLUlCZExxTEF0dDY0UG1jam9wa2NQTDhmenlNeFp4bEllODVwU1VDMEpZLWhCQkdLVFcwYUt0WmdFTnE5SS1pbm90VWdTTUJfSEhaelRYMF93WEtoUjVLQ0hsUzBXSDhfZGZBcFd6SUlYMklkUXB4TGNsOHN0a01ZWHhBei16RlU?oc=5",
+        "domain": "theuniversityoftexasatelpaso-utep",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T132605Z",
+        "seendate": "20260825T165424Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Lindsay Clancy trial: Judge denies defense request for mistrial over 'intentional misconduct' | LIVE",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTHJoRXE4ZjhabElxZjQzaThlb3p5TWk3MGliM3ZZUDNfNllIbDkxdmtEWTVVTGNGYzFBcVRXWlFaeWFUa2tDb2dCamoxNUxsTzI3dUFCSlhSWXY1QTViWENJTmZVdFNoaGtqV3lJbWtuQVBOOWNaT29Ia19CVEN4WkJtd2FQeEIwWk1qWFMtMzlqcHRKVFJsS3ppYkVjdVFLYmZxOUtDRUxOZUNVUGRZVXAtQ0U4UQ?oc=5",
-        "domain": "abc7newyork",
+        "title": "US military plane lands in Moscow, with Kremlin claiming it has no information: report",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTlExOUc4aEdWeXZMYUI5eHE0QlJfbndiMnVuYmUxQ2VEVWRMcHhkaDR3UVV1TklqLXI0U296cUdIcm52WUN5NjI4Yk5DS0ptb3JaZDdEVlBzZ0Jjelk3TWo1SVVXVElKMFdUUENrbkFCN00tUHc4REFaS21uSFpFblRXNDlvWUd6MzcxcnQ2ZFphamRUU2MwRWRfUlVWMkJq0gGmAUFVX3lxTE1sR1NFRTBpSTk1UW5pcm0wSXgtU0gwVHg0SExjMFJqUG1wd0FVcXFMTTY3YmVIUGZQam9vQkVVSEl3M2F1UC1LSmE0MGFUTmtadTAyaERYUXNmSTlEVERKb1U5aW41eXhycXl6R3RGemVTWWhMVGowVk54TldpSkxreGR0X0lMekxUOGk3QkRRQmZ3b0tDNERLUjZlSFc2T3ZUcFQzbFE?oc=5",
+        "domain": "foxnews",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T100226Z",
+        "seendate": "20260825T175256Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Russia’s Next Top General: Promotions in Russian Military Leadership",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTDgxaVZPNWJYb3pDM0o1c3RnSUhVaUZUaHF2bktQSldlSWlkcUtiYUU0aXh3M1haUkVwM2JHeTFuMjA0V2ZtbHJtS05teWI0UThsLUlzcjcwSGpmMURJUTUwLS00aWVqenZ6Q0o3TTc0RDJENkRUWU9uRS1DMUhzbmJQc3hjUTItQUlSSEoycnk1T2JXcS01Xw?oc=5",
-        "domain": "warontherocks",
+        "title": "Defense rests after calling two witnesses on day 7 of testimony for Mario Fernandez-Saldana trial",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZDRMUFZJVmNQM2tNUFlGQUpnM3JqTDBWam83SzY0a25uc1VLSThyQWRNanNCWGx5NWczU2RjWmkycld0VmliV2I1WGw2M2wyOWcxNXU2am45YUg1SnBQUllucU96R1dqUDdGVmpsTUhUOENXWnZXXzl0Q0JZN3NMTEZGWWFnOHRMUUY5VlVwQ0lUcFI2RmhWT19jUjljZmoyNGFDaHdHNnNNSlZDYWtvNGxjMEs5NEFGNW9EajJ1cnM1ZExiNDB0SDVqRnkwa1BYb3Jta1RqZkxodnN3TTQ1cTBKVkloVnlhMVNDbzI3cmRqVW83Z056d2dXMmY5dU9MZ0NpLUFPc0o3allsZUs3MUhB?oc=5",
+        "domain": "firstcoastnews.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T073046Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Contracts for Aug. 24, 2026",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOazNpX3ZiWDJoQ0swMkx3MVA5ZXpUaEFvc0NYYlNORTE0cTEwSEtrYlJocFhYbXZYQTVheUVRVlZfV1MtNUdaVHVpakZXSGdKUlFkcE8wVVctTElZRjNtQkh3eU50TzlXS3RWVV9WaUdtUnZVazVDeHl2Z2tHX3FSa3lpREJpLUtQcVBZbzY0cw?oc=5",
-        "domain": "u.s.departmentofwar.gov",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260824T212319Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Wife of active-duty Army sergeant deported amid Trump's immigration campaign",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdC1SM3pfUXZCTG5rNi0xQ1A3c0pYYlJRVXVGcmRQR2o5OFd0cWs3Y3RCWDlDTlIxNG5JeW5XQ1RpQ2cxQWxGQ1dfNVd3WU8tYlhickRMNl9GdWVZV3h3d2g1andGNVhPWW50THphemI5NnZsMFdCOFFLc2IzczdPTHFZUVVuU1I2VVptaEIySFA4ZThMLTJxTzNVeHNVOVZjN1d3TlBxdHFTWjJoRkHSAbMBQVVfeXFMTWFZSmM1djlDczRxMWxEMUJsR3FUUVZGOGQ3b3BNbTdtN1ZMTTR6SzlwUkM4cVFXQ0xnVE9hV0NvcGU2UzFwM0NDT1FaS2RXR0ZCZC1rNmZ6MEp5a296Q1FzYlUxMGlQVlRsYVFtVWdabXRCUDRLZExLRXFSS1NxNUc4UHZPcTBrR1ZYZG80V1hqOUNxd0pTTVluMm12dC1zbnU0OXdRaXFWUE9IYWhYcTYtSms?oc=5",
-        "domain": "abcnews-breakingnewslatestnewsandvideos",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260825T025456Z",
+        "seendate": "20260825T144100Z",
         "source": "GoogleNews"
       },
       {
@@ -125,30 +107,75 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Russia Denies Knowledge of US Military Plane Tracked Landing in Moscow",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV01zUkJpV2NVZ1Q3U2tfRTR4OHdzZUNWWlFsWFpKZUtnaUtIUUNwVVlZZ3l0Mmp6Y3hjMTRmUE9kSHpFdmplUmNaZl9MSkFLbGh4dnMyd0dfSGhIeUY4SW16YTRKanEweVdNR2NiazdGU3hFN25ObWlfSGpzSU1hTWZISnhGSllyS25kdHJxT2tHR2hsWllBdmF5REg4dXdONHcyc1FVRGpCZTZCVzZn?oc=5",
-        "domain": "newsweek",
+        "title": "A Missouri military family needed IVF. Starbucks offered better coverage than the Army.",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZmtOZkZld3ZZekZWQzBsQjRhcG8ycTRDV18zUkRfekwwNEgya3RNdFk3bnlFMHc4eERFV00tYlZ6V3pSem9EUFBWZHA2YVZGQkJGalZEcXBuOGhzeUNBUXV4TUNEQ1RHRFlVY1diT190V1VkOHBpT24wN25SUGxvVldrcXVwSFlMTVBVR3A2Z2x1VDV5d0ZXV0paWElaNlJjSnF3bU10SE5wbjJjVkl3bElpVjNrS05jbFNlU0JGMXU5d1VwU3c?oc=5",
+        "domain": "missouriindependent",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T105600Z",
+        "seendate": "20260825T105717Z",
         "source": "GoogleNews"
       },
       {
-        "title": "BGOV OnPoint: Midterm Flip Could Shake Up Federal Contracting",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMFNuVXdQOFNpZWNTaXFhd2s1LTdkYXd4VmsxanZiMnRMWnRXTzQ3QVV6TEgtSFhibGt0R1ZOdjRsOXIxczVBUlNLYUhhQjRQelNUbVUzMV9QX1pVZ29NQ2xJdmVMQ1ZlU2t6cHZtOTR1SUhsVmtCRmxCRjVBRWpIR1VCd0VNaXo4OGt6RUZLN3JfTjh6Uk5haGdjZ3FpbVM4SV83UFhrMmlVTmtq?oc=5",
-        "domain": "bloomberggovernmentnews",
+        "title": "Rep. Tlaib, 40 colleagues demand release of U.S. citizen in Israeli military prison in bicameral letter",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWFRQeXZuZmRDdEZieV9VblJYNEpRNmdvSXJEV3E2c2JwWUVwWjJMQ2FJajFwU3piVmZZaXNEZi1wSWgtM1hsdjhGX1lXY2lGQVdlU2g0ajJjRVNoQm1tOEFoNmd6UnQ0ZUNWTFd4VGlMYUh1VGp2d256SWZjVmVXOXc0M2RVRlNlWi1pamVIdDlGamZSRk9TWmQ3Q0x5d2NxZzQ4X0lnU0tTTUgwa2hrUDBMcmoxY2JTRXNXVHBsSVY1d0V4V0prYTR3?oc=5",
+        "domain": "house.gov",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T090100Z",
+        "seendate": "20260825T151115Z",
         "source": "GoogleNews"
       },
       {
-        "title": "U.S. Military Transport Plane Lands in Moscow",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ldmR4N1FRRnUyd2JhV3JOZmsyUUpvWVJtNlBfWUNzbXRaM1k1enJqUFVwSDhCbVBnS3N0WmlTMDlqVHRXcTY3R1JfVkJ6b21PTHJWVnZRTVhvdmdzNUhJbFNGdWo?oc=5",
-        "domain": "themoscowtimes",
+        "title": "News - Military Policemen Graduate from Smyrna’s 117th Regional Training Institute",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbndWUTlBNVQxRTZ0RFY0cDFBQnBxb1VoSWx6WW90MUF1N0dyX2dNc1FFVE9MMUNabmNaNkVYVVVfUThHTjBwUWlXaGcxUkQ4X0Foc1ZIT2I3bThTTDVLVjRKbzg4SWVpRjIyMGNWeGd0T2xtVFQxLU9oRElNc2NLUjY5M3A1R1ZpM3laV2NZYmRUd2Y5bFNYNFpuVElqemN5bW12dTZDU2NyZw?oc=5",
+        "domain": "dvids",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T123140Z",
+        "seendate": "20260825T184000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Russia’s Next Top General: Promotions in Russian Military Leadership",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTDgxaVZPNWJYb3pDM0o1c3RnSUhVaUZUaHF2bktQSldlSWlkcUtiYUU0aXh3M1haUkVwM2JHeTFuMjA0V2ZtbHJtS05teWI0UThsLUlzcjcwSGpmMURJUTUwLS00aWVqenZ6Q0o3TTc0RDJENkRUWU9uRS1DMUhzbmJQc3hjUTItQUlSSEoycnk1T2JXcS01Xw?oc=5",
+        "domain": "warontherocks",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260825T073046Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Lockheed Martin Ventures open to making ‘defense-specific investments,’ GM says",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY1BWbGlvc2ZEQkFLdG44b1g1QTd5aWMydWx6ai10bUhtdFFtMUY4cFowYmlzdTZTaDFCcTRrS29iSjRtQWpPcFR5N3dSZGFoTnVRaTl0MG83SWZua1FPdGFYNjhrVDhCWHBFaGZOUWtEb2VZMWR5Zzl4dVpzVmdSYmVWYThtTzBQMW9IbXFWdHdNQU0wcnN0TXdhUmw4VWFGQm9ubW5td3pMTHdJQ3VINg?oc=5",
+        "domain": "aerospaceamerica",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260825T190439Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Chair of N.D. military gallery project committee shares why ground was broken despite it not being fully funded",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSjh0QlQ4a2MzNVpCYktEY1ViQWJDZEszdzhDVEZiNFkwY3MxRnV5cllXVkxqN2cyNG1xNHBNUkNVTkZqT2w5cnRBeWhQaXdsalBIVUVQaXB4R29mYW9JWVRnYW1SNkQteDFKQ1FVNGJzQ0ppMTVxZzNZX2c4Z1BmSXA1UFBMQ1J0S1FQbFhJZThPVmJkVVF0OFJoNl9ZY054QUhxUEVOSXpDakVZaFUzbjdmREZMaDlxOFFDdHhOd3Vua2xLM001OQ?oc=5",
+        "domain": "themighty790kfgo",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260825T163029Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Military Aviation Museum will host living history event without airshow this year",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQTIwZXg1cEZnM0JlWWhHZkJ6Xy1oT0Y1NzdyR1ZySUxLemJETkt1ajBZTm9tNDRwd0M3bkNJTlhlT3hoOVdlSS1DRXdDalg3S3dlRTQ2LVpOcDlrUDRrQlpYOUZFNVdGNktBSFAtakt2eVQ3bExYLTZlVTlJcjNKTUZJNi1BZnVOT0xqNHdfcE12aDlzLVpWUDhWX2RUYnByX2hDdFJkLV9SRkpo0gGyAUFVX3lxTFBfb0psVEJ3QTdqS0QtQW0wQ05BM1U4MTdFNzdlcFFPM2RRczVrY0M4emM2Yzhqbm9OU3daWWpjOUZiTkFjeS0xRVFvYlRpdXFkS0VONV9yRklCWlBoNjBROE9mbzB5aDJDNDMtZEs3cVNubmpFNHF4cXd3QzF5STBmUEdEUUpVVU1RS3ZmSERTSkUybGNhTDZlelMzTGoyMmpFeFhxZmN5LVNEVnk4VElKakE?oc=5",
+        "domain": "wavy.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260825T153603Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US Military Transport Plane Lands in Moscow After Flight From Riga",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xVW5veVk2RlRKRDhaMWFpdkgyQ0lGcmYtTmppYVAtdlFVOVNGQTU4dVJqMllfc3lXWmx4RjM0WTZDbVdfejhLem9ZTQ?oc=5",
+        "domain": "kyivpost",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260825T132242Z",
         "source": "GoogleNews"
       },
       {
@@ -161,111 +188,120 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Mystery US Military Plane Lands in Moscow amid Rumours of Possible Hegseth Visit",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPemtWTjRsOHY4RHdPSk84TV9INW5lYjNzcVhSU254b2FfQ0t0ZHppcDQzSTVEUFVfQ1JTV0h3dGpvQWlTRzU2U1I1ckxod05sRFpSQkltaGpEVW5zRXQ1Z1BSZVdQVkc2NGRnMlYxLXh0Uy1Oc2hqNWVNV0ZwUWVwdFhsbTZyNXBFS0w4YndwSUp5V2JhQ1FPLUppLXJFN0kwMkRlV2N6Uk5JbGlR?oc=5",
-        "domain": "hungarianconservative",
+        "title": "U.S. airman faces charges under military justice system for criticizing Trump over Iran war",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaVpRNWd3WTZQSnY3LU1HNUpMM3c2X09sNzFQU2NuLUp6NUxjMU9KWDZNQnBvazg5RzBSMWIyTC1hMzM3VF9uNTFFN3hTSTgzaWh1LWZhUXBLQ0pqNW1sWF9JSHRPUjFGczhmWE1PdXYyT2E4bmFreFhyTjlhNjNHZXhGWVFXaFloUnljaHFLYzQ?oc=5",
+        "domain": "cbsnews",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T103133Z",
+        "seendate": "20260825T143100Z",
         "source": "GoogleNews"
       },
       {
-        "title": "New Jobs, Factory Upgrades, and Defense Contracts Are Surging Across the Heartland",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd29WTzRySF9oUVVDLU44UTNONGIzY3lhTy1neVZjLXhfNnlEbmtzNUZ3WmIxTDN5Q3BaVjRVUVZ3V1d0LVQ1VVlxeVkyd0ZwaklUd1hnTXoyeGtQcUxGQVgzeENXUURXOXN3NzFjRzlGRDF0Y1g3WUlWaEhvbkh4ZzJNSWRfd1pGdEsxbEJzYVNHb2k5c3BPVk9nQzFqcnNGMkZCWXE0cXRWUlZXaUliY2p3?oc=5",
-        "domain": "clearancejobs",
+        "title": "The Chair of the NATO Military Committee visits New Zealand",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONE5td1FGVlUzdnRxRkJFODc2Y1BZaVAyZlV2NFY1eTJVYmRfamxzbW1oV3E4ZmRZa0h6aElUYVdzTV9taTZsbnZtQU5wYlFkYkhCVld0LUZleHpJZ2w4bVRkYkJ5Vm9Lc2EtTGJuVnRzclpLNGQzS1RFV25xZVN3dWxNdWZuYnBOTVpZRWpMdXh4bklzVHVuRm90Yll4Q3BpdVNHaFhnelViMHB0c0lhajYxcEx5VU5YVXpIcVdyTlNjUQ?oc=5",
+        "domain": "northatlantictreatyorganizationnato",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T113046Z",
+        "seendate": "20260825T190403Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Religious References in Lindsay Clancy Trial Anger Judge and Defense",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU0Y2d0NoaVZhLUUwRWRYbGtnSVVfbVJjcmYxb0ZaZHZvVTNmdWJSd05zajY1U0ZwakVEelR1eFZ0dWkybmF2cGJWOFlmVFZHczVNZjB6SjlCa0trZmE2MXpHaHVJMEU0ZlBBMnQ5N21FejFnVG5yVTJBUU04a3Vjc3ZXSTZMSkNF?oc=5",
-        "domain": "thenewyorktimes",
+        "title": "US CIA Director reportedly in Moscow for meetings",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rZWVGRWVzYjlRZkJEVFpnRlRsa0hMTUxvVXN1N29MLUZpNVRiNVRDdURnY0RlWjNCM29IZWc3anFxdTY2LWdSd2pQWUhOa1JqUVZRa0VFVUlHNjRqczRz?oc=5",
+        "domain": "thejerusalempost",
         "language": "",
         "tone": 0,
-        "seendate": "20260824T232853Z",
+        "seendate": "20260825T162941Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Mystery Swirls as U.S. Military Plane Lands in Moscow",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX0ZENjZ3QlhHdlZDQmJ5ckwyeHNWdE5zMGwzQ2FfcGNuR2RfUXVrN2lDblJhZDlwUGhqakNsckhrVlZMU0JYQzRiN0x3VElGZnM0dEpSdXJvODh6N0piYnV0aFFHd3A3VUFjenVxMlpXck1VM0RrSFhGZ1dCMW5hNk84QWtCY0lIZVE?oc=5",
+        "domain": "thedailybeast",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260825T144700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Denver murder conviction reversed for incomplete self-defense instruction",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNenBPakd4NVBZeWZ5SGRaZERPSWJ2dHlhZG9rVW9CZW1yQl81VFFCNEpYOVNqVWR4TGVzSjR6VEk3Qk1NbURxQlNYeU9aN0VheDFkclk2WU5LRzlmb1lBZWZqMFhRLWFmb2o2WUlMWEZXcjJST19Pc0ozVGdOY25wVnhwbXFPcnhtZUdGTXZMNXVhWFdqV0Rxd1FoY0hBTDBoN293amdoR3E2bUMteHByZHhBQ1JYdFNWRWc?oc=5",
+        "domain": "coloradopolitics",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260825T171500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Israel defense minister vows to keep troops in Syria during visit",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYVNDX0hqcnNvbEgzR3FpLWNQXzQ2ZFMwdllnNk4wZVo4bXJ1dHl4bEFLeDlfQjRITC02aXBzYjZ0a0s5c2Q1WWhTU1ZlcU9mSEdfVUxTR3Y2d3RMcGQ4TWVBblF1T3BlUGd5bE9RalJ2a25vRGQtc2djS2ZLODFWc0g2ZU1RRjV1dk50UXNfNlk2Rlc0Z0w4TnkyNTVSbnktRFFhNEVKSkI?oc=5",
+        "domain": "courthousenews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260825T184305Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Wife of active-duty Army sergeant deported amid Trump's immigration campaign",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdC1SM3pfUXZCTG5rNi0xQ1A3c0pYYlJRVXVGcmRQR2o5OFd0cWs3Y3RCWDlDTlIxNG5JeW5XQ1RpQ2cxQWxGQ1dfNVd3WU8tYlhickRMNl9GdWVZV3h3d2g1andGNVhPWW50THphemI5NnZsMFdCOFFLc2IzczdPTHFZUVVuU1I2VVptaEIySFA4ZThMLTJxTzNVeHNVOVZjN1d3TlBxdHFTWjJoRkHSAbMBQVVfeXFMTWFZSmM1djlDczRxMWxEMUJsR3FUUVZGOGQ3b3BNbTdtN1ZMTTR6SzlwUkM4cVFXQ0xnVE9hV0NvcGU2UzFwM0NDT1FaS2RXR0ZCZC1rNmZ6MEp5a296Q1FzYlUxMGlQVlRsYVFtVWdabXRCUDRLZExLRXFSS1NxNUc4UHZPcTBrR1ZYZG80V1hqOUNxd0pTTVluMm12dC1zbnU0OXdRaXFWUE9IYWhYcTYtSms?oc=5",
+        "domain": "abcnews-breakingnewslatestnewsandvideos",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260825T025456Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CIA Director John Ratcliffe secretly traveled to Russia -- as mystery swirls over military flight landing in Moscow: reports",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQWRzbUp3am9ubVVhakFnUk9LYkxaVWxGeHJYT2RLb245VWZfMVFGcDl2NTk0THU0TUprUjVxeWZRODNOb1VXZVgzc3VzSlZ0UHZhd3F4MHhVSW5CQ1FYMnpVRjNKejA3SHFtbHlBZHV4UDRSUkxOV0dqTkxlbU43R0NlenBLaHBTNUMtLWZEVU1pcXZWSC1iMURFSTNWSXRCZEc5TkFpSWhmQVR5bzc1WVZ5RlNzMHhnRVgxd1U3bGZCTDAtSThxQ1FrSFRxeFR3S3RHZ183WEZCaGF0ZVBCNlJQTWs3Tk9oQjlWTnhSZU8?oc=5",
+        "domain": "newyorkpost",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260825T154012Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Defense Secretary Pete Hegseth Visits Wisconsin to Promote Oshkosh Corp.",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTHlyandDNHRLakljbXBqbjNLdEF5UE5seUFOMDczeGFaaG5ab1IzbkdqUXBkWFRaeWFlNnhRZkQyVl94RWNjc2twQldmWVVZNHkxUEVraEtkaE5EajlPN1g3NkptNjlWRU1OM09PVms3aW5OMDlVcVJqejhQVW0zTlhGV2tPU3BvUmh2SnVIcVhjZlQzNFdhYnpGeXI3c2hWNmJjS2laX2R3eUdodnBZ?oc=5",
+        "domain": "urbanmilwaukee",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260825T153200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "City receives award for excellence in procurement",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQXBTZ3A1YUE3QnRiMk1CeU5wSjVXRTRfaEdGUTdSWGRYU3dmSzdNRFJDNHpucGotTGh2QkpIeGxVaEJUZVVIMHdJZ01teE5mWG9NUERJeC1UWjRWNDV1dHRTbXVwS1ZsdlZkcHd5SWI2dFlLV3c1cS1nTDZ0dE9FOWFQaDM2QXhXLWR3dWY3RWxxMzhES0lCYWVqQ1BnZ1d5UjhqOTBYdW14MHUydHc?oc=5",
+        "domain": "capecoralbreeze",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260825T171057Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Saudi-Turkish-Pakistani defense pact to boost Turkish industry, entire trilateral ‘ecosystem’",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdHJ1S1NLZUpQa0lTeFVTMVVtVVpBSGZzWmQ1SXp0MzNhb19hTkFSZWo0UFBMOUs0WWJkLVZiQUVfZms1ZkRiLXd0OGxUcHA2d2JsQzItdFRldlZLVHo0TnM5b2ZJeDlmZ1hPQVlBNjQ4RF9zcXFiemp4b3dtRVdsbk9hRlM2M2dySlJWcUIwSU16cExzcUxibmc0TlNaVm5sU3BiekswcUlkcEwzZ0pqMndwdDgyUWVEM2UtaTFoTDJPUURuU1E?oc=5",
+        "domain": "breakingdefense",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260825T152348Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Harrisburg defense manufacturing summit expected to bring hundreds downtown",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTDJEakMwV29DeWZmd3VlTV96cEo2U1FqMFNNSElqVmQ5eEpyV2JGcXprUURXQkIwRnNrLXl0VFVsX0NianNqS2NIZWY3aG93SUpZZ1ZRSXBvMGI0aS1KdlhDc2hpM2lPWGpORHlLMEQ0UXRzUVVZYkJobVJvbkhEdkxOUnZPbUlpRlp5ajBNdm9RazlqVDN2OEd5MA?oc=5",
+        "domain": "theburg",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260825T175014Z",
         "source": "GoogleNews"
       },
       {
         "title": "China seeks public tips on procurement violations in elite Rocket Force",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeDJtck5pcDBjZjUxTkJLWmc5eVJoZ3dyeGNUMzZfa016SEdPYVloZmt2RzNhS0hzM0lrTVJRM0pPWm9pa3NNblREM2dXb3k3bjVUSFc4WXZJWm5YTWRmRHd6T201ZDZIeUZwTlVpMDFfZnBmM0RpRy1hVGlhR0RtaDVnQ1ZGSl82YVZaZ0h0c2RNUGplZk9aWVhzaUNBVk13eGdzaEhsZ3dIRF9oTnZablpWeF9yTVZ5NVk5RTFmNGpwYmQwVHd3?oc=5",
-        "domain": "reuters",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUno0WEgwQ2h6ZDBXamRlX1lJeWVWOVlraTBzMkp0M21sR2prSWlmMjhHQzZjLUZGZG5pbGtXSzVLVjNjNHVYSnpMV3Rjd09Jc1FYQzVUWEg3bGIyVGxWTWJMamdJQnRETWVSczJGV3ZaZnpqRXpJX1paM3FGMWFiYTNoMDZUOExEM0hfUFJOQ1I0ZE96TVJSYlhrRmdTWVZTX1pSUg?oc=5",
+        "domain": "wtvb",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T131345Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The Risks of Downplaying China’s Military",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zakZkV1FYT1lIX3BuQTFSNjI4TTNqdjRkZUctSDNIVjVUNXRiSmVybTVfVU1aX0w1R1N2THBWeEJHdzJUaUd4ZFRzUkFBcHAxLU9YR2F2cUZDU2Z0U2FiemxCYUh3UlIwWGNIemwxTFk2Y1VKVUE?oc=5",
-        "domain": "warontherocks",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260824T073546Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Philippines seeking to expand military drone capabilities, says defence chief",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNGVjSVNQQUF5WmNDNktlbnRKLVl3czk1Y21qTF9vNzdpbmFpdnVfYmZLWi1faGdINFJtNlBTTGVQOHFaZEVpUmJIYTVpaXhzcFA2VU5GTy1QRS1NR0tpeFFILWZQRlZ3WWRBcHVlWjVpa090MGU1a3B2ZlhvakJZalRzVkkySFp6d3hUc2F4RGVHY09VWFNkX2wzcEhnRWZiZUFTVy1hdkJlclZOUlM1Q2dURFJxSHNTTFlxdG05Tm9kRzNwZGE4?oc=5",
-        "domain": "reuters",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260825T064300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Third drone and suspected military explosives found near Leipzig airport",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVd1ckZWX0hSSGtXQVRUSUo1dG54Q0NickRYWkg4czRlNm9OcG1qeWJic3NfenlGZ1o5T01PZkZudXItRm92T3FHc05LMEoxWERVbjhVb2h0aXU0aVFPdHR3TlYwSUdHRl9UTzdSZHVObHhQOERjcU1MNVRweXJsZVg4NUpSemxiVktEd01xT1hLLVlkNk5vckp0dUdJQWNvV2J0X2VaSUhKM1lpVm9la1d4LUlQbFU?oc=5",
-        "domain": "theguardian",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260825T123700Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Defense to call witnesses in Mario Fernandez murder trial in February 2022 ambush shooting of Jared Bridegan",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQenNkemZacTlBd1RRandaMms2LUlnTTRvdXN5QWxtZ0F1T2FVTzlDVWFPRFJpdjVsYk5WalgyVGVfc2hELWp1N1VMQXgwOURJajVvN1ZTM2wzQl9SZ09LVS1aNWQ5NUdqSmxpV2Q1ZFRaQU9LeElTTWJuRDFZeHJwVXRVcDVDaDBWV3FWTVhldEo3b3dEcmNYYmk4OC1OTE9GbnJ5TE45QjBwb2hxTHJzcFRsVXJkMjIyZ2JPV1dqTHFNcDFXVTZrLTFTd3ZpYXF3WEg1cjVLbFNSSl9wZndHQlBsTjltT0FaaFlWMw?oc=5",
-        "domain": "news4jax",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260825T123619Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US Military Aircraft Lands In Moscow, Kremlin Claims It Had No Idea",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTTljSFZsd292UnY2ZmtYNVE1a3RWMTFJTUxudUxaMTBBaGR0R2JWMlJBd2ZSUGR0cWNBUDFtcFEwT1dJTDVsOFptTnJtNm9IS3ZuNmc3bDljMEpwX0JxZE5lblozekR1RVdUdFZiSlpGYjhpSWozYVlhckFMQ25nUUxTUC05YWpzZXA1ZXMzUDlfdnk0QkdJQ0MtWnlRWTlFTzlVTFhGV3lkY2JKOUdOdjRkeUstMkg4MmRCUVFpdmI1aHZrdlB30gHPAUFVX3lxTE8teHBYbEIybjVsSk9Ed1B2WXh5UFNoXzl2WmN2QmdxbEpnU2pNelBpT1hzLURBcE8tZjl2SkpwcTBGQVVRMGdVRTlNMzhvRHBNOEk0UlZQMkNNVVdHeXoyUmQ4QmVIUHd6bElzcFJMU2JKaUhRRWhQZ3dLajMzbUhMS2VWbUlLd1Q1a1Y5emNILUlYQS16ZWhRSFI0QkJndmM5eE54T3E0eU45YjR0dGZJcmE4dXpiNG4yR19rWFJhNlRIUzUwckg3c1VaMmYySQ?oc=5",
-        "domain": "ndtv",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260825T122551Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US State Dept. sanctions Iranian military activities, fuel export in Operation Economic Outcast",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vb25rMUF0NXZmeTVLUUNicXl0cmpRLVR4aDI4WDhjSHN2SmJGWUZIVmlOTnFyaDFpbEo0cm8zaTVTcVpkRWV2VlYxSERpQVcwdXBZVjZTXzlVdjRIU1RtNW14VFJ6a3Nuc0E?oc=5",
-        "domain": "thejerusalempost",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260825T102820Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Military newspaper editor says he was fired for raising concerns about Pentagon censorship",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeWN3a2ZKakV1YXZJWlhVa3MxM3pCdlJPcTkwZ2xhMlF6N09UdzRPeTNaR21aRWR0eUJEUWMxUzlSeUJGaW9fS2k1UGZYZlVZdjZibXNZT0prVmYzNGV2UFBMSVJQdU5qU3hxVXNSWno0WjV6TDdvNmxXRmZjMlRhVThiOWx0VWp6T05NaW0tcHc1RDllenE3Z0lYZVNqVC1qVDNxWFY4bEMxSTJFRXp6bXhaTVVybUhUUkloQ2RNU1lJUQ?oc=5",
-        "domain": "pbs",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260824T223050Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Defense Secretary Pete Hegseth visits Wisconsin, GOP lawmaker wants answers about election result delay in Milwaukee",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWnVzcEl2cHR3emZGRDFBVXgyZFpNd01feUtvelBaRC1oaEhSOFhqT1JITDdmNjhUMFRtcjZkRno4NEhxNmN1MjZzQXZKdlpVanB4VlVEWWhkcXhFYW1iUTRBSlFldVU0VUdFOW5mbTdfRmFib3lyaExLOVNBOHd3NUlzVTU3ZjJrbWZJdkRodmp2WXN6Y1VGOWxSbGRhU3pxbmJrdmtaQ2FycEhuekVrQWNQMFFZS3VPTkRJWXgyYy15TWZaT0U2dXJmZFpwczc1eEgyMG01c3dpQVBoUXdZOVlDNWJ6Vkhnam5kWUxB?oc=5",
-        "domain": "wpr",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260825T105637Z",
+        "seendate": "20260825T133252Z",
         "source": "GoogleNews"
       },
       {
@@ -274,214 +310,178 @@
         "domain": "scrippsnews",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T122230Z",
+        "seendate": "20260825T131658Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Iran May Have Little to Lose as U.S. Tries to Squeeze Its Economy",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSjU0VWNoYjBxYlZ6c2FnZmJ4cHltY2NiUmUwNEhWLXVJNXNiV2pYSFBsQVlfV1R3T0l0YVJNLWxnd1BEX05mVmdabnZuZDdFV1hCakI2UUdlR0IxTTJrMkpHTTJmOV8wQ0dibVZSSmR6YjBuNEZ0bU1DTExzNmFjLTlIRW9OX0N5QVE?oc=5",
-        "domain": "thenewyorktimes",
+        "title": "Russia Denies Knowledge of US Military Plane Amid CIA Director Visit Report",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV01zUkJpV2NVZ1Q3U2tfRTR4OHdzZUNWWlFsWFpKZUtnaUtIUUNwVVlZZ3l0Mmp6Y3hjMTRmUE9kSHpFdmplUmNaZl9MSkFLbGh4dnMyd0dfSGhIeUY4SW16YTRKanEweVdNR2NiazdGU3hFN25ObWlfSGpzSU1hTWZISnhGSllyS25kdHJxT2tHR2hsWllBdmF5REg4dXdONHcyc1FVRGpCZTZCVzZn?oc=5",
+        "domain": "newsweek",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T104725Z",
+        "seendate": "20260825T105600Z",
         "source": "GoogleNews"
       },
       {
-        "title": "How AI is Transforming Source-to-Pay Procurement Cycles",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVjBnbFlINFRtRVJERmd5eVNWczQzanF3THNqM01nZGdJNWVTTzVBVjYyUzROQkNKeUU4WVhoR210WGRNYVdUcnpBSksxYk1PYm9qbnpub1NOUV80dlgxUUVDTDlvaDhhNmtsWjhLdGQtbHkyZVhhNS1yNVVfLVFlRkNMZE12THYzVjdTOEVoOUlhbFFJeGl4QkxqS0FESG5HbklycWZsRDV2Y3YtTTBydmVCZmJ5VVRLUkRfUjM3aC1GeWdFWGdnQjV6RVpHZHlmUHhtRjdqUlowcGV1MWtvVEF3Szlzamx5?oc=5",
-        "domain": "supplydemandchainexecutive",
+        "title": "Partners in Life, Partners in Service: Newlyweds Enlist Together",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcUVuLWg4REc1cFVBUHRQYmxHU2MwTll2NHVvaWRxTFB0TFJqVWpwMnVKMmNjXzFieWhlZ1Ixdk80c1VCUUJWajNFNVFVaHhfUlQ2Rlowd0h5allXZWpQenRBUnpXaVg5M2VoU3ZONWlyd2poNDMyQWJ0X3ItZlVKUHBpRHRaWjBPR3JXakVtM1hjZjN2S0NHbTNzdVFwTUkyY0xpUmVaWjFlejYzYUw3RTBXWGkzbFJDeUZ5V0VYTk5STUhO?oc=5",
+        "domain": "u.s.departmentofwar.gov",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T103313Z",
+        "seendate": "20260825T181518Z",
         "source": "GoogleNews"
       },
       {
-        "title": "World’s First Military Drone Parade: What We Saw On The Water",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNThmN01QdjBOVFdiYlZKMFMzcTB6TUhtMUJqNy1GRFFxSldheFo3N1ltVmlEX2ZXN1UxaU54N3pNNHVzWldiVWNacUQ1T2dBUDlHR1FGSzNWLWJsQ0phWlhvWUdrc1JBUGZoczhURmVncEdKbGZkOEpuQ09QUFBSM0FwUlYyMERKRlF4ZWxXdE55SWU0MWpDS2dHYnJkLTB2ckV2MmFjX3U?oc=5",
-        "domain": "navalnews.com",
+        "title": "Trump admin wins defense of Biden-era EPA air rule",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYjl3T29adHJKLURaT2pjRXc2aTJYWEF0MTZ2LVRKUGdtUEVERjhvZmdCZ25XaUN1Tm41RzFFdFhyaVdWT3FVamhQWFJEVm5zM19PTHZvcnVudUotSXhJd3VtbUZfalIwWW0ySDFCT1hpTkJYU3p2aWtIU1JBcHNmWUJaeGJBSzVRNTIw?oc=5",
+        "domain": "eenewsbypolitico",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T061832Z",
+        "seendate": "20260825T163300Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Veterans, First Responders and Widows Get No-Cost Housing From Military Nonprofit. Here's How",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVZ6TUxxTzFNVWV6UUVkaE1sVTctWi1iSTZTUmwxWEJuZWhQX05rY21LUWMtUl9oUEZYeFRuMWlOYkdLc19Cc053MHREcnJKXzVsNkt2aWtkZXVxeGotRVl3YjZRNGRZMDYzZGVUMDk0NHBScHlpRGw5S2Y0TlVnOHhkWmRkb0dCcm9lZW4yTjNPd28zV0ZCcGx6N09DYXEwblktQVJQR0dwS2o4T2lkSw?oc=5",
-        "domain": "military.com",
+        "title": "Gun-running ship sunk by Israeli military in 1948 located intact 1,650 feet underwater",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRGhKaEs1d1RoZEZRUmdjZGdKWUNXVXdVaVJlZmI2X1pNQm1uVDU0Q3JRMXZyYW5QREpwMGljT2ZEcUZUWURTYmdrMGppTlpEaUUya3B0XzFjbmlSei02eVhTRFY2X1NxcFJoVWFLY29EQ0liUzR6UF9wWTJDbmhLRDZEeXktRzF3ci1sdGwwOHQ4Z1U?oc=5",
+        "domain": "cbsnews",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T090013Z",
+        "seendate": "20260825T171556Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Judge in Lindsay Clancy case denies defense's motion for mistrial after witness brings up religion",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQa0RzUEt5UEMyY2dDS2kwOWZIcE1SYTFLWk1INFhpWFQtTy1TNlZwbUw2a1hvejkxMUpiT0FuV1JfUl9kOGIxNDlkZmdMZU9IS2R0dW1ZRDBoSWlSZ2puUHFYSDloZ2ZvUnVnRy01NDhYUHY0RGszd21LZVV1d2MwNHZBMmpVaTJKc3lCeUpHRTA4MktUSExVVjV6b0R5T0w1ZkdyeVlpOUJaYU1WX29YaXN2b1pZS0NQb0NqUGlFNGd5WFB3QzhqQlRpbmpTQlFZeVlxV3NtVDI?oc=5",
-        "domain": "nbcnews",
+        "title": "NASCAR will return to Naval Base Coronado during 2027 season",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYVVqbmkwQWotSzg5QlFIMEtBSTVxaUs0UGJwVm84UEMtMGNnbW10RW9oS1hUODdVUUp3T3kzM0dlamFjeWJWa2RtUjFTVXZHbFNFemZnaWg5b2h2ZXVWOFNSNVRMSF9Zb2QxNmVCOEN5dVJBWmp3VmF5X19vSXJCdWVkSmgxMUlPX0N4ZWpIeS1QWGVRXzRzNVpsbW01QVNvUXRMM0VzR0NsUQ?oc=5",
+        "domain": "nascar.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T051402Z",
+        "seendate": "20260825T180359Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Defense Secretary Hegseth visits Offutt Air Force Base on ‘Arsenal of Freedom’ tour",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVkdrMDJxQnM3djFRU0xubHdsUkRmV1F3czBWbS1LWEVXNi1DQThKQWZIeGVSb19BaVpjQ00tUUhVSzAxcFplRElLaVo5WnMzWGh2ZDEwazh6S0hhcWl1eE80SF80b3BXeE8zME1TQU5oNTBRa0xtTHFraTlGQ3hhRmw1RUtXYl9LZTNpLTdXV21KcUU?oc=5",
-        "domain": "wowt",
+        "title": "Hung Cao taps civilian to stand up a new defense industrial base office",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMHlxMi1wekJCWHMxMlNuVWM0ZzR5Ukg3aTVELVdNMUZmWk5PSDdieC12NUphVWFic0lZOWEteFVNNjNMRXNkYjU3aFh5Vl9MbWVSdzgzSWhocXBYY21vU09GNlZJSE9uR3dqTXhabTdEYnlHaGZzZi11OFoydFdyamwteEhoYWI5Z09jbUtWYzNFcVMweFVnUFFaWlIwWjllbmVyQjVaLUk0VXJTUUpYYWdTWno1T05fTE9GQ3V0TGdydWItMEtURjZsd2I?oc=5",
+        "domain": "militarytimes",
         "language": "",
         "tone": 0,
-        "seendate": "20260824T154700Z",
+        "seendate": "20260825T153949Z",
         "source": "GoogleNews"
       },
       {
-        "title": "UK provides Ukraine classified long-range SCALP missile blueprints",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbGxGQmZMY3lwX0sxdDlNbzhveVVxNDYtbTdTcTF4NUJtM1d3dWg2VHhQcU1OS1JNZW9nS0lFOWZERTB5LXZnTjJtQ1N1NzdqWGJxNjFhMDBQVW9VSGlSeHVzTnhPS2s5c3d6anQtN2NSQjMwNFBWRnpDTVhzcld5TTgtSEoyZHVtTElzalBnbnlfT0l2YzgzRktTVFZQLTRqQ2pEdlRR?oc=5",
+        "title": "Third drone and suspected military explosives found near Leipzig airport",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVd1ckZWX0hSSGtXQVRUSUo1dG54Q0NickRYWkg4czRlNm9OcG1qeWJic3NfenlGZ1o5T01PZkZudXItRm92T3FHc05LMEoxWERVbjhVb2h0aXU0aVFPdHR3TlYwSUdHRl9UTzdSZHVObHhQOERjcU1MNVRweXJsZVg4NUpSemxiVktEd01xT1hLLVlkNk5vckp0dUdJQWNvV2J0X2VaSUhKM1lpVm9la1d4LUlQbFU?oc=5",
+        "domain": "theguardian",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260825T183300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US flexes new ship-sinking weapons at summer naval exercises",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRUl5Rkg0UjRhRFZwU2Vub2YwWlhROWN1by0zY1VDa0xrUHpvUUcxdVNIWEhROWdUcnRXLXh2SVo2X2VEVk00ZVlDamR5TzQxbGhMN0RhZXBya1VCMmpuQ3FuUExQM29XRzBzSzVSSnZZRnYtTzZnc3YzVU1Ha0VUQTJ3Ql9kVElhTW1ya2JXNDJ1aTB4SmJXbnpHWk9LZw?oc=5",
         "domain": "breakingdefense",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T132339Z",
+        "seendate": "20260825T182721Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOay1COUJiaHZoMmdiZ1ZXWFBhRE1FeThOWE1kY3NwaXQ4NUhVWGh6THJLUjNNTUFRTU5QQnJTMWZLU0VqMzRCMnVoM29vQ3RkaG5NV1p0RGZROG9WYk5xdXhaak8zemdzRENuUmlNTldrY2tqay12MjJyZnNzWm9DNkxsX1RGV1V6ZXhrSzVsV3dYeE5iNG5YSGZGTVl5aU1uRmQtVHc2N2Q4eDBmbDlBRXJ2ekvSAboBQVVfeXFMTTdiUmQwZ2NVZ2lXOWcyUTFnWDJBekpFaDVISGpkNmRHTHUtYkRNOEJLMjFZVUYtTnVPTWZObDk3eTJIWS03M01nZ18ydEpCX0dUdVFIX2JKbUxwTm9EeXlQZm5NUkV1ODlKNUNzT1JBU2piYzliTDRZT2liYXNXaXkzbXZfTXBMZWEyeTlIVHQ5S25ZLVQ5ampaLVcyMm1tY2h4ZzhaRjFGdVdza0xKS3JiOUJoX2lwTlF3?oc=5",
-        "domain": "aljazeera",
+        "title": "Top Commanders Told Hegseth Not to Cut Civilian Protection Program, Poll Showed. He Did It Anyway.",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV1R5U3ZsR0lxSEVqWlZhUFpwVTRyWU9aelBMUkJBNFd4VjQ1U3hxUEo1T2hyRExtQmN0aFgwb21rZGRKQ3BXR0ktSGF4cExialhaeWVVNWpqSUs5RmRSYWxSenJDWk1KV1lhVndWelFpWW00aHlDQTdGRXR3ZkdLTjlnS2ZSMEFKT1o4SVJubTNHdFdqbG5Qb2xIcG8zZGttQlhn?oc=5",
+        "domain": "propublica",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T102540Z",
+        "seendate": "20260825T150500Z",
         "source": "GoogleNews"
       },
       {
-        "title": "What Has Been Aaron Glenn's Impact Been On the Defense Since Returning to Playcalling?",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLWQta2VsSVNzdkFhTDZHSlNiTHFHT01QRlpLYjlrU1NxZlM4SWJnRkhIeWx5SUt6RWUzcTVqZE5BNzlOWS0xTXFwa0FMWUt2VnVBZjc3aXdmYkhnX1VGVm53TmxxcEZBTFFwTnB3bjl4SUJJY0RlMzNDY01STFR5aktyYjlWY1N4MXFONkM0SXZpbnhEN3FLd3hHMWpqWVRHb1dJYzRMYw?oc=5",
-        "domain": "newyorkjets",
+        "title": "The Chair of the NATO Military Committee visits New Zealand",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZVk5ZHZjVUFlYkZGUHM4bC1aZmsza0xmQTJONFo4UVdTMTlJZXRadE56b2NqTW1kRlNhWVdPR0NGLVpGVEVCUXdkb3ZSTVFtUF9FTTl0VGhzekhLNHdjWkIzUWpXbkJ2d2VPNlI0cjNpQ2NfV0JsdkF3MkI1YUVnTFF1OFluSUl5TEpXdlZMX2RuNlkzNkVoNlNxaF9Ta1ZzZ1ExRzBsWFhGYXgyZlRKcjdhRTZIMEQwb19NLWxPSHI?oc=5",
+        "domain": "northatlantictreatyorganizationnato",
         "language": "",
         "tone": 0,
-        "seendate": "20260824T214133Z",
+        "seendate": "20260825T185615Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Play of the Day: Corey Thornton makes diving interception to give defense the win",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSklES1M3WUNTWWgyWDcyU0pTc01xMXJnaU96ZHF4eGQ4MVhMVjY0Qm5TazZUZDVud0U4aHJIUDdtWFRQMTV3UjM4SFZGX1RNWWVYQm14NnI2X3RDWHcya3hUNnpnTFA3cVd2c3RWNlFpWl8tay13UlVUMGN4M3ZGbW9Lb0ktRjBGT1FqY25GUlNWYjF1a2k0WjRRUUVkR242R0ltTXBVbTVjdy11eW1B?oc=5",
-        "domain": "carolinapanthers",
+        "title": "Defense improved in second scrimmage, but still plenty room to improve",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbU5FRjdLcjhrU3E2Qmlpd0xQcjFSdF9CYnNLRFMybHdFLVZzYTE1eHotZU5Wc0Z1UEY4OXFFTVJGdk5hVnZQU3ZTOHBINnpMZklYS1BUeGJSVmd4Ym4tUHM4TmpoQlVXV2J6eVJkNFNrZzdqYkdWaXgzNl85ajQwMlYtNWpncDBUQTR5SnJIbkljaTQ5amlCbTE1QjFnNk5uWTF2SVlqeFJHZzNHeWJuRm5oQVNFSzdTXy1maW9TUdIBxAFBVV95cUxOeGt1emhfVDhtdEdUT20wTXpNaG9UVlROUElUTklDWlE1M09KQ1gzLWtHd2ZnWE82eVJlSlk5bjhuUzl2WUFPXzFETUhrdm5tcmZRbHhKRThqMWRaQ2JzTllRdWNFMTdqMVE4RHRhR3JvUVZHUmNSamhUd2RkTXJDWWNUaE1leDhJMU45Q1NwOHRWZlZmV01EM1FUVFRWQXZSRjk4QS1oTng1V0FLcDEweHctTXEzMkc4dDdWZDNyUUJfeDNf?oc=5",
+        "domain": "knwafox24",
         "language": "",
         "tone": 0,
-        "seendate": "20260824T184705Z",
+        "seendate": "20260825T183618Z",
         "source": "GoogleNews"
       },
       {
-        "title": "2 US military refueling aircraft depart Bulgaria amid anger from Iran over deployment",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HQUQwb1Fsd29YXzUzeVJxRVg3T082dDlaekM2QXducVNhS1FVdEVoQjJBVF9sQ1B0N1pWcFUwU01ncUlOYkNMQ3ppR3RtcWJyWlFleFlDZ1hocFB1TkoxZkoybmxVa1N4dFNJdUFZY21Wd2w4ZHfSAXtBVV95cUxPUDB3ZEtZa195M2s1N1FlYXgxU1IwZkpOVnFuTF9CY29SdWpUWFVndHh0cnZQYWVkUWVJMGROVmJkYnMybUhxcWM5eC1YSlRZbHpNejNmYWoyMXd0TVUtbGpKYWdhWW1hSVRfQWRCSU53RGd5dUFlOUlqa0E?oc=5",
-        "domain": "thehill",
+        "title": "Navy establishes new defense industrial base office: Cao",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWllBZ3pmaXQ3RzQyRkRIUERIdUVtcmlvMUpXWDJEb2dkQlVhTU5SazhQeldyV2RObFZQS0lsLWRLam9rc0pZUFozNFAxSmYtdC1jMXEyNVcwOWZ2aWpSVXFaNTd4c1RFQUl6MWlIX2lvb3phQUZiMXluZkxhbWZhamNfdm13aEpSSklyZU5xc1JPUEkxcU9v?oc=5",
+        "domain": "breakingdefense",
         "language": "",
         "tone": 0,
-        "seendate": "20260824T170000Z",
+        "seendate": "20260825T142348Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Hegseth: US Military Strikes Against Iran Remain Firmly on the Table",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa1dMalFfUmt5X1RneUhVNGtsTnNjcDEyQzRLMlVkN1Q1Nm41dS1pVXQ2SmVwc2h0eC00S1NYMWloX25oeld3LTllQmViMHhFX3U0VkRkWTJVQ0s3ZzdlbDA0d1hHaGNib2RsZjA0b3p2aEl2OXhtOXVXdmpRbzFZQi1BblB5V2x0YlRmbGpiUy15VWhsdUlkVy1ORXJLMVB1SlVudWdYVQ?oc=5",
-        "domain": "iranwire",
+        "title": "China seeks public tips on procurement violations in PLA Rocket Force probe",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNGtKM3ROWXlpQ3FVeVBGNF9iZV9RUXlkQjFjWmRtaEVCYXY3Y2d0MGdrVmlmZXVxV0JiNHJBclpPaXhDaWMzZkVBMEZMU3NzUDhZaGRsOUFhNEpJX1E1dm5COHQ4Wm05czJKNl9ySmEwbm42bGZqWUFRZ05iSkFiVTEzV1ZzVGFmWVpKWUtYYTdFN2RpVmg2NUtWV0JLblhtaEpOb0VzSGZKcHVXQzFWWXFfSEl2Zi1ScjltUFR0dTE2aFRKdUl0THRfWGpKSFdjdEHSAdIBQVVfeXFMTV9DVkp5cVJnLVNRR1M1WVpJZ0tSNUd6V1N4cVRKc0JFaEpwNENnT2NYUVBLYXE2U2NvbW5SY0dURXljOG5WRWJUUTBWNXQ4aFNyVXN5R2lxRmh1WVZLemg5eEpJajdWNUo4d3hNUUoxVXJkMGVzUDBFSzh5SUV1SjZrYkZObEV0YVpJOG1fdFpKYXlyQ0NkOE5QcHhvcGlGaGJNNTFZZWd3RXMtV1F3R3JmZkRWbk5fQ0t5NHBwdmhYX2tlcHhSdk1JeXlpUWxtNWZB?oc=5",
+        "domain": "southchinamorningpost",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T094122Z",
+        "seendate": "20260825T170745Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Sweden seeks to expropriate Russian citizen's property near military base",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWk4UTk2R20zNlBEMnR5Z2xtRm5HaHYyb1prN1ozTXVha1FtbUZpcUNXU1ItZEVyclh6Z19RWmVfREttM2ZOZUF1cU8xdFREZW1yb094cFUxcnhKem43aWNQWTY2R1RFTllDdklPRWJxdnBQYWJNcmRheldWNkxlODVxazh6dE8xckJwRW9UakR4NVBlVmJwcW55UmF1SGRaN2JNZndGNy1LaEdBdUczN0tn?oc=5",
-        "domain": "anadoluajans",
+        "title": "Cisco AI Defense + Armada: Distributed AI That's Safe to Run, Wherever the Mission Requires It",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lWFctSTNFVm9nWllKWjZnclhGYjZMZ1JPRnBjVHhVT1FCRXM1eWhvSHpxRURfQjAzWmEycmRvOE9yRXFMS1lSeF9uLS1iN08tWTVRenh1dFZDY1dNWEl1X2dLbWwzUW5wZnowY2pRWldsUQ?oc=5",
+        "domain": "ciscoblogs",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T122625Z",
+        "seendate": "20260825T153404Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Q&A: U.S. military researchers use Israeli AI avatar to study PTSD in U.S. servicemembers",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTlQyWDlkQzUxSEtiUWJydmRKSGVJSHgwbU5RTjg1V1M3WEpjRWJKMEpxYUpnVHBVOC1zdElyd1hvQ1pfa2NtR1JVTW1oRVZwXzdNaHo2QjhTZWtFcWYwakpJYkxpdHhiWnZCemxtc0F1WElQVjJnV1g3a1h5b0NDTjJMSjNfUklWZktUN2U3YkhreUVtTklMQ2VvNEdhR1ZYZWRjcGxjZ09SbkY5ZlZMU2xzRQ?oc=5",
-        "domain": "mobihealthnews",
+        "title": "'Final denial': Air Force leaders lean in to the future of drone defense",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPXy1TNHZFOFNZY3lYc3JGUGNXUms1dG1yeDNyNmZBQzZ4b3dna09SVVRVWGxCVE96UzlJQmRRMGhQSzhDMEhKTk51SmljUTNrWGlHMmNPaF94eUVkWll2ajA3M1lxVmFEbzZ1QlFRTkZBZTM2LVF2ZjkteHNCN0E0cndWaFIxS1kxY2czdm5QVmtlaUpHTUh0Uw?oc=5",
+        "domain": "dvids",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T131010Z",
+        "seendate": "20260825T170000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Hegseth touts Oshkosh Corp. as ‘model’ for other defense contractors",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMFFwRWVOWHZMaFZIa1ZvMlpxRUZMSWRwRVY1WkxVNUR2UEoyY0FBdlpPQnpQUGFRZVAtbnM1dmhXWGVVMjhLWVQxaFRFTHhHQjJhUTBweWZWU2h1WVJtREVyM1ktVWt6dHRreTZmamYxTXRXQzNBZ1ZOOUtlR2RXRmQzVmx1NElWUFE1ajJqMDR0N2drUW5JRDM4Tm1oWU1W?oc=5",
-        "domain": "wisbusiness",
+        "title": "Kids For Combat? Russian Military Recruiters Accused Of Targeting Schoolchildren",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSF8tUTZLVTcyYlVweVZ1WTFyT0RLNmxxS1ZHM0tqMUQ2eE15TXhYY3c1UGNhSzhIblZjcFdIdmdxMHpoN0pIN3hwWG1YMU1zZHVQaWFpclQ2RVBuMWtfb1lQaUVqUjFVZ1AySFBlZzZFc2ROUFBjaUZlWndkU2xsSmMyYS1PNG4xLU5QXzlVTS1VQmN0VjJtZm5qc2d3cm5hMDBj0gGmAUFVX3lxTE1UMzU5aldQMlZLMU8yRDd6RFFJN1RoSnFmamdRRXVlOFQ5YzJRcmdyMnM1OUxQaHB4M3pGcWJrb3U5X1NkUzgyNThYdDNxMkM5Y1djZGY5cF92U2FJUUVHdS1qTklmNDZJOTBQTURMUjhrUG9qWjRUU1Q0blYxakNESTk4WHp0enM4QUdtVUZQVDc5ODRDRTh3U1lGWXRaN1l4d2EzalE?oc=5",
+        "domain": "radiofreeeuroperadioliberty",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T060000Z",
+        "seendate": "20260825T170358Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Defense firm Ursa Major to go public through $2.3 billion SPAC deal",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2Y1XzlyT1lIRTJsY1lpTGRhNUtEdUNBYVJkNFdSYWZwWG9lQ1Y4b05wZVBhZHUwci1Tdl82VmpWZkZIaHZZOGpJeXAwSktyczlPNUs2SnEzN2wtMGFZNW55QnpITTlEM2lNbmlua1BuZ0RKTFNESTJ3SHRDeXlVNUdUZkNHYk12bjNYckRhMGJRcmh2azBKSFQ1WUtEcERXYUhuV1NuM2xlMVJ1aWlxenBHSmhKR1lnaWc?oc=5",
-        "domain": "reuters",
+        "title": "Army Leaders highlight AI, human-machine teaming at TECHNET Augusta 2026",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTDdGa3VEclo4djlrZTVyWWxNeExGbFJNSGwydG9uVkE3Y0hlR0JHV3ZPZEVxOFd6TnBiUHFtNF9BbGxXVW1mUHBPMWRMS0ZWMGRYVWR4dEJuX19aVnRoQ0hHbnZvZk9rV0JDbVF6Z3pBR0lHVXp5bHNEdUVjNk1mVktJc0RSZmZhUUlNUzVsdklJaUVwOEtRb3dMWFZMTkx2bl8xbjBCWmtJc0HSAbABQVVfeXFMUGdlQmJGWnhEVF8zWjJHTmFBSTRXVFV0Tmxvb0l4MEppLU94MXlYTzZISXFfUjROT0VkTGNSQm5rdU1kRWFoc1JCc1VtbU11ZEhJN1hFbVRMeWVacHpneW5PZVN0aThtWTVfYU1OTGtIbkFCWmtaQUw0Ym5mWTNJQ3pWbmFkbW5EWk1vamxzcmlEV3dyZ3J4Y2M4ZFJHX2dyLWFIMHplNHQ1MzNQbXoyc0Y?oc=5",
+        "domain": "army.mil",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T110953Z",
+        "seendate": "20260825T175350Z",
         "source": "GoogleNews"
       },
       {
-        "title": "AeroVironment to Build $100M California Defense Campus",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnpZOEZLbmtTaVdoam92VXZpZmJJTnpiTUl4NjU0TE05YXV2UUs2TzlFbkFXSlBRcC1uZXRBNjQ0ekYtZzJaZ25Bam5FME16UDJFdVhwZHBNaUZBNkhHeWkydkhfZmRWMXZOOWlWSVlONDd4Q0lJRkZMVWwzTE5IVVlZa1nSAYoBQVVfeXFMUDVDaWFGN1FiNlE1QXY1VGRGcWwyQi1Wdl80Q2dkTDJFbHktU19MdnprQ1k5bU9HcVQ0NGMwQWVaeFppQjBhb3daT01Bb1RDbnZNQ0Jwd3BLWE5CbGN3N2NPLXFJdUItVW9Sd2hJeThERWtiMzNwVTlIblBGTFYyNGc1YUtTaGJ4ODVn?oc=5",
-        "domain": "thedefensepost",
+        "title": "Lindsay Clancy defense grills expert on medications, mental decline",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZjYyMUp2SVJnNXFWcnNHa2wzTER4ekhoT2hrTFEyMTZQUjkxek03TUlxdWI2emF6aDlXN1FwWHVJUzY4YmJTLTlxdm1zVF9ndWlvX0MzX2dMcDM0dDVqWjNjVTBRQ3IzazVsLWxwVW9SZVl1STR6RVRLRU9tcVo2TWs3NHlQME15TWdreFl2WTTSAZYBQVVfeXFMUEJxa2Y3Y1VmUGlCMWNVUHJxN1NDY0NWeUxFZkU4LV9wbzdNWHNfcHhOeUFjWURudVZZUVRuU0ViSFJKTTU2Z3B6YUYyR3drMW9VUnRTcXBEYWZHR3hVeWtyb0hmMUJRSzRTZzlGbHhCeWk1NzhEcVhOa3d3ZTZiSFA5MEdUWVlEb2ZLQTY0d2NQbEJtOHln?oc=5",
+        "domain": "newsnation",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T105142Z",
+        "seendate": "20260825T171702Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Second 'mortal sin' comment in Lindsay Clancy trial causes request for mistrial",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUHlySmp3aWRRN1dtYm1OZlNDMEJzcldvRlpkT0gzeHVQbzdQTHRZcWRiaEVvTEdHdXB5dE1iSGFzUmNCOFV5bXFsUDZwdk1ZUWl2Z3NwYkFMT19ESk9GNTVKcGs3U0hGdDljU0hBTlRwekdCVEtpYmRPempURUEwZkNjbUJaSXh0X3RzanZnWmV6Z0Z2M3dSX3VxZXQ2Ull5?oc=5",
-        "domain": "ctinsider",
+        "title": "DE Dylan Carpenter Talks LSU Fall Camp and Tigers Defense",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSllIdjFlamwtTmJMZUk2eTVRRXhKdWNLeFYxRFNBU0wyUGw0Mmszcl9SWnM3a1RDaHlSY2djWGNxNHZBbXBDdWFlazBBNVVjZ0JZaWk5aWs2T2hpU3FEMzlsVzZCNUtjdVFxNHRucHJpQVJrZXFvUWJ2alNnYnhYWnNlRkdKLWd3cDhv?oc=5",
+        "domain": "tigerrag.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T125829Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.S. Military Kills 2 People in Attack on Boat in Pacific",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUNVN0RF82VVFXY3VKcHhzOGwtRkhPOXpZWUtXVlh1VHd1NUxMQ0hBRXg3dnloS1p6TTc1anliZEFWSk5wS29ZWm16QVZRYS13NUJ2cGhnUnBmblFJajFRWHNDTGk1QmRubE1ncUR6ME1EVVFseW1NeWVZSVE?oc=5",
-        "domain": "thenewyorktimes",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260824T130037Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Out of Africa: Electra completes sale of Nigerian contracting operations for $15 million",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAybzB5UEpLMGl0VHFKY052YmgwbjlGRm91RnMzZkVKbFBWMjZUTE8tdEdEMDdTZWFFa1RfYnJKR1dxVGZPNGktLWxfbWNjOEpHX0dqUWJab3k2NzFCT0RhOGZsc1FmXzQ?oc=5",
-        "domain": "calcalistech.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260825T122500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Parsons Secures $514M Option to Extend Missile Defense Agency Engineering Support",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LQTcxTVZTX0xVVGxLVkt5NlhQN0FPZzV0NEk4YTc2cjI3WjZWTXExazNRZkxMbGdHenNmX1JWQUc5RTBVVDIxZlJhb0Z6bVJyR3A0c3B5UXNJUjN6azlLZkNBTndEaVlLU3M5V0ZTXzJDZExsUVVkNlV6UFRwUGM?oc=5",
-        "domain": "govconwire",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260825T092215Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Swedish military seeks to seize property near naval base owned by Russian with Kremlin ties",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOXc1MzhGRjBlcmdqd2FUSzNBRUpVSm5INzRDOGZ4ZjBraW1aRFVwampRX0hYMFJaTU96UjZvNnpNTEg5VzQ4d3NMX0M4bE10ZGllQVk3eXZPbTgzMDBKMFZHR0FPalRGZDhGR0NqS0R2aTRGTU1iMGVpWGtLMEZvSi1pejBRQUZFTkNMam5aRVRNb3ZRcUF3MVd1dVN3aWlyRnNyMXFRcVpXc2xITVBwMVRtMkRsSm1Scm5odkI5VjVxZ2xjWURpMUNLbHhyVVNPbmc?oc=5",
-        "domain": "euronews.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260825T104507Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Defense attorneys for Titusville teen seek delay in cruise ship murder trial",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMk4wcEdCNXV3UmpKMnNvM3NqU2dxbDBma0tfbFNFTVFvSl9MUjNkUVdjYXVfQlR3V3R0aGhhVzl3cVZqWlBoblB3cmFqM210NEJrSkhMWkNfZ1drRThJZEVMMGN3WU9LNGxfd3ZkSU9kSWF5Q1MxU2FabGZ5bDhPaDZTWUJGTzd0Y2s4ajlLZXg0N21Idnk0aVhRMHBXekplMGYwbVNjWDNYSlphMWR0bWdZZ19sMEhTeEQ3TEtWQ2RVdE5mNzNRMU8zbW5DSklWWlBVd05qTFpoWHZXWVY0OEpaZjhjNnEwT2c?oc=5",
-        "domain": "floridatoday",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260825T124400Z",
+        "seendate": "20260825T181529Z",
         "source": "GoogleNews"
       }
     ],
@@ -571,6 +571,15 @@
   "entities": [],
   "events": [
     {
+      "title": "CIA director flies unannounced to Moscow to hold talks, source says",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWXZGQUdDNVl5WDFRdUJsR2dYbkFHMmdhUkhKNU9EdXFJZEFiRGhMOURTX3pzZ1FtTENIX254TGsyWE9jMHZsbld0OXlsVndmNXJMT2diSmM2bFZzb19aWWVXT2xYeFRxWEFEZU9pcnRJYVB0X0ppRi1wVEttWklvSU9PSG1KRnhFQUhwTjAyVQ?oc=5",
+      "domain": "nbcnews",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260825T112234Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "Exclusive | Russia Tests Readiness for New Round of Military Mobilization",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRm5UM3FpTktzX3FaLTFUN2ZFaHNOQ3hTTEstckJfUS1JQlRSOHFXNnlRZ3BMSXNuRVlJSzJXZEdlV1JlQXU4a1FNZGpyTjFqZXJhZmd4Qm1ONTJFQlI0MGt1SXNtcFJvRVEyUjlHdlB0Sk5HSEtvRDdvTHpvM3hvcXh3TUpOSER0VGczeDNEaUlwWG8xeEpzcUhNcktaSFdnWURtS1hR?oc=5",
       "domain": "wsj",
@@ -580,75 +589,48 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Mystery as U.S. military transport plane lands in Moscow",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWXZGQUdDNVl5WDFRdUJsR2dYbkFHMmdhUkhKNU9EdXFJZEFiRGhMOURTX3pzZ1FtTENIX254TGsyWE9jMHZsbld0OXlsVndmNXJMT2diSmM2bFZzb19aWWVXT2xYeFRxWEFEZU9pcnRJYVB0X0ppRi1wVEttWklvSU9PSG1KRnhFQUhwTjAyVQ?oc=5",
-      "domain": "nbcnews",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260825T112234Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "US military transport plane lands in Moscow, Kremlin says it has no information yet",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa2ZPNmtEcFJVVzlrWERYanJKcWxXZVdkX29yOTkxbk1wRHNCX2loamJ5a3plZDRBTVd4c1ZMNjJjZ05PTExDOFdOZjFXRHJzZldNcUlqVHBGbXo2dk1aUWVDWmZtRlR4dTgzck9LMDRuaUJDLXFNem1PcERiOERqMVotdjJpcDByV0NjVWI4ZGpSRWtTWUZuaFVTZkFQLXE1SmZ0T3FKR3l5UnZSbkc2SHEwRmlnQ24tMnZBTHFvT2Rva2lsTkRFbVByTVZOMzM0am81WktOR2t5UQ?oc=5",
       "domain": "reuters",
       "language": "",
       "tone": 0,
-      "seendate": "20260825T104925Z",
+      "seendate": "20260825T130357Z",
       "source": "GoogleNews"
     },
     {
-      "title": "A Missouri military family needed IVF. Starbucks offered better coverage than the Army",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZmtOZkZld3ZZekZWQzBsQjRhcG8ycTRDV18zUkRfekwwNEgya3RNdFk3bnlFMHc4eERFV00tYlZ6V3pSem9EUFBWZHA2YVZGQkJGalZEcXBuOGhzeUNBUXV4TUNEQ1RHRFlVY1diT190V1VkOHBpT24wN25SUGxvVldrcXVwSFlMTVBVR3A2Z2x1VDV5d0ZXV0paWElaNlJjSnF3bU10SE5wbjJjVkl3bElpVjNrS05jbFNlU0JGMXU5d1VwU3c?oc=5",
-      "domain": "missouriindependent",
+      "title": "From military service to student success at UTA",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdVNoR1ZFV1duejhRWUFPSDY4LW9GMklLOTZPeDgyMDJQdFR0R2sxUnVvb3NWa3FvMllmVlZrLVN6empNNVVsN2phSW1PeE43OTdfMHBVTlNsemFoUkhoSU1obUVOX1NnM1lZVUFocG9URlcyenlLZEVGRGJtUFNOQ0hhT1E3TFlhbE1PdVZlUC1tMlotNTZ4MVRXem9zQQ?oc=5",
+      "domain": "uta.edu",
       "language": "",
       "tone": 0,
-      "seendate": "20260825T105717Z",
+      "seendate": "20260825T165720Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Cape Coral Receives Award for Excellence in Procurement",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YOGtPZWNTR19KN0x0Z25DSnQ3SEFnNGEzZjhfeXFMZDRfcW1vaUxfeTJDa1N5eWo3R2FrdEE3MnZCWUp0MnNrWmlTYWdCUl9NR0w3UThSUzZtNDZYN3c?oc=5",
-      "domain": "capecoralgov.gov",
+      "title": "First Cohort of Soldiers Complete UTEP’s Advanced Manufacturing for Defense Readiness Certificate",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNmhKVWdJQ2Z5Zk5WSE1hY1c2NWJGbm1WVEtiWmVEQTRlTlhRdGhoZEh2d04wQ04xaDEyMVRSYkF0YU1KeFpOc2pSYWp3dWEwR3pnTjNueURKV0ZPLUlCZExxTEF0dDY0UG1jam9wa2NQTDhmenlNeFp4bEllODVwU1VDMEpZLWhCQkdLVFcwYUt0WmdFTnE5SS1pbm90VWdTTUJfSEhaelRYMF93WEtoUjVLQ0hsUzBXSDhfZGZBcFd6SUlYMklkUXB4TGNsOHN0a01ZWHhBei16RlU?oc=5",
+      "domain": "theuniversityoftexasatelpaso-utep",
       "language": "",
       "tone": 0,
-      "seendate": "20260825T132605Z",
+      "seendate": "20260825T165424Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Lindsay Clancy trial: Judge denies defense request for mistrial over 'intentional misconduct' | LIVE",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTHJoRXE4ZjhabElxZjQzaThlb3p5TWk3MGliM3ZZUDNfNllIbDkxdmtEWTVVTGNGYzFBcVRXWlFaeWFUa2tDb2dCamoxNUxsTzI3dUFCSlhSWXY1QTViWENJTmZVdFNoaGtqV3lJbWtuQVBOOWNaT29Ia19CVEN4WkJtd2FQeEIwWk1qWFMtMzlqcHRKVFJsS3ppYkVjdVFLYmZxOUtDRUxOZUNVUGRZVXAtQ0U4UQ?oc=5",
-      "domain": "abc7newyork",
+      "title": "US military plane lands in Moscow, with Kremlin claiming it has no information: report",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTlExOUc4aEdWeXZMYUI5eHE0QlJfbndiMnVuYmUxQ2VEVWRMcHhkaDR3UVV1TklqLXI0U296cUdIcm52WUN5NjI4Yk5DS0ptb3JaZDdEVlBzZ0Jjelk3TWo1SVVXVElKMFdUUENrbkFCN00tUHc4REFaS21uSFpFblRXNDlvWUd6MzcxcnQ2ZFphamRUU2MwRWRfUlVWMkJq0gGmAUFVX3lxTE1sR1NFRTBpSTk1UW5pcm0wSXgtU0gwVHg0SExjMFJqUG1wd0FVcXFMTTY3YmVIUGZQam9vQkVVSEl3M2F1UC1LSmE0MGFUTmtadTAyaERYUXNmSTlEVERKb1U5aW41eXhycXl6R3RGemVTWWhMVGowVk54TldpSkxreGR0X0lMekxUOGk3QkRRQmZ3b0tDNERLUjZlSFc2T3ZUcFQzbFE?oc=5",
+      "domain": "foxnews",
       "language": "",
       "tone": 0,
-      "seendate": "20260825T100226Z",
+      "seendate": "20260825T175256Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Russia’s Next Top General: Promotions in Russian Military Leadership",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTDgxaVZPNWJYb3pDM0o1c3RnSUhVaUZUaHF2bktQSldlSWlkcUtiYUU0aXh3M1haUkVwM2JHeTFuMjA0V2ZtbHJtS05teWI0UThsLUlzcjcwSGpmMURJUTUwLS00aWVqenZ6Q0o3TTc0RDJENkRUWU9uRS1DMUhzbmJQc3hjUTItQUlSSEoycnk1T2JXcS01Xw?oc=5",
-      "domain": "warontherocks",
+      "title": "Defense rests after calling two witnesses on day 7 of testimony for Mario Fernandez-Saldana trial",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZDRMUFZJVmNQM2tNUFlGQUpnM3JqTDBWam83SzY0a25uc1VLSThyQWRNanNCWGx5NWczU2RjWmkycld0VmliV2I1WGw2M2wyOWcxNXU2am45YUg1SnBQUllucU96R1dqUDdGVmpsTUhUOENXWnZXXzl0Q0JZN3NMTEZGWWFnOHRMUUY5VlVwQ0lUcFI2RmhWT19jUjljZmoyNGFDaHdHNnNNSlZDYWtvNGxjMEs5NEFGNW9EajJ1cnM1ZExiNDB0SDVqRnkwa1BYb3Jta1RqZkxodnN3TTQ1cTBKVkloVnlhMVNDbzI3cmRqVW83Z056d2dXMmY5dU9MZ0NpLUFPc0o3allsZUs3MUhB?oc=5",
+      "domain": "firstcoastnews.com",
       "language": "",
       "tone": 0,
-      "seendate": "20260825T073046Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Contracts for Aug. 24, 2026",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOazNpX3ZiWDJoQ0swMkx3MVA5ZXpUaEFvc0NYYlNORTE0cTEwSEtrYlJocFhYbXZYQTVheUVRVlZfV1MtNUdaVHVpakZXSGdKUlFkcE8wVVctTElZRjNtQkh3eU50TzlXS3RWVV9WaUdtUnZVazVDeHl2Z2tHX3FSa3lpREJpLUtQcVBZbzY0cw?oc=5",
-      "domain": "u.s.departmentofwar.gov",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260824T212319Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Wife of active-duty Army sergeant deported amid Trump's immigration campaign",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdC1SM3pfUXZCTG5rNi0xQ1A3c0pYYlJRVXVGcmRQR2o5OFd0cWs3Y3RCWDlDTlIxNG5JeW5XQ1RpQ2cxQWxGQ1dfNVd3WU8tYlhickRMNl9GdWVZV3h3d2g1andGNVhPWW50THphemI5NnZsMFdCOFFLc2IzczdPTHFZUVVuU1I2VVptaEIySFA4ZThMLTJxTzNVeHNVOVZjN1d3TlBxdHFTWjJoRkHSAbMBQVVfeXFMTWFZSmM1djlDczRxMWxEMUJsR3FUUVZGOGQ3b3BNbTdtN1ZMTTR6SzlwUkM4cVFXQ0xnVE9hV0NvcGU2UzFwM0NDT1FaS2RXR0ZCZC1rNmZ6MEp5a296Q1FzYlUxMGlQVlRsYVFtVWdabXRCUDRLZExLRXFSS1NxNUc4UHZPcTBrR1ZYZG80V1hqOUNxd0pTTVluMm12dC1zbnU0OXdRaXFWUE9IYWhYcTYtSms?oc=5",
-      "domain": "abcnews-breakingnewslatestnewsandvideos",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260825T025456Z",
+      "seendate": "20260825T144100Z",
       "source": "GoogleNews"
     },
     {
@@ -661,48 +643,66 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Russia Denies Knowledge of US Military Plane Tracked Landing in Moscow",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV01zUkJpV2NVZ1Q3U2tfRTR4OHdzZUNWWlFsWFpKZUtnaUtIUUNwVVlZZ3l0Mmp6Y3hjMTRmUE9kSHpFdmplUmNaZl9MSkFLbGh4dnMyd0dfSGhIeUY4SW16YTRKanEweVdNR2NiazdGU3hFN25ObWlfSGpzSU1hTWZISnhGSllyS25kdHJxT2tHR2hsWllBdmF5REg4dXdONHcyc1FVRGpCZTZCVzZn?oc=5",
-      "domain": "newsweek",
+      "title": "A Missouri military family needed IVF. Starbucks offered better coverage than the Army.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZmtOZkZld3ZZekZWQzBsQjRhcG8ycTRDV18zUkRfekwwNEgya3RNdFk3bnlFMHc4eERFV00tYlZ6V3pSem9EUFBWZHA2YVZGQkJGalZEcXBuOGhzeUNBUXV4TUNEQ1RHRFlVY1diT190V1VkOHBpT24wN25SUGxvVldrcXVwSFlMTVBVR3A2Z2x1VDV5d0ZXV0paWElaNlJjSnF3bU10SE5wbjJjVkl3bElpVjNrS05jbFNlU0JGMXU5d1VwU3c?oc=5",
+      "domain": "missouriindependent",
       "language": "",
       "tone": 0,
-      "seendate": "20260825T105600Z",
+      "seendate": "20260825T105717Z",
       "source": "GoogleNews"
     },
     {
-      "title": "BGOV OnPoint: Midterm Flip Could Shake Up Federal Contracting",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMFNuVXdQOFNpZWNTaXFhd2s1LTdkYXd4VmsxanZiMnRMWnRXTzQ3QVV6TEgtSFhibGt0R1ZOdjRsOXIxczVBUlNLYUhhQjRQelNUbVUzMV9QX1pVZ29NQ2xJdmVMQ1ZlU2t6cHZtOTR1SUhsVmtCRmxCRjVBRWpIR1VCd0VNaXo4OGt6RUZLN3JfTjh6Uk5haGdjZ3FpbVM4SV83UFhrMmlVTmtq?oc=5",
-      "domain": "bloomberggovernmentnews",
+      "title": "Rep. Tlaib, 40 colleagues demand release of U.S. citizen in Israeli military prison in bicameral letter",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWFRQeXZuZmRDdEZieV9VblJYNEpRNmdvSXJEV3E2c2JwWUVwWjJMQ2FJajFwU3piVmZZaXNEZi1wSWgtM1hsdjhGX1lXY2lGQVdlU2g0ajJjRVNoQm1tOEFoNmd6UnQ0ZUNWTFd4VGlMYUh1VGp2d256SWZjVmVXOXc0M2RVRlNlWi1pamVIdDlGamZSRk9TWmQ3Q0x5d2NxZzQ4X0lnU0tTTUgwa2hrUDBMcmoxY2JTRXNXVHBsSVY1d0V4V0prYTR3?oc=5",
+      "domain": "house.gov",
       "language": "",
       "tone": 0,
-      "seendate": "20260825T090100Z",
+      "seendate": "20260825T151115Z",
       "source": "GoogleNews"
     },
     {
-      "title": "U.S. Military Transport Plane Lands in Moscow",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ldmR4N1FRRnUyd2JhV3JOZmsyUUpvWVJtNlBfWUNzbXRaM1k1enJqUFVwSDhCbVBnS3N0WmlTMDlqVHRXcTY3R1JfVkJ6b21PTHJWVnZRTVhvdmdzNUhJbFNGdWo?oc=5",
-      "domain": "themoscowtimes",
+      "title": "News - Military Policemen Graduate from Smyrna’s 117th Regional Training Institute",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbndWUTlBNVQxRTZ0RFY0cDFBQnBxb1VoSWx6WW90MUF1N0dyX2dNc1FFVE9MMUNabmNaNkVYVVVfUThHTjBwUWlXaGcxUkQ4X0Foc1ZIT2I3bThTTDVLVjRKbzg4SWVpRjIyMGNWeGd0T2xtVFQxLU9oRElNc2NLUjY5M3A1R1ZpM3laV2NZYmRUd2Y5bFNYNFpuVElqemN5bW12dTZDU2NyZw?oc=5",
+      "domain": "dvids",
       "language": "",
       "tone": 0,
-      "seendate": "20260825T123140Z",
+      "seendate": "20260825T184000Z",
       "source": "GoogleNews"
     },
     {
-      "title": "CFR Report Takeaways: How to Reshape U.S. Defense Production to Counter China",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXhaQndoRnpuTGI4S2xKZG5MUV9kYVZVZGFVT0NsZ3VqYTNabFlIVFhVOVRpblMwMlZsMXlzQVZsUDl5WS11dEtaU3VyOGwwQWxNWUZmQmE4dHFKMzM1eWlmV1loYUZsSTRkNmdHU3lUSG1MWV9ZQWxQXzJNVTVvZUVveTNrYVVsU1lfT3d2QzIwcjJHbWFGOS13M3h3bEE2MExUSHUzaw?oc=5",
-      "domain": "councilonforeignrelations",
+      "title": "Russia’s Next Top General: Promotions in Russian Military Leadership",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTDgxaVZPNWJYb3pDM0o1c3RnSUhVaUZUaHF2bktQSldlSWlkcUtiYUU0aXh3M1haUkVwM2JHeTFuMjA0V2ZtbHJtS05teWI0UThsLUlzcjcwSGpmMURJUTUwLS00aWVqenZ6Q0o3TTc0RDJENkRUWU9uRS1DMUhzbmJQc3hjUTItQUlSSEoycnk1T2JXcS01Xw?oc=5",
+      "domain": "warontherocks",
       "language": "",
       "tone": 0,
-      "seendate": "20260824T090000Z",
+      "seendate": "20260825T073046Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Mystery US Military Plane Lands in Moscow amid Rumours of Possible Hegseth Visit",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPemtWTjRsOHY4RHdPSk84TV9INW5lYjNzcVhSU254b2FfQ0t0ZHppcDQzSTVEUFVfQ1JTV0h3dGpvQWlTRzU2U1I1ckxod05sRFpSQkltaGpEVW5zRXQ1Z1BSZVdQVkc2NGRnMlYxLXh0Uy1Oc2hqNWVNV0ZwUWVwdFhsbTZyNXBFS0w4YndwSUp5V2JhQ1FPLUppLXJFN0kwMkRlV2N6Uk5JbGlR?oc=5",
-      "domain": "hungarianconservative",
+      "title": "Lockheed Martin Ventures open to making ‘defense-specific investments,’ GM says",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY1BWbGlvc2ZEQkFLdG44b1g1QTd5aWMydWx6ai10bUhtdFFtMUY4cFowYmlzdTZTaDFCcTRrS29iSjRtQWpPcFR5N3dSZGFoTnVRaTl0MG83SWZua1FPdGFYNjhrVDhCWHBFaGZOUWtEb2VZMWR5Zzl4dVpzVmdSYmVWYThtTzBQMW9IbXFWdHdNQU0wcnN0TXdhUmw4VWFGQm9ubW5td3pMTHdJQ3VINg?oc=5",
+      "domain": "aerospaceamerica",
       "language": "",
       "tone": 0,
-      "seendate": "20260825T103133Z",
+      "seendate": "20260825T190439Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Chair of N.D. military gallery project committee shares why ground was broken despite it not being fully funded",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSjh0QlQ4a2MzNVpCYktEY1ViQWJDZEszdzhDVEZiNFkwY3MxRnV5cllXVkxqN2cyNG1xNHBNUkNVTkZqT2w5cnRBeWhQaXdsalBIVUVQaXB4R29mYW9JWVRnYW1SNkQteDFKQ1FVNGJzQ0ppMTVxZzNZX2c4Z1BmSXA1UFBMQ1J0S1FQbFhJZThPVmJkVVF0OFJoNl9ZY054QUhxUEVOSXpDakVZaFUzbjdmREZMaDlxOFFDdHhOd3Vua2xLM001OQ?oc=5",
+      "domain": "themighty790kfgo",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260825T163029Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Military Aviation Museum will host living history event without airshow this year",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQTIwZXg1cEZnM0JlWWhHZkJ6Xy1oT0Y1NzdyR1ZySUxLemJETkt1ajBZTm9tNDRwd0M3bkNJTlhlT3hoOVdlSS1DRXdDalg3S3dlRTQ2LVpOcDlrUDRrQlpYOUZFNVdGNktBSFAtakt2eVQ3bExYLTZlVTlJcjNKTUZJNi1BZnVOT0xqNHdfcE12aDlzLVpWUDhWX2RUYnByX2hDdFJkLV9SRkpo0gGyAUFVX3lxTFBfb0psVEJ3QTdqS0QtQW0wQ05BM1U4MTdFNzdlcFFPM2RRczVrY0M4emM2Yzhqbm9OU3daWWpjOUZiTkFjeS0xRVFvYlRpdXFkS0VONV9yRklCWlBoNjBROE9mbzB5aDJDNDMtZEs3cVNubmpFNHF4cXd3QzF5STBmUEdEUUpVVU1RS3ZmSERTSkUybGNhTDZlelMzTGoyMmpFeFhxZmN5LVNEVnk4VElKakE?oc=5",
+      "domain": "wavy.com",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260825T153603Z",
       "source": "GoogleNews"
     }
   ],
