@@ -1,13 +1,15 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-26T07:28:34.616574+00:00",
-    "mode": "live",
+    "generated": "2026-08-26T13:36:37.406007+00:00",
+    "mode": "partial",
     "sources": [
-      "news_articles",
-      "exchange_rates"
+      "exchange_rates",
+      "news_articles"
     ],
-    "source_notes": [],
+    "source_notes": [
+      "News feed unavailable; retained last validated snapshot."
+    ],
     "version": "1.2.0"
   },
   "stats": [
@@ -33,6 +35,88 @@
     }
   ],
   "live_data": {
+    "exchange_rates": [
+      {
+        "currency": "USD",
+        "rate": 1
+      },
+      {
+        "currency": "AED",
+        "rate": 3.67
+      },
+      {
+        "currency": "AFN",
+        "rate": 65.06
+      },
+      {
+        "currency": "ALL",
+        "rate": 79.28
+      },
+      {
+        "currency": "AMD",
+        "rate": 365.15
+      },
+      {
+        "currency": "ANG",
+        "rate": 1.79
+      },
+      {
+        "currency": "AOA",
+        "rate": 926.24
+      },
+      {
+        "currency": "ARS",
+        "rate": 1511.53
+      },
+      {
+        "currency": "AUD",
+        "rate": 1.4
+      },
+      {
+        "currency": "AWG",
+        "rate": 1.79
+      },
+      {
+        "currency": "AZN",
+        "rate": 1.7
+      },
+      {
+        "currency": "BAM",
+        "rate": 1.68
+      },
+      {
+        "currency": "BBD",
+        "rate": 2
+      },
+      {
+        "currency": "BDT",
+        "rate": 122.57
+      },
+      {
+        "currency": "BGN",
+        "rate": 1.68
+      },
+      {
+        "currency": "BHD",
+        "rate": 0.376
+      },
+      {
+        "currency": "BIF",
+        "rate": 2989.73
+      },
+      {
+        "currency": "BMD",
+        "rate": 1
+      },
+      {
+        "currency": "BND",
+        "rate": 1.27
+      },
+      {
+        "currency": "BOB",
+        "rate": 11.51
+      }
+    ],
     "news_articles": [
       {
         "title": "Wife of US soldier deported after Trump rollback on military family protections",
@@ -483,88 +567,6 @@
         "tone": 0,
         "seendate": "20260825T131345Z",
         "source": "GoogleNews"
-      }
-    ],
-    "exchange_rates": [
-      {
-        "currency": "USD",
-        "rate": 1
-      },
-      {
-        "currency": "AED",
-        "rate": 3.67
-      },
-      {
-        "currency": "AFN",
-        "rate": 65.06
-      },
-      {
-        "currency": "ALL",
-        "rate": 79.28
-      },
-      {
-        "currency": "AMD",
-        "rate": 365.15
-      },
-      {
-        "currency": "ANG",
-        "rate": 1.79
-      },
-      {
-        "currency": "AOA",
-        "rate": 926.24
-      },
-      {
-        "currency": "ARS",
-        "rate": 1511.53
-      },
-      {
-        "currency": "AUD",
-        "rate": 1.4
-      },
-      {
-        "currency": "AWG",
-        "rate": 1.79
-      },
-      {
-        "currency": "AZN",
-        "rate": 1.7
-      },
-      {
-        "currency": "BAM",
-        "rate": 1.68
-      },
-      {
-        "currency": "BBD",
-        "rate": 2
-      },
-      {
-        "currency": "BDT",
-        "rate": 122.57
-      },
-      {
-        "currency": "BGN",
-        "rate": 1.68
-      },
-      {
-        "currency": "BHD",
-        "rate": 0.376
-      },
-      {
-        "currency": "BIF",
-        "rate": 2989.73
-      },
-      {
-        "currency": "BMD",
-        "rate": 1
-      },
-      {
-        "currency": "BND",
-        "rate": 1.27
-      },
-      {
-        "currency": "BOB",
-        "rate": 11.51
       }
     ]
   },
