@@ -1,711 +1,662 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-27T22:31:51.784881+00:00",
+    "generated": "2026-08-27T22:55:12.568701+00:00",
     "mode": "live",
-    "sources": [
-      "news_articles",
-      "exchange_rates"
-    ],
-    "source_notes": [],
-    "version": "1.2.0"
+    "version": "2.0.0",
+    "horizon": "0–90 days",
+    "classification": "procurement-acceleration-screening-not-conflict-probability-or-contract-forecast",
+    "coverage": "5/5",
+    "confidence": "HIGH",
+    "source_notes": []
   },
-  "stats": [
-    {
-      "label": "Articles Tracked",
-      "value": "50",
-      "delta": "live"
+  "warning": {
+    "score": 17.5,
+    "raw_score": 17.5,
+    "concurrence_bonus": 0.0,
+    "status": "BASELINE",
+    "headline": "Defense procurement acceleration pressure is baseline at 17.5/100.",
+    "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
+  },
+  "components": {
+    "eu_notices": {
+      "key": "eu_notices",
+      "score": 36.8,
+      "status": "WATCH",
+      "weight": 0.3,
+      "available": true,
+      "retained": false,
+      "coverage": 643,
+      "current_14d_weekly_equivalent": 47.0,
+      "baseline_weekly_median": 44.0,
+      "anomaly_z": 0.81,
+      "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
+      "evidence": [
+        {
+          "id": "594394-2026",
+          "date": "2026-08-28",
+          "title": "Hungary – Ammunition – 2026. évi lőszerbeszerzés",
+          "buyer": "Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság",
+          "country": "HUN",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/594394-2026"
+        },
+        {
+          "id": "595295-2026",
+          "date": "2026-08-28",
+          "title": "Czechia – Parts of military vehicles – Náhradní díly LR",
+          "buyer": "Ministerstvo obrany",
+          "country": "CZE",
+          "cpv": [
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/595295-2026"
+        },
+        {
+          "id": "595998-2026",
+          "date": "2026-08-28",
+          "title": "Germany – Military vehicles and associated parts – 6002998872-BAAINBw E2.3Y 3227",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/595998-2026"
+        },
+        {
+          "id": "594008-2026",
+          "date": "2026-08-28",
+          "title": "Netherlands – Radio, television, communication, telecommunication and related equipment – Communicatiemiddelen (C2000 en object)",
+          "buyer": "VRBZO Veiligheidsregio Brabant Zuid Oost",
+          "country": "NLD",
+          "cpv": [
+            "32000000",
+            "35710000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/594008-2026"
+        },
+        {
+          "id": "595754-2026",
+          "date": "2026-08-28",
+          "title": "Slovenia – Weapons, ammunition and associated parts – namerilne naprave in povečave",
+          "buyer": "MINISTRSTVO ZA OBRAMBO",
+          "country": "SVN",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/595754-2026"
+        },
+        {
+          "id": "594265-2026",
+          "date": "2026-08-28",
+          "title": "Germany – Military vehicles and associated parts – 6003108558-BAAINBw E2.1 Rahmenvereinbarung über die Lieferung von Panzerglasverbundscheiben für die Waffensysteme WOLF SSA und ENOK",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/594265-2026"
+        },
+        {
+          "id": "594601-2026",
+          "date": "2026-08-28",
+          "title": "Poland – Security, fire-fighting, police and defence equipment – Zakup broni, amunicji i środków przymusu bezpośredniego na potrzeby IAS w Rzeszowie",
+          "buyer": "Izba Administracji Skarbowej w Rzeszowie",
+          "country": "POL",
+          "cpv": [
+            "35000000",
+            "35331000",
+            "35321100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/594601-2026"
+        },
+        {
+          "id": "595126-2026",
+          "date": "2026-08-28",
+          "title": "Germany – Electronic warfare systems and counter measures – RV Senhive SenID Pro",
+          "buyer": "Freistaat Bayern, vertreten durch das Logistikzentrum der Bayerischen Polizei (LZBP)",
+          "country": "DEU",
+          "cpv": [
+            "35730000",
+            "35125100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/595126-2026"
+        },
+        {
+          "id": "596148-2026",
+          "date": "2026-08-28",
+          "title": "Germany – Weapons, ammunition and associated parts – Beschaffung von Zielmarkierungstechnik mit Laser- und Lichtmodul",
+          "buyer": "Land Schleswig-Holstein vertreten durch das Landespolizeiamt Schleswig-Holstein endvertreten durch die Gebäudemanagement Schleswig-Holstein AöR",
+          "country": "DEU",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/596148-2026"
+        },
+        {
+          "id": "594896-2026",
+          "date": "2026-08-28",
+          "title": "Germany – Parts of military vehicles – 6003036445-BAAINBw E2.5F Gleiskettenglieder u. Zahnräder, WS Leopard 2",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/594896-2026"
+        },
+        {
+          "id": "595955-2026",
+          "date": "2026-08-28",
+          "title": "Spain – Cartridges – Suministro de cartuchería especial de distintos tipos para dotar al personal de diferentes Unidades de la Guardia Civil",
+          "buyer": "Jefatura de Asuntos Económicos de la Guardia Civil",
+          "country": "ESP",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/595955-2026"
+        },
+        {
+          "id": "593455-2026",
+          "date": "2026-08-28",
+          "title": "Poland – Military vehicles and associated parts – Dostawa zestawów obsługowych do KTO Rosomak",
+          "buyer": "1 REGIONALNA BAZA LOGISTYCZNA",
+          "country": "POL",
+          "cpv": [
+            "35400000",
+            "35421000",
+            "35421100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/593455-2026"
+        },
+        {
+          "id": "594771-2026",
+          "date": "2026-08-28",
+          "title": "Germany – Parts of military vehicles – 6003047687-BAAINBw E2.1 Lieferung von Fahrzeugachsen und Dieselmotoren für die Waffensysteme VUK: CQA- LKW 3,5-15t mil gl B1 und VUK: CQC- LKW 15t mil gl B2 (G) WLS",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/594771-2026"
+        },
+        {
+          "id": "591970-2026",
+          "date": "2026-08-27",
+          "title": "Malta – Ammunition – SPD2/2026/036 - Framework Contract For The Provision Of 9MM Ammunition For The Malta Police Force",
+          "buyer": "Sectoral Procurement Directorate",
+          "country": "MLT",
+          "cpv": [
+            "35330000",
+            "35340000",
+            "35331000",
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/591970-2026"
+        },
+        {
+          "id": "592181-2026",
+          "date": "2026-08-27",
+          "title": "Estonia – Various chemical products – Rehvide soetus",
+          "buyer": "Riigi Kaitseinvesteeringute Keskus",
+          "country": "EST",
+          "cpv": [
+            "24960000",
+            "34352000",
+            "22450000",
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/592181-2026"
+        },
+        {
+          "id": "592912-2026",
+          "date": "2026-08-27",
+          "title": "Poland – Miscellaneous repair and maintenance services – Włączenie urządzeń systemu ogólnozakładowej łączności telefonicznej oraz systemów dyspozytora ruchu zakładu pompowni „Makoszowy” do systemów Oddziału CZOK dla Spółki Restrukturyzacji Kopalń S.A. Oddział Centralny Zakład Odwadniania Kopalń”",
+          "buyer": "Spółka Restrukturyzacji Kopalń S.A.",
+          "country": "POL",
+          "cpv": [
+            "50800000",
+            "35710000",
+            "35711000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/592912-2026"
+        }
+      ]
     },
-    {
-      "label": "News Domains",
-      "value": "47",
-      "delta": "deduplicated"
+    "us_awards": {
+      "key": "us_awards",
+      "score": 0.0,
+      "status": "BASELINE",
+      "weight": 0.25,
+      "available": true,
+      "retained": false,
+      "coverage": 600,
+      "latest_observation": "2026-06-11",
+      "reporting_lag_days": 77,
+      "freshness_factor": 0.36,
+      "current_14d_weekly_equivalent": 0.0,
+      "baseline_weekly_median": 0.0,
+      "anomaly_z": 0.0,
+      "recipient_concentration": [
+        {
+          "name": "BAE SYSTEMS INFORMATION AND ELECTRONIC SYSTEMS INTEGRATION INC.",
+          "amount": 66848688.0
+        },
+        {
+          "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 51331804.44
+        },
+        {
+          "name": "L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P.",
+          "amount": 33708123.0
+        },
+        {
+          "name": "THE BOEING COMPANY",
+          "amount": 16417207.79
+        },
+        {
+          "name": "AMENTUM SERVICES, INC.",
+          "amount": 6978661.63
+        },
+        {
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "amount": 5016405.23
+        },
+        {
+          "name": "FEDTRIBE LLC",
+          "amount": 2222061.0
+        },
+        {
+          "name": "ATEC INC",
+          "amount": 1396613.92
+        }
+      ],
+      "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
+      "evidence": [
+        {
+          "date": "2026-06-11",
+          "award_id": "FA810824FB001",
+          "recipient": "STRATEGIC TECHNOLOGY INSTITUTE INC",
+          "amount": 0.0,
+          "agency": "Department of the Air Force",
+          "description": "USCG AVIATION TRAINING CENTER (ATC) GROUND SUPPORT EQUIPMENT (GSE) MAINTENANCE, MOBILE, AL",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-05-27",
+          "award_id": "FA862026FB041",
+          "recipient": "BAE SYSTEMS INFORMATION AND ELECTRONIC SYSTEMS INTEGRATION INC.",
+          "amount": 66848688.0,
+          "agency": "Department of the Air Force",
+          "description": "AFLCMC/WI",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-05-27",
+          "award_id": "N0001923F2625",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 38500000.0,
+          "agency": "Department of the Navy",
+          "description": "PERIOD OF PERFORMANCE (POP) UPDATE",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-05-27",
+          "award_id": "FA862026FB002",
+          "recipient": "L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P.",
+          "amount": 33708123.0,
+          "agency": "Department of the Air Force",
+          "description": "AFLCMC/WI",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-05-27",
+          "award_id": "W58RGZ24C0028",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 13531249.81,
+          "agency": "Department of the Army",
+          "description": "APACHE PERFORMANCE BASED LOGISTICS (PBL) V SERVICES OF AIRFRAME COMPONENTS FOR THE UNITED STATES GOVERNMENT'S AH-64 APACHE FLEET.",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-05-27",
+          "award_id": "N0001923F2625",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 12500000.0,
+          "agency": "Department of the Navy",
+          "description": "PERIOD OF PERFORMANCE (POP) UPDATE",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-05-27",
+          "award_id": "FA810825FB016",
+          "recipient": "AMENTUM SERVICES, INC.",
+          "amount": 6978661.63,
+          "agency": "Department of the Air Force",
+          "description": "CNAL FLEET REPLACEMENT SQUADRONS FLIGHT LINE, CORROSION CONTROL, TOOL ROOM, AND O LEVEL MAINTENANCE SUPPORT (HSM-40 - NAVAL STATION MAYPORT, FL)",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-05-27",
+          "award_id": "W31P4Q26F0036",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 4083838.0,
+          "agency": "Department of the Army",
+          "description": "PURCHASE HIGH MOBILITY ARTILLERY ROCKET SYSTEMS (HIMARS) FOR FOREIGN MILITARY SALES (FMS) PARTNERS.",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-05-27",
+          "award_id": "N0042126F0596",
+          "recipient": "FEDTRIBE LLC",
+          "amount": 2222061.0,
+          "agency": "Department of the Navy",
+          "description": "SAACKE UWID TOOL CUTTER",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-05-27",
+          "award_id": "SPE4A526F5558",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 1441874.72,
+          "agency": "Defense Logistics Agency",
+          "description": "8512049110!COVER,ACCESS",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-05-27",
+          "award_id": "FA812424C0004",
+          "recipient": "ATEC INC",
+          "amount": 1396613.92,
+          "agency": "Department of the Air Force",
+          "description": "SUPPORT FOR THE UPGRADE AND INSTALLATION OF THE F110 ENGINE TEST CELL TO BE COMPATIBLE FOR F110-GE-100   F110-GE-129 ENGINE FOR THE ROYAL BAHRAIN AIR FORCE (RBAF).",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-05-27",
+          "award_id": "SPE4A726C0088",
+          "recipient": "THOMAS INSTRUMENT, INCORPORATED",
+          "amount": 1277100.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8512110386!BALLSCREW ASSEMBLY",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-05-27",
+          "award_id": "SPE4A626F115Y",
+          "recipient": "MEGGITT AIRCRAFT BRAKING SYSTEMS CORPORATION",
+          "amount": 1015238.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8512137766!BRAKE,SINGLE DISK",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-05-27",
+          "award_id": "SPE4A526F4832",
+          "recipient": "PARKER-HANNIFIN CORPORATION",
+          "amount": 831883.14,
+          "agency": "Defense Logistics Agency",
+          "description": "8511976686!PUMPING UNIT,HYDRAU",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-05-27",
+          "award_id": "N0038325FVT00",
+          "recipient": "COLLINS ELBIT VISION SYSTEMS, LLC",
+          "amount": 814478.13,
+          "agency": "Department of the Navy",
+          "description": "POWER SUPPLY",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-05-27",
+          "award_id": "W31P4Q23F0006",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 777263.82,
+          "agency": "Department of the Army",
+          "description": "GUIDED MULTIPLE LAUNCH ROCKET SYSTEM (GMLRS) AND LOW COST REDUCED RANGE PRACTICE ROCKET (LCRRPR) FY23 RATE PRODUCTION LOT 18 DELIVERY ORDER.",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-05-27",
+          "award_id": "W912CH25C0074",
+          "recipient": "CONNECTEC COMPANY, INC.",
+          "amount": 650100.0,
+          "agency": "Department of the Army",
+          "description": "PROCUREMENT OF THE MORTAR MOUNT",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-05-27",
+          "award_id": "SPE4AX26F164S",
+          "recipient": "HONEYWELL INTERNATIONAL INC",
+          "amount": 575390.79,
+          "agency": "Defense Logistics Agency",
+          "description": "8512142052!BEARING,BALL,ANNULAR",
+          "naics": "336412"
+        }
+      ]
     },
-    {
-      "label": "Tone Index",
-      "value": "50/100 (neutral)",
-      "delta": "news scale"
+    "nato_demand": {
+      "key": "nato_demand",
+      "score": 15.4,
+      "status": "BASELINE",
+      "weight": 0.2,
+      "available": true,
+      "retained": false,
+      "coverage": 85,
+      "current_14d_weekly_equivalent": 4.0,
+      "baseline_weekly_median": 4.25,
+      "anomaly_z": -0.04,
+      "method": "Official NATO capability, procurement and production title-language velocity.",
+      "evidence": [
+        {
+          "date": "2026-08-19",
+          "title": "Call For Action Strategic Investments In Defence And Security",
+          "url": "https://www.nato.int/en/multimedia/multimedia/audios/2026/07/07/call-for-action-strategic-investments-in-defence-and-security",
+          "terms": [
+            "investment"
+          ],
+          "weight": 2,
+          "age": 8
+        },
+        {
+          "date": "2026-08-19",
+          "title": "Nato Tests Emerging Capabilities On Eastern Flank",
+          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2026/06/24/nato-tests-emerging-capabilities-on-eastern-flank",
+          "terms": [
+            "capabilities"
+          ],
+          "weight": 2,
+          "age": 8
+        },
+        {
+          "date": "2026-08-19",
+          "title": "Call For Action Strategic Investments In Defence And Security",
+          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2026/07/07/call-for-action-strategic-investments-in-defence-and-security",
+          "terms": [
+            "investment"
+          ],
+          "weight": 2,
+          "age": 8
+        },
+        {
+          "date": "2026-08-19",
+          "title": "Call For Action Strategic Investments In Defence And Security",
+          "url": "https://www.nato.int/en/multimedia/multimedia/videos/2026/07/07/call-for-action-strategic-investments-in-defence-and-security",
+          "terms": [
+            "investment"
+          ],
+          "weight": 2,
+          "age": 8
+        },
+        {
+          "date": "2026-08-06",
+          "title": "Romania Strengthens Amphibious Capabilities With New Assault Vehicles",
+          "url": "https://www.nato.int/en/multimedia/multimedia/videos/2026/08/06/romania-strengthens-amphibious-capabilities-with-new-assault-vehicles",
+          "terms": [
+            "capabilities"
+          ],
+          "weight": 2,
+          "age": 21
+        }
+      ]
     },
+    "acquisition_policy": {
+      "key": "acquisition_policy",
+      "score": 10.0,
+      "status": "BASELINE",
+      "weight": 0.15,
+      "available": true,
+      "retained": false,
+      "coverage": 19,
+      "current_14d_weekly_equivalent": 1.0,
+      "baseline_weekly_median": 0.0,
+      "anomaly_z": 0.42,
+      "method": "Defense Acquisition Regulations System publication velocity; rules weighted 1.5.",
+      "evidence": [
+        {
+          "date": "2026-08-27",
+          "title": "Information Collection Requirement; Organizational Conflicts of Interest in Major Defense Acquisition Programs",
+          "type": "Notice",
+          "url": "https://www.federalregister.gov/documents/2026/08/27/2026-17485/information-collection-requirement-organizational-conflicts-of-interest-in-major-defense-acquisition",
+          "abstract": "The Defense Acquisition Regulations System has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act."
+        },
+        {
+          "date": "2026-08-17",
+          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS), DoD Mentor-Protégé Program",
+          "type": "Notice",
+          "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16682/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-dod",
+          "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0332 through November 30, 2026. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
+        },
+        {
+          "date": "2026-07-31",
+          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 225, Foreign Acquisition and Related Clauses",
+          "type": "Notice",
+          "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15549/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-225",
+          "abstract": "The Defense Acquisition Regulations System has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act."
+        },
+        {
+          "date": "2026-07-31",
+          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS), Contract Financing",
+          "type": "Notice",
+          "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15548/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-contract",
+          "abstract": "The Defense Acquisition Regulations System has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act."
+        },
+        {
+          "date": "2026-07-31",
+          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement; Publicizing Contract Actions",
+          "type": "Notice",
+          "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15547/information-collection-requirement-defense-federal-acquisition-regulation-supplement-publicizing",
+          "abstract": "The Defense Acquisition Regulations System has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act."
+        },
+        {
+          "date": "2026-07-31",
+          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement; Subcontracting Policies and Procedures",
+          "type": "Notice",
+          "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15546/information-collection-requirement-defense-federal-acquisition-regulation-supplement-subcontracting",
+          "abstract": "The Defense Acquisition Regulations System has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act."
+        },
+        {
+          "date": "2026-07-31",
+          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement, Contract Pricing",
+          "type": "Notice",
+          "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15545/information-collection-requirement-defense-federal-acquisition-regulation-supplement-contract",
+          "abstract": "The Defense Acquisition Regulations System has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act."
+        },
+        {
+          "date": "2026-07-31",
+          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 204, Administrative Matters, and Related Clause at 252.204; OMB Control Number 0704-0225",
+          "type": "Notice",
+          "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15544/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-204",
+          "abstract": "The Defense Acquisition Regulations System has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act."
+        },
+        {
+          "date": "2026-07-27",
+          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement; Covered Defense Telecommunications Equipment or Services",
+          "type": "Notice",
+          "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15068/information-collection-requirement-defense-federal-acquisition-regulation-supplement-covered-defense",
+          "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0750-0002 through October 31, 2026. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
+        }
+      ]
+    },
+    "critical_materials": {
+      "key": "critical_materials",
+      "score": 19.0,
+      "status": "BASELINE",
+      "weight": 0.1,
+      "available": true,
+      "retained": false,
+      "coverage": 2,
+      "method": "Absolute robust-z of one-month copper and nickel returns.",
+      "evidence": [
+        {
+          "id": "PCOPPUSDM",
+          "label": "Global copper",
+          "latest_date": "2026-07-01",
+          "latest_value": 13542.82,
+          "change_pct": -0.07,
+          "robust_z": -0.48,
+          "score": 0,
+          "url": "https://fred.stlouisfed.org/series/PCOPPUSDM"
+        },
+        {
+          "id": "PNICKUSDM",
+          "label": "Global nickel",
+          "latest_date": "2026-07-01",
+          "latest_value": 16632.36,
+          "change_pct": -5.44,
+          "robust_z": -1.56,
+          "score": 42.3,
+          "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
+        }
+      ]
+    }
+  },
+  "history": [
     {
-      "label": "Live Feeds",
-      "value": "2",
-      "delta": "connected"
+      "generated": "2026-08-27T22:55:12.568701+00:00",
+      "score": 17.5,
+      "status": "BASELINE"
     }
   ],
-  "live_data": {
-    "news_articles": [
-      {
-        "title": "Canada is bolstering its defense industry as US relations fray. A boom is on for local contractors",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMkt2TmlJdTI0TFBvSlF5Y3UzTEIzZFpYUE9pY0pfS3ZIZndidFFNV0NuM3U0YUJkc1FPbjRIRDRXRzd5cWNhSmZpeDJlRms0ZHdHVGdXbTl0VG1JNTZySlQzLXlWWEJOYVNwTzg1b2ZIVDBTVVg2aWlYejR6Rm5kMVhWWlJMb2pMVjczZ2NLZDMzd2c?oc=5",
-        "domain": "apnews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T144700Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Drone-Defense Startup Needed Connections, so It Hired Eric Trump",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRDFWWVg0bEdJYk5pUXFaZFpMODhid1BCMTZGTm1iUXc0ZW43Q1BfbWQ5RXlmcnE0RVVmVXBBSGFZLWlZNEVpTEhMTGN2clFyOFMtWVQ1OFJnY0tHUFg4NGw2X0pvdlRsV3REZ1EzR0k5aWRTRjBSZlJiT3ZURC1kNGZpS0FuR1VMU19McUVaeUNKMW5PQnFOZ0s4TFFFcXNWU19N?oc=5",
-        "domain": "wsj",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T140200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "NASA Astronaut Jonny Kim Departs Agency to Continue Military Service",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOekRCZUdFZDF6cWt2Z2NDQzllQXppUmNGSkNuSC1lQjFxbzNBX2lFLVNTOHpLOEVzUlVfR1BYQ0NRSHdaTHhKcXFhV2M0aUc4bXZCM2p3ZjFJN3dDVzRCaVlFVVYzazFjR1FYU1ozSjRtSm9kRzI5LTAxaWFzSDNoNTJWZDdfRDc0WVQtNFVhWmlzVkFWRGhLUjJ0dTFlYm93SkZIRzl3?oc=5",
-        "domain": "nasa.gov",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T151307Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russia says it could strike UK military targets in response to Kyiv's use of British missiles",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQVB4M2NDa28tblBTTVZjdGtZb3d5MGtYMURzeDBCYmVqYjRxbzEzOHh3aFpRRUpIdDl2RW5scE5USEIwOWQ4eXZYWmV6dEN2aG9Uc2VfY0dkRTBxb28yYXFqYkhJeFU2aGJxaTdWR1gwVXZNejdXaXZScjdPTlk5NDFFWXlBNW1NQUR4M2pqQVNkNzFXZWxOOVFsQUVLT0EyeHFjNF84Z3lGQzN1X1dNTGtwc3luOThCLUV4eDR5alBwT2F5VmhLeA?oc=5",
-        "domain": "reuters",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T175219Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Lindsay Clancy's defense decries 'lousy medical care she got' in closing argument",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTVRGX05KQjRMenppLWRWQ1M1LWhERnYyZzhaQTg1aHd4NU1OZW5ITGFaMlBzaFU5elFvNmhJdGtnV19NZGtVckdKSjFrbUxKMDc1ZGNOejF6QUViMVZXRWRINUw2dHI1bW5zakY1bmdkRGdXY2toSEdIOEhTOWhkOVYza3MyamRJVDI4Q05fYkRXWnFpUkZFMkFwOGgwMkNwTUJwV0ZjTlhhbTliUGdmT2dZbFk1cjAtbVFJdlM2dFVlcUVl?oc=5",
-        "domain": "nbcnews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T203935Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "'We have a limited window': 116 companies, entities sign on to major AI cyber defense push",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ga0RXWlJZWVNWbFZBUno5T2hpVW9reTAwT2ZEYktDRmItRnJNMVRKelBjQlpUNWpsbEgwQ0xmd2RzNVdfOG5iWDE1U2F6Z1p3TzFXY2RFYmtPTktUSmhIdl82aXZaNXRCODNxeNIBckFVX3lxTE53NVBDNDRNczJJRk9SZmpDQW5hVEpKdjBRZjFSUGhKSVV3WU90TjdyeUduVzE0ZjVwLTVYM1EtYUg1cjJPdFRYWGlaVXh1cklXc1AzNDM0bWg1UjB5NW5GTDZQc2pIejRuVkx6SEdoTkpMZw?oc=5",
-        "domain": "cnbc",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T174820Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Contracts for Aug. 27, 2026",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVhrbzR2bW1OeHpUNDd3WEFscDVzRnplc09IdjNQbmxBMzAzT2V5Q1lacDhQd1ByeWZfS0YwR1pETllrX19xeG1CUWMza0lFNTEzeWtsQkRFOVB3QWNZQkYtN1ZPM3drX2NXNjZPeTBFSTk4WWpzVHAyRlZjU0NaVjMtYV9FajRqYXhYNlc3OA?oc=5",
-        "domain": "u.s.departmentofwar.gov",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T211122Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump’s war on Iran is rapidly draining US navy budget, documents and interviews reveal",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KOFZVQ3RPcGRtYlV3enlSZGdMQ2R2V0ZENlRUc3dxWlpnMnVJMUFGemhQVmd4YzVubDRpVTJIMmpsVjViQU8xWkNFd01OMmlQSE41RFo4TWo0UnljTV80R2wxSXNGeDJKUGJwT0h4YzdQbmtoa2NhdUJEVXo5YXc?oc=5",
-        "domain": "theguardian",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T170000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US Army selects 5 companies to deploy microreactors at military installations",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPemNTUjBQRnlzeml2cjdaTXBrUGVIOVhQdlV3TnVfX2lzS0xydGt5OEE1b0p1RWNJTlNTVXBGZkRkZkQtSEc1NEZtMk1RSXdIdEt0bDdQbmxZM0xkenVESjFqTkRfZVNyVGhRVW84aV9TWFFOOXZRUkdtZG45aTM4clpEMDJ5MkpnNjJ2U2VmRzlhby00REt5bFIwQmdzclVXc1NGUzk2QUlBd1JyM3RLdWszY24wYXc?oc=5",
-        "domain": "utilitydive",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T171107Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "OpenAI and 100 Others Warn That Window to Defend Against A.I. Attacks Is Narrowing",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMWdJNEdsTXRNZHVjeW1zc2hDYzdodk95bHh4Y1BrOWd6Z3VvV1c3RVNMbTgzMV9CVEJOY0FkNlRBSjlQT0c0UzlpRDFUcnhsd2xjYzNtREJIanR0SGU5Qlg1UXotV3JWMTR6UDZKZHJKSk9qSVMxT3VPcm5TM253LQ?oc=5",
-        "domain": "thenewyorktimes",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T175537Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Beaver Football: The Defense Meets The Media (August 27, 2026)",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQVFfXzVoa1BqR05QOXBIS0tJN2NKOWd4dUtUZVMxNzlIdHZDUHlMTmlGUnhHUk1jVnZLUUZwT3hvWWdualhZeFRBZUQ1ajNKNDA3cTFoTGVOVl8zS1Y3VV9jcFVJT0xwY2hnaDkzam1mQk1CY0ZrRjFqcUhZNjNGalN2cXRZVXUtNzJxdWMwbERNdUxYakN2ejlBUjc?oc=5",
-        "domain": "oregonstateuniversityathletics",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T202221Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "GAME #1: Bobcats Open Title Defense at Big Sky Newcomer Utah Tech on Saturday",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZGlDUnJMdFdpZ25qeFBjOXV6Q2RxUzJmNEhuSnhNS1diT092MS1xbjFKNU1VLTV0dW9SVlBwT291VDZJV1hMMkRTOU15TnQ1LTdkbnlQVVlQR0swbVR1eTRQQ3gwcGxaNkI5cTA2dHlqLUZNYUh5Y21fMFFRaGZBYzFoSXoweWtUWnBlRHFZaXRnQmN0SzJZNFhoSkN5UG11dzRnX2trc01WRHdxOEozTFN6S3ZJejB2OExCNktYZw?oc=5",
-        "domain": "montanastateuniversityathletics",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T204452Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US Army to build nuclear microreactors at 5 military bases",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0tydWZUeHZNZWhhQmp3UG5ZRFlMRG0wZjhsZllUMk5tMGtHLVRxMlhOZ3pMdzlyazFEaGVaVFBMRFZLRWpKVWFxbndiVmNpMUlCamgtMkhVSVJiU0tBRkI2a01jd2cwNlAwc0p5azA3bWVabl9mallvSGREX3JxOE54Z29OWDhnN2ZZNg?oc=5",
-        "domain": "livenowfromfox",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T202456Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.S. Marine Corps Rehearses Deploying Air Defense Radar to the Philippines",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa0dIdnlQUC15Uko1Y2pEUUxiNWdNNFdkMFFIS0lpWnhZUm5raEZEeF83ZURsY1h1eFpaUnlGTTNha1ZXT1BkMUQxNm9zTG44OVdSQ2xxY2lGZ2I5ajM0ZU55WnQ4SHRKOE5sYnE0OUZ3XzN4ZVNWSFZ3RnNaQ3FadENBdndvS3ZPVnlxNXFCS0hWR1RReUs1bkFvVnZqRldGSVBiWHZUYTRrZw?oc=5",
-        "domain": "usninews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T150500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The fight over the FY27 defense budget is on. Here’s 13 key issues for Congress to resolve.",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTlXZDBjUmItNUxsQ0tvLXFIRGRDanl5cXNmejl4b0UwRlhpeWVsUFpucXkxcldDX3NlOUZmSTRJNG4zN1VPUVJwSDJLZnZSTHd0aEVXSmI4WF9DS2NPSFU0SUZ4QUxiRExqS0ZQd0FPOGJsd01FY2FwTlhjZm1CRElkRjFfSlJ4ejhpZmYtR3VtZy1CMzBrdnFOV01FZmg3UXBDOTY5VDR6S2ZWS0FRVnFJdkgtaWZIaFNCUUEyMXhaZ3c?oc=5",
-        "domain": "breakingdefense",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T151026Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Stars and Stripes employees sue Pentagon over firings at military newspaper",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ1p3MVpzLXd3R0FyRHBYRG1hNDJ3OHladjhCWkhjaFFSQllnQVVSWHpYRmlId1RxQ1ZUdTZwd2NxRl90dWlhajRuTUk4R0JwRElRX3ZUbHNqY0VXREhYZ0Y5NHU1dTZsV2RTcDJqMUdydW15akNvTWtXQ1dUUmhuaFJ6UUdjRnNBLXFpZF9aaHh3WlZhbzdOMGdoUzBVTXJrVlpILVhYRWxLSnRWcmhDVE9rZUEtRzlhZmc?oc=5",
-        "domain": "thewashingtonpost",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T221345Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Military industrial summit in Bentonville draws major participation and protest",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSkdxelVLZEk5SExGYnl3VnpUcXpMNXZOdDdRVHdQQTBPSFMzSXlabEJ1Umw1QS1XNWQ5X2wyZGpoVks4XzNxSGtXdWY0X0tNYzdEZDlBT1BjTGlyZ3FpR0ZKekRmVFB0OHc1elhDMV9va3BBNzBrMkJuU2xGM3lXR2JaUlczV0VyOTlDczNrR1N0VWF5VHpKRm44VkVPQV85cmVIckNpck5CMmt2N0g5Q2lfMERxM3JrRVl6b0dHNUtQOW8?oc=5",
-        "domain": "arkansastimes",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T192552Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "In Defense of Snakes",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjZ195cUxiLUhYT2NhZlZwX05iT3FlMUdwY005bjJZRWJNb1NqS2x6MTRBRjJ5WFlCa0VyY1NpUFEzcmZMbVFBZ1NiamxDMG5pNElSbklsOE5DbzZNWTJKWFRFX0lXcEplTmc5TlRKQkQ?oc=5",
-        "domain": "sojourners",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T214338Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "From Battlefield to Breakthrough: A survivor’s story of why military medical training matt",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWhaWkhOb3Nxc1RrRlFrZUdoTE9nSEhibVVxNUo3WTR1bThNM3RUcldVLXEwR3lBZHI4NHJTQ0czM0czZVZIekJ5WTFwSmtLQ01Sc1FnM1FsS21VRnVReFBXcnpISEVSa1JDWWpraHdmVnFva3oyQThFQ0hjcmhEelFONHFCVVhWdU5IcmtKVGFoQ19FY2Rfai1fUDRWWVluY1JUeVFQTGxMZ1BpZTJUazhuc0FoTjBxZTRxZG9nV2F6RE1T?oc=5",
-        "domain": "37trw.af.mil",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T190128Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Taiwan parliament rejects government military drone plan, passes own version",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUE95bnY0eU9Zcl96RjUwMlJyOEpVZTZoUXY0R1RqNlNMZjk5UEh3S2xmTUF1RFVlUmlDVG1IakpvaXIyV2hFb1BkSDNzd1k0NmxpTGo2NThwRXhYYVFxeW5jUWloTGZzMGhlbUFBQ0FQSzRwRHJVelZHQUZ4RmVjeHRES2k0YkN4SjkteWNteUJic1ZscmQySG1FLUdOaUFrYUZyTjZyaXhWVmp3NzhsUFFFV2dFMHRfMmpFLWhB?oc=5",
-        "domain": "reuters",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T105419Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Defense set to begin in Tupac Shakur murder trial after prosecution rests",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR241aFZ1TDcwY0EtODlZZnN1ZU1aOG1mcVprNnhEMWhZYWJ4OU4zdW5GTVk1c3kxUEg2YWVlUnFuUXBLS3l0aTZFOEctMXZsaFNoUHgtd2lESFpMM1NSUXUybU9JckFCRlFpM1YzUDlhbnZ1N0QzbERtdUNjOTVUTTNIV3pVeTdxcGphUC13b1ItRk0zbVhMNlNGV09UdElkTXkwRDNBTjA?oc=5",
-        "domain": "fox5vegas",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T185600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Millions in military freight hauled, rebrokered by unauthorized carriers",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRFF1ekk2ODNaT3F2dVBNVG5JT1FXb2NqR0RtV3JkOV9OZ1VCZjlOdHZhN3dFX0tvRENMSU51bWxEam9YZUZJT01vbFFBVlVSdjdOd1A5c09VUm4zUTcxazkyQ09EdFVLTkc4a0RYblhFRTFVcVczZ2J0TUhHbEFvcGVOVG1JNTVnaW9fRVFkQzlVMS1GNWJGMmdxY29MdVA2bG1VLWlaWnVoamFWTF9lMktlajQyZ0JTYXZobGctUWtadEd4TDRzZFA3bk4?oc=5",
-        "domain": "overdriveonline.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T213345Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US military faces ‘beyond critical’ shortage of Patriot missiles in Europe",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeXNYQ1hXMEVZOHA4N25JRDVaMTN1Vm9TS0ZYSG9WTGxBNERBMUVodF9YcU14Nm5sbEVuTTEtQTVHUk0tVlFjSnhlVjkzRWh6aHdET0hYV0NSX3poaU5YNzVweXhvQ1V4NnViRFQ5eVVQMmw3dXlSQnFGcFFfdmJreW1jSUdnZlk3WFR6QzIyRTlJdXJpd0Y3OFFXWUlVQnFwdmtKNkUwVWZoRUk3bXNpQjRHRnJ1cnAwd1E?oc=5",
-        "domain": "france24",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T214116Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Deliberations continue Friday in Lindsay Clancy's murder trial",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVltWDhvdFJtQmZTSGdmekRibjg3ZjlCT2lZSUdWRTFTS25fSlBkSlhoUXA2cFFLVktMZndhMGFTd1ZJU3JNemY4b1AtODFBU04xWFVVSFZVUWNZNnVPT3dKQ1NpWDFEeTdmQk1QQUk4S2dNc25xQmZjYVlPc3JHdlFBZng?oc=5",
-        "domain": "wcvb",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T211100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Carlos Alcaraz opens US Open title defense vs. Roman Safiullin",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOXFLYVBzZ3VmN185UkhDMnR4Q2JoV3NpZmFQMWh5YnIzdE14OEhBR2E5NmZtVGprdjB1SkVpYzZVc0V2a19CUE5sMGZxX2VxR2lwbHVnOGpSNUEzRm9PaUlaend0QmZjc2dMTW5pVHVTaTJlaFRzNEZjTlc0ZGRaYWFJakVNcGtLZERQa1hYZGpvaFd2cEVfVllZSS03cEJ4WXRBUzZuNmFNRUdxUnc?oc=5",
-        "domain": "espn",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T163600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Lindsay Clancy trial prosecutors, defense give closing arguments",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOTlqbmhkeU9wSXBvbS00c195UlhoME9KdERUX1ZsdEZCcllUVERDaExhb1NSQnNOaHBaZUZZSEdIemQxMEQ1ZkdkQU1XM2c3R2ZCNVE1NThNRkk3VEZ1Ukk2d0dSZVRQMDhvb0hKOERES2NxWVNlNTZyU0EyR3hkU0JVVzdfUGN6REFDYnJRNk1yTTJSdjhkUlFXT2QzRmV6cWxzQ05DSQ?oc=5",
-        "domain": "usatoday",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T191900Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Stars and Stripes journalists sue Defense Department over attempted firings",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2w1RlhhOHlZc3djcnI4ZVltYWk0WnVsc2VqVC1MMmJ0NEprRnN2NWNVYzRYSU9kTXVBQ0tkbnpSSHRHTWZ2a2M4R05tQlU2MXJGU0tCZFFhaTd5blFmcFVuUU5pYnhwVW5qNGhzenppZWFiN3dVY0REM29qaFl4Y211VzZKTkF6SzQ1UTk1THpGNThQRFZLQnJKRlRkV3J5?oc=5",
-        "domain": "msnow",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T214325Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "EU rules against defense agency’s satcom award to Telespazio",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlpVUVJvVElWWTR1a0FTOTV4aFZ5aHltYzhDZ0VSQml5eU5YMXU1aG5CTk1PT001WTZvTzFNWnNhS0paWmZfU25DaVBDM29QYVl2QVVyX1pRaXpUdURxRFdxdkhRNDlhUDNxV2x0V2NHMWl5Y1ZOMHRPZWNYS25vcHZFOEs3R3g3SUE?oc=5",
-        "domain": "spacenews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T191144Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Defense rests case in Tupac Shakur murder trial after calling 3 witnesses",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ19ZWlpFRUg3Q2dKelVTY0dTWmJISms3OTFsX2NLQVJPYnU4TkRGa3F1cTJZT3E3Q3BPd0F2Ykt4TWR4bXp0UDlSQXo3UGZ3bWI0Vnl4N2liblo4SUNfQ0tqbHJzajV5em9uSzdwdXIyWjdFX0Y1d3ZYN0I4R1JzcE1iaFBwSTl2WnpuUkJHdTNvWXBIOUdQV3g4aw?oc=5",
-        "domain": "nbcmontana",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T220730Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "PSG To Start Champions League Title Defense Against Barcelona, Man City",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS2RTX05lSmEtVWtwVUlZb1Y4cGJvOEtBT2tWeWlrcXJwdUFWOU1RWDV4ZzJRRUs0YzhFc3hWZVVGQWpVSm1Tc1AyUkdLT1phQk8zaE9ZVENVSUVpdlk2X3lEYzg0cEJyaVhOZ0xJQkttd05IdEprdlpCTDBmazJzaF9UYWdLblgtUTVyT0Jsdjk0U19peU11cU15MXFBbFliWmdzbjJRM0cwSjdv0gGsAUFVX3lxTE1STEtqbVJnNUlRaGhEUVVUSUdVU1I4NDJfT0drZzEzRS10X3hiajUya0ZsYWhLNkdRcHdJbGJIRmNSbkZVZG1qaHg4WU95T2poaTZLWmFmUnJTRUxTLXczY2k5VnlaSDczS0lPNGI5ZGtXWllwT0xBYkR0R0M3cnRIU0M1R29uTnJ0R0p3TkNLbFl6YXk2TnNxYkN3cEExQlloaVRIa1d2LVk0Nmk?oc=5",
-        "domain": "foxsports",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T193954Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Army spending $2B to build nuclear microreactors at 5 bases",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb1R4Sm82b05DbVY2RlJnUGZLZ3hKZGRNZHNCWlhWejJHcjZRMU1WN0R4b0N5U1BrSUVvdjdwaWQ1MEZXQ3V0b1RxejBGVGpXM19MVnN3MTFhQnZNaElmdTNZd2RrSFk5bjNjWi05VXJXb19mX0F5c09SUTh3bU5lNVo2SnotZW0tM0dxSlp3Mzc0ZUFJ0gGaAUFVX3lxTE1FSU0tVFJfQ0dVMVkyVTZaMVUyOWo3YmlwRnRNZUZDaGFuZzg0Tzl3VDloQVEzck9tazVOdm5pcV9CbDlNclRHb3BlcmxReTRPMVJKd05BMjFxMU1FRF9HcmVESTdBNGpmRUpzQXBsRHdRUnhROHVyYWhaNW5tb1Rfdy0yZVBUa3NzaTRjN1pDTmhFc0RqM01GUFE?oc=5",
-        "domain": "thehill",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T150600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russian military serviceman killed in St Petersburg car blast",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMnowdm1vZTM3MGlMellyUGNGc1IwUTluOUp2aXZCb2ZRcnluQlQ5VFZhVVpfb3pueWw2eVYtR0RaZ3J3WHVpb1lVT1NjRG5weVdJa1RuWkxjdTlVaHVLV3lWcDRyNmMzYnRPcmNnekk0czQ5bWNjY2NqdWo2UUxxSkRRRTRFQU5Xa1NtNE1IYTBGTkNYNzhUU1d0d1Z1Y2xMUG96MNIBqgFBVV95cUxOUWE5TGFHWWlBSEd1Um91ZUg4UG10WHlJVVliT3NGVHdRcW5EVEkzWUMxVXRqT241VnVxdl9DMVZ1TnhKS1dQbWlFbWdCNEFDRkUweTlidjZZWmR3VmlvX1YxOEhNYUxaS19XY2ZyQ3ZQUTU2ZUdwSVFvMUFQQVd0UE42TDVYNUI2WVZ2Zm1jT2JWZGpqdFdqc1loR0Rfc0V6aHdnZW5JZDYxdw?oc=5",
-        "domain": "aljazeera",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T175905Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Defense in attempted murder case askes for December trial date",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNejllTHdpcTZROElROWY1X1hqM0dDcjJPRXFZd3QzT3NFQTNxREUzU0RvbEJuV1JVTTdPR01rNHdyY25xYzJ4Y3Ita2Jfd2RvOUFlaXFsY1NaZkZkeFRablZrd1plQjNCbGxoQ0RvQ0I4ZGdsUFNCMVMyVGVUYjJ2NjE5LVdmNHZjbDhPSldFbjJjRDZGbWMtdzN30gGuAUFVX3lxTE5vLWRFRHlfYkdkMXZfR3pWVEwzZ3ZTbkhocnJZd1hjMUd1bHltTzFIdnFNU19QME1LNmdyWWo1b2x2TGxCdnp1UmY4ZTZXR0kzd2d3T0MxbVJGY0lHWjc2WmxuMFg1NVJDblN6bElrdUtaLWVlR0xQR1dwaGdEbmdIb1lSdmhWMXNlODhqNmJMTUpWSGNwY0MwWnJQQXFBY0NCVUFtSXZpYzBRdzBQQQ?oc=5",
-        "domain": "abc7wwsb",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T173200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Military Appreciation Day 2026 at Saratoga Race Course",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOTY2WUNlS2pGNDJLbmxvZzNUN1p2Y2dXZE0yOVFsNExQMGlMbEFKYWxXQkJhUFlVUXZSUDI2UnhUWGdDdmZ1UmpTODhTQndXZW5DS3I4ZHU2NjB5R1Mwek1lR0xqVUVuSmhnRnB4UE03ZDNnU0Y5Y0RDZVFzMmJra2k2Z1EyQndjb2Jr?oc=5",
-        "domain": "news10abc",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T203252Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Drone parade showcases Ukraine’s remarkable military transformation",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQakpiUURqQ080NVBPRnVpRHVBckpSUDh5UzA2bmVKLWxyYndIdHl3eWVBZlk5YjNQbnVlLTFPOHdFNnIzQ1Yxdm9aMll3RWJ0bUhTcVFaSmJJS1MxazJiU1hfTndKenhjM2pYX3l2M1ZHVUd1NWMtdl9qVFdxTUtaZVl0MlpPQS1pTTl0WjhGMkk3NmVPal9iOVZZQnBGMjZPaGF0dWR6OU1RM2lpUWlTQmVFeEgwWlNnWnc?oc=5",
-        "domain": "atlanticcouncil",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T185700Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Navy Seeks Prototype Proposals to Support Defense Industrial Base",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT2dNMjBvSVg3bnVTZkJ4dERUZGZDeGU5c2M4NkJKc3llS2hmbEo3Y2NqYS1jT3JvdWVtTW1nUkNsbFFxakQ4SEpRMVh2NlctUlVGeEZvU2MzOElzNnZWU1JyZVFMY2I0YVZtMENzOTdnQmVjR1k4VHRwRlRIa2t3bkZ3?oc=5",
-        "domain": "executivegov",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T205452Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Astronaut Jonny Kim leaves NASA, will return to active military duty",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVms3eWl5eTZJTFh3U1ZyV3YtXzhyVDEzSkQwYUliQXJVTmpxbWNVdF9vUUlsRnJjZkpFYlctTTR5X1d2eWRTWXNFU1lyVHhyOFlWX3dKUzJwc1ktWmlBdzRPaFQ5NmJUdzVKTHJyWm9uV2h6dU01WDVNOE5taVp1dHpZZEJkaWY1YjVQOXgta3NIZlBFR19hLXJzR1JXbTJ5MkN2a2hDQ1pPMW5IdUduTTZETnhMcFlwUEdkY3NjMC1zblE?oc=5",
-        "domain": "space",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T190245Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Defense Information School (DINFOS) Change of Command: Col. McNorton Relinquishes Command to Col. Bocanegra – August 27, 2026",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM1g5MF96SzZjVmhQWlIzZ2lPZGt2aXBzeThJV3JhWnpkczVXY2RQNWs4SkpzVmR0aUxBVkQyMTh3QUtXeVFBeHFRT0xrTTZuVmFlZVNLY2N2NUJOX1ZJWWhQQUJFSDdzU051NXV5QjExdDhaWFRYelVqWGptNjB2SFd6cmFGOWppNEhlVGttT0dyZFZ5UzFYUjNLOWNvbF8xdEk3d2xidkZ3Y2lrRU9KRUl4VG9hXzVrS2dzdERWak51ZVYzbVVVWFk3c0x1cXZtSS1jdmoyMlhqWDJEdXBMNDJtMUY?oc=5",
-        "domain": "dvids",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T183000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "USS Abraham Lincoln’s record deployment highlights shortfalls of US military readiness",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRHdWNjJwaDlFNS1yd1ZZeTFybkozUkZ5MFcwOWdMc3RWZF8zaHh3aHZuMzAzY1NXanJ1WkEtSWxNSW9XLWpjVUJmYnBpYXVpdVdrbkhFRmNwUGtxalFDZ3VnZUlHc0l2U3FYWXFOVHRpWFZ1NUx1RVVubDU4cElQTmFpSmhtalRfV2gxM3JBQ2tvcTNfS3Nfb0VuMW1naFNxSUMwMUM5QUw3MGpRSXR2SmU3OHAwZy1adWJ5Nw?oc=5",
-        "domain": "theconversation",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T120619Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Why the U.S. Navy is moving to investigate Yemen’s deadly malaria surge",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY0Q0RnV1ZlhTVkJfRnRIeVcyel9wZE14TjhORkphbkY3MWNCQ1BEbmZxblZqa3o2cThaYnNjNUdNS0xRNUJnODV0UW9BM29HeFdRaFFrTXRydXRWdEFYRDJld1FHcDYzMS01U1RKNEhWSXZDWWg4MTR1MTRxVkdSLW9wc2FSbGs2eDFReEdESFhXbTV5X09YSg?oc=5",
-        "domain": "defensescoop",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T210224Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Service Strong | Military spouse runs DMV online support group",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc3NZUjhhZnJWd0FBVnRZYlFhQzFxNUxPZ0ZLV0NjTGNjLUVWWF8tRVpGT0ZQWlBZamVTajNUODhJcDJPN1QzZEVKTW0xT0VWX0NVczdFZTE0YzhCblNvNTBjOWVxSjBQOXQ4YkdJNU1MVmFHdHBFamNTWGxkaHhNN2gzdDNwMHlTdWhzQzAyZWpXTkpxV01BUm1oX2FKOFRzT0otWmhJT2VJWF9WWlZuRnNGN0PSAboBQVVfeXFMTVptdE16dmNyMXJXdFRXblVqalpENjVENjQ1TkxrMnBSU2FPLWp0ZW9NYkNqWlllNmdnSGxkM1RGdkJhRk1JOW5aNTMtdHhqNWlYdGk5cExXOHhiVU91ZmVCVWtYVmFtVnBfZ2VSTzNvLUJqNldVdEtNYXE1VXFDMjdGNW1yd1BTeXBEeUtQdGRDaDM2bDVIWXNIUVB5ajN5VHIwRTBnN2M0Ny1GNEg3N1hubGhDaGRGWHNR?oc=5",
-        "domain": "dcnewsnow",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T192754Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Airman volunteer presented with Military Outstanding Volunteer Service Medal [Image 2 of 2]",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZGxWX01qR3VySnIxTGNiaGlkaUhrR1dORVdWaXZpQ2NFdVl4UDRnNng1eTdEdHgxdWlpT2Nzdi1ySk1aUVV6UDJDN2h5MUNycjFGT0NVckhOelgtdGNUenh3Z0Zwc0FkcU5MUnJGVHUya1RrRzFnRmpKdDFka0hOYVZDYlRENHRydFdjNm1LdGlSem1HcW5jNV82X1lvaHowS29aUDVVQ2ZoUjhkU1lVQ1RfdVhzZw?oc=5",
-        "domain": "dvids",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T192500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US defense review presses NATO allies to prove they are taking the lead in Europe",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSWdoVDhRQmJOWW9jMTZ1WmN2dVdfcWFqRUlVMTkzUDdSbndpVnIzY05XUnhPUzNnRno3bWp1ZHJodTRrZ2lJWFA3VWlibTlhVm1zbWk4OTdibi02NldvR3h1blZZdElRLUJUYnRhMGlJQXZ3dlVybExNWERQZVluN2RWeWNuN1ZnSHZvVl9JWUNXZjVGYkNIcXBsOXAxcFA4QXcyNw?oc=5",
-        "domain": "apnews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T190600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Democrats go on the offense, Republicans play defense after Hope Florida grand jury report leak",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYldqU0RDdEV2WWVWbml5N0ttSnVEMmFlb3o0bVdLMy1XZHdWNXlOaUl4Rk9iNTJlOG9mZFpMdWVuUzVOaHBNTmxnNzRXSk5nc1dkVFA1Y2I5aVNXdjhiajRvWkdpZ2loU3g0V3lTTHU3ZmtzSm9uWWtweE1MZDhyQU1aY1U2c2pNTXlvRV9rdFpyMkJ3VEhuRFpGd3dVVWdKMTF6eUl1QlVkcXBuUS0zdTYwYlpkWkxvWUpUZXFnSTI5Y0tCRWxNcmJpTWt4dG4xcWRHejlMUU0?oc=5",
-        "domain": "floridaphoenix",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T220730Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Chuck Edwards Mounts His Defense: ‘Poetry Is Not Sexual Misconduct’",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa2c3SVZjY2JHT0d0VFBENG9MNkplRHBPeks5S2xtRU9vVXlOTHRSWk1ZNFgwRUdNMTdqcENhbVNjZXlad1dLS0VSTWdzYjZDLWVrOG9tUlNLT3VTV3NtTURPZVd1VGtqYTZnckpwRXJEWk50SkFDNGZndjdhZkUzTy0xaTFLRmZhdkRNdHV1S1NBX3dINkZMcXN2Nnc?oc=5",
-        "domain": "theassemblync",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T174929Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Monterey receives grant to explore shared infrastructure with military installments",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPODNJTF9HLTd4YlBxLV90aU8yNndWZUlXNFBmRG5CZ1I2YnNtMkdvcXBheDZzR0gwaC1zVzNsSkRxZHRQR0l3NlIxcHZWdDBPOFFQaVJDWHkzVHdqSGlqMW9vbTNoQTV4dU5WLUZvQ1diNDlCb1JKUGxlcG5fZFk0MHFjTDVJR0pQZi04VDVfc1NyTWVDelZjNGhqMDJWZWhjaHRSUnFNMzlzWmwzc0gxZDBCRGVtbl8wSUNGVGpVdWRHVjB6?oc=5",
-        "domain": "montereyherald",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T211708Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Navy leaders tell military families they thought war with Iran would be brief",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeFlCSXlBRmN2MkpSRm1PVUJYRDN3a2tSdjB3R1VJaHdBamJCM2hGVUxPTHJzOFB5OTB1SldDMGY2alJuX1R2RjJCT1J5Y3pBRHVRcWZoYU85bUZpYnBUUjVSUXpOejgwYW8tRWhQNjRvSVBtM1I3cGw3c1QydDhJblNtOUhXMmxzMlpEYlY0bW1SNHFlUnFscGJSaXJSdmVGTlBPa194Zzl4TE5Z?oc=5",
-        "domain": "utahpublicradio",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T200500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "ATA: Military shipment awards may violate department policy",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OOWVjSjlzRDdEVkxsR1AtaTU5a0xaVnRIdEcwajRkM3VCdTNwRl90blhiU2V6eUFSWmRWQ3NRRkNYYmVMSlVEeEFSVHV6OUVVTEFOWXNHU2ZVZWFQYzFtNEViOHI?oc=5",
-        "domain": "transporttopics",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T210000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "In letter to Hegseth, Boston defense contractor says dispute with Pentagon has brought it to ‘the brink of collapse’",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZVRfSUljaTJsQkdoLXpsc2tRVGJsdmdwLTZPSnpTLTloSXVNbTVsb3N5ZXdNbU90ODBZMW94OEcxUEVMUmhLT1h6WENkNVRLVVpweWRmMEg2V25MU1A1c0ExbTlaNkEtUWxUM2lKUndiaXo2YlppMGdqOXBGbXhlenRLZG1DVXdCMTFYZ2JR?oc=5",
-        "domain": "thebostonglobe",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T134300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ratko Mladic, ex-Bosnian Serb warlord who oversaw atrocities, has died at 84",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUb0tfdFZiaURQaGFZQUpqY29rOWptaFRwZUk4UU8yX0VoMVBObUNxU0NWeFhEU2dybF9sMzBWMkY3UE1BTEJsNXN0LUlkWnJwVV8zYUdZY1I4U0Nacy02SkVpZHdBZ1N6UERkcTNadw?oc=5",
-        "domain": "npr",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T212927Z",
-        "source": "GoogleNews"
-      }
-    ],
-    "exchange_rates": [
-      {
-        "currency": "USD",
-        "rate": 1
-      },
-      {
-        "currency": "AED",
-        "rate": 3.67
-      },
-      {
-        "currency": "AFN",
-        "rate": 65.14
-      },
-      {
-        "currency": "ALL",
-        "rate": 79.04
-      },
-      {
-        "currency": "AMD",
-        "rate": 364.34
-      },
-      {
-        "currency": "ANG",
-        "rate": 1.79
-      },
-      {
-        "currency": "AOA",
-        "rate": 924.72
-      },
-      {
-        "currency": "ARS",
-        "rate": 1514.16
-      },
-      {
-        "currency": "AUD",
-        "rate": 1.39
-      },
-      {
-        "currency": "AWG",
-        "rate": 1.79
-      },
-      {
-        "currency": "AZN",
-        "rate": 1.7
-      },
-      {
-        "currency": "BAM",
-        "rate": 1.68
-      },
-      {
-        "currency": "BBD",
-        "rate": 2
-      },
-      {
-        "currency": "BDT",
-        "rate": 122.83
-      },
-      {
-        "currency": "BGN",
-        "rate": 1.68
-      },
-      {
-        "currency": "BHD",
-        "rate": 0.376
-      },
-      {
-        "currency": "BIF",
-        "rate": 2989.96
-      },
-      {
-        "currency": "BMD",
-        "rate": 1
-      },
-      {
-        "currency": "BND",
-        "rate": 1.27
-      },
-      {
-        "currency": "BOB",
-        "rate": 11.53
-      }
-    ]
-  },
-  "entities": [],
-  "events": [
+  "sources": [
     {
-      "title": "Canada is bolstering its defense industry as US relations fray. A boom is on for local contractors",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMkt2TmlJdTI0TFBvSlF5Y3UzTEIzZFpYUE9pY0pfS3ZIZndidFFNV0NuM3U0YUJkc1FPbjRIRDRXRzd5cWNhSmZpeDJlRms0ZHdHVGdXbTl0VG1JNTZySlQzLXlWWEJOYVNwTzg1b2ZIVDBTVVg2aWlYejR6Rm5kMVhWWlJMb2pMVjczZ2NLZDMzd2c?oc=5",
-      "domain": "apnews",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T144700Z",
-      "source": "GoogleNews"
+      "name": "EU TED Search API",
+      "role": "European defense procurement notices",
+      "url": "https://docs.ted.europa.eu/api/latest/search.html"
     },
     {
-      "title": "Drone-Defense Startup Needed Connections, so It Hired Eric Trump",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRDFWWVg0bEdJYk5pUXFaZFpMODhid1BCMTZGTm1iUXc0ZW43Q1BfbWQ5RXlmcnE0RVVmVXBBSGFZLWlZNEVpTEhMTGN2clFyOFMtWVQ1OFJnY0tHUFg4NGw2X0pvdlRsV3REZ1EzR0k5aWRTRjBSZlJiT3ZURC1kNGZpS0FuR1VMU19McUVaeUNKMW5PQnFOZ0s4TFFFcXNWU19N?oc=5",
-      "domain": "wsj",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T140200Z",
-      "source": "GoogleNews"
+      "name": "USAspending API",
+      "role": "U.S. defense-industrial transactions",
+      "url": "https://api.usaspending.gov/docs/intro-tutorial"
     },
     {
-      "title": "NASA Astronaut Jonny Kim Departs Agency to Continue Military Service",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOekRCZUdFZDF6cWt2Z2NDQzllQXppUmNGSkNuSC1lQjFxbzNBX2lFLVNTOHpLOEVzUlVfR1BYQ0NRSHdaTHhKcXFhV2M0aUc4bXZCM2p3ZjFJN3dDVzRCaVlFVVYzazFjR1FYU1ozSjRtSm9kRzI5LTAxaWFzSDNoNTJWZDdfRDc0WVQtNFVhWmlzVkFWRGhLUjJ0dTFlYm93SkZIRzl3?oc=5",
-      "domain": "nasa.gov",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T151307Z",
-      "source": "GoogleNews"
+      "name": "NATO official sitemap",
+      "role": "Alliance demand and production language",
+      "url": "https://www.nato.int/sitemap.xml"
     },
     {
-      "title": "Russia says it could strike UK military targets in response to Kyiv's use of British missiles",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQVB4M2NDa28tblBTTVZjdGtZb3d5MGtYMURzeDBCYmVqYjRxbzEzOHh3aFpRRUpIdDl2RW5scE5USEIwOWQ4eXZYWmV6dEN2aG9Uc2VfY0dkRTBxb28yYXFqYkhJeFU2aGJxaTdWR1gwVXZNejdXaXZScjdPTlk5NDFFWXlBNW1NQUR4M2pqQVNkNzFXZWxOOVFsQUVLT0EyeHFjNF84Z3lGQzN1X1dNTGtwc3luOThCLUV4eDR5alBwT2F5VmhLeA?oc=5",
-      "domain": "reuters",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T175219Z",
-      "source": "GoogleNews"
+      "name": "Federal Register API",
+      "role": "Defense acquisition policy activity",
+      "url": "https://www.federalregister.gov/developers/documentation/api/v1"
     },
     {
-      "title": "Lindsay Clancy's defense decries 'lousy medical care she got' in closing argument",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTVRGX05KQjRMenppLWRWQ1M1LWhERnYyZzhaQTg1aHd4NU1OZW5ITGFaMlBzaFU5elFvNmhJdGtnV19NZGtVckdKSjFrbUxKMDc1ZGNOejF6QUViMVZXRWRINUw2dHI1bW5zakY1bmdkRGdXY2toSEdIOEhTOWhkOVYza3MyamRJVDI4Q05fYkRXWnFpUkZFMkFwOGgwMkNwTUJwV0ZjTlhhbTliUGdmT2dZbFk1cjAtbVFJdlM2dFVlcUVl?oc=5",
-      "domain": "nbcnews",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T203935Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "'We have a limited window': 116 companies, entities sign on to major AI cyber defense push",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ga0RXWlJZWVNWbFZBUno5T2hpVW9reTAwT2ZEYktDRmItRnJNMVRKelBjQlpUNWpsbEgwQ0xmd2RzNVdfOG5iWDE1U2F6Z1p3TzFXY2RFYmtPTktUSmhIdl82aXZaNXRCODNxeNIBckFVX3lxTE53NVBDNDRNczJJRk9SZmpDQW5hVEpKdjBRZjFSUGhKSVV3WU90TjdyeUduVzE0ZjVwLTVYM1EtYUg1cjJPdFRYWGlaVXh1cklXc1AzNDM0bWg1UjB5NW5GTDZQc2pIejRuVkx6SEdoTkpMZw?oc=5",
-      "domain": "cnbc",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T174820Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Contracts for Aug. 27, 2026",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVhrbzR2bW1OeHpUNDd3WEFscDVzRnplc09IdjNQbmxBMzAzT2V5Q1lacDhQd1ByeWZfS0YwR1pETllrX19xeG1CUWMza0lFNTEzeWtsQkRFOVB3QWNZQkYtN1ZPM3drX2NXNjZPeTBFSTk4WWpzVHAyRlZjU0NaVjMtYV9FajRqYXhYNlc3OA?oc=5",
-      "domain": "u.s.departmentofwar.gov",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T211122Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Trump’s war on Iran is rapidly draining US navy budget, documents and interviews reveal",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KOFZVQ3RPcGRtYlV3enlSZGdMQ2R2V0ZENlRUc3dxWlpnMnVJMUFGemhQVmd4YzVubDRpVTJIMmpsVjViQU8xWkNFd01OMmlQSE41RFo4TWo0UnljTV80R2wxSXNGeDJKUGJwT0h4YzdQbmtoa2NhdUJEVXo5YXc?oc=5",
-      "domain": "theguardian",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T170000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "US Army selects 5 companies to deploy microreactors at military installations",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPemNTUjBQRnlzeml2cjdaTXBrUGVIOVhQdlV3TnVfX2lzS0xydGt5OEE1b0p1RWNJTlNTVXBGZkRkZkQtSEc1NEZtMk1RSXdIdEt0bDdQbmxZM0xkenVESjFqTkRfZVNyVGhRVW84aV9TWFFOOXZRUkdtZG45aTM4clpEMDJ5MkpnNjJ2U2VmRzlhby00REt5bFIwQmdzclVXc1NGUzk2QUlBd1JyM3RLdWszY24wYXc?oc=5",
-      "domain": "utilitydive",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T171107Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "OpenAI and 100 Others Warn That Window to Defend Against A.I. Attacks Is Narrowing",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMWdJNEdsTXRNZHVjeW1zc2hDYzdodk95bHh4Y1BrOWd6Z3VvV1c3RVNMbTgzMV9CVEJOY0FkNlRBSjlQT0c0UzlpRDFUcnhsd2xjYzNtREJIanR0SGU5Qlg1UXotV3JWMTR6UDZKZHJKSk9qSVMxT3VPcm5TM253LQ?oc=5",
-      "domain": "thenewyorktimes",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T175537Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Beaver Football: The Defense Meets The Media (August 27, 2026)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQVFfXzVoa1BqR05QOXBIS0tJN2NKOWd4dUtUZVMxNzlIdHZDUHlMTmlGUnhHUk1jVnZLUUZwT3hvWWdualhZeFRBZUQ1ajNKNDA3cTFoTGVOVl8zS1Y3VV9jcFVJT0xwY2hnaDkzam1mQk1CY0ZrRjFqcUhZNjNGalN2cXRZVXUtNzJxdWMwbERNdUxYakN2ejlBUjc?oc=5",
-      "domain": "oregonstateuniversityathletics",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T202221Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "GAME #1: Bobcats Open Title Defense at Big Sky Newcomer Utah Tech on Saturday",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZGlDUnJMdFdpZ25qeFBjOXV6Q2RxUzJmNEhuSnhNS1diT092MS1xbjFKNU1VLTV0dW9SVlBwT291VDZJV1hMMkRTOU15TnQ1LTdkbnlQVVlQR0swbVR1eTRQQ3gwcGxaNkI5cTA2dHlqLUZNYUh5Y21fMFFRaGZBYzFoSXoweWtUWnBlRHFZaXRnQmN0SzJZNFhoSkN5UG11dzRnX2trc01WRHdxOEozTFN6S3ZJejB2OExCNktYZw?oc=5",
-      "domain": "montanastateuniversityathletics",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T204452Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "US Army to build nuclear microreactors at 5 military bases",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0tydWZUeHZNZWhhQmp3UG5ZRFlMRG0wZjhsZllUMk5tMGtHLVRxMlhOZ3pMdzlyazFEaGVaVFBMRFZLRWpKVWFxbndiVmNpMUlCamgtMkhVSVJiU0tBRkI2a01jd2cwNlAwc0p5azA3bWVabl9mallvSGREX3JxOE54Z29OWDhnN2ZZNg?oc=5",
-      "domain": "livenowfromfox",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T202456Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "U.S. Marine Corps Rehearses Deploying Air Defense Radar to the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa0dIdnlQUC15Uko1Y2pEUUxiNWdNNFdkMFFIS0lpWnhZUm5raEZEeF83ZURsY1h1eFpaUnlGTTNha1ZXT1BkMUQxNm9zTG44OVdSQ2xxY2lGZ2I5ajM0ZU55WnQ4SHRKOE5sYnE0OUZ3XzN4ZVNWSFZ3RnNaQ3FadENBdndvS3ZPVnlxNXFCS0hWR1RReUs1bkFvVnZqRldGSVBiWHZUYTRrZw?oc=5",
-      "domain": "usninews",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T150500Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "The fight over the FY27 defense budget is on. Here’s 13 key issues for Congress to resolve.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTlXZDBjUmItNUxsQ0tvLXFIRGRDanl5cXNmejl4b0UwRlhpeWVsUFpucXkxcldDX3NlOUZmSTRJNG4zN1VPUVJwSDJLZnZSTHd0aEVXSmI4WF9DS2NPSFU0SUZ4QUxiRExqS0ZQd0FPOGJsd01FY2FwTlhjZm1CRElkRjFfSlJ4ejhpZmYtR3VtZy1CMzBrdnFOV01FZmg3UXBDOTY5VDR6S2ZWS0FRVnFJdkgtaWZIaFNCUUEyMXhaZ3c?oc=5",
-      "domain": "breakingdefense",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T151026Z",
-      "source": "GoogleNews"
+      "name": "FRED",
+      "role": "Copper and nickel dislocation",
+      "url": "https://fred.stlouisfed.org/"
     }
   ],
-  "timeseries": [],
-  "llm_summary": ""
+  "methodology": {
+    "weights": {
+      "eu_notices": 0.3,
+      "us_awards": 0.25,
+      "nato_demand": 0.2,
+      "acquisition_policy": 0.15,
+      "critical_materials": 0.1
+    },
+    "fallback_hours": 72,
+    "concurrence_rule": "+5 when official demand/policy ≥45 and awards/materials ≥40"
+  }
 }

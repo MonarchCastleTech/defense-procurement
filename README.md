@@ -2,28 +2,22 @@
 
 [![Pages](https://github.com/MonarchCastleTech/defense-procurement/actions/workflows/pipeline.yml/badge.svg)](https://github.com/MonarchCastleTech/defense-procurement/actions/workflows/pipeline.yml)
 
-Public procurement and defense-spending signals for transparent monitoring.
+Autonomous 0–90 day defense procurement acceleration warning.
 
-**Live dashboard:** https://monarchcastletech.github.io/defense-procurement/
+**Dashboard:** https://monarchcastletech.github.io/defense-procurement/
+**Methodology:** https://monarchcastletech.github.io/defense-procurement/methodology/
 
-## Run locally
+The deterministic index combines EU TED defense notices (30%), USAspending defense-industrial awards (25%), NATO capability-demand language (20%), Federal Register acquisition policy (15%), and FRED critical materials (10%). USAspending lag is explicitly freshness-discounted.
+
+GitHub Actions tests, refreshes evidence, commits output, and deploys Pages every six hours. No account, key, paid API, or generative AI is required.
+
+## Reproduce
 
 ```bash
 python -m pip install -r requirements.txt
+python -m pytest -q
 python pipeline/defense_procurement_pipeline.py
 python -m http.server 8000
 ```
 
-Open `http://localhost:8000`. Direct `file://` access cannot fetch `data/output.json` in modern browsers.
-
-## Automation
-
-GitHub Actions refreshes public data every six hours and deploys the static dashboard to GitHub Pages. AI briefs are optional: configure `OPENROUTER_API_KEY` as a repository Actions secret. Without it, core collection and dashboard deployment remain available.
-
-## Data notice
-
-Source availability varies. The dashboard identifies its generation time and operating mode in `data/output.json`. Treat indicators as decision-support signals, not verified ground truth.
-
-## Brand
-
-Part of Monarch Castle Technologies. See [BRAND.md](BRAND.md) for approved asset use.
+Screening signal only; not a conflict probability or contract forecast.
