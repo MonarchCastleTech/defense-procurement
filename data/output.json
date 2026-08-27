@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-27T22:55:12.568701+00:00",
+    "generated": "2026-08-27T23:02:48.520608+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -55,17 +55,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/595295-2026"
         },
         {
-          "id": "595998-2026",
-          "date": "2026-08-28",
-          "title": "Germany – Military vehicles and associated parts – 6002998872-BAAINBw E2.3Y 3227",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/595998-2026"
-        },
-        {
           "id": "594008-2026",
           "date": "2026-08-28",
           "title": "Netherlands – Radio, television, communication, telecommunication and related equipment – Communicatiemiddelen (C2000 en object)",
@@ -76,6 +65,17 @@
             "35710000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/594008-2026"
+        },
+        {
+          "id": "595998-2026",
+          "date": "2026-08-28",
+          "title": "Germany – Military vehicles and associated parts – 6002998872-BAAINBw E2.3Y 3227",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/595998-2026"
         },
         {
           "id": "595754-2026",
@@ -617,6 +617,11 @@
   "history": [
     {
       "generated": "2026-08-27T22:55:12.568701+00:00",
+      "score": 17.5,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-08-27T23:02:48.520608+00:00",
       "score": 17.5,
       "status": "BASELINE"
     }
