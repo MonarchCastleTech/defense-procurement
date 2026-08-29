@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-29T07:18:02.046289+00:00",
+    "generated": "2026-08-29T16:50:57.899706+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -235,9 +235,9 @@
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 79,
       "freshness_factor": 0.34,
-      "current_14d_weekly_equivalent": 1000311548.21,
+      "current_14d_weekly_equivalent": 1000206012.2,
       "baseline_weekly_median": 0.0,
-      "anomaly_z": 8.81,
+      "anomaly_z": 8.8,
       "recipient_concentration": [
         {
           "name": "LOCKHEED MARTIN CORPORATION",
@@ -245,7 +245,7 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 489725923.63
+          "amount": 489922150.63
         },
         {
           "name": "L3 TECHNOLOGIES, INC.",
@@ -459,7 +459,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-08-27",
@@ -469,7 +469,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-08-27",
@@ -479,7 +479,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-08-19",
@@ -489,7 +489,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 9
+          "age": 10
         },
         {
           "date": "2026-08-19",
@@ -499,7 +499,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 9
+          "age": 10
         },
         {
           "date": "2026-08-19",
@@ -509,7 +509,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 9
+          "age": 10
         },
         {
           "date": "2026-08-19",
@@ -519,7 +519,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 9
+          "age": 10
         },
         {
           "date": "2026-08-06",
@@ -529,7 +529,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 22
+          "age": 23
         }
       ]
     },
@@ -667,6 +667,11 @@
     },
     {
       "generated": "2026-08-29T07:18:02.046289+00:00",
+      "score": 26.8,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-08-29T16:50:57.899706+00:00",
       "score": 26.8,
       "status": "WATCH"
     }
