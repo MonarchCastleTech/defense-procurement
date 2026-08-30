@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-29T21:05:27.709356+00:00",
+    "generated": "2026-08-30T05:41:56.942473+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 26.8,
-    "raw_score": 26.8,
+    "score": 26.4,
+    "raw_score": 26.4,
     "concurrence_bonus": 0.0,
     "status": "WATCH",
-    "headline": "Defense procurement acceleration pressure is watch at 26.8/100.",
+    "headline": "Defense procurement acceleration pressure is watch at 26.4/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -33,17 +33,6 @@
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
-          "id": "594394-2026",
-          "date": "2026-08-28",
-          "title": "Hungary – Ammunition – 2026. évi lőszerbeszerzés",
-          "buyer": "Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság",
-          "country": "HUN",
-          "cpv": [
-            "35330000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/594394-2026"
-        },
-        {
           "id": "595295-2026",
           "date": "2026-08-28",
           "title": "Czechia – Parts of military vehicles – Náhradní díly LR",
@@ -55,15 +44,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/595295-2026"
         },
         {
-          "id": "595998-2026",
+          "id": "594394-2026",
           "date": "2026-08-28",
-          "title": "Germany – Military vehicles and associated parts – 6002998872-BAAINBw E2.3Y 3227",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
+          "title": "Hungary – Ammunition – 2026. évi lőszerbeszerzés",
+          "buyer": "Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság",
+          "country": "HUN",
           "cpv": [
-            "35400000"
+            "35330000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/595998-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/594394-2026"
         },
         {
           "id": "594008-2026",
@@ -78,6 +67,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/594008-2026"
         },
         {
+          "id": "595998-2026",
+          "date": "2026-08-28",
+          "title": "Germany – Military vehicles and associated parts – 6002998872-BAAINBw E2.3Y 3227",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/595998-2026"
+        },
+        {
           "id": "595754-2026",
           "date": "2026-08-28",
           "title": "Slovenia – Weapons, ammunition and associated parts – namerilne naprave in povečave",
@@ -87,6 +87,30 @@
             "35300000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/595754-2026"
+        },
+        {
+          "id": "593455-2026",
+          "date": "2026-08-28",
+          "title": "Poland – Military vehicles and associated parts – Dostawa zestawów obsługowych do KTO Rosomak",
+          "buyer": "1 REGIONALNA BAZA LOGISTYCZNA",
+          "country": "POL",
+          "cpv": [
+            "35400000",
+            "35421000",
+            "35421100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/593455-2026"
+        },
+        {
+          "id": "594771-2026",
+          "date": "2026-08-28",
+          "title": "Germany – Parts of military vehicles – 6003047687-BAAINBw E2.1 Lieferung von Fahrzeugachsen und Dieselmotoren für die Waffensysteme VUK: CQA- LKW 3,5-15t mil gl B1 und VUK: CQC- LKW 15t mil gl B2 (G) WLS",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/594771-2026"
         },
         {
           "id": "594265-2026",
@@ -158,30 +182,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/595955-2026"
         },
         {
-          "id": "593455-2026",
-          "date": "2026-08-28",
-          "title": "Poland – Military vehicles and associated parts – Dostawa zestawów obsługowych do KTO Rosomak",
-          "buyer": "1 REGIONALNA BAZA LOGISTYCZNA",
-          "country": "POL",
-          "cpv": [
-            "35400000",
-            "35421000",
-            "35421100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/593455-2026"
-        },
-        {
-          "id": "594771-2026",
-          "date": "2026-08-28",
-          "title": "Germany – Parts of military vehicles – 6003047687-BAAINBw E2.1 Lieferung von Fahrzeugachsen und Dieselmotoren für die Waffensysteme VUK: CQA- LKW 3,5-15t mil gl B1 und VUK: CQC- LKW 15t mil gl B2 (G) WLS",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/594771-2026"
-        },
-        {
           "id": "591970-2026",
           "date": "2026-08-27",
           "title": "Malta – Ammunition – SPD2/2026/036 - Framework Contract For The Provision Of 9MM Ammunition For The Malta Police Force",
@@ -226,18 +226,18 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 17.3,
+      "score": 16.8,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-06-11",
-      "reporting_lag_days": 79,
-      "freshness_factor": 0.34,
-      "current_14d_weekly_equivalent": 1000186041.61,
+      "reporting_lag_days": 80,
+      "freshness_factor": 0.33,
+      "current_14d_weekly_equivalent": 1003513921.9,
       "baseline_weekly_median": 0.0,
-      "anomaly_z": 8.8,
+      "anomaly_z": 67.17,
       "recipient_concentration": [
         {
           "name": "LOCKHEED MARTIN CORPORATION",
@@ -245,15 +245,15 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 489922150.63
-        },
-        {
-          "name": "L3 TECHNOLOGIES, INC.",
-          "amount": 61086680.0
+          "amount": 167682386.78
         },
         {
           "name": "L3HARRIS FUZING AND ORDNANCE SYSTEMS, INC.",
           "amount": 40973825.0
+        },
+        {
+          "name": "ROLLS-ROYCE CORPORATION",
+          "amount": 40445236.24
         },
         {
           "name": "RAYTHEON COMPANY",
@@ -265,7 +265,7 @@
         },
         {
           "name": "GENERAL ELECTRIC COMPANY",
-          "amount": 14131006.8
+          "amount": 14244235.81
         },
         {
           "name": "ARNOLD DEFENSE & ELECTRONICS, LLC",
@@ -282,6 +282,96 @@
           "agency": "Department of the Air Force",
           "description": "USCG AVIATION TRAINING CENTER (ATC) GROUND SUPPORT EQUIPMENT (GSE) MAINTENANCE, MOBILE, AL",
           "naics": "336411"
+        },
+        {
+          "date": "2026-05-30",
+          "award_id": "SPE4A626FCH6T",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 14079.68,
+          "agency": "Defense Logistics Agency",
+          "description": "4571978375!CYLINDER,COMPRESSED",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-05-30",
+          "award_id": "SPE4AX26F176G",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 7841.7,
+          "agency": "Defense Logistics Agency",
+          "description": "8512151335!DEFLECTOR,ROTOR",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-05-30",
+          "award_id": "SPE4A626FCH6S",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 7039.84,
+          "agency": "Defense Logistics Agency",
+          "description": "4571978373!CYLINDER,COMPRESSED",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-05-30",
+          "award_id": "SPE4A626FCH8F",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 2961.44,
+          "agency": "Defense Logistics Agency",
+          "description": "4571978634!CYLINDER,COMPRESSED",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-05-30",
+          "award_id": "SPE4AX26F176D",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 293.2,
+          "agency": "Defense Logistics Agency",
+          "description": "8512151263!PIN,COVER ASSY",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-05-30",
+          "award_id": "SPE7L126FAF9C",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 21.17,
+          "agency": "Defense Logistics Agency",
+          "description": "4571978560!O-RING",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-05-30",
+          "award_id": "SPE7L126FAF9D",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 3.9,
+          "agency": "Defense Logistics Agency",
+          "description": "4571978562!O-RING",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-05-30",
+          "award_id": "W58RGZ23F0335",
+          "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 0.0,
+          "agency": "Department of the Army",
+          "description": "H-60M DE-ICE CONTROL INDICATOR UNIT (DCIU) OBSOLESCENCE MITIGATION.",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-05-30",
+          "award_id": "W58RGZ24F0087",
+          "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 0.0,
+          "agency": "Department of the Army",
+          "description": "CH-47 ENGINE ENHANCEMENT PROGRAM.",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-05-30",
+          "award_id": "SPE8EF22P7012",
+          "recipient": "THE HANDY TOOL & MFG. CO., INC",
+          "amount": 0.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8508673926!ENCLOSURE CONTR",
+          "naics": "336413"
         },
         {
           "date": "2026-05-29",
@@ -345,110 +435,20 @@
           "agency": "Department of the Army",
           "description": "PURCHASE OF HIGH MOBILITY ARTILLERY ROCKET SYSTEM (HIMARS) FOR THE US ARMY, MARINES AND FOREIGN MILITARY SALES (FMS).",
           "naics": "336414"
-        },
-        {
-          "date": "2026-05-29",
-          "award_id": "W58RGZ22C0012",
-          "recipient": "BELL TEXTRON INC",
-          "amount": 14924491.43,
-          "agency": "Department of the Army",
-          "description": "BELL CONTRACTOR SUPPORT LOGISTICS FOR IRAQ",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-05-29",
-          "award_id": "SPE4AX26F175K",
-          "recipient": "GENERAL ELECTRIC COMPANY",
-          "amount": 13941103.5,
-          "agency": "Defense Logistics Agency",
-          "description": "8512149187!PBL MATERIAL GE",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-05-29",
-          "award_id": "FA861523C6053",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 9379094.0,
-          "agency": "Department of the Air Force",
-          "description": "BULGARIA II F-16 PRODUCTION BLOCK 70",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-05-29",
-          "award_id": "N0002426C5432",
-          "recipient": "KONGSBERG DEFENCE & AEROSPACE AS",
-          "amount": 8977040.0,
-          "agency": "Department of the Navy",
-          "description": "THE PURPOSE OF THIS MODIFICATION IS TO: 1. EXERCISE AND FUND OPTION CLINS 0005, 0008, AND 0104 2. MAKE CDRL UPDATES TO THE SOW 3. UPDATE THE SECTION F DELIVERY DATE AND POPS FOR CLINS 0001, 0002, 0100 - 0103, AND 0105",
-          "naics": "336415"
-        },
-        {
-          "date": "2026-05-29",
-          "award_id": "W58RGZ25F0291",
-          "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 7949557.0,
-          "agency": "Department of the Army",
-          "description": "U.S. AIR FORCE HH-60W FOLLOW-ON CAPABILITY UPGRADE SYSTEMS (FOCUS).",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-05-29",
-          "award_id": "N0001926F0009",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 7214805.0,
-          "agency": "Department of the Navy",
-          "description": "F15 INTEGRATION & TEST",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-05-29",
-          "award_id": "FA863422F0044",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 6500000.0,
-          "agency": "Department of the Air Force",
-          "description": "F-15 -- RAPID RESPONSE DELIVERY ORDER",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-05-29",
-          "award_id": "FA812426FB066",
-          "recipient": "CANADIAN COMMERCIAL CORPORATION",
-          "amount": 5955783.22,
-          "agency": "Department of the Air Force",
-          "description": "REPAIR ORDER - ESN: 412127",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-05-29",
-          "award_id": "FA853426F0056",
-          "recipient": "SELECTTECH SERVICES CORPORATION",
-          "amount": 5225182.0,
-          "agency": "Department of the Air Force",
-          "description": "ATGL OVERHAUL",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-05-29",
-          "award_id": "W31P4Q25F0063",
-          "recipient": "DYNETICS, INC.",
-          "amount": 5000000.0,
-          "agency": "Department of the Army",
-          "description": "SMALL GLIDE STAND-OFF PRECISION GUIDED MUNITIONS ENGINEERING SERVICES RELATED SUPPORT.",
-          "naics": "332993"
         }
       ]
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 33.8,
+      "score": 32.4,
       "status": "WATCH",
       "weight": 0.2,
       "available": true,
       "retained": false,
       "coverage": 88,
       "current_14d_weekly_equivalent": 7.75,
-      "baseline_weekly_median": 4.5,
-      "anomaly_z": 0.49,
+      "baseline_weekly_median": 5.25,
+      "anomaly_z": 0.32,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -678,6 +678,11 @@
     {
       "generated": "2026-08-29T21:05:27.709356+00:00",
       "score": 26.8,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-08-30T05:41:56.942473+00:00",
+      "score": 26.4,
       "status": "WATCH"
     }
   ],
