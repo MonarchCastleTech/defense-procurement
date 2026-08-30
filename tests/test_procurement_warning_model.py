@@ -1,5 +1,5 @@
-from datetime import date
-from pipeline.procurement_warning_model import band, clamp, robust_z, velocity, weekly
+from datetime import date, datetime, timedelta, timezone
+from pipeline.procurement_warning_model import band, clamp, fallback, robust_z, velocity, weekly
 
 def test_clamp_bounds():
     assert clamp(-2)==0 and clamp(105)==100
@@ -23,3 +23,13 @@ def test_velocity_rises_with_density():
     low,_=velocity(1,[1,2,1,2,1,2],2)
     high,_=velocity(10,[1,2,1,2,1,2],2)
     assert high>low
+
+def test_recent_component_fallback_is_keyless_and_expires():
+    now=datetime.now(timezone.utc)
+    component={"key":"eu_notices","score":52,"available":True,"weight":.30,"evidence":[]}
+    recent={"meta":{"generated":(now-timedelta(hours=2)).isoformat()},"components":{"eu_notices":component}}
+    retained=fallback(recent,"eu_notices",now,RuntimeError("offline"))
+    assert retained["score"]==52 and retained["retained"] is True
+    assert component.get("retained") is None
+    stale={"meta":{"generated":(now-timedelta(hours=73)).isoformat()},"components":{"eu_notices":component}}
+    assert fallback(stale,"eu_notices",now,RuntimeError("offline"))["available"] is False
