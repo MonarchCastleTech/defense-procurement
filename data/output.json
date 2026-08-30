@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-30T12:09:19.486615+00:00",
+    "generated": "2026-08-30T16:55:35.113698+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -235,9 +235,9 @@
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 80,
       "freshness_factor": 0.33,
-      "current_14d_weekly_equivalent": 1003513921.9,
+      "current_14d_weekly_equivalent": 997014117.18,
       "baseline_weekly_median": 0.0,
-      "anomaly_z": 69.03,
+      "anomaly_z": 68.58,
       "recipient_concentration": [
         {
           "name": "LOCKHEED MARTIN CORPORATION",
@@ -245,7 +245,7 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 167676732.92
+          "amount": 154676732.92
         },
         {
           "name": "L3HARRIS FUZING AND ORDNANCE SYSTEMS, INC.",
@@ -499,7 +499,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-08-19",
@@ -687,6 +687,11 @@
     },
     {
       "generated": "2026-08-30T12:09:19.486615+00:00",
+      "score": 26.4,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-08-30T16:55:35.113698+00:00",
       "score": 26.4,
       "status": "WATCH"
     }
