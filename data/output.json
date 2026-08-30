@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-30T16:55:35.113698+00:00",
+    "generated": "2026-08-30T21:25:52.543220+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -235,9 +235,9 @@
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 80,
       "freshness_factor": 0.33,
-      "current_14d_weekly_equivalent": 997014117.18,
+      "current_14d_weekly_equivalent": 997026647.96,
       "baseline_weekly_median": 0.0,
-      "anomaly_z": 68.58,
+      "anomaly_z": 68.65,
       "recipient_concentration": [
         {
           "name": "LOCKHEED MARTIN CORPORATION",
@@ -253,7 +253,7 @@
         },
         {
           "name": "ROLLS-ROYCE CORPORATION",
-          "amount": 40430751.76
+          "amount": 40416267.28
         },
         {
           "name": "RAYTHEON COMPANY",
@@ -692,6 +692,11 @@
     },
     {
       "generated": "2026-08-30T16:55:35.113698+00:00",
+      "score": 26.4,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-08-30T21:25:52.543220+00:00",
       "score": 26.4,
       "status": "WATCH"
     }
