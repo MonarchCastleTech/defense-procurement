@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-30T05:41:56.942473+00:00",
+    "generated": "2026-08-30T12:09:19.486615+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -67,17 +67,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/594008-2026"
         },
         {
-          "id": "595998-2026",
-          "date": "2026-08-28",
-          "title": "Germany – Military vehicles and associated parts – 6002998872-BAAINBw E2.3Y 3227",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/595998-2026"
-        },
-        {
           "id": "595754-2026",
           "date": "2026-08-28",
           "title": "Slovenia – Weapons, ammunition and associated parts – namerilne naprave in povečave",
@@ -87,6 +76,17 @@
             "35300000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/595754-2026"
+        },
+        {
+          "id": "595998-2026",
+          "date": "2026-08-28",
+          "title": "Germany – Military vehicles and associated parts – 6002998872-BAAINBw E2.3Y 3227",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/595998-2026"
         },
         {
           "id": "593455-2026",
@@ -237,7 +237,7 @@
       "freshness_factor": 0.33,
       "current_14d_weekly_equivalent": 1003513921.9,
       "baseline_weekly_median": 0.0,
-      "anomaly_z": 67.17,
+      "anomaly_z": 69.03,
       "recipient_concentration": [
         {
           "name": "LOCKHEED MARTIN CORPORATION",
@@ -245,7 +245,7 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 167682386.78
+          "amount": 167676732.92
         },
         {
           "name": "L3HARRIS FUZING AND ORDNANCE SYSTEMS, INC.",
@@ -253,7 +253,7 @@
         },
         {
           "name": "ROLLS-ROYCE CORPORATION",
-          "amount": 40445236.24
+          "amount": 40430751.76
         },
         {
           "name": "RAYTHEON COMPANY",
@@ -265,7 +265,7 @@
         },
         {
           "name": "GENERAL ELECTRIC COMPANY",
-          "amount": 14244235.81
+          "amount": 14132823.4
         },
         {
           "name": "ARNOLD DEFENSE & ELECTRONICS, LLC",
@@ -459,7 +459,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-08-27",
@@ -469,7 +469,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-08-27",
@@ -479,7 +479,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-08-19",
@@ -489,7 +489,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-08-19",
@@ -509,7 +509,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-08-19",
@@ -519,7 +519,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-08-06",
@@ -529,7 +529,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 23
+          "age": 24
         }
       ]
     },
@@ -682,6 +682,11 @@
     },
     {
       "generated": "2026-08-30T05:41:56.942473+00:00",
+      "score": 26.4,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-08-30T12:09:19.486615+00:00",
       "score": 26.4,
       "status": "WATCH"
     }
