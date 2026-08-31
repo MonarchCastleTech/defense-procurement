@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-31T14:19:41.299461+00:00",
+    "generated": "2026-08-31T22:59:38.623471+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,12 +26,120 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 636,
+      "coverage": 645,
       "current_14d_weekly_equivalent": 50.5,
       "baseline_weekly_median": 43.5,
       "anomaly_z": 1.89,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "601197-2026",
+          "date": "2026-09-01",
+          "title": "Germany – Parts of military vehicles – 6002967080-BAAINBw E2.5F, Rohr, Rohrwaffenbaugruppe",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+          "country": "DEU",
+          "cpv": [
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/601197-2026"
+        },
+        {
+          "id": "600031-2026",
+          "date": "2026-09-01",
+          "title": "Poland – Weapons, ammunition and associated parts – Dostawa flar do F-35",
+          "buyer": "Agencja Uzbrojenia, au.f35@mon.gov.pl",
+          "country": "POL",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/600031-2026"
+        },
+        {
+          "id": "602443-2026",
+          "date": "2026-09-01",
+          "title": "Netherlands – Tactical command, control and communication systems – Request for Information Future Tactical Communications, Information and C5ISR",
+          "buyer": "Ministerie van Defensie",
+          "country": "NLD",
+          "cpv": [
+            "35712000",
+            "32500000",
+            "35720000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/602443-2026"
+        },
+        {
+          "id": "601725-2026",
+          "date": "2026-09-01",
+          "title": "Czechia – Ammunition for firearms and warfare – Rámcová dohoda - náboje do brokovnic",
+          "buyer": "Ministerstvo vnitra",
+          "country": "CZE",
+          "cpv": [
+            "35331000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/601725-2026"
+        },
+        {
+          "id": "599732-2026",
+          "date": "2026-09-01",
+          "title": "Switzerland – Radio, television, communication, telecommunication and related equipment – Range instrumentation radars for ballistic tests",
+          "buyer": "Federal Office for Defence Procurement, armasuisse",
+          "country": "CHE",
+          "cpv": [
+            "32000000",
+            "35700000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/599732-2026"
+        },
+        {
+          "id": "599859-2026",
+          "date": "2026-09-01",
+          "title": "Norway – Command, control, communication and computer systems – Request for Information (RFI): Modular C4IS and Navigation System for Multi-Role Naval Craft up to 24 m",
+          "buyer": "Norwegian Defence Materiel Agency",
+          "country": "NOR",
+          "cpv": [
+            "35710000",
+            "34930000",
+            "34933000",
+            "35700000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/599859-2026"
+        },
+        {
+          "id": "600598-2026",
+          "date": "2026-09-01",
+          "title": "Lithuania – Cartridges – 7,62x51 mm kalibro trasuojantys šoviniai (PPR-623)",
+          "buyer": "Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos",
+          "country": "LTU",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/600598-2026"
+        },
+        {
+          "id": "601199-2026",
+          "date": "2026-09-01",
+          "title": "Greece – Specialist vehicles – Προμήθεια Συστημάτων Κέντρου Ελέγχου, Ασύρματης Επικοινωνίας, Drones και Κινητού Επιχειρησιακού Κέντρου στο πλαίσιο της Πολιτικής Προστασίας του Δήμου Θήρας",
+          "buyer": "ΔΗΜΟΣ ΘΗΡΑΣ",
+          "country": "GRC",
+          "cpv": [
+            "34114000",
+            "32510000",
+            "48810000",
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/601199-2026"
+        },
+        {
+          "id": "601974-2026",
+          "date": "2026-09-01",
+          "title": "Poland – Mechanical spare parts for military vehicles – DOSTAWA – ZAKUP CZĘŚCI ZAMIENNYCH DO POJAZDÓW BOJOWYCH KTO ROSOMAK",
+          "buyer": "4 Regionalna Baza Logistyczna",
+          "country": "POL",
+          "cpv": [
+            "35421000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/601974-2026"
+        },
         {
           "id": "596437-2026",
           "date": "2026-08-31",
@@ -106,18 +214,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/599567-2026"
         },
         {
-          "id": "597320-2026",
-          "date": "2026-08-31",
-          "title": "Netherlands – Radio, television, communication, telecommunication and related equipment – Communicatiemiddelen (C2000 en object)",
-          "buyer": "VRBZO Veiligheidsregio Brabant Zuid Oost",
-          "country": "NLD",
-          "cpv": [
-            "32000000",
-            "35710000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/597320-2026"
-        },
-        {
           "id": "597072-2026",
           "date": "2026-08-31",
           "title": "Norway – Parts of light firearms – Procurement of cleaning equipment",
@@ -130,97 +226,6 @@
             "50842000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/597072-2026"
-        },
-        {
-          "id": "595295-2026",
-          "date": "2026-08-28",
-          "title": "Czechia – Parts of military vehicles – Náhradní díly LR",
-          "buyer": "Ministerstvo obrany",
-          "country": "CZE",
-          "cpv": [
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/595295-2026"
-        },
-        {
-          "id": "594394-2026",
-          "date": "2026-08-28",
-          "title": "Hungary – Ammunition – 2026. évi lőszerbeszerzés",
-          "buyer": "Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság",
-          "country": "HUN",
-          "cpv": [
-            "35330000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/594394-2026"
-        },
-        {
-          "id": "594008-2026",
-          "date": "2026-08-28",
-          "title": "Netherlands – Radio, television, communication, telecommunication and related equipment – Communicatiemiddelen (C2000 en object)",
-          "buyer": "VRBZO Veiligheidsregio Brabant Zuid Oost",
-          "country": "NLD",
-          "cpv": [
-            "32000000",
-            "35710000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/594008-2026"
-        },
-        {
-          "id": "595754-2026",
-          "date": "2026-08-28",
-          "title": "Slovenia – Weapons, ammunition and associated parts – namerilne naprave in povečave",
-          "buyer": "MINISTRSTVO ZA OBRAMBO",
-          "country": "SVN",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/595754-2026"
-        },
-        {
-          "id": "595998-2026",
-          "date": "2026-08-28",
-          "title": "Germany – Military vehicles and associated parts – 6002998872-BAAINBw E2.3Y 3227",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/595998-2026"
-        },
-        {
-          "id": "593455-2026",
-          "date": "2026-08-28",
-          "title": "Poland – Military vehicles and associated parts – Dostawa zestawów obsługowych do KTO Rosomak",
-          "buyer": "1 REGIONALNA BAZA LOGISTYCZNA",
-          "country": "POL",
-          "cpv": [
-            "35400000",
-            "35421000",
-            "35421100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/593455-2026"
-        },
-        {
-          "id": "594771-2026",
-          "date": "2026-08-28",
-          "title": "Germany – Parts of military vehicles – 6003047687-BAAINBw E2.1 Lieferung von Fahrzeugachsen und Dieselmotoren für die Waffensysteme VUK: CQA- LKW 3,5-15t mil gl B1 und VUK: CQC- LKW 15t mil gl B2 (G) WLS",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/594771-2026"
-        },
-        {
-          "id": "594265-2026",
-          "date": "2026-08-28",
-          "title": "Germany – Military vehicles and associated parts – 6003108558-BAAINBw E2.1 Rahmenvereinbarung über die Lieferung von Panzerglasverbundscheiben für die Waffensysteme WOLF SSA und ENOK",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/594265-2026"
         }
       ]
     },
@@ -235,9 +240,9 @@
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 81,
       "freshness_factor": 0.32,
-      "current_14d_weekly_equivalent": 994334691.11,
+      "current_14d_weekly_equivalent": 994407723.58,
       "baseline_weekly_median": 0.0,
-      "anomaly_z": 67.14,
+      "anomaly_z": 68.71,
       "recipient_concentration": [
         {
           "name": "LOCKHEED MARTIN CORPORATION",
@@ -245,7 +250,7 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 153881835.73
+          "amount": 153876928.51
         },
         {
           "name": "L3HARRIS FUZING AND ORDNANCE SYSTEMS, INC.",
@@ -253,11 +258,11 @@
         },
         {
           "name": "ROLLS-ROYCE CORPORATION",
-          "amount": 40425812.32
+          "amount": 40430751.76
         },
         {
           "name": "RAYTHEON COMPANY",
-          "amount": 30320192.31
+          "amount": 30363712.31
         },
         {
           "name": "BELL TEXTRON INC",
@@ -265,7 +270,7 @@
         },
         {
           "name": "GENERAL ELECTRIC COMPANY",
-          "amount": 14212966.99
+          "amount": 14132823.4
         },
         {
           "name": "ARNOLD DEFENSE & ELECTRONICS, LLC",
@@ -700,6 +705,11 @@
     },
     {
       "generated": "2026-08-31T14:19:41.299461+00:00",
+      "score": 26.9,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-08-31T22:59:38.623471+00:00",
       "score": 26.9,
       "status": "WATCH"
     }
