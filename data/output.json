@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-08-31T05:58:23.176467+00:00",
+    "generated": "2026-08-31T14:19:41.299461+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -235,9 +235,9 @@
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 81,
       "freshness_factor": 0.32,
-      "current_14d_weekly_equivalent": 1006209822.64,
+      "current_14d_weekly_equivalent": 994334691.11,
       "baseline_weekly_median": 0.0,
-      "anomaly_z": 68.14,
+      "anomaly_z": 67.14,
       "recipient_concentration": [
         {
           "name": "LOCKHEED MARTIN CORPORATION",
@@ -245,7 +245,7 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 168483904.39
+          "amount": 153881835.73
         },
         {
           "name": "L3HARRIS FUZING AND ORDNANCE SYSTEMS, INC.",
@@ -253,7 +253,7 @@
         },
         {
           "name": "ROLLS-ROYCE CORPORATION",
-          "amount": 40435691.2
+          "amount": 40425812.32
         },
         {
           "name": "RAYTHEON COMPANY",
@@ -459,7 +459,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 3
+          "age": 4
         },
         {
           "date": "2026-08-27",
@@ -469,7 +469,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 3
+          "age": 4
         },
         {
           "date": "2026-08-27",
@@ -479,7 +479,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 3
+          "age": 4
         },
         {
           "date": "2026-08-19",
@@ -489,7 +489,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 11
+          "age": 12
         },
         {
           "date": "2026-08-19",
@@ -499,7 +499,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 11
+          "age": 12
         },
         {
           "date": "2026-08-19",
@@ -509,7 +509,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 11
+          "age": 12
         },
         {
           "date": "2026-08-19",
@@ -519,7 +519,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 11
+          "age": 12
         },
         {
           "date": "2026-08-06",
@@ -529,7 +529,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 24
+          "age": 25
         }
       ]
     },
@@ -695,6 +695,11 @@
     },
     {
       "generated": "2026-08-31T05:58:23.176467+00:00",
+      "score": 26.9,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-08-31T14:19:41.299461+00:00",
       "score": 26.9,
       "status": "WATCH"
     }
