@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-01T05:31:00.010386+00:00",
+    "generated": "2026-09-01T11:56:27.346022+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 26.5,
-    "raw_score": 26.5,
+    "score": 25.4,
+    "raw_score": 25.4,
     "concurrence_bonus": 0.0,
     "status": "WATCH",
-    "headline": "Defense procurement acceleration pressure is watch at 26.5/100.",
+    "headline": "Defense procurement acceleration pressure is watch at 25.4/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -229,7 +229,7 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 16.0,
+      "score": 9.5,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -238,41 +238,41 @@
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 82,
       "freshness_factor": 0.32,
-      "current_14d_weekly_equivalent": 1000305742.55,
+      "current_14d_weekly_equivalent": 962283493.78,
       "baseline_weekly_median": 0.0,
-      "anomaly_z": 69.12,
+      "anomaly_z": 0.0,
       "recipient_concentration": [
         {
           "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 1687199189.24
+          "amount": 1653136528.0
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 161177962.84
+          "amount": 98465243.87
         },
         {
-          "name": "L3HARRIS FUZING AND ORDNANCE SYSTEMS, INC.",
-          "amount": 40973825.0
-        },
-        {
-          "name": "ROLLS-ROYCE CORPORATION",
-          "amount": 40430751.76
+          "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 61605143.1
         },
         {
           "name": "RAYTHEON COMPANY",
-          "amount": 30320192.31
+          "amount": 50701897.22
         },
         {
-          "name": "BELL TEXTRON INC",
-          "amount": 15192597.26
+          "name": "L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P.",
+          "amount": 22747706.5
         },
         {
-          "name": "GENERAL ELECTRIC COMPANY",
-          "amount": 14132823.4
+          "name": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 7949557.0
         },
         {
-          "name": "ARNOLD DEFENSE & ELECTRONICS, LLC",
-          "amount": 11757875.55
+          "name": "GENERAL ATOMICS",
+          "amount": 4420510.0
+        },
+        {
+          "name": "MOOG MILITARY AIRCRAFT LLC",
+          "amount": 3434880.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -287,202 +287,212 @@
           "naics": "336411"
         },
         {
-          "date": "2026-05-31",
-          "award_id": "SPE7L126FAF9W",
-          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
-          "amount": 8959.17,
-          "agency": "Defense Logistics Agency",
-          "description": "4571983670!PUMP,HYDRAULIC",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-05-31",
-          "award_id": "SPE4AX26F176J",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 2865.55,
-          "agency": "Defense Logistics Agency",
-          "description": "8512151433!ARM BRACKET ASSY",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-05-31",
-          "award_id": "SPE7L126FAG0B",
-          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
-          "amount": 1566.75,
-          "agency": "Defense Logistics Agency",
-          "description": "4571983675!DOOR,VEHICULAR",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-05-31",
-          "award_id": "SPE4A526F6809",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 1229.92,
-          "agency": "Defense Logistics Agency",
-          "description": "8512151511!CLIP,SPRING TENSION",
+          "date": "2026-06-01",
+          "award_id": "N0001926C0111",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 61333594.6,
+          "agency": "Department of the Navy",
+          "description": "ASE B-KITS & LBDR SRA PRODUCTION",
           "naics": "336413"
         },
         {
-          "date": "2026-05-31",
-          "award_id": "SPE7L126FAF9L",
-          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
-          "amount": 843.04,
-          "agency": "Defense Logistics Agency",
-          "description": "4571983527!FILTER BODY,FLUID",
-          "naics": "332994"
+          "date": "2026-06-01",
+          "award_id": "N0001919C0079",
+          "recipient": "RAYTHEON COMPANY",
+          "amount": 50533633.22,
+          "agency": "Department of the Navy",
+          "description": "THE PURPOSE OF THIS MODIFICATION IS TO INCREASE THE COST ON CLINS 0001, 1001, AND 3007 TO FUND COST OVERRUNS, PROVIDE INCREMENTAL FUNDING FOR CLIN 0007, AND UPDATE EXHIBIT A CDRLS.",
+          "naics": "336414"
         },
         {
-          "date": "2026-05-31",
-          "award_id": "SPE4AX26F176H",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 791.6,
-          "agency": "Defense Logistics Agency",
-          "description": "8512151490!FAIRING,AIRCRAFT",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-05-31",
-          "award_id": "SPE4AX26F176N",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 632.88,
-          "agency": "Defense Logistics Agency",
-          "description": "8512151369!HOUSING,PIN ASSEMBL",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-05-31",
-          "award_id": "SPE7L126FAF9T",
-          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
-          "amount": 76.12,
-          "agency": "Defense Logistics Agency",
-          "description": "4571983667!ROD,STRAIGHT,HEADLE",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-05-31",
-          "award_id": "SPE7L126FAG0A",
-          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
-          "amount": 31.52,
-          "agency": "Defense Logistics Agency",
-          "description": "4571983674!ROD,CONTINUOUS THRE",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-05-31",
-          "award_id": "SPE7L126FAF9Y",
-          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
-          "amount": 29.35,
-          "agency": "Defense Logistics Agency",
-          "description": "4571983672!BRACKET,MOUNTING",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-05-31",
-          "award_id": "SPE7L126FAF9U",
-          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
-          "amount": 5.52,
-          "agency": "Defense Logistics Agency",
-          "description": "4571983668!RIVET,SOLID",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-05-31",
-          "award_id": "SPE7L126FAF9V",
-          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
-          "amount": 2.66,
-          "agency": "Defense Logistics Agency",
-          "description": "4571983669!WASHER,FLAT",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-05-31",
-          "award_id": "SPE7L126FAF9X",
-          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
-          "amount": 1.87,
-          "agency": "Defense Logistics Agency",
-          "description": "4571983671!SEAL,NONMETALLIC RO",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-05-31",
-          "award_id": "SPE7L126FAF9Z",
-          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
-          "amount": 0.24,
-          "agency": "Defense Logistics Agency",
-          "description": "4571983673!PIN,SPRING",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-05-31",
-          "award_id": "FA810823F0010",
-          "recipient": "GLOBAL LOGISTICS SUPPORT SERVICES INC",
-          "amount": 0.0,
+          "date": "2026-06-01",
+          "award_id": "FA857526FB003",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 44111022.99,
           "agency": "Department of the Air Force",
-          "description": "CONTRACT FIELD TEAM SUPPORT",
+          "description": "THIS EFFORT WILL PROCURE 6 LEFT CONFORMAL FUEL TANKS AND 6 RIGHT CONFORMAL FUEL TANKS TO SUPPORT THE ROYAL SAUDI AIR FORCE (RSAF) F-15SA AIRCRAFT.",
           "naics": "336411"
         },
         {
-          "date": "2026-05-31",
-          "award_id": "SPE7LX26FZ534",
-          "recipient": "SIG SAUER INC.",
-          "amount": 0.0,
-          "agency": "Defense Logistics Agency",
-          "description": "4570976415!GUIDE,RECOIL SPRING",
-          "naics": "332994"
+          "date": "2026-06-01",
+          "award_id": "N0001918C1012",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 28654445.17,
+          "agency": "Department of the Navy",
+          "description": "THE PURPOSE OF THIS MODIFICATION IS TO ESTABLISH A NEW COST-PLUS FIXED FEE (CPFF) COMPLETION CLIN 0017 IN SUPPORT OF THE CROSS DOMAIN SOLUTION (CDS) TO RAISE THE BAR (RTB) V5.1 INCREMENT 2 AND 3 STANDARDS. ESTABLISH OPTION CLIN 0018 FOR DEFICIENCY ANALYSIS AND CORRECTIONS, AND CLIN 0019 FOR TECHNICAL DATA.",
+          "naics": "336411"
         },
         {
-          "date": "2026-05-31",
-          "award_id": "SPE4A726P8079",
-          "recipient": "CAMNETICS MANUFACTURING CORPORATION",
-          "amount": 0.0,
+          "date": "2026-06-01",
+          "award_id": "FA862516C6599",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 21400000.0,
+          "agency": "Department of the Air Force",
+          "description": "ACAT 1D, VC-25B PROGRAM, DEFINITIZATION OF CLIN0023 LONG LEAD SPARES UCA.",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-01",
+          "award_id": "FA862024FB072",
+          "recipient": "L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P.",
+          "amount": 20200000.0,
+          "agency": "Department of the Air Force",
+          "description": "AFLCMC/WI",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-01",
+          "award_id": "FA823224C0002",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 18767047.48,
+          "agency": "Department of the Air Force",
+          "description": "F-16 PROVISIONED ITEMS ORDER FOR THE COUNTRY OF SLOVAKIA.",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-01",
+          "award_id": "W31P4Q26F0117",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 17531604.61,
+          "agency": "Department of the Army",
+          "description": "THIS CONTRACT IS FOR PATRIOT ADVANCED CAPABILITIES-3 (PAC-3) MISSILE SUPPORT CENTER (P3MSC) FOR THE UNITED STATES AND FOREIGN MILITARY SALES (FMS) CUSTOMERS.",
+          "naics": "336419"
+        },
+        {
+          "date": "2026-06-01",
+          "award_id": "FA823224C0002",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 17496771.77,
+          "agency": "Department of the Air Force",
+          "description": "F-16 PROVISIONED ITEMS ORDERS FOR THE COUNTRY OF SINGAPORE.",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-01",
+          "award_id": "FA820523F0514",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 11781549.52,
+          "agency": "Department of the Air Force",
+          "description": "THIS ORDER IS ISSUED AS F-22 RETROFIT FOR THE  RELIABILITY, AVAILABILITY, AND MAINTAINABILITY PROGRAM (RAMP) PROJECT EPS43R, MAIN GENERATOR IMPROVEMENT. MODIFICATION TO FULLY FUND CLIN 1622.",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-01",
+          "award_id": "W31P4Q26F0117",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 9770815.43,
+          "agency": "Department of the Army",
+          "description": "THIS CONTRACT IS FOR PATRIOT ADVANCED CAPABILITIES-3 (PAC-3) MISSILE SUPPORT CENTER (P3MSC) FOR THE UNITED STATES AND FOREIGN MILITARY SALES (FMS) CUSTOMERS.",
+          "naics": "336419"
+        },
+        {
+          "date": "2026-06-01",
+          "award_id": "N0001922C0033",
+          "recipient": "GENERAL ATOMICS",
+          "amount": 4420510.0,
+          "agency": "Department of the Navy",
+          "description": "PROCUREMENT OF ECPS 107 AND 109",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-01",
+          "award_id": "W58RGZ21C0015",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 3431088.0,
+          "agency": "Department of the Army",
+          "description": "APACHE AIRCRAFT FULL RATE PRODUCTION FOR LOTS 12 THROUGH 15.",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-01",
+          "award_id": "SPE4A726C0090",
+          "recipient": "CR DANIELS INC",
+          "amount": 3339974.66,
           "agency": "Defense Logistics Agency",
-          "description": "8511976293!SUPPORT,STRUCTURAL",
+          "description": "8512118426!SEAT,AIRCRAFT",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-01",
+          "award_id": "N0001926F1079",
+          "recipient": "KRATOS UNMANNED AERIAL SYSTEMS, INC",
+          "amount": 2761088.51,
+          "agency": "Department of the Navy",
+          "description": "SOFTWARE ENGINEERING SUPPORT FY26",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-01",
+          "award_id": "N0001925F0273",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 2394539.71,
+          "agency": "Department of the Navy",
+          "description": "INCREMENTALLY FUND CLIN 0102.",
+          "naics": "336419"
+        },
+        {
+          "date": "2026-06-01",
+          "award_id": "N0038326FFB03",
+          "recipient": "MOOG MILITARY AIRCRAFT LLC",
+          "amount": 1988280.0,
+          "agency": "Department of the Navy",
+          "description": "PLANETARY-BLADE FOL",
           "naics": "336413"
         }
       ]
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 38.5,
+      "score": 41.2,
       "status": "WATCH",
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 88,
-      "current_14d_weekly_equivalent": 7.75,
+      "coverage": 89,
+      "current_14d_weekly_equivalent": 9.0,
       "baseline_weekly_median": 3.0,
-      "anomaly_z": 1.07,
+      "anomaly_z": 1.35,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
-          "date": "2026-08-27",
+          "date": "2026-09-01",
+          "title": "Keynote Speech Defense Industry Forum",
+          "url": "https://www.nato.int/en/news-and-events/events/transcripts/2024/07/09/keynote-speech-defense-industry-forum",
+          "terms": [
+            "industry"
+          ],
+          "weight": 2.5,
+          "age": 0
+        },
+        {
+          "date": "2026-09-01",
           "title": "Keynote Speech By The Nato Secretary General At The Defense Industry Forum",
           "url": "https://www.nato.int/en/multimedia/multimedia/audios/2024/07/09/keynote-speech-by-the-nato-secretary-general-at-the-defense-industry-forum",
           "terms": [
             "industry"
           ],
           "weight": 2.5,
-          "age": 4
+          "age": 0
         },
         {
-          "date": "2026-08-27",
+          "date": "2026-09-01",
           "title": "Keynote Speech By The Nato Secretary General At The Defense Industry Forum",
           "url": "https://www.nato.int/en/multimedia/multimedia/photos/2024/07/09/keynote-speech-by-the-nato-secretary-general-at-the-defense-industry-forum",
           "terms": [
             "industry"
           ],
           "weight": 2.5,
-          "age": 4
+          "age": 0
         },
         {
-          "date": "2026-08-27",
+          "date": "2026-09-01",
           "title": "Keynote Speech By The Nato Secretary General At The Defense Industry Forum",
           "url": "https://www.nato.int/en/multimedia/multimedia/videos/2024/07/09/keynote-speech-by-the-nato-secretary-general-at-the-defense-industry-forum",
           "terms": [
             "industry"
           ],
           "weight": 2.5,
-          "age": 4
+          "age": 0
         },
         {
           "date": "2026-08-19",
@@ -492,7 +502,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 12
+          "age": 13
         },
         {
           "date": "2026-08-19",
@@ -512,7 +522,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 12
+          "age": 13
         },
         {
           "date": "2026-08-19",
@@ -522,7 +532,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 12
+          "age": 13
         },
         {
           "date": "2026-08-06",
@@ -532,7 +542,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 25
+          "age": 26
         }
       ]
     },
@@ -714,6 +724,11 @@
     {
       "generated": "2026-09-01T05:31:00.010386+00:00",
       "score": 26.5,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-09-01T11:56:27.346022+00:00",
+      "score": 25.4,
       "status": "WATCH"
     }
   ],
