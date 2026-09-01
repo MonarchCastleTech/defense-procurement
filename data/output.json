@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-01T16:51:04.054661+00:00",
+    "generated": "2026-09-01T21:14:42.593321+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -33,17 +33,6 @@
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
-          "id": "600031-2026",
-          "date": "2026-09-01",
-          "title": "Poland – Weapons, ammunition and associated parts – Dostawa flar do F-35",
-          "buyer": "Agencja Uzbrojenia, au.f35@mon.gov.pl",
-          "country": "POL",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/600031-2026"
-        },
-        {
           "id": "601197-2026",
           "date": "2026-09-01",
           "title": "Germany – Parts of military vehicles – 6002967080-BAAINBw E2.5F, Rohr, Rohrwaffenbaugruppe",
@@ -53,6 +42,17 @@
             "35420000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/601197-2026"
+        },
+        {
+          "id": "600031-2026",
+          "date": "2026-09-01",
+          "title": "Poland – Weapons, ammunition and associated parts – Dostawa flar do F-35",
+          "buyer": "Agencja Uzbrojenia, au.f35@mon.gov.pl",
+          "country": "POL",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/600031-2026"
         },
         {
           "id": "602443-2026",
@@ -141,6 +141,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/601974-2026"
         },
         {
+          "id": "596437-2026",
+          "date": "2026-08-31",
+          "title": "Germany – Military vehicles and associated parts – Kaufbedarf EU 124213338 STROMVERSORGUNGSGERAET für PzH 2000",
+          "buyer": "HIL Heeresinstandsetzungslogistik GmbH",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/596437-2026"
+        },
+        {
           "id": "596986-2026",
           "date": "2026-08-31",
           "title": "Germany – Firefighting vehicles – Weißenthurm MTW, KDOW Kats",
@@ -153,17 +164,6 @@
             "35412500"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/596986-2026"
-        },
-        {
-          "id": "596437-2026",
-          "date": "2026-08-31",
-          "title": "Germany – Military vehicles and associated parts – Kaufbedarf EU 124213338 STROMVERSORGUNGSGERAET für PzH 2000",
-          "buyer": "HIL Heeresinstandsetzungslogistik GmbH",
-          "country": "DEU",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/596437-2026"
         },
         {
           "id": "597301-2026",
@@ -238,7 +238,7 @@
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 82,
       "freshness_factor": 0.32,
-      "current_14d_weekly_equivalent": 962283493.78,
+      "current_14d_weekly_equivalent": 964246253.62,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -248,11 +248,11 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 98465243.87
+          "amount": 101896331.87
         },
         {
           "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 61605143.1
+          "amount": 61820318.1
         },
         {
           "name": "RAYTHEON COMPANY",
@@ -405,6 +405,15 @@
         },
         {
           "date": "2026-06-01",
+          "award_id": "W58RGZ21C0015",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 3431088.0,
+          "agency": "Department of the Army",
+          "description": "APACHE AIRCRAFT FULL RATE PRODUCTION FOR LOTS 12 THROUGH 15.",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-01",
           "award_id": "SPE4A726C0090",
           "recipient": "CR DANIELS INC",
           "amount": 3339974.66,
@@ -429,15 +438,6 @@
           "agency": "Department of the Navy",
           "description": "INCREMENTALLY FUND CLIN 0102.",
           "naics": "336419"
-        },
-        {
-          "date": "2026-06-01",
-          "award_id": "N0038326FFB03",
-          "recipient": "MOOG MILITARY AIRCRAFT LLC",
-          "amount": 1988280.0,
-          "agency": "Department of the Navy",
-          "description": "PLANETARY-BLADE FOL",
-          "naics": "336413"
         }
       ]
     },
@@ -723,6 +723,11 @@
     },
     {
       "generated": "2026-09-01T16:51:04.054661+00:00",
+      "score": 24.8,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-01T21:14:42.593321+00:00",
       "score": 24.8,
       "status": "BASELINE"
     }
