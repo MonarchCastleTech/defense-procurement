@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-01T11:56:27.346022+00:00",
+    "generated": "2026-09-01T16:51:04.054661+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 25.4,
-    "raw_score": 25.4,
+    "score": 24.8,
+    "raw_score": 24.8,
     "concurrence_bonus": 0.0,
-    "status": "WATCH",
-    "headline": "Defense procurement acceleration pressure is watch at 25.4/100.",
+    "status": "BASELINE",
+    "headline": "Defense procurement acceleration pressure is baseline at 24.8/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -33,17 +33,6 @@
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
-          "id": "601197-2026",
-          "date": "2026-09-01",
-          "title": "Germany – Parts of military vehicles – 6002967080-BAAINBw E2.5F, Rohr, Rohrwaffenbaugruppe",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
-          "country": "DEU",
-          "cpv": [
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/601197-2026"
-        },
-        {
           "id": "600031-2026",
           "date": "2026-09-01",
           "title": "Poland – Weapons, ammunition and associated parts – Dostawa flar do F-35",
@@ -53,6 +42,17 @@
             "35300000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/600031-2026"
+        },
+        {
+          "id": "601197-2026",
+          "date": "2026-09-01",
+          "title": "Germany – Parts of military vehicles – 6002967080-BAAINBw E2.5F, Rohr, Rohrwaffenbaugruppe",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+          "country": "DEU",
+          "cpv": [
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/601197-2026"
         },
         {
           "id": "602443-2026",
@@ -141,17 +141,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/601974-2026"
         },
         {
-          "id": "596437-2026",
-          "date": "2026-08-31",
-          "title": "Germany – Military vehicles and associated parts – Kaufbedarf EU 124213338 STROMVERSORGUNGSGERAET für PzH 2000",
-          "buyer": "HIL Heeresinstandsetzungslogistik GmbH",
-          "country": "DEU",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/596437-2026"
-        },
-        {
           "id": "596986-2026",
           "date": "2026-08-31",
           "title": "Germany – Firefighting vehicles – Weißenthurm MTW, KDOW Kats",
@@ -164,6 +153,17 @@
             "35412500"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/596986-2026"
+        },
+        {
+          "id": "596437-2026",
+          "date": "2026-08-31",
+          "title": "Germany – Military vehicles and associated parts – Kaufbedarf EU 124213338 STROMVERSORGUNGSGERAET für PzH 2000",
+          "buyer": "HIL Heeresinstandsetzungslogistik GmbH",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/596437-2026"
         },
         {
           "id": "597301-2026",
@@ -443,56 +443,46 @@
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 41.2,
+      "score": 38.5,
       "status": "WATCH",
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 89,
-      "current_14d_weekly_equivalent": 9.0,
+      "coverage": 88,
+      "current_14d_weekly_equivalent": 7.75,
       "baseline_weekly_median": 3.0,
-      "anomaly_z": 1.35,
+      "anomaly_z": 1.07,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
-          "date": "2026-09-01",
-          "title": "Keynote Speech Defense Industry Forum",
-          "url": "https://www.nato.int/en/news-and-events/events/transcripts/2024/07/09/keynote-speech-defense-industry-forum",
-          "terms": [
-            "industry"
-          ],
-          "weight": 2.5,
-          "age": 0
-        },
-        {
-          "date": "2026-09-01",
+          "date": "2026-08-27",
           "title": "Keynote Speech By The Nato Secretary General At The Defense Industry Forum",
           "url": "https://www.nato.int/en/multimedia/multimedia/audios/2024/07/09/keynote-speech-by-the-nato-secretary-general-at-the-defense-industry-forum",
           "terms": [
             "industry"
           ],
           "weight": 2.5,
-          "age": 0
+          "age": 5
         },
         {
-          "date": "2026-09-01",
+          "date": "2026-08-27",
           "title": "Keynote Speech By The Nato Secretary General At The Defense Industry Forum",
           "url": "https://www.nato.int/en/multimedia/multimedia/photos/2024/07/09/keynote-speech-by-the-nato-secretary-general-at-the-defense-industry-forum",
           "terms": [
             "industry"
           ],
           "weight": 2.5,
-          "age": 0
+          "age": 5
         },
         {
-          "date": "2026-09-01",
+          "date": "2026-08-27",
           "title": "Keynote Speech By The Nato Secretary General At The Defense Industry Forum",
           "url": "https://www.nato.int/en/multimedia/multimedia/videos/2024/07/09/keynote-speech-by-the-nato-secretary-general-at-the-defense-industry-forum",
           "terms": [
             "industry"
           ],
           "weight": 2.5,
-          "age": 0
+          "age": 5
         },
         {
           "date": "2026-08-19",
@@ -512,7 +502,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 12
+          "age": 13
         },
         {
           "date": "2026-08-19",
@@ -730,6 +720,11 @@
       "generated": "2026-09-01T11:56:27.346022+00:00",
       "score": 25.4,
       "status": "WATCH"
+    },
+    {
+      "generated": "2026-09-01T16:51:04.054661+00:00",
+      "score": 24.8,
+      "status": "BASELINE"
     }
   ],
   "sources": [
