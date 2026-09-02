@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-01T21:14:42.593321+00:00",
+    "generated": "2026-09-02T04:57:02.098899+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,27 +11,169 @@
     "source_notes": []
   },
   "warning": {
-    "score": 24.8,
-    "raw_score": 24.8,
+    "score": 20.0,
+    "raw_score": 20.0,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 24.8/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 20.0/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
     "eu_notices": {
       "key": "eu_notices",
-      "score": 41.2,
+      "score": 38.0,
       "status": "WATCH",
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 645,
-      "current_14d_weekly_equivalent": 53.5,
-      "baseline_weekly_median": 45.5,
-      "anomaly_z": 1.35,
+      "coverage": 646,
+      "current_14d_weekly_equivalent": 53.0,
+      "baseline_weekly_median": 44.5,
+      "anomaly_z": 0.96,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "603305-2026",
+          "date": "2026-09-02",
+          "title": "Poland – Parts of firearms and ammunition – Dostawa technicznych środków materiałowych (tśm) do 7,62 mm karabinu maszynowego UKM 2000 i odmian",
+          "buyer": "2. Regionalna Baza Logistyczna",
+          "country": "POL",
+          "cpv": [
+            "35340000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/603305-2026"
+        },
+        {
+          "id": "604732-2026",
+          "date": "2026-09-02",
+          "title": "Germany – Non-piloted aircraft – Kauf von großen Drohnensystemen für die Polizei NRW",
+          "buyer": "Landesamt für Zentrale Polizeiliche Dienste Nordrhein-Westfalen",
+          "country": "DEU",
+          "cpv": [
+            "34711200",
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/604732-2026"
+        },
+        {
+          "id": "605125-2026",
+          "date": "2026-09-02",
+          "title": "France – Unmanned aerial vehicles – Acquisition de drones avec capteur thermique radiométrique au profit de l'armée tunisienne",
+          "buyer": "Economat des armées",
+          "country": "FRA",
+          "cpv": [
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/605125-2026"
+        },
+        {
+          "id": "604029-2026",
+          "date": "2026-09-02",
+          "title": "Norway – Repair and maintenance services – Framework agreement for building automation in Fredrikstad municipality, new",
+          "buyer": "Fredrikstad kommune",
+          "country": "NOR",
+          "cpv": [
+            "50000000",
+            "35710000",
+            "38570000",
+            "38800000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/604029-2026"
+        },
+        {
+          "id": "604049-2026",
+          "date": "2026-09-02",
+          "title": "Germany – Weapons, ammunition and associated parts – 5,56mm x 45 2DK-1LS-1HK, 200er Gurt",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35300000",
+            "35330000",
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/604049-2026"
+        },
+        {
+          "id": "604127-2026",
+          "date": "2026-09-02",
+          "title": "Poland – Parts of military vehicles – D/110/2026 Dostawa części do pojazdów wojskowych",
+          "buyer": "2. Regionalna Baza Logistyczna",
+          "country": "POL",
+          "cpv": [
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/604127-2026"
+        },
+        {
+          "id": "605077-2026",
+          "date": "2026-09-02",
+          "title": "Cyprus – Intelligence, surveillance, target acquisition and reconnaissance – Δ.Ο 34/2024 ΠΡΟΣΦΟΡΑ ΓΙΑ ΤΗΝ ΑΓΟΡΑ ΚΑΙ ΕΓΚΑΤΑΣΤΑΣΗ ΤΡΙΩΝ ΣΥΣΤΗΜΑΤΩΝ ΝΥΧΤΕΡΙΝΗΣ ΠΑΡΑΚΟΛΟΥΘΗΣΗΣ ΓΙΑ ΤΙΣ ΑΣΤΥΝΟΜΙΚΕΣ ΑΚΑΤΟΥΣ ΚΑΤΗΓΟΡΙΑΣ Α' , \"ΘΗΣΕΑΣ\" , \"ΟΝΗΣΙΛΟΣ\" ΚΑΙ \"ΟΔΥΣΣΕΑΣ\"",
+          "buyer": "Αστυνομία Κύπρου",
+          "country": "CYP",
+          "cpv": [
+            "35720000",
+            "35721000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/605077-2026"
+        },
+        {
+          "id": "602919-2026",
+          "date": "2026-09-02",
+          "title": "Czechia – Parts of firearms and ammunition – ND-zbraně zahraniční (ostatní)výrobci",
+          "buyer": "Ministerstvo obrany",
+          "country": "CZE",
+          "cpv": [
+            "35340000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/602919-2026"
+        },
+        {
+          "id": "605975-2026",
+          "date": "2026-09-02",
+          "title": "Germany – Firearms – Ex-Post:Rahmenvereinbarung zu Lieferung von H&K SFP9 Modelle",
+          "buyer": "Zentrale Polizeidirektion Niedersachsen",
+          "country": "DEU",
+          "cpv": [
+            "35320000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/605975-2026"
+        },
+        {
+          "id": "603668-2026",
+          "date": "2026-09-02",
+          "title": "Germany – Military vehicles and associated parts – Ersatzteilfolgebedarf für verschiedene MatKl - Zeichnungsteile",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/603668-2026"
+        },
+        {
+          "id": "604046-2026",
+          "date": "2026-09-02",
+          "title": "Norway – Parts of light firearms – Procurement of cleaning equipment",
+          "buyer": "FORSVARSMATERIELL",
+          "country": "NOR",
+          "cpv": [
+            "35341000",
+            "50620000",
+            "50841000",
+            "50842000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/604046-2026"
+        },
+        {
+          "id": "604800-2026",
+          "date": "2026-09-02",
+          "title": "Czechia – Unmanned aerial vehicles – ZD1/2026-AU Bezpilotní prostředek typu VTOL",
+          "buyer": "Ministerstvo obrany",
+          "country": "CZE",
+          "cpv": [
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/604800-2026"
+        },
         {
           "id": "601197-2026",
           "date": "2026-09-01",
@@ -78,167 +220,21 @@
             "35700000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/599732-2026"
-        },
-        {
-          "id": "601725-2026",
-          "date": "2026-09-01",
-          "title": "Czechia – Ammunition for firearms and warfare – Rámcová dohoda - náboje do brokovnic",
-          "buyer": "Ministerstvo vnitra",
-          "country": "CZE",
-          "cpv": [
-            "35331000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/601725-2026"
-        },
-        {
-          "id": "599859-2026",
-          "date": "2026-09-01",
-          "title": "Norway – Command, control, communication and computer systems – Request for Information (RFI): Modular C4IS and Navigation System for Multi-Role Naval Craft up to 24 m",
-          "buyer": "Norwegian Defence Materiel Agency",
-          "country": "NOR",
-          "cpv": [
-            "35710000",
-            "34930000",
-            "34933000",
-            "35700000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/599859-2026"
-        },
-        {
-          "id": "600598-2026",
-          "date": "2026-09-01",
-          "title": "Lithuania – Cartridges – 7,62x51 mm kalibro trasuojantys šoviniai (PPR-623)",
-          "buyer": "Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos",
-          "country": "LTU",
-          "cpv": [
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/600598-2026"
-        },
-        {
-          "id": "601199-2026",
-          "date": "2026-09-01",
-          "title": "Greece – Specialist vehicles – Προμήθεια Συστημάτων Κέντρου Ελέγχου, Ασύρματης Επικοινωνίας, Drones και Κινητού Επιχειρησιακού Κέντρου στο πλαίσιο της Πολιτικής Προστασίας του Δήμου Θήρας",
-          "buyer": "ΔΗΜΟΣ ΘΗΡΑΣ",
-          "country": "GRC",
-          "cpv": [
-            "34114000",
-            "32510000",
-            "48810000",
-            "35613000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/601199-2026"
-        },
-        {
-          "id": "601974-2026",
-          "date": "2026-09-01",
-          "title": "Poland – Mechanical spare parts for military vehicles – DOSTAWA – ZAKUP CZĘŚCI ZAMIENNYCH DO POJAZDÓW BOJOWYCH KTO ROSOMAK",
-          "buyer": "4 Regionalna Baza Logistyczna",
-          "country": "POL",
-          "cpv": [
-            "35421000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/601974-2026"
-        },
-        {
-          "id": "596437-2026",
-          "date": "2026-08-31",
-          "title": "Germany – Military vehicles and associated parts – Kaufbedarf EU 124213338 STROMVERSORGUNGSGERAET für PzH 2000",
-          "buyer": "HIL Heeresinstandsetzungslogistik GmbH",
-          "country": "DEU",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/596437-2026"
-        },
-        {
-          "id": "596986-2026",
-          "date": "2026-08-31",
-          "title": "Germany – Firefighting vehicles – Weißenthurm MTW, KDOW Kats",
-          "buyer": "Verbandsgemeindeverwaltung Weißenthurm",
-          "country": "DEU",
-          "cpv": [
-            "34144210",
-            "35000000",
-            "35412200",
-            "35412500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/596986-2026"
-        },
-        {
-          "id": "597301-2026",
-          "date": "2026-08-31",
-          "title": "Germany – Military vehicles and associated parts – 6003081047-BAAINBw E2.3Y_E23Y003316",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/597301-2026"
-        },
-        {
-          "id": "597843-2026",
-          "date": "2026-08-31",
-          "title": "Spain – Control, safety or signalling equipment for port installations – Suministro, instalación, puesta en servicio y mantenimiento de un Sistema de Inspección no intrusivo de vehículos y contenedores en diferentes Autoridades Portuarias",
-          "buyer": "Presidencia del Organismo Público Puertos del Estado",
-          "country": "ESP",
-          "cpv": [
-            "34998000",
-            "35720000",
-            "50610000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/597843-2026"
-        },
-        {
-          "id": "599360-2026",
-          "date": "2026-08-31",
-          "title": "Romania – Military transport aircrafts – Avion multirol” finanțat prin Programul Security Action for Europe - SAFE",
-          "buyer": "INSPECTORATUL GENERAL DE AVIATIE",
-          "country": "ROU",
-          "cpv": [
-            "35611400"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/599360-2026"
-        },
-        {
-          "id": "599567-2026",
-          "date": "2026-08-31",
-          "title": "Germany – Armoured personnel carriers – Hattingen 4 MTW",
-          "buyer": "Stadt Hattingen",
-          "country": "DEU",
-          "cpv": [
-            "35412200",
-            "35000000",
-            "34144210"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/599567-2026"
-        },
-        {
-          "id": "597320-2026",
-          "date": "2026-08-31",
-          "title": "Netherlands – Radio, television, communication, telecommunication and related equipment – Communicatiemiddelen (C2000 en object)",
-          "buyer": "VRBZO Veiligheidsregio Brabant Zuid Oost",
-          "country": "NLD",
-          "cpv": [
-            "32000000",
-            "35710000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/597320-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 9.5,
+      "score": 9.3,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-06-11",
-      "reporting_lag_days": 82,
-      "freshness_factor": 0.32,
-      "current_14d_weekly_equivalent": 964246253.62,
+      "reporting_lag_days": 83,
+      "freshness_factor": 0.31,
+      "current_14d_weekly_equivalent": 962097525.31,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -248,7 +244,7 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 101896331.87
+          "amount": 98495189.63
         },
         {
           "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
@@ -405,15 +401,6 @@
         },
         {
           "date": "2026-06-01",
-          "award_id": "W58RGZ21C0015",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 3431088.0,
-          "agency": "Department of the Army",
-          "description": "APACHE AIRCRAFT FULL RATE PRODUCTION FOR LOTS 12 THROUGH 15.",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-01",
           "award_id": "SPE4A726C0090",
           "recipient": "CR DANIELS INC",
           "amount": 3339974.66,
@@ -438,51 +425,70 @@
           "agency": "Department of the Navy",
           "description": "INCREMENTALLY FUND CLIN 0102.",
           "naics": "336419"
+        },
+        {
+          "date": "2026-06-01",
+          "award_id": "N0038326FFB03",
+          "recipient": "MOOG MILITARY AIRCRAFT LLC",
+          "amount": 1988280.0,
+          "agency": "Department of the Navy",
+          "description": "PLANETARY-BLADE FOL",
+          "naics": "336413"
         }
       ]
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 38.5,
-      "status": "WATCH",
+      "score": 19.2,
+      "status": "BASELINE",
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 88,
-      "current_14d_weekly_equivalent": 7.75,
-      "baseline_weekly_median": 3.0,
-      "anomaly_z": 1.07,
+      "coverage": 89,
+      "current_14d_weekly_equivalent": 5.0,
+      "baseline_weekly_median": 5.75,
+      "anomaly_z": -0.09,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
-          "date": "2026-08-27",
+          "date": "2026-09-01",
+          "title": "Keynote Speech Defense Industry Forum",
+          "url": "https://www.nato.int/en/news-and-events/events/transcripts/2024/07/09/keynote-speech-defense-industry-forum",
+          "terms": [
+            "industry"
+          ],
+          "weight": 2.5,
+          "age": 0
+        },
+        {
+          "date": "2026-09-01",
           "title": "Keynote Speech By The Nato Secretary General At The Defense Industry Forum",
           "url": "https://www.nato.int/en/multimedia/multimedia/audios/2024/07/09/keynote-speech-by-the-nato-secretary-general-at-the-defense-industry-forum",
           "terms": [
             "industry"
           ],
           "weight": 2.5,
-          "age": 5
+          "age": 0
         },
         {
-          "date": "2026-08-27",
+          "date": "2026-09-01",
           "title": "Keynote Speech By The Nato Secretary General At The Defense Industry Forum",
           "url": "https://www.nato.int/en/multimedia/multimedia/photos/2024/07/09/keynote-speech-by-the-nato-secretary-general-at-the-defense-industry-forum",
           "terms": [
             "industry"
           ],
           "weight": 2.5,
-          "age": 5
+          "age": 0
         },
         {
-          "date": "2026-08-27",
+          "date": "2026-09-01",
           "title": "Keynote Speech By The Nato Secretary General At The Defense Industry Forum",
           "url": "https://www.nato.int/en/multimedia/multimedia/videos/2024/07/09/keynote-speech-by-the-nato-secretary-general-at-the-defense-industry-forum",
           "terms": [
             "industry"
           ],
           "weight": 2.5,
-          "age": 5
+          "age": 0
         },
         {
           "date": "2026-08-19",
@@ -729,6 +735,11 @@
     {
       "generated": "2026-09-01T21:14:42.593321+00:00",
       "score": 24.8,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-02T04:57:02.098899+00:00",
+      "score": 20.0,
       "status": "BASELINE"
     }
   ],
