@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-02T11:37:46.666942+00:00",
+    "generated": "2026-09-02T16:48:13.892187+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 19.2,
-    "raw_score": 19.2,
+    "score": 19.3,
+    "raw_score": 19.3,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 19.2/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 19.3/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -33,15 +33,15 @@
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
-          "id": "603305-2026",
+          "id": "605125-2026",
           "date": "2026-09-02",
-          "title": "Poland – Parts of firearms and ammunition – Dostawa technicznych środków materiałowych (tśm) do 7,62 mm karabinu maszynowego UKM 2000 i odmian",
-          "buyer": "2. Regionalna Baza Logistyczna",
-          "country": "POL",
+          "title": "France – Unmanned aerial vehicles – Acquisition de drones avec capteur thermique radiométrique au profit de l'armée tunisienne",
+          "buyer": "Economat des armées",
+          "country": "FRA",
           "cpv": [
-            "35340000"
+            "35613000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/603305-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/605125-2026"
         },
         {
           "id": "604732-2026",
@@ -56,15 +56,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/604732-2026"
         },
         {
-          "id": "605125-2026",
+          "id": "603305-2026",
           "date": "2026-09-02",
-          "title": "France – Unmanned aerial vehicles – Acquisition de drones avec capteur thermique radiométrique au profit de l'armée tunisienne",
-          "buyer": "Economat des armées",
-          "country": "FRA",
+          "title": "Poland – Parts of firearms and ammunition – Dostawa technicznych środków materiałowych (tśm) do 7,62 mm karabinu maszynowego UKM 2000 i odmian",
+          "buyer": "2. Regionalna Baza Logistyczna",
+          "country": "POL",
           "cpv": [
-            "35613000"
+            "35340000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/605125-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/603305-2026"
         },
         {
           "id": "604029-2026",
@@ -175,17 +175,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/603668-2026"
         },
         {
-          "id": "601197-2026",
-          "date": "2026-09-01",
-          "title": "Germany – Parts of military vehicles – 6002967080-BAAINBw E2.5F, Rohr, Rohrwaffenbaugruppe",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
-          "country": "DEU",
-          "cpv": [
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/601197-2026"
-        },
-        {
           "id": "600031-2026",
           "date": "2026-09-01",
           "title": "Poland – Weapons, ammunition and associated parts – Dostawa flar do F-35",
@@ -195,6 +184,17 @@
             "35300000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/600031-2026"
+        },
+        {
+          "id": "601197-2026",
+          "date": "2026-09-01",
+          "title": "Germany – Parts of military vehicles – 6002967080-BAAINBw E2.5F, Rohr, Rohrwaffenbaugruppe",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+          "country": "DEU",
+          "cpv": [
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/601197-2026"
         },
         {
           "id": "602443-2026",
@@ -225,7 +225,7 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 6.4,
+      "score": 6.5,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -234,7 +234,7 @@
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 83,
       "freshness_factor": 0.31,
-      "current_14d_weekly_equivalent": 118404402.19,
+      "current_14d_weekly_equivalent": 121761097.59,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -248,7 +248,7 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 11540031.27
+          "amount": 14971119.27
         },
         {
           "name": "ROLLS-ROYCE CORPORATION",
@@ -444,7 +444,7 @@
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 89,
+      "coverage": 88,
       "current_14d_weekly_equivalent": 5.0,
       "baseline_weekly_median": 5.75,
       "anomaly_z": -0.09,
@@ -508,7 +508,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 13
+          "age": 14
         },
         {
           "date": "2026-08-19",
@@ -745,6 +745,11 @@
     {
       "generated": "2026-09-02T11:37:46.666942+00:00",
       "score": 19.2,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-02T16:48:13.892187+00:00",
+      "score": 19.3,
       "status": "BASELINE"
     }
   ],
