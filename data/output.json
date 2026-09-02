@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-02T16:48:13.892187+00:00",
+    "generated": "2026-09-02T21:12:58.022096+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -33,15 +33,15 @@
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
-          "id": "605125-2026",
+          "id": "603305-2026",
           "date": "2026-09-02",
-          "title": "France – Unmanned aerial vehicles – Acquisition de drones avec capteur thermique radiométrique au profit de l'armée tunisienne",
-          "buyer": "Economat des armées",
-          "country": "FRA",
+          "title": "Poland – Parts of firearms and ammunition – Dostawa technicznych środków materiałowych (tśm) do 7,62 mm karabinu maszynowego UKM 2000 i odmian",
+          "buyer": "2. Regionalna Baza Logistyczna",
+          "country": "POL",
           "cpv": [
-            "35613000"
+            "35340000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/605125-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/603305-2026"
         },
         {
           "id": "604732-2026",
@@ -56,15 +56,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/604732-2026"
         },
         {
-          "id": "603305-2026",
+          "id": "605125-2026",
           "date": "2026-09-02",
-          "title": "Poland – Parts of firearms and ammunition – Dostawa technicznych środków materiałowych (tśm) do 7,62 mm karabinu maszynowego UKM 2000 i odmian",
-          "buyer": "2. Regionalna Baza Logistyczna",
-          "country": "POL",
+          "title": "France – Unmanned aerial vehicles – Acquisition de drones avec capteur thermique radiométrique au profit de l'armée tunisienne",
+          "buyer": "Economat des armées",
+          "country": "FRA",
           "cpv": [
-            "35340000"
+            "35613000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/603305-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/605125-2026"
         },
         {
           "id": "604029-2026",
@@ -175,17 +175,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/603668-2026"
         },
         {
-          "id": "600031-2026",
-          "date": "2026-09-01",
-          "title": "Poland – Weapons, ammunition and associated parts – Dostawa flar do F-35",
-          "buyer": "Agencja Uzbrojenia, au.f35@mon.gov.pl",
-          "country": "POL",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/600031-2026"
-        },
-        {
           "id": "601197-2026",
           "date": "2026-09-01",
           "title": "Germany – Parts of military vehicles – 6002967080-BAAINBw E2.5F, Rohr, Rohrwaffenbaugruppe",
@@ -195,6 +184,17 @@
             "35420000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/601197-2026"
+        },
+        {
+          "id": "600031-2026",
+          "date": "2026-09-01",
+          "title": "Poland – Weapons, ammunition and associated parts – Dostawa flar do F-35",
+          "buyer": "Agencja Uzbrojenia, au.f35@mon.gov.pl",
+          "country": "POL",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/600031-2026"
         },
         {
           "id": "602443-2026",
@@ -234,7 +234,7 @@
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 83,
       "freshness_factor": 0.31,
-      "current_14d_weekly_equivalent": 121761097.59,
+      "current_14d_weekly_equivalent": 124584000.69,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -247,16 +247,16 @@
           "amount": 33015568.03
         },
         {
+          "name": "ATAP INC",
+          "amount": 20217284.0
+        },
+        {
           "name": "THE BOEING COMPANY",
-          "amount": 14971119.27
+          "amount": 11503314.74
         },
         {
           "name": "ROLLS-ROYCE CORPORATION",
           "amount": 10769906.1
-        },
-        {
-          "name": "ATAP INC",
-          "amount": 10108642.0
         },
         {
           "name": "STANDARD AERO (SAN ANTONIO) INC.",
@@ -308,6 +308,15 @@
           "agency": "Department of the Navy",
           "description": "MISSIONCARE - 5TH INCR.",
           "naics": "336412"
+        },
+        {
+          "date": "2026-06-02",
+          "award_id": "FA853226F0227",
+          "recipient": "ATAP INC",
+          "amount": 9999900.0,
+          "agency": "Department of the Air Force",
+          "description": "SOURCING AND ACQUIRING COMMON STOCK EQUIPMENT.",
+          "naics": "336413"
         },
         {
           "date": "2026-06-02",
@@ -410,29 +419,20 @@
         },
         {
           "date": "2026-06-02",
+          "award_id": "N0038326FS50S",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 2298990.0,
+          "agency": "Department of the Navy",
+          "description": "TRUSS ASSY,AIRCRAFT",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-02",
           "award_id": "FA873015C0003",
           "recipient": "THE BOEING COMPANY",
           "amount": 1606930.0,
           "agency": "Department of the Air Force",
           "description": "JAPAN AIRBORNE WARNING AND CONTROL SYSTEM DESIGN AND PRODUCTION",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-02",
-          "award_id": "S4420A26F0022",
-          "recipient": "RAYTHEON COMPANY",
-          "amount": 1480501.0,
-          "agency": "Defense Contract Management Agency",
-          "description": "SUPPLY CONTRACTS AND PRICED ORDERS- GOVERNMENT FURNISHED TEST EQUIPMENT SERVICES",
-          "naics": "336419"
-        },
-        {
-          "date": "2026-06-02",
-          "award_id": "SPRRA126C0015",
-          "recipient": "EATON AEROSPACE, LLC",
-          "amount": 1301949.0,
-          "agency": "Defense Logistics Agency",
-          "description": "SPARES",
           "naics": "336413"
         }
       ]
@@ -749,6 +749,11 @@
     },
     {
       "generated": "2026-09-02T16:48:13.892187+00:00",
+      "score": 19.3,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-02T21:12:58.022096+00:00",
       "score": 19.3,
       "status": "BASELINE"
     }
