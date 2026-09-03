@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-03T04:54:11.069424+00:00",
+    "generated": "2026-09-03T11:36:00.542721+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 19.8,
-    "raw_score": 19.8,
+    "score": 20.2,
+    "raw_score": 20.2,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 19.8/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 20.2/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -93,15 +93,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/606954-2026"
         },
         {
-          "id": "603305-2026",
+          "id": "605125-2026",
           "date": "2026-09-02",
-          "title": "Poland – Parts of firearms and ammunition – Dostawa technicznych środków materiałowych (tśm) do 7,62 mm karabinu maszynowego UKM 2000 i odmian",
-          "buyer": "2. Regionalna Baza Logistyczna",
-          "country": "POL",
+          "title": "France – Unmanned aerial vehicles – Acquisition de drones avec capteur thermique radiométrique au profit de l'armée tunisienne",
+          "buyer": "Economat des armées",
+          "country": "FRA",
           "cpv": [
-            "35340000"
+            "35613000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/603305-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/605125-2026"
         },
         {
           "id": "604732-2026",
@@ -116,15 +116,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/604732-2026"
         },
         {
-          "id": "605125-2026",
+          "id": "603305-2026",
           "date": "2026-09-02",
-          "title": "France – Unmanned aerial vehicles – Acquisition de drones avec capteur thermique radiométrique au profit de l'armée tunisienne",
-          "buyer": "Economat des armées",
-          "country": "FRA",
+          "title": "Poland – Parts of firearms and ammunition – Dostawa technicznych środków materiałowych (tśm) do 7,62 mm karabinu maszynowego UKM 2000 i odmian",
+          "buyer": "2. Regionalna Baza Logistyczna",
+          "country": "POL",
           "cpv": [
-            "35613000"
+            "35340000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/605125-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/603305-2026"
         },
         {
           "id": "604029-2026",
@@ -227,7 +227,7 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 6.3,
+      "score": 7.9,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -236,41 +236,41 @@
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 84,
       "freshness_factor": 0.3,
-      "current_14d_weekly_equivalent": 121784919.04,
+      "current_14d_weekly_equivalent": 421748732.35,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
-          "name": "NORTHROP GRUMMAN SYSTEMS CORP",
-          "amount": 105987880.0
+          "name": "THE BOEING COMPANY",
+          "amount": 496494857.23
+        },
+        {
+          "name": "AEROVIRONMENT, INC",
+          "amount": 117306231.51
+        },
+        {
+          "name": "GRIFFON AEROSPACE, INC.",
+          "amount": 67940895.16
+        },
+        {
+          "name": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 46244543.0
         },
         {
           "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 33015568.03
+          "amount": 24303252.14
         },
         {
-          "name": "THE BOEING COMPANY",
-          "amount": 14971119.27
+          "name": "REDWIRE DEFENSE TECH OPERATIONS, LLC",
+          "amount": 15857020.0
         },
         {
           "name": "ROLLS-ROYCE CORPORATION",
           "amount": 10769906.1
         },
         {
-          "name": "ATAP INC",
-          "amount": 10108642.0
-        },
-        {
-          "name": "STANDARD AERO (SAN ANTONIO) INC.",
-          "amount": 9876229.78
-        },
-        {
-          "name": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 9851501.0
-        },
-        {
-          "name": "ANCRA INTERNATIONAL LLC",
-          "amount": 7200000.0
+          "name": "ACMT, INC.",
+          "amount": 8943000.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -285,157 +285,157 @@
           "naics": "336411"
         },
         {
-          "date": "2026-06-02",
-          "award_id": "N0001926F0288",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
-          "amount": 65532750.0,
-          "agency": "Department of the Navy",
-          "description": "FMU-139D/B BOMB, ELECTRONIC FUZE SYSTEM OP7 DOMESTIC ORDER",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-06-02",
-          "award_id": "N0001926F0288",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
-          "amount": 40455130.0,
-          "agency": "Department of the Navy",
-          "description": "FMU-139D/B BOMB, ELECTRONIC FUZE SYSTEM FMS ORDER",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-06-02",
-          "award_id": "N0001926F0047",
-          "recipient": "ROLLS-ROYCE CORPORATION",
-          "amount": 10769906.1,
-          "agency": "Department of the Navy",
-          "description": "MISSIONCARE - 5TH INCR.",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-06-02",
-          "award_id": "FA853226F0227",
-          "recipient": "ATAP INC",
-          "amount": 9999900.0,
+          "date": "2026-06-03",
+          "award_id": "FA821326FB025",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 358281487.56,
           "agency": "Department of the Air Force",
-          "description": "SOURCING AND ACQUIRING COMMON STOCK EQUIPMENT.",
-          "naics": "336413"
+          "description": "FMS LOT 22 ORDER",
+          "naics": "332993"
         },
         {
-          "date": "2026-06-02",
-          "award_id": "W58RGZ25F0351",
+          "date": "2026-06-03",
+          "award_id": "FA821326FB024",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 128485980.0,
+          "agency": "Department of the Air Force",
+          "description": "UNITED STATES AIR FORCE SMALL DIAMETER BOMB INCREMENT LOT 22 ORDER",
+          "naics": "332993"
+        },
+        {
+          "date": "2026-06-03",
+          "award_id": "W58RGZ26F0334",
+          "recipient": "AEROVIRONMENT, INC",
+          "amount": 117306231.51,
+          "agency": "Department of the Army",
+          "description": "AWARD IN SUPPORT OF TUAS BATTALION RECONNAISSANCE UAV REQUIREMENT.",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-03",
+          "award_id": "W58RGZ26F0332",
+          "recipient": "GRIFFON AEROSPACE, INC.",
+          "amount": 67940895.16,
+          "agency": "Department of the Army",
+          "description": "IN ACCORDANCE WITH THE DIRECTIVES ESTABLISHED IN THE DEPARTMENT OF WAR MEMORANDUM DATED 10 JULY 2025, IN SUPPORT OF EXECUTIVE ORDER 14307-UNLEASHING U.S. MILITARY DRONE DOMINANCE",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-03",
+          "award_id": "W58RGZ25F0233",
           "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 9851501.0,
+          "amount": 46244543.0,
           "agency": "Department of the Army",
-          "description": "USAF F-16 TCTO SUITE INTEGRATION",
+          "description": "MODIFICATION AND DELIVERY OF BLACKHAWK ACCELERATED AIRCRAFT FOR THE BRAZILIAN ARMY COMMISSION UNDER FOREIGN MILITARY SALES.",
           "naics": "336413"
         },
         {
-          "date": "2026-06-02",
-          "award_id": "N0001926F0302",
-          "recipient": "STANDARD AERO (SAN ANTONIO) INC.",
-          "amount": 9443615.78,
-          "agency": "Department of the Navy",
-          "description": "REPAIR T56-A-427A POWER SECTION MODULES, REDUCTION GEARBOX ASSY, AND O&A",
+          "date": "2026-06-03",
+          "award_id": "W58RGZ26F0333",
+          "recipient": "REDWIRE DEFENSE TECH OPERATIONS, LLC",
+          "amount": 15857020.0,
+          "agency": "Department of the Army",
+          "description": "TACTICAL UNCREWED AIRCRAFT SYSTEMS (TUAS) LONG RANGE RECONNAISSANCE (LRR) PROGRAM",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-03",
+          "award_id": "FA861123F0002",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 14000000.0,
+          "agency": "Department of the Air Force",
+          "description": "SEE EMD PART B",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-03",
+          "award_id": "SPRTA126C0012",
+          "recipient": "ACMT, INC.",
+          "amount": 8943000.0,
+          "agency": "Defense Logistics Agency",
+          "description": "LINER, AUGMENTOR FOR THE F100",
           "naics": "336412"
         },
         {
-          "date": "2026-06-02",
-          "award_id": "SPE4A726F7525",
-          "recipient": "ANCRA INTERNATIONAL LLC",
-          "amount": 7200000.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512153149!TIE DOWN,CARGO,AIRC",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-02",
-          "award_id": "SPE4A726F7522",
-          "recipient": "DAVIS AIRCRAFT PRODUCTS CO., INC.",
-          "amount": 6709440.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512153141!TIE DOWN,CARGO,AIRC",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-02",
-          "award_id": "W31P4Q25C0026",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 4748443.21,
-          "agency": "Department of the Army",
-          "description": "INCREMENTAL FUNDING OF CLIN 2000",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-06-02",
-          "award_id": "N0001924F0304",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 4733315.9,
-          "agency": "Department of the Navy",
-          "description": "THE PURPOSE OF THIS MODIFICATION IS TO ADD FUNDING TO CLIN 0502 FOR AC OVERRUNS. PMT PID: N00019-26-NORFP-TPM265-0544.",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-02",
-          "award_id": "W58RGZ24C0031",
-          "recipient": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.",
-          "amount": 3410500.0,
-          "agency": "Department of the Army",
-          "description": "PERFORMANCE BASED LOGISITICS",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-02",
-          "award_id": "N0002424C6104",
-          "recipient": "RAYTHEON COMPANY",
-          "amount": 3032712.0,
-          "agency": "Department of the Navy",
-          "description": "FUNDING AND OPTION EXERCISE.",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-06-02",
-          "award_id": "N0001923F0565",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 2673129.0,
-          "agency": "Department of the Navy",
-          "description": "THE PURPOSE OF THIS MODIFICATION IS TO FUND CLIN 0402 FOR SLM OP23 LOT 4 OVERRUN. PMT PID: N00019-26-NORFP-TPM265-0555",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-02",
-          "award_id": "N0038326FS50S",
+          "date": "2026-06-03",
+          "award_id": "HQ014711C0006",
           "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 2298990.0,
-          "agency": "Department of the Navy",
-          "description": "TRUSS ASSY,AIRCRAFT",
+          "amount": 4826326.48,
+          "agency": "Missile Defense Agency",
+          "description": "IRBM TARGETS (RECURRING)",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-06-03",
+          "award_id": "W519TC24F0493",
+          "recipient": "ACCURATE ENERGETIC SYSTEMS, LLC",
+          "amount": 4120539.94,
+          "agency": "Department of the Army",
+          "description": "DEFINITIZATION",
+          "naics": "332993"
+        },
+        {
+          "date": "2026-06-03",
+          "award_id": "SPRHA126C0010",
+          "recipient": "TRANSAERO, INC.",
+          "amount": 3811024.25,
+          "agency": "Defense Logistics Agency",
+          "description": "F-5 WEAPON SYSTEM",
           "naics": "336413"
         },
         {
-          "date": "2026-06-02",
-          "award_id": "FA873015C0003",
+          "date": "2026-06-03",
+          "award_id": "FA813825F1003",
           "recipient": "THE BOEING COMPANY",
-          "amount": 1606930.0,
+          "amount": 3219203.13,
           "agency": "Department of the Air Force",
-          "description": "JAPAN AIRBORNE WARNING AND CONTROL SYSTEM DESIGN AND PRODUCTION",
-          "naics": "336413"
+          "description": "B-1 B-52 ENGINEERING SERVICES (BBES)",
+          "naics": "336411"
         },
         {
-          "date": "2026-06-02",
-          "award_id": "S4420A26F0022",
-          "recipient": "RAYTHEON COMPANY",
-          "amount": 1480501.0,
-          "agency": "Defense Contract Management Agency",
-          "description": "SUPPLY CONTRACTS AND PRICED ORDERS- GOVERNMENT FURNISHED TEST EQUIPMENT SERVICES",
+          "date": "2026-06-03",
+          "award_id": "FA813825F0003",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 2873830.0,
+          "agency": "Department of the Air Force",
+          "description": "BOMBERS FLEXIBLE ACQUISITION AND SUSTAINMENT (BFAS) B-1B EXTERNAL CARRIAGE",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-03",
+          "award_id": "FA863418C2701",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 2500000.0,
+          "agency": "Department of the Air Force",
+          "description": "F-15, FOREIGN MILITARY SALES, QATAR PROGRAM",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-03",
+          "award_id": "N0001926F2183",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 2436255.0,
+          "agency": "Department of the Navy",
+          "description": "ADDITIONAL CAPABILITY SW AND SE",
           "naics": "336419"
         },
         {
-          "date": "2026-06-02",
-          "award_id": "SPRRA126C0015",
-          "recipient": "EATON AEROSPACE, LLC",
-          "amount": 1301949.0,
-          "agency": "Defense Logistics Agency",
-          "description": "SPARES",
+          "date": "2026-06-03",
+          "award_id": "W58RGZ26C0016",
+          "recipient": "MARTIN-BAKER AMERICA INC",
+          "amount": 2141765.36,
+          "agency": "Department of the Army",
+          "description": "ONE TIME BUY SEAT, AIRCRAFT 1680-01-560-8741.",
           "naics": "336413"
+        },
+        {
+          "date": "2026-06-03",
+          "award_id": "FA850926FB013",
+          "recipient": "LOCKHEED MARTIN CORP",
+          "amount": 2134361.88,
+          "agency": "Department of the Air Force",
+          "description": "IRSS ENGINE STUDY",
+          "naics": "336411"
         }
       ]
     },
@@ -460,7 +460,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-01",
@@ -470,7 +470,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-01",
@@ -480,7 +480,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-01",
@@ -490,7 +490,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-08-19",
@@ -500,7 +500,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 14
+          "age": 15
         },
         {
           "date": "2026-08-19",
@@ -520,7 +520,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 14
+          "age": 15
         },
         {
           "date": "2026-08-19",
@@ -530,7 +530,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 14
+          "age": 15
         },
         {
           "date": "2026-08-06",
@@ -540,7 +540,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 27
+          "age": 28
         }
       ]
     },
@@ -762,6 +762,11 @@
     {
       "generated": "2026-09-03T04:54:11.069424+00:00",
       "score": 19.8,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-03T11:36:00.542721+00:00",
+      "score": 20.2,
       "status": "BASELINE"
     }
   ],
