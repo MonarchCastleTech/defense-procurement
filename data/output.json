@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-03T16:37:49.227769+00:00",
+    "generated": "2026-09-03T21:15:19.297357+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -104,17 +104,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/603305-2026"
         },
         {
-          "id": "605125-2026",
-          "date": "2026-09-02",
-          "title": "France – Unmanned aerial vehicles – Acquisition de drones avec capteur thermique radiométrique au profit de l'armée tunisienne",
-          "buyer": "Economat des armées",
-          "country": "FRA",
-          "cpv": [
-            "35613000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/605125-2026"
-        },
-        {
           "id": "604732-2026",
           "date": "2026-09-02",
           "title": "Germany – Non-piloted aircraft – Kauf von großen Drohnensystemen für die Polizei NRW",
@@ -125,6 +114,17 @@
             "35613000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/604732-2026"
+        },
+        {
+          "id": "605125-2026",
+          "date": "2026-09-02",
+          "title": "France – Unmanned aerial vehicles – Acquisition de drones avec capteur thermique radiométrique au profit de l'armée tunisienne",
+          "buyer": "Economat des armées",
+          "country": "FRA",
+          "cpv": [
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/605125-2026"
         },
         {
           "id": "604029-2026",
@@ -236,13 +236,13 @@
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 84,
       "freshness_factor": 0.3,
-      "current_14d_weekly_equivalent": 420897959.21,
+      "current_14d_weekly_equivalent": 422034628.84,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
           "name": "THE BOEING COMPANY",
-          "amount": 496494857.23
+          "amount": 497053597.23
         },
         {
           "name": "AEROVIRONMENT, INC",
@@ -771,6 +771,11 @@
     },
     {
       "generated": "2026-09-03T16:37:49.227769+00:00",
+      "score": 20.2,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-03T21:15:19.297357+00:00",
       "score": 20.2,
       "status": "BASELINE"
     }
