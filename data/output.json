@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-03T11:36:00.542721+00:00",
+    "generated": "2026-09-03T16:37:49.227769+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -33,20 +33,6 @@
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
-          "id": "607315-2026",
-          "date": "2026-09-03",
-          "title": "Norway – Security, fire-fighting, police and defence equipment – Procurement of a framework agreement for the purchase of armoured vehicles",
-          "buyer": "Ministry of Foreign Affairs",
-          "country": "NOR",
-          "cpv": [
-            "35000000",
-            "35400000",
-            "35410000",
-            "35412000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/607315-2026"
-        },
-        {
           "id": "608373-2026",
           "date": "2026-09-03",
           "title": "Lithuania – Firearms – TAIKLIOJO ŠAULIO GINKLO KOMPLEKTAS",
@@ -67,6 +53,20 @@
             "35400000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/608983-2026"
+        },
+        {
+          "id": "607315-2026",
+          "date": "2026-09-03",
+          "title": "Norway – Security, fire-fighting, police and defence equipment – Procurement of a framework agreement for the purchase of armoured vehicles",
+          "buyer": "Ministry of Foreign Affairs",
+          "country": "NOR",
+          "cpv": [
+            "35000000",
+            "35400000",
+            "35410000",
+            "35412000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/607315-2026"
         },
         {
           "id": "609290-2026",
@@ -93,6 +93,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/606954-2026"
         },
         {
+          "id": "603305-2026",
+          "date": "2026-09-02",
+          "title": "Poland – Parts of firearms and ammunition – Dostawa technicznych środków materiałowych (tśm) do 7,62 mm karabinu maszynowego UKM 2000 i odmian",
+          "buyer": "2. Regionalna Baza Logistyczna",
+          "country": "POL",
+          "cpv": [
+            "35340000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/603305-2026"
+        },
+        {
           "id": "605125-2026",
           "date": "2026-09-02",
           "title": "France – Unmanned aerial vehicles – Acquisition de drones avec capteur thermique radiométrique au profit de l'armée tunisienne",
@@ -114,17 +125,6 @@
             "35613000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/604732-2026"
-        },
-        {
-          "id": "603305-2026",
-          "date": "2026-09-02",
-          "title": "Poland – Parts of firearms and ammunition – Dostawa technicznych środków materiałowych (tśm) do 7,62 mm karabinu maszynowego UKM 2000 i odmian",
-          "buyer": "2. Regionalna Baza Logistyczna",
-          "country": "POL",
-          "cpv": [
-            "35340000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/603305-2026"
         },
         {
           "id": "604029-2026",
@@ -236,7 +236,7 @@
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 84,
       "freshness_factor": 0.3,
-      "current_14d_weekly_equivalent": 421748732.35,
+      "current_14d_weekly_equivalent": 420897959.21,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -510,7 +510,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 14
+          "age": 15
         },
         {
           "date": "2026-08-19",
@@ -766,6 +766,11 @@
     },
     {
       "generated": "2026-09-03T11:36:00.542721+00:00",
+      "score": 20.2,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-03T16:37:49.227769+00:00",
       "score": 20.2,
       "status": "BASELINE"
     }
