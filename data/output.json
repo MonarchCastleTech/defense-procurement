@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-02T21:12:58.022096+00:00",
+    "generated": "2026-09-03T04:54:11.069424+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,27 +11,87 @@
     "source_notes": []
   },
   "warning": {
-    "score": 19.3,
-    "raw_score": 19.3,
+    "score": 19.8,
+    "raw_score": 19.8,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 19.3/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 19.8/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
     "eu_notices": {
       "key": "eu_notices",
-      "score": 38.0,
+      "score": 40.1,
       "status": "WATCH",
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 646,
-      "current_14d_weekly_equivalent": 53.0,
-      "baseline_weekly_median": 44.5,
-      "anomaly_z": 0.96,
+      "coverage": 636,
+      "current_14d_weekly_equivalent": 48.5,
+      "baseline_weekly_median": 44.0,
+      "anomaly_z": 1.21,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "607315-2026",
+          "date": "2026-09-03",
+          "title": "Norway – Security, fire-fighting, police and defence equipment – Procurement of a framework agreement for the purchase of armoured vehicles",
+          "buyer": "Ministry of Foreign Affairs",
+          "country": "NOR",
+          "cpv": [
+            "35000000",
+            "35400000",
+            "35410000",
+            "35412000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/607315-2026"
+        },
+        {
+          "id": "608373-2026",
+          "date": "2026-09-03",
+          "title": "Lithuania – Firearms – TAIKLIOJO ŠAULIO GINKLO KOMPLEKTAS",
+          "buyer": "Lietuvos šaulių sąjunga (PV)",
+          "country": "LTU",
+          "cpv": [
+            "35320000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/608373-2026"
+        },
+        {
+          "id": "608983-2026",
+          "date": "2026-09-03",
+          "title": "Germany – Military vehicles and associated parts – 6003111593-BAAINBw E2.3Y",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/608983-2026"
+        },
+        {
+          "id": "609290-2026",
+          "date": "2026-09-03",
+          "title": "Slovakia – Ammunition – Náboje pre dlhé strelné zbrane",
+          "buyer": "Ministerstvo vnútra Slovenskej republiky",
+          "country": "SVK",
+          "cpv": [
+            "35330000",
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/609290-2026"
+        },
+        {
+          "id": "606954-2026",
+          "date": "2026-09-03",
+          "title": "Germany – Firefighting vehicles – Kauf von 4 Mannschaftstransportfahrzeugen (MTF) für die Feuerwehr der Stadt Arnsberg",
+          "buyer": "Stadt Arnsberg",
+          "country": "DEU",
+          "cpv": [
+            "34144210",
+            "35412200"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/606954-2026"
+        },
         {
           "id": "603305-2026",
           "date": "2026-09-02",
@@ -162,79 +222,21 @@
             "35613000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/604800-2026"
-        },
-        {
-          "id": "603668-2026",
-          "date": "2026-09-02",
-          "title": "Germany – Military vehicles and associated parts – Ersatzteilfolgebedarf für verschiedene MatKl - Zeichnungsteile",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/603668-2026"
-        },
-        {
-          "id": "601197-2026",
-          "date": "2026-09-01",
-          "title": "Germany – Parts of military vehicles – 6002967080-BAAINBw E2.5F, Rohr, Rohrwaffenbaugruppe",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
-          "country": "DEU",
-          "cpv": [
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/601197-2026"
-        },
-        {
-          "id": "600031-2026",
-          "date": "2026-09-01",
-          "title": "Poland – Weapons, ammunition and associated parts – Dostawa flar do F-35",
-          "buyer": "Agencja Uzbrojenia, au.f35@mon.gov.pl",
-          "country": "POL",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/600031-2026"
-        },
-        {
-          "id": "602443-2026",
-          "date": "2026-09-01",
-          "title": "Netherlands – Tactical command, control and communication systems – Request for Information Future Tactical Communications, Information and C5ISR",
-          "buyer": "Ministerie van Defensie",
-          "country": "NLD",
-          "cpv": [
-            "35712000",
-            "32500000",
-            "35720000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/602443-2026"
-        },
-        {
-          "id": "599732-2026",
-          "date": "2026-09-01",
-          "title": "Switzerland – Radio, television, communication, telecommunication and related equipment – Range instrumentation radars for ballistic tests",
-          "buyer": "Federal Office for Defence Procurement, armasuisse",
-          "country": "CHE",
-          "cpv": [
-            "32000000",
-            "35700000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/599732-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 6.5,
+      "score": 6.3,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-06-11",
-      "reporting_lag_days": 83,
-      "freshness_factor": 0.31,
-      "current_14d_weekly_equivalent": 124584000.69,
+      "reporting_lag_days": 84,
+      "freshness_factor": 0.3,
+      "current_14d_weekly_equivalent": 121784919.04,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -247,16 +249,16 @@
           "amount": 33015568.03
         },
         {
-          "name": "ATAP INC",
-          "amount": 20217284.0
-        },
-        {
           "name": "THE BOEING COMPANY",
-          "amount": 11503314.74
+          "amount": 14971119.27
         },
         {
           "name": "ROLLS-ROYCE CORPORATION",
           "amount": 10769906.1
+        },
+        {
+          "name": "ATAP INC",
+          "amount": 10108642.0
         },
         {
           "name": "STANDARD AERO (SAN ANTONIO) INC.",
@@ -308,15 +310,6 @@
           "agency": "Department of the Navy",
           "description": "MISSIONCARE - 5TH INCR.",
           "naics": "336412"
-        },
-        {
-          "date": "2026-06-02",
-          "award_id": "FA853226F0227",
-          "recipient": "ATAP INC",
-          "amount": 9999900.0,
-          "agency": "Department of the Air Force",
-          "description": "SOURCING AND ACQUIRING COMMON STOCK EQUIPMENT.",
-          "naics": "336413"
         },
         {
           "date": "2026-06-02",
@@ -419,20 +412,29 @@
         },
         {
           "date": "2026-06-02",
-          "award_id": "N0038326FS50S",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 2298990.0,
-          "agency": "Department of the Navy",
-          "description": "TRUSS ASSY,AIRCRAFT",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-02",
           "award_id": "FA873015C0003",
           "recipient": "THE BOEING COMPANY",
           "amount": 1606930.0,
           "agency": "Department of the Air Force",
           "description": "JAPAN AIRBORNE WARNING AND CONTROL SYSTEM DESIGN AND PRODUCTION",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-02",
+          "award_id": "S4420A26F0022",
+          "recipient": "RAYTHEON COMPANY",
+          "amount": 1480501.0,
+          "agency": "Defense Contract Management Agency",
+          "description": "SUPPLY CONTRACTS AND PRICED ORDERS- GOVERNMENT FURNISHED TEST EQUIPMENT SERVICES",
+          "naics": "336419"
+        },
+        {
+          "date": "2026-06-02",
+          "award_id": "SPRRA126C0015",
+          "recipient": "EATON AEROSPACE, LLC",
+          "amount": 1301949.0,
+          "agency": "Defense Logistics Agency",
+          "description": "SPARES",
           "naics": "336413"
         }
       ]
@@ -551,8 +553,8 @@
       "retained": false,
       "coverage": 19,
       "current_14d_weekly_equivalent": 0.5,
-      "baseline_weekly_median": 1.0,
-      "anomaly_z": -0.34,
+      "baseline_weekly_median": 0.5,
+      "anomaly_z": 0.0,
       "method": "Defense Acquisition Regulations System publication velocity; rules weighted 1.5.",
       "evidence": [
         {
@@ -755,6 +757,11 @@
     {
       "generated": "2026-09-02T21:12:58.022096+00:00",
       "score": 19.3,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-03T04:54:11.069424+00:00",
+      "score": 19.8,
       "status": "BASELINE"
     }
   ],
