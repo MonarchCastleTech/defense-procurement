@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-03T21:15:19.297357+00:00",
+    "generated": "2026-09-04T04:59:01.409533+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,27 +11,64 @@
     "source_notes": []
   },
   "warning": {
-    "score": 20.2,
-    "raw_score": 20.2,
+    "score": 19.8,
+    "raw_score": 19.8,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 20.2/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 19.8/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
     "eu_notices": {
       "key": "eu_notices",
-      "score": 40.1,
+      "score": 37.9,
       "status": "WATCH",
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 636,
-      "current_14d_weekly_equivalent": 48.5,
-      "baseline_weekly_median": 44.0,
-      "anomaly_z": 1.21,
+      "coverage": 629,
+      "current_14d_weekly_equivalent": 47.0,
+      "baseline_weekly_median": 43.5,
+      "anomaly_z": 0.94,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "609937-2026",
+          "date": "2026-09-04",
+          "title": "Poland – Security, fire-fighting, police and defence equipment – Zakup broni, amunicji i środków przymusu bezpośredniego na potrzeby IAS w Rzeszowie",
+          "buyer": "Izba Administracji Skarbowej w Rzeszowie",
+          "country": "POL",
+          "cpv": [
+            "35000000",
+            "35331000",
+            "35321100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/609937-2026"
+        },
+        {
+          "id": "610878-2026",
+          "date": "2026-09-04",
+          "title": "Spain – Howitzer – Suministro para fabricación de bocas de Fuego Obús 155/52 SIAC/V07.",
+          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+          "country": "ESP",
+          "cpv": [
+            "35322500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/610878-2026"
+        },
+        {
+          "id": "609818-2026",
+          "date": "2026-09-04",
+          "title": "Hungary – Command, control, communication and computer systems – HM Válságreagáló Rendszer (HM VRR)",
+          "buyer": "Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság",
+          "country": "HUN",
+          "cpv": [
+            "35710000",
+            "71300000",
+            "48000000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/609818-2026"
+        },
         {
           "id": "608373-2026",
           "date": "2026-09-03",
@@ -186,57 +223,21 @@
             "35340000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/602919-2026"
-        },
-        {
-          "id": "605975-2026",
-          "date": "2026-09-02",
-          "title": "Germany – Firearms – Ex-Post:Rahmenvereinbarung zu Lieferung von H&K SFP9 Modelle",
-          "buyer": "Zentrale Polizeidirektion Niedersachsen",
-          "country": "DEU",
-          "cpv": [
-            "35320000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/605975-2026"
-        },
-        {
-          "id": "604046-2026",
-          "date": "2026-09-02",
-          "title": "Norway – Parts of light firearms – Procurement of cleaning equipment",
-          "buyer": "FORSVARSMATERIELL",
-          "country": "NOR",
-          "cpv": [
-            "35341000",
-            "50620000",
-            "50841000",
-            "50842000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/604046-2026"
-        },
-        {
-          "id": "604800-2026",
-          "date": "2026-09-02",
-          "title": "Czechia – Unmanned aerial vehicles – ZD1/2026-AU Bezpilotní prostředek typu VTOL",
-          "buyer": "Ministerstvo obrany",
-          "country": "CZE",
-          "cpv": [
-            "35613000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/604800-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 7.9,
+      "score": 7.7,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-06-11",
-      "reporting_lag_days": 84,
-      "freshness_factor": 0.3,
-      "current_14d_weekly_equivalent": 422034628.84,
+      "reporting_lag_days": 85,
+      "freshness_factor": 0.29,
+      "current_14d_weekly_equivalent": 421166627.21,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -448,8 +449,8 @@
       "retained": false,
       "coverage": 88,
       "current_14d_weekly_equivalent": 5.0,
-      "baseline_weekly_median": 5.75,
-      "anomaly_z": -0.09,
+      "baseline_weekly_median": 6.75,
+      "anomaly_z": -0.17,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -546,15 +547,15 @@
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
-      "score": 3.3,
+      "score": 5.3,
       "status": "BASELINE",
       "weight": 0.15,
       "available": true,
       "retained": false,
       "coverage": 19,
       "current_14d_weekly_equivalent": 0.5,
-      "baseline_weekly_median": 0.5,
-      "anomaly_z": 0.0,
+      "baseline_weekly_median": 0.0,
+      "anomaly_z": 0.25,
       "method": "Defense Acquisition Regulations System publication velocity; rules weighted 1.5.",
       "evidence": [
         {
@@ -570,48 +571,6 @@
           "type": "Notice",
           "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16682/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-dod",
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0332 through November 30, 2026. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
-        },
-        {
-          "date": "2026-07-31",
-          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 225, Foreign Acquisition and Related Clauses",
-          "type": "Notice",
-          "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15549/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-225",
-          "abstract": "The Defense Acquisition Regulations System has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act."
-        },
-        {
-          "date": "2026-07-31",
-          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS), Contract Financing",
-          "type": "Notice",
-          "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15548/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-contract",
-          "abstract": "The Defense Acquisition Regulations System has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act."
-        },
-        {
-          "date": "2026-07-31",
-          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement; Publicizing Contract Actions",
-          "type": "Notice",
-          "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15547/information-collection-requirement-defense-federal-acquisition-regulation-supplement-publicizing",
-          "abstract": "The Defense Acquisition Regulations System has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act."
-        },
-        {
-          "date": "2026-07-31",
-          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement; Subcontracting Policies and Procedures",
-          "type": "Notice",
-          "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15546/information-collection-requirement-defense-federal-acquisition-regulation-supplement-subcontracting",
-          "abstract": "The Defense Acquisition Regulations System has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act."
-        },
-        {
-          "date": "2026-07-31",
-          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement, Contract Pricing",
-          "type": "Notice",
-          "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15545/information-collection-requirement-defense-federal-acquisition-regulation-supplement-contract",
-          "abstract": "The Defense Acquisition Regulations System has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act."
-        },
-        {
-          "date": "2026-07-31",
-          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 204, Administrative Matters, and Related Clause at 252.204; OMB Control Number 0704-0225",
-          "type": "Notice",
-          "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15544/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-204",
-          "abstract": "The Defense Acquisition Regulations System has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act."
         }
       ]
     },
@@ -777,6 +736,11 @@
     {
       "generated": "2026-09-03T21:15:19.297357+00:00",
       "score": 20.2,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-04T04:59:01.409533+00:00",
+      "score": 19.8,
       "status": "BASELINE"
     }
   ],
