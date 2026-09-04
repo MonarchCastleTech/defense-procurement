@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-04T11:37:46.076887+00:00",
+    "generated": "2026-09-04T16:33:06.640051+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -164,6 +164,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/604732-2026"
         },
         {
+          "id": "605975-2026",
+          "date": "2026-09-02",
+          "title": "Germany – Firearms – Ex-Post:Rahmenvereinbarung zu Lieferung von H&K SFP9 Modelle",
+          "buyer": "Zentrale Polizeidirektion Niedersachsen",
+          "country": "DEU",
+          "cpv": [
+            "35320000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/605975-2026"
+        },
+        {
           "id": "604029-2026",
           "date": "2026-09-02",
           "title": "Norway – Repair and maintenance services – Framework agreement for building automation in Fredrikstad municipality, new",
@@ -212,23 +223,12 @@
             "35721000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/605077-2026"
-        },
-        {
-          "id": "602919-2026",
-          "date": "2026-09-02",
-          "title": "Czechia – Parts of firearms and ammunition – ND-zbraně zahraniční (ostatní)výrobci",
-          "buyer": "Ministerstvo obrany",
-          "country": "CZE",
-          "cpv": [
-            "35340000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/602919-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 6.4,
+      "score": 6.2,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -237,13 +237,13 @@
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 85,
       "freshness_factor": 0.29,
-      "current_14d_weekly_equivalent": 144301235.69,
+      "current_14d_weekly_equivalent": 131866717.36,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
           "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 171240420.59
+          "amount": 147389589.68
         },
         {
           "name": "THE BOEING COMPANY",
@@ -293,15 +293,6 @@
           "agency": "Department of the Army",
           "description": "PRECISION STRIKE MISSILE (PRSM) FOR FISCAL YEARS (FY) 2025-2029 INDEFINITE DELIVERY / INDEFINITE QUANTITY (IDIQ) DELIVERY ORDER FRP 1 FY26.",
           "naics": "336413"
-        },
-        {
-          "date": "2026-06-04",
-          "award_id": "FA852826FB003",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 23850830.91,
-          "agency": "Department of the Air Force",
-          "description": "FY26 U-2 SUSTAINMENT AND SUPPORT SERVICES",
-          "naics": "336411"
         },
         {
           "date": "2026-06-04",
@@ -437,6 +428,15 @@
           "agency": "Department of the Army",
           "description": "AIRBORNE NON-KINETIC SYSTEMS FOR TEST (ANKST)",
           "naics": "336419"
+        },
+        {
+          "date": "2026-06-04",
+          "award_id": "N6833526C1024",
+          "recipient": "CHANT ENGINEERING CO INC",
+          "amount": 1674000.0,
+          "agency": "Department of the Navy",
+          "description": "NITROGEN SERVICE UNIT IN SUPPORT OF CAN, SK AND GER FMS P-8 POSEIDON PROGRAMS",
+          "naics": "336413"
         }
       ]
     },
@@ -511,7 +511,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 15
+          "age": 16
         },
         {
           "date": "2026-08-19",
@@ -745,6 +745,11 @@
     },
     {
       "generated": "2026-09-04T11:37:46.076887+00:00",
+      "score": 19.5,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-04T16:33:06.640051+00:00",
       "score": 19.5,
       "status": "BASELINE"
     }
