@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-04T20:57:20.791426+00:00",
+    "generated": "2026-09-05T04:51:25.400519+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 19.5,
-    "raw_score": 19.5,
+    "score": 19.4,
+    "raw_score": 19.4,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 19.5/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 19.4/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -26,24 +26,24 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 629,
+      "coverage": 611,
       "current_14d_weekly_equivalent": 47.0,
       "baseline_weekly_median": 43.5,
       "anomaly_z": 0.94,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
-          "id": "609937-2026",
+          "id": "609818-2026",
           "date": "2026-09-04",
-          "title": "Poland – Security, fire-fighting, police and defence equipment – Zakup broni, amunicji i środków przymusu bezpośredniego na potrzeby IAS w Rzeszowie",
-          "buyer": "Izba Administracji Skarbowej w Rzeszowie",
-          "country": "POL",
+          "title": "Hungary – Command, control, communication and computer systems – HM Válságreagáló Rendszer (HM VRR)",
+          "buyer": "Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság",
+          "country": "HUN",
           "cpv": [
-            "35000000",
-            "35331000",
-            "35321100"
+            "35710000",
+            "71300000",
+            "48000000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/609937-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/609818-2026"
         },
         {
           "id": "610878-2026",
@@ -57,17 +57,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/610878-2026"
         },
         {
-          "id": "609818-2026",
+          "id": "609937-2026",
           "date": "2026-09-04",
-          "title": "Hungary – Command, control, communication and computer systems – HM Válságreagáló Rendszer (HM VRR)",
-          "buyer": "Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság",
-          "country": "HUN",
+          "title": "Poland – Security, fire-fighting, police and defence equipment – Zakup broni, amunicji i środków przymusu bezpośredniego na potrzeby IAS w Rzeszowie",
+          "buyer": "Izba Administracji Skarbowej w Rzeszowie",
+          "country": "POL",
           "cpv": [
-            "35710000",
-            "71300000",
-            "48000000"
+            "35000000",
+            "35331000",
+            "35321100"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/609818-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/609937-2026"
         },
         {
           "id": "608373-2026",
@@ -164,15 +164,26 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/605125-2026"
         },
         {
-          "id": "605975-2026",
+          "id": "604127-2026",
           "date": "2026-09-02",
-          "title": "Germany – Firearms – Ex-Post:Rahmenvereinbarung zu Lieferung von H&K SFP9 Modelle",
-          "buyer": "Zentrale Polizeidirektion Niedersachsen",
-          "country": "DEU",
+          "title": "Poland – Parts of military vehicles – D/110/2026 Dostawa części do pojazdów wojskowych",
+          "buyer": "2. Regionalna Baza Logistyczna",
+          "country": "POL",
           "cpv": [
-            "35320000"
+            "35420000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/605975-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/604127-2026"
+        },
+        {
+          "id": "602919-2026",
+          "date": "2026-09-02",
+          "title": "Czechia – Parts of firearms and ammunition – ND-zbraně zahraniční (ostatní)výrobci",
+          "buyer": "Ministerstvo obrany",
+          "country": "CZE",
+          "cpv": [
+            "35340000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/602919-2026"
         },
         {
           "id": "604029-2026",
@@ -202,48 +213,36 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/604049-2026"
         },
         {
-          "id": "604127-2026",
+          "id": "605975-2026",
           "date": "2026-09-02",
-          "title": "Poland – Parts of military vehicles – D/110/2026 Dostawa części do pojazdów wojskowych",
-          "buyer": "2. Regionalna Baza Logistyczna",
-          "country": "POL",
+          "title": "Germany – Firearms – Ex-Post:Rahmenvereinbarung zu Lieferung von H&K SFP9 Modelle",
+          "buyer": "Zentrale Polizeidirektion Niedersachsen",
+          "country": "DEU",
           "cpv": [
-            "35420000"
+            "35320000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/604127-2026"
-        },
-        {
-          "id": "605077-2026",
-          "date": "2026-09-02",
-          "title": "Cyprus – Intelligence, surveillance, target acquisition and reconnaissance – Δ.Ο 34/2024 ΠΡΟΣΦΟΡΑ ΓΙΑ ΤΗΝ ΑΓΟΡΑ ΚΑΙ ΕΓΚΑΤΑΣΤΑΣΗ ΤΡΙΩΝ ΣΥΣΤΗΜΑΤΩΝ ΝΥΧΤΕΡΙΝΗΣ ΠΑΡΑΚΟΛΟΥΘΗΣΗΣ ΓΙΑ ΤΙΣ ΑΣΤΥΝΟΜΙΚΕΣ ΑΚΑΤΟΥΣ ΚΑΤΗΓΟΡΙΑΣ Α' , \"ΘΗΣΕΑΣ\" , \"ΟΝΗΣΙΛΟΣ\" ΚΑΙ \"ΟΔΥΣΣΕΑΣ\"",
-          "buyer": "Αστυνομία Κύπρου",
-          "country": "CYP",
-          "cpv": [
-            "35720000",
-            "35721000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/605077-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/605975-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 6.3,
+      "score": 6.1,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-06-11",
-      "reporting_lag_days": 85,
-      "freshness_factor": 0.29,
-      "current_14d_weekly_equivalent": 144154989.58,
+      "reporting_lag_days": 86,
+      "freshness_factor": 0.28,
+      "current_14d_weekly_equivalent": 132012262.97,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
           "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 171240420.59
+          "amount": 147389589.68
         },
         {
           "name": "THE BOEING COMPANY",
@@ -293,15 +292,6 @@
           "agency": "Department of the Army",
           "description": "PRECISION STRIKE MISSILE (PRSM) FOR FISCAL YEARS (FY) 2025-2029 INDEFINITE DELIVERY / INDEFINITE QUANTITY (IDIQ) DELIVERY ORDER FRP 1 FY26.",
           "naics": "336413"
-        },
-        {
-          "date": "2026-06-04",
-          "award_id": "FA852826FB003",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 23850830.91,
-          "agency": "Department of the Air Force",
-          "description": "FY26 U-2 SUSTAINMENT AND SUPPORT SERVICES",
-          "naics": "336411"
         },
         {
           "date": "2026-06-04",
@@ -437,6 +427,15 @@
           "agency": "Department of the Army",
           "description": "AIRBORNE NON-KINETIC SYSTEMS FOR TEST (ANKST)",
           "naics": "336419"
+        },
+        {
+          "date": "2026-06-04",
+          "award_id": "N6833526C1024",
+          "recipient": "CHANT ENGINEERING CO INC",
+          "amount": 1674000.0,
+          "agency": "Department of the Navy",
+          "description": "NITROGEN SERVICE UNIT IN SUPPORT OF CAN, SK AND GER FMS P-8 POSEIDON PROGRAMS",
+          "naics": "336413"
         }
       ]
     },
@@ -552,7 +551,7 @@
       "weight": 0.15,
       "available": true,
       "retained": false,
-      "coverage": 19,
+      "coverage": 13,
       "current_14d_weekly_equivalent": 0.5,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.25,
@@ -756,6 +755,11 @@
     {
       "generated": "2026-09-04T20:57:20.791426+00:00",
       "score": 19.5,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-05T04:51:25.400519+00:00",
+      "score": 19.4,
       "status": "BASELINE"
     }
   ],
