@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-06T04:58:59.040497+00:00",
+    "generated": "2026-09-06T11:16:14.595748+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -228,7 +228,7 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 6.9,
+      "score": 6.8,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -237,7 +237,7 @@
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 87,
       "freshness_factor": 0.28,
-      "current_14d_weekly_equivalent": 303002393.68,
+      "current_14d_weekly_equivalent": 293260354.12,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -250,12 +250,12 @@
           "amount": 126126594.66
         },
         {
-          "name": "THE BOEING COMPANY",
-          "amount": 55862629.17
+          "name": "BELL TEXTRON INC",
+          "amount": 40310092.5
         },
         {
-          "name": "BELL TEXTRON INC",
-          "amount": 40341449.95
+          "name": "THE BOEING COMPANY",
+          "amount": 37145433.17
         },
         {
           "name": "LOCKHEED MARTIN CORP",
@@ -284,6 +284,87 @@
           "agency": "Department of the Air Force",
           "description": "USCG AVIATION TRAINING CENTER (ATC) GROUND SUPPORT EQUIPMENT (GSE) MAINTENANCE, MOBILE, AL",
           "naics": "336411"
+        },
+        {
+          "date": "2026-06-06",
+          "award_id": "SPE4AX26F190Q",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 2050.53,
+          "agency": "Defense Logistics Agency",
+          "description": "8512165876!PARTS KIT,AIRCRAFT",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-06-06",
+          "award_id": "SPE7L126FAJ3A",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 870.0,
+          "agency": "Defense Logistics Agency",
+          "description": "4572055475!WHEEL ASSEMBLY,PNEU",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-06-06",
+          "award_id": "SPE4AX26F190S",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 490.77,
+          "agency": "Defense Logistics Agency",
+          "description": "8512166063!STUD,PLAIN",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-06-06",
+          "award_id": "SPE7L126FAJ3W",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 33.32,
+          "agency": "Defense Logistics Agency",
+          "description": "4572055923!CONNECTOR,MULTIPLE,",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-06-06",
+          "award_id": "SPE7L126FAJ3X",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 6.4,
+          "agency": "Defense Logistics Agency",
+          "description": "4572055924!O-RING",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-06-06",
+          "award_id": "SPE7L126FAJ3T",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 4.8,
+          "agency": "Defense Logistics Agency",
+          "description": "4572055891!CLAMP,HOSE",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-06-06",
+          "award_id": "SPE7L126FAJ3Y",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 3.75,
+          "agency": "Defense Logistics Agency",
+          "description": "4572055925!O-RING",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-06-06",
+          "award_id": "FA810823F0025",
+          "recipient": "KAY AND ASSOCIATES, INC.",
+          "amount": 0.0,
+          "agency": "Department of the Air Force",
+          "description": "CONTRACTS FIELD TEAM SUPPORT",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-06",
+          "award_id": "N0038324FUX05",
+          "recipient": "RAYTHEON COMPANY",
+          "amount": 0.0,
+          "agency": "Department of the Navy",
+          "description": "LSA",
+          "naics": "336413"
         },
         {
           "date": "2026-06-05",
@@ -356,87 +437,6 @@
           "agency": "Department of the Navy",
           "description": "MT7 TO PID N64498-25-NORFP-PD-42-0347",
           "naics": "336412"
-        },
-        {
-          "date": "2026-06-05",
-          "award_id": "FA881826FB001",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 4000000.0,
-          "agency": "Department of the Air Force",
-          "description": "THIS TASK ORDER PROCURES THE LAUNCH(ES) OF TWO ALPHA FLIGHT TEST VEHICLES (AFTVS) UNDER THE SOUNDING ROCKET PROGRAM-4 (SRP-4) BASIC IDIQ.",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-06-05",
-          "award_id": "FA861123F0017",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 3630451.0,
-          "agency": "Department of the Air Force",
-          "description": "F-22",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-05",
-          "award_id": "FA862113C6247",
-          "recipient": "FLIGHTSAFETY DEFENSE CORPORATION",
-          "amount": 3310693.0,
-          "agency": "Department of the Air Force",
-          "description": "KC-46 ATS",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-05",
-          "award_id": "W15QKN26F0195",
-          "recipient": "FN AMERICA LLC",
-          "amount": 2622737.7,
-          "agency": "Department of the Army",
-          "description": "DELIVERY ORDER",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-06-05",
-          "award_id": "N0001926F0201",
-          "recipient": "RAYTHEON COMPANY",
-          "amount": 1768748.0,
-          "agency": "Department of the Navy",
-          "description": "SIT-G TEST STATION MODIFICATION",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-05",
-          "award_id": "SPRPA126FEH0Y",
-          "recipient": "HAMILTON SUNDSTRAND CORPORATION",
-          "amount": 1514536.8,
-          "agency": "Defense Logistics Agency",
-          "description": "ACTUATOR,ELECTRO-ME",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-05",
-          "award_id": "N0001923C0009",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 1500000.0,
-          "agency": "Department of the Navy",
-          "description": "THE PURPOSE OF THIS MODIFICATION IS TO ADD FUNDING ONTO SLIN 705001 FOR A TOTAL INCREMENTALLY FUNDED VALUE OF $1,500,000.",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-05",
-          "award_id": "FA862026FB026",
-          "recipient": "L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P.",
-          "amount": 1377676.0,
-          "agency": "Department of the Air Force",
-          "description": "AFLCMC/WI",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-05",
-          "award_id": "W15QKN26F0183",
-          "recipient": "SIG SAUER INC.",
-          "amount": 1377149.0,
-          "agency": "Department of the Army",
-          "description": "ENGINEERING EFFORT FOR THE DEVELOPMENT OF CLOSE COMBAT MISSION CAPABILITY KIT FOR THE NEXT GENERATION SQUAD WEAPON SYSTEM.",
-          "naics": "332994"
         }
       ]
     },
@@ -461,7 +461,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-09-01",
@@ -471,7 +471,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-09-01",
@@ -481,7 +481,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-09-01",
@@ -491,7 +491,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-08-19",
@@ -501,7 +501,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 17
+          "age": 18
         },
         {
           "date": "2026-08-19",
@@ -521,7 +521,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 17
+          "age": 18
         },
         {
           "date": "2026-08-19",
@@ -531,7 +531,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 17
+          "age": 18
         },
         {
           "date": "2026-08-06",
@@ -541,7 +541,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 30
+          "age": 31
         }
       ]
     },
@@ -780,6 +780,11 @@
     },
     {
       "generated": "2026-09-06T04:58:59.040497+00:00",
+      "score": 19.6,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-06T11:16:14.595748+00:00",
       "score": 19.6,
       "status": "BASELINE"
     }
