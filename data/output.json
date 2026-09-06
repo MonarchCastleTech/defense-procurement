@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-06T15:41:36.284802+00:00",
+    "generated": "2026-09-06T20:42:41.656130+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 19.6,
-    "raw_score": 19.6,
+    "score": 19.7,
+    "raw_score": 19.7,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 19.6/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 19.7/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -33,17 +33,6 @@
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
-          "id": "610878-2026",
-          "date": "2026-09-04",
-          "title": "Spain – Howitzer – Suministro para fabricación de bocas de Fuego Obús 155/52 SIAC/V07.",
-          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
-          "country": "ESP",
-          "cpv": [
-            "35322500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/610878-2026"
-        },
-        {
           "id": "609937-2026",
           "date": "2026-09-04",
           "title": "Poland – Security, fire-fighting, police and defence equipment – Zakup broni, amunicji i środków przymusu bezpośredniego na potrzeby IAS w Rzeszowie",
@@ -55,6 +44,17 @@
             "35321100"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/609937-2026"
+        },
+        {
+          "id": "610878-2026",
+          "date": "2026-09-04",
+          "title": "Spain – Howitzer – Suministro para fabricación de bocas de Fuego Obús 155/52 SIAC/V07.",
+          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+          "country": "ESP",
+          "cpv": [
+            "35322500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/610878-2026"
         },
         {
           "id": "609818-2026",
@@ -106,18 +106,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/607315-2026"
         },
         {
-          "id": "606954-2026",
-          "date": "2026-09-03",
-          "title": "Germany – Firefighting vehicles – Kauf von 4 Mannschaftstransportfahrzeugen (MTF) für die Feuerwehr der Stadt Arnsberg",
-          "buyer": "Stadt Arnsberg",
-          "country": "DEU",
-          "cpv": [
-            "34144210",
-            "35412200"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/606954-2026"
-        },
-        {
           "id": "609290-2026",
           "date": "2026-09-03",
           "title": "Slovakia – Ammunition – Náboje pre dlhé strelné zbrane",
@@ -130,15 +118,16 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/609290-2026"
         },
         {
-          "id": "605125-2026",
-          "date": "2026-09-02",
-          "title": "France – Unmanned aerial vehicles – Acquisition de drones avec capteur thermique radiométrique au profit de l'armée tunisienne",
-          "buyer": "Economat des armées",
-          "country": "FRA",
+          "id": "606954-2026",
+          "date": "2026-09-03",
+          "title": "Germany – Firefighting vehicles – Kauf von 4 Mannschaftstransportfahrzeugen (MTF) für die Feuerwehr der Stadt Arnsberg",
+          "buyer": "Stadt Arnsberg",
+          "country": "DEU",
           "cpv": [
-            "35613000"
+            "34144210",
+            "35412200"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/605125-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/606954-2026"
         },
         {
           "id": "604732-2026",
@@ -151,6 +140,17 @@
             "35613000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/604732-2026"
+        },
+        {
+          "id": "605125-2026",
+          "date": "2026-09-02",
+          "title": "France – Unmanned aerial vehicles – Acquisition de drones avec capteur thermique radiométrique au profit de l'armée tunisienne",
+          "buyer": "Economat des armées",
+          "country": "FRA",
+          "cpv": [
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/605125-2026"
         },
         {
           "id": "603305-2026",
@@ -228,7 +228,7 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 6.8,
+      "score": 7.0,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -237,7 +237,7 @@
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 87,
       "freshness_factor": 0.28,
-      "current_14d_weekly_equivalent": 293091746.72,
+      "current_14d_weekly_equivalent": 340162264.36,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -247,7 +247,7 @@
         },
         {
           "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 126126594.66
+          "amount": 221474314.5
         },
         {
           "name": "BELL TEXTRON INC",
@@ -258,12 +258,12 @@
           "amount": 37145433.17
         },
         {
-          "name": "LOCKHEED MARTIN CORP",
-          "amount": 18989616.0
-        },
-        {
           "name": "BAE SYSTEMS INFORMATION AND ELECTRONIC SYSTEMS INTEGRATION INC.",
           "amount": 18920806.0
+        },
+        {
+          "name": "LOCKHEED MARTIN CORP",
+          "amount": 16312599.0
         },
         {
           "name": "RTX CORPORATION",
@@ -791,6 +791,11 @@
     {
       "generated": "2026-09-06T15:41:36.284802+00:00",
       "score": 19.6,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-06T20:42:41.656130+00:00",
+      "score": 19.7,
       "status": "BASELINE"
     }
   ],
