@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-07T05:06:25.388434+00:00",
+    "generated": "2026-09-07T12:57:09.254207+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -245,7 +245,7 @@
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 88,
       "freshness_factor": 0.27,
-      "current_14d_weekly_equivalent": 292971138.72,
+      "current_14d_weekly_equivalent": 292066809.78,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -263,7 +263,7 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 37145433.17
+          "amount": 37191791.59
         },
         {
           "name": "LOCKHEED MARTIN CORP",
@@ -292,6 +292,33 @@
           "agency": "Department of the Air Force",
           "description": "USCG AVIATION TRAINING CENTER (ATC) GROUND SUPPORT EQUIPMENT (GSE) MAINTENANCE, MOBILE, AL",
           "naics": "336411"
+        },
+        {
+          "date": "2026-06-07",
+          "award_id": "N0038322FA30U",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 46358.42,
+          "agency": "Department of the Navy",
+          "description": "ADAPTER, TEST, HARM",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-07",
+          "award_id": "SPE4A726F7672",
+          "recipient": "FALLS FILTRATION TECHNOLOGIES, INC.",
+          "amount": 7856.1,
+          "agency": "Defense Logistics Agency",
+          "description": "8512166130!FILTER ELEMENT,FLUI",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-06-07",
+          "award_id": "SPE4A626FCY1U",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 165.28,
+          "agency": "Defense Logistics Agency",
+          "description": "4572057256!NITROGEN,TECHNICAL",
+          "naics": "336413"
         },
         {
           "date": "2026-06-06",
@@ -418,33 +445,6 @@
           "agency": "Department of the Air Force",
           "description": "C-130J COMBINED AIRCRAFT DELIVERY DEVELOPMENT INTEGRATION AND ENGINEERING (CADDIE) INCREMENTAL FUNDING ACRN AA",
           "naics": "336411"
-        },
-        {
-          "date": "2026-06-05",
-          "award_id": "FA880718C0009",
-          "recipient": "LOCKHEED MARTIN CORP",
-          "amount": 7497952.1,
-          "agency": "Department of the Air Force",
-          "description": "GLOBAL POSITIONING SYSTEM III FOLLOW-ON",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-06-05",
-          "award_id": "FA862118F6260",
-          "recipient": "CAE USA INC.",
-          "amount": 7112604.29,
-          "agency": "Department of the Air Force",
-          "description": "C-130H AIRCREW TRAINING SYSTEM",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-05",
-          "award_id": "N6449826FX008",
-          "recipient": "ROLLS-ROYCE CORPORATION",
-          "amount": 5520007.01,
-          "agency": "Department of the Navy",
-          "description": "MT7 TO PID N64498-25-NORFP-PD-42-0347",
-          "naics": "336412"
         }
       ]
     },
@@ -469,7 +469,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-09-01",
@@ -479,7 +479,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-09-01",
@@ -489,7 +489,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-09-01",
@@ -499,7 +499,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-08-19",
@@ -509,7 +509,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 18
+          "age": 19
         },
         {
           "date": "2026-08-19",
@@ -529,7 +529,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 18
+          "age": 19
         },
         {
           "date": "2026-08-19",
@@ -539,7 +539,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 18
+          "age": 19
         },
         {
           "date": "2026-08-06",
@@ -549,7 +549,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 31
+          "age": 32
         }
       ]
     },
@@ -808,6 +808,11 @@
     },
     {
       "generated": "2026-09-07T05:06:25.388434+00:00",
+      "score": 18.3,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-07T12:57:09.254207+00:00",
       "score": 18.3,
       "status": "BASELINE"
     }
