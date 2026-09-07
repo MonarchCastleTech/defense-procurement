@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-07T12:57:09.254207+00:00",
+    "generated": "2026-09-07T21:43:42.258224+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -245,7 +245,7 @@
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 88,
       "freshness_factor": 0.27,
-      "current_14d_weekly_equivalent": 292066809.78,
+      "current_14d_weekly_equivalent": 292897992.62,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -519,7 +519,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 18
+          "age": 19
         },
         {
           "date": "2026-08-19",
@@ -813,6 +813,11 @@
     },
     {
       "generated": "2026-09-07T12:57:09.254207+00:00",
+      "score": 18.3,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-07T21:43:42.258224+00:00",
       "score": 18.3,
       "status": "BASELINE"
     }
