@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-06T20:42:41.656130+00:00",
+    "generated": "2026-09-07T05:06:25.388434+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,233 +11,241 @@
     "source_notes": []
   },
   "warning": {
-    "score": 19.7,
-    "raw_score": 19.7,
+    "score": 18.3,
+    "raw_score": 18.3,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 19.7/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 18.3/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
     "eu_notices": {
       "key": "eu_notices",
-      "score": 37.9,
+      "score": 34.6,
       "status": "WATCH",
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 611,
-      "current_14d_weekly_equivalent": 47.0,
+      "coverage": 628,
+      "current_14d_weekly_equivalent": 45.5,
       "baseline_weekly_median": 43.5,
-      "anomaly_z": 0.94,
+      "anomaly_z": 0.54,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
-          "id": "609937-2026",
-          "date": "2026-09-04",
-          "title": "Poland – Security, fire-fighting, police and defence equipment – Zakup broni, amunicji i środków przymusu bezpośredniego na potrzeby IAS w Rzeszowie",
-          "buyer": "Izba Administracji Skarbowej w Rzeszowie",
+          "id": "612658-2026",
+          "date": "2026-09-07",
+          "title": "Germany – Military electronic systems – Q/U2CD/VA064/35590 - Fusionsbrille SpezKr Bw",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35700000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/612658-2026"
+        },
+        {
+          "id": "613364-2026",
+          "date": "2026-09-07",
+          "title": "Poland – Military vehicles and associated parts – Dostawa zestawów obsługowych do KTO Rosomak",
+          "buyer": "1 REGIONALNA BAZA LOGISTYCZNA",
           "country": "POL",
           "cpv": [
-            "35000000",
-            "35331000",
-            "35321100"
+            "35400000",
+            "35421000",
+            "35421100"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/609937-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/613364-2026"
         },
         {
-          "id": "610878-2026",
-          "date": "2026-09-04",
-          "title": "Spain – Howitzer – Suministro para fabricación de bocas de Fuego Obús 155/52 SIAC/V07.",
-          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+          "id": "615208-2026",
+          "date": "2026-09-07",
+          "title": "Greece – Photocopying and offset printing equipment – Διακήρυξης Ηλεκτρονικού Διεθνούς Διαγωνισμού, με Ανοικτή Διαδικασία μέσω ΕΣΗΔΗΣ, Προμήθειας Εξοπλισμού, με κριτήριο ανάθεσης την πλέον συμφέρουσα από οικονομική άποψη προσφορά βάσει τιμής ανά Τμήμα, στο πλαίσιο υλοποίησης του έργου «Ερευνητική υποδομή του Τμήματος Διοίκησης Επιχειρήσεων του Πανεπιστημίου Αιγαίου για τη βιομηχανική κληρονομιά του Βορείου Αιγαίου",
+          "buyer": "ΕΛΚΕ ΠΑΝΕΠΙΣΤΗΜΙΟΥ ΑΙΓΑΙΟΥ",
+          "country": "GRC",
+          "cpv": [
+            "30120000",
+            "30195200",
+            "30213100",
+            "30213300"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/615208-2026"
+        },
+        {
+          "id": "615545-2026",
+          "date": "2026-09-07",
+          "title": "Poland – Vehicles for the emergency services – Samochód dowodzenia i łączności (kompanijne stanowisko dowodzenia) – 9 sztuk",
+          "buyer": "Komenda Wojewódzka Państwowej Straży Pożarnej w Poznaniu",
+          "country": "POL",
+          "cpv": [
+            "34144200",
+            "35110000",
+            "35412500",
+            "34144210"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/615545-2026"
+        },
+        {
+          "id": "615664-2026",
+          "date": "2026-09-07",
+          "title": "Greece – Unmanned aerial vehicles – ΠΡΟΜΗΘΕΙΑ ΜΗ ΣΤΕΛΕΧΩΜΕΝΩΝ ΜΕΣΩΝ (DRONES) ΣΤΟ ΛΙΜΕΝΙΚΟ ΣΩΜΑ-ΕΛΛΗΝΙΚΗ ΑΚΤΟΦΥΛΑΚΗ ΚΑΙ ΣΥΝΑΦΕΙΣ ΥΠΗΡΕΣΙΕΣ",
+          "buyer": "Υπουργείο Ναυτιλίας και Νησιωτικής Πολιτικής",
+          "country": "GRC",
+          "cpv": [
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/615664-2026"
+        },
+        {
+          "id": "613240-2026",
+          "date": "2026-09-07",
+          "title": "Spain – Ammunition for firearms and warfare – Suministro de artillería naval 5/54",
+          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
           "country": "ESP",
           "cpv": [
-            "35322500"
+            "35331000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/610878-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/613240-2026"
         },
         {
-          "id": "609818-2026",
-          "date": "2026-09-04",
-          "title": "Hungary – Command, control, communication and computer systems – HM Válságreagáló Rendszer (HM VRR)",
-          "buyer": "Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság",
-          "country": "HUN",
+          "id": "613235-2026",
+          "date": "2026-09-07",
+          "title": "Spain – Police uniforms – Contrato administrativo suministro de prendas de uniformidad y equipamiento técnico y operativo de la Policía Local y Protección Civil del Ayuntamiento de Arroyomolinos (Madrid)",
+          "buyer": "Junta de Gobierno del Ayuntamiento de Arroyomolinos",
+          "country": "ESP",
           "cpv": [
-            "35710000",
-            "71300000",
-            "48000000"
+            "35811200",
+            "18110000",
+            "18810000",
+            "18812200"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/609818-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/613235-2026"
         },
         {
-          "id": "608373-2026",
-          "date": "2026-09-03",
-          "title": "Lithuania – Firearms – TAIKLIOJO ŠAULIO GINKLO KOMPLEKTAS",
-          "buyer": "Lietuvos šaulių sąjunga (PV)",
-          "country": "LTU",
+          "id": "613874-2026",
+          "date": "2026-09-07",
+          "title": "Germany – Satellite earth stations – Informationseinholung im Rahmen einer Markterkundung für die Beschaffung von bodenbasierten Counter-Space Systemen gegen Kommunikationssatelliten",
+          "buyer": "Deutsche Raumfahrtagentur im Deutschen Zentrum für Luft- und Raumfahrt e.V.",
+          "country": "DEU",
+          "cpv": [
+            "32533000",
+            "35730000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/613874-2026"
+        },
+        {
+          "id": "615123-2026",
+          "date": "2026-09-07",
+          "title": "Czechia – Ammunition for firearms and warfare – Rámcová dohoda – náboje 5,56x45",
+          "buyer": "Ministerstvo vnitra",
+          "country": "CZE",
+          "cpv": [
+            "35331000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/615123-2026"
+        },
+        {
+          "id": "614313-2026",
+          "date": "2026-09-07",
+          "title": "Spain – Firearms – Acuerdo marco para la adquisición de sistemas de defensa inmediata de la fuerza de desembarco",
+          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
+          "country": "ESP",
           "cpv": [
             "35320000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/608373-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/614313-2026"
         },
         {
-          "id": "608983-2026",
-          "date": "2026-09-03",
-          "title": "Germany – Military vehicles and associated parts – 6003111593-BAAINBw E2.3Y",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "id": "616105-2026",
+          "date": "2026-09-07",
+          "title": "Poland – Explosives – Dostawa materiałów wybuchowych, środków inicjujących wybuch, środków pozoracji oraz materiałów eksploatacyjnych na potrzeby realizacji szkoleń przez CSSG w Kętrzynie oraz na potrzeby W-MOSG",
+          "buyer": "WARMIŃSKO-MAZURSKI ODDZIAŁ STRAŻY GRANICZNEJ im. gen. bryg. Stefana Pasławskiego",
+          "country": "POL",
+          "cpv": [
+            "24600000",
+            "24615000",
+            "24612200",
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/616105-2026"
+        },
+        {
+          "id": "614421-2026",
+          "date": "2026-09-07",
+          "title": "Estonia – Parts and accessories for vehicles and their engines – ATS süsteemide hooldus",
+          "buyer": "Riigi Kaitseinvesteeringute Keskus",
+          "country": "EST",
+          "cpv": [
+            "34300000",
+            "50116300",
+            "71300000",
+            "71320000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/614421-2026"
+        },
+        {
+          "id": "615210-2026",
+          "date": "2026-09-07",
+          "title": "Poland – Parts of light firearms – Dostawa TŚM do broni dla JW 4101 w Lublińcu",
+          "buyer": "Jednostka Wojskowa Nr 4101",
+          "country": "POL",
+          "cpv": [
+            "35341000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/615210-2026"
+        },
+        {
+          "id": "615282-2026",
+          "date": "2026-09-07",
+          "title": "Germany – Police equipment – Rahmenvertrag über die Lieferung von Bodycam und DEIG inkl. Zubehör und Lizenzen",
+          "buyer": "Polizeiinspektion Zentrale Dienste Sachsen-Anhalt",
           "country": "DEU",
+          "cpv": [
+            "35200000",
+            "35125300",
+            "35300000",
+            "48324000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/615282-2026"
+        },
+        {
+          "id": "615521-2026",
+          "date": "2026-09-07",
+          "title": "Poland – Explosives – Dostawa materiałów wybuchowych, środków inicjujących wybuch, środków pozoracji oraz materiałów eksploatacyjnych na potrzeby realizacji szkoleń przez CSSG w Kętrzynie oraz na potrzeby W-MOSG",
+          "buyer": "WARMIŃSKO-MAZURSKI ODDZIAŁ STRAŻY GRANICZNEJ im. gen. bryg. Stefana Pasławskiego",
+          "country": "POL",
+          "cpv": [
+            "24600000",
+            "24615000",
+            "24612200",
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/615521-2026"
+        },
+        {
+          "id": "616164-2026",
+          "date": "2026-09-07",
+          "title": "Malta – Military vehicles and associated parts – FO 6604/07/2026 - NEGOTIATED PROCEDURE TO PROCURE A SECOND EXPLOSIVE ORDNANCE DISPOSAL (EOD) RESPONSE VEHICLE FOR THE ARMED FORCES OF MALTA",
+          "buyer": "Armed Forces of Malta (AFM)",
+          "country": "MLT",
           "cpv": [
             "35400000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/608983-2026"
-        },
-        {
-          "id": "607315-2026",
-          "date": "2026-09-03",
-          "title": "Norway – Security, fire-fighting, police and defence equipment – Procurement of a framework agreement for the purchase of armoured vehicles",
-          "buyer": "Ministry of Foreign Affairs",
-          "country": "NOR",
-          "cpv": [
-            "35000000",
-            "35400000",
-            "35410000",
-            "35412000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/607315-2026"
-        },
-        {
-          "id": "609290-2026",
-          "date": "2026-09-03",
-          "title": "Slovakia – Ammunition – Náboje pre dlhé strelné zbrane",
-          "buyer": "Ministerstvo vnútra Slovenskej republiky",
-          "country": "SVK",
-          "cpv": [
-            "35330000",
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/609290-2026"
-        },
-        {
-          "id": "606954-2026",
-          "date": "2026-09-03",
-          "title": "Germany – Firefighting vehicles – Kauf von 4 Mannschaftstransportfahrzeugen (MTF) für die Feuerwehr der Stadt Arnsberg",
-          "buyer": "Stadt Arnsberg",
-          "country": "DEU",
-          "cpv": [
-            "34144210",
-            "35412200"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/606954-2026"
-        },
-        {
-          "id": "604732-2026",
-          "date": "2026-09-02",
-          "title": "Germany – Non-piloted aircraft – Kauf von großen Drohnensystemen für die Polizei NRW",
-          "buyer": "Landesamt für Zentrale Polizeiliche Dienste Nordrhein-Westfalen",
-          "country": "DEU",
-          "cpv": [
-            "34711200",
-            "35613000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/604732-2026"
-        },
-        {
-          "id": "605125-2026",
-          "date": "2026-09-02",
-          "title": "France – Unmanned aerial vehicles – Acquisition de drones avec capteur thermique radiométrique au profit de l'armée tunisienne",
-          "buyer": "Economat des armées",
-          "country": "FRA",
-          "cpv": [
-            "35613000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/605125-2026"
-        },
-        {
-          "id": "603305-2026",
-          "date": "2026-09-02",
-          "title": "Poland – Parts of firearms and ammunition – Dostawa technicznych środków materiałowych (tśm) do 7,62 mm karabinu maszynowego UKM 2000 i odmian",
-          "buyer": "2. Regionalna Baza Logistyczna",
-          "country": "POL",
-          "cpv": [
-            "35340000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/603305-2026"
-        },
-        {
-          "id": "604029-2026",
-          "date": "2026-09-02",
-          "title": "Norway – Repair and maintenance services – Framework agreement for building automation in Fredrikstad municipality, new",
-          "buyer": "Fredrikstad kommune",
-          "country": "NOR",
-          "cpv": [
-            "50000000",
-            "35710000",
-            "38570000",
-            "38800000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/604029-2026"
-        },
-        {
-          "id": "604049-2026",
-          "date": "2026-09-02",
-          "title": "Germany – Weapons, ammunition and associated parts – 5,56mm x 45 2DK-1LS-1HK, 200er Gurt",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35300000",
-            "35330000",
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/604049-2026"
-        },
-        {
-          "id": "604127-2026",
-          "date": "2026-09-02",
-          "title": "Poland – Parts of military vehicles – D/110/2026 Dostawa części do pojazdów wojskowych",
-          "buyer": "2. Regionalna Baza Logistyczna",
-          "country": "POL",
-          "cpv": [
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/604127-2026"
-        },
-        {
-          "id": "605077-2026",
-          "date": "2026-09-02",
-          "title": "Cyprus – Intelligence, surveillance, target acquisition and reconnaissance – Δ.Ο 34/2024 ΠΡΟΣΦΟΡΑ ΓΙΑ ΤΗΝ ΑΓΟΡΑ ΚΑΙ ΕΓΚΑΤΑΣΤΑΣΗ ΤΡΙΩΝ ΣΥΣΤΗΜΑΤΩΝ ΝΥΧΤΕΡΙΝΗΣ ΠΑΡΑΚΟΛΟΥΘΗΣΗΣ ΓΙΑ ΤΙΣ ΑΣΤΥΝΟΜΙΚΕΣ ΑΚΑΤΟΥΣ ΚΑΤΗΓΟΡΙΑΣ Α' , \"ΘΗΣΕΑΣ\" , \"ΟΝΗΣΙΛΟΣ\" ΚΑΙ \"ΟΔΥΣΣΕΑΣ\"",
-          "buyer": "Αστυνομία Κύπρου",
-          "country": "CYP",
-          "cpv": [
-            "35720000",
-            "35721000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/605077-2026"
-        },
-        {
-          "id": "602919-2026",
-          "date": "2026-09-02",
-          "title": "Czechia – Parts of firearms and ammunition – ND-zbraně zahraniční (ostatní)výrobci",
-          "buyer": "Ministerstvo obrany",
-          "country": "CZE",
-          "cpv": [
-            "35340000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/602919-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/616164-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 7.0,
+      "score": 6.6,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-06-11",
-      "reporting_lag_days": 87,
-      "freshness_factor": 0.28,
-      "current_14d_weekly_equivalent": 340162264.36,
+      "reporting_lag_days": 88,
+      "freshness_factor": 0.27,
+      "current_14d_weekly_equivalent": 292971138.72,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -247,7 +255,7 @@
         },
         {
           "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 221474314.5
+          "amount": 126126594.66
         },
         {
           "name": "BELL TEXTRON INC",
@@ -258,12 +266,12 @@
           "amount": 37145433.17
         },
         {
-          "name": "BAE SYSTEMS INFORMATION AND ELECTRONIC SYSTEMS INTEGRATION INC.",
-          "amount": 18920806.0
+          "name": "LOCKHEED MARTIN CORP",
+          "amount": 18989616.0
         },
         {
-          "name": "LOCKHEED MARTIN CORP",
-          "amount": 16312599.0
+          "name": "BAE SYSTEMS INFORMATION AND ELECTRONIC SYSTEMS INTEGRATION INC.",
+          "amount": 18920806.0
         },
         {
           "name": "RTX CORPORATION",
@@ -449,8 +457,8 @@
       "retained": false,
       "coverage": 88,
       "current_14d_weekly_equivalent": 5.0,
-      "baseline_weekly_median": 7.75,
-      "anomaly_z": -0.24,
+      "baseline_weekly_median": 6.75,
+      "anomaly_z": -0.17,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -547,15 +555,15 @@
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
-      "score": 5.3,
+      "score": 3.3,
       "status": "BASELINE",
       "weight": 0.15,
       "available": true,
       "retained": false,
       "coverage": 13,
       "current_14d_weekly_equivalent": 0.5,
-      "baseline_weekly_median": 0.0,
-      "anomaly_z": 0.25,
+      "baseline_weekly_median": 0.5,
+      "anomaly_z": 0.0,
       "method": "Defense Acquisition Regulations System publication velocity; rules weighted 1.5.",
       "evidence": [
         {
@@ -796,6 +804,11 @@
     {
       "generated": "2026-09-06T20:42:41.656130+00:00",
       "score": 19.7,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-07T05:06:25.388434+00:00",
+      "score": 18.3,
       "status": "BASELINE"
     }
   ],
