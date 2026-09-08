@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-08T11:39:01.264851+00:00",
+    "generated": "2026-09-08T16:48:15.397063+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -80,31 +80,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/616281-2026"
         },
         {
-          "id": "615664-2026",
-          "date": "2026-09-07",
-          "title": "Greece – Unmanned aerial vehicles – ΠΡΟΜΗΘΕΙΑ ΜΗ ΣΤΕΛΕΧΩΜΕΝΩΝ ΜΕΣΩΝ (DRONES) ΣΤΟ ΛΙΜΕΝΙΚΟ ΣΩΜΑ-ΕΛΛΗΝΙΚΗ ΑΚΤΟΦΥΛΑΚΗ ΚΑΙ ΣΥΝΑΦΕΙΣ ΥΠΗΡΕΣΙΕΣ",
-          "buyer": "Υπουργείο Ναυτιλίας και Νησιωτικής Πολιτικής",
-          "country": "GRC",
-          "cpv": [
-            "35613000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/615664-2026"
-        },
-        {
-          "id": "615545-2026",
-          "date": "2026-09-07",
-          "title": "Poland – Vehicles for the emergency services – Samochód dowodzenia i łączności (kompanijne stanowisko dowodzenia) – 9 sztuk",
-          "buyer": "Komenda Wojewódzka Państwowej Straży Pożarnej w Poznaniu",
-          "country": "POL",
-          "cpv": [
-            "34144200",
-            "35110000",
-            "35412500",
-            "34144210"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/615545-2026"
-        },
-        {
           "id": "612658-2026",
           "date": "2026-09-07",
           "title": "Germany – Military electronic systems – Q/U2CD/VA064/35590 - Fusionsbrille SpezKr Bw",
@@ -143,40 +118,40 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/615208-2026"
         },
         {
-          "id": "615123-2026",
+          "id": "615545-2026",
           "date": "2026-09-07",
-          "title": "Czechia – Ammunition for firearms and warfare – Rámcová dohoda – náboje 5,56x45",
-          "buyer": "Ministerstvo vnitra",
-          "country": "CZE",
-          "cpv": [
-            "35331000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/615123-2026"
-        },
-        {
-          "id": "616105-2026",
-          "date": "2026-09-07",
-          "title": "Poland – Explosives – Dostawa materiałów wybuchowych, środków inicjujących wybuch, środków pozoracji oraz materiałów eksploatacyjnych na potrzeby realizacji szkoleń przez CSSG w Kętrzynie oraz na potrzeby W-MOSG",
-          "buyer": "WARMIŃSKO-MAZURSKI ODDZIAŁ STRAŻY GRANICZNEJ im. gen. bryg. Stefana Pasławskiego",
+          "title": "Poland – Vehicles for the emergency services – Samochód dowodzenia i łączności (kompanijne stanowisko dowodzenia) – 9 sztuk",
+          "buyer": "Komenda Wojewódzka Państwowej Straży Pożarnej w Poznaniu",
           "country": "POL",
           "cpv": [
-            "24600000",
-            "24615000",
-            "24612200",
-            "35300000"
+            "34144200",
+            "35110000",
+            "35412500",
+            "34144210"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/616105-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/615545-2026"
         },
         {
-          "id": "614313-2026",
+          "id": "615664-2026",
           "date": "2026-09-07",
-          "title": "Spain – Firearms – Acuerdo marco para la adquisición de sistemas de defensa inmediata de la fuerza de desembarco",
+          "title": "Greece – Unmanned aerial vehicles – ΠΡΟΜΗΘΕΙΑ ΜΗ ΣΤΕΛΕΧΩΜΕΝΩΝ ΜΕΣΩΝ (DRONES) ΣΤΟ ΛΙΜΕΝΙΚΟ ΣΩΜΑ-ΕΛΛΗΝΙΚΗ ΑΚΤΟΦΥΛΑΚΗ ΚΑΙ ΣΥΝΑΦΕΙΣ ΥΠΗΡΕΣΙΕΣ",
+          "buyer": "Υπουργείο Ναυτιλίας και Νησιωτικής Πολιτικής",
+          "country": "GRC",
+          "cpv": [
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/615664-2026"
+        },
+        {
+          "id": "613240-2026",
+          "date": "2026-09-07",
+          "title": "Spain – Ammunition for firearms and warfare – Suministro de artillería naval 5/54",
           "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
           "country": "ESP",
           "cpv": [
-            "35320000"
+            "35331000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/614313-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/613240-2026"
         },
         {
           "id": "613235-2026",
@@ -193,17 +168,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/613235-2026"
         },
         {
-          "id": "613240-2026",
-          "date": "2026-09-07",
-          "title": "Spain – Ammunition for firearms and warfare – Suministro de artillería naval 5/54",
-          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
-          "country": "ESP",
-          "cpv": [
-            "35331000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/613240-2026"
-        },
-        {
           "id": "613874-2026",
           "date": "2026-09-07",
           "title": "Germany – Satellite earth stations – Informationseinholung im Rahmen einer Markterkundung für die Beschaffung von bodenbasierten Counter-Space Systemen gegen Kommunikationssatelliten",
@@ -216,15 +180,54 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/613874-2026"
         },
         {
-          "id": "615210-2026",
+          "id": "615123-2026",
           "date": "2026-09-07",
-          "title": "Poland – Parts of light firearms – Dostawa TŚM do broni dla JW 4101 w Lublińcu",
-          "buyer": "Jednostka Wojskowa Nr 4101",
+          "title": "Czechia – Ammunition for firearms and warfare – Rámcová dohoda – náboje 5,56x45",
+          "buyer": "Ministerstvo vnitra",
+          "country": "CZE",
+          "cpv": [
+            "35331000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/615123-2026"
+        },
+        {
+          "id": "614313-2026",
+          "date": "2026-09-07",
+          "title": "Spain – Firearms – Acuerdo marco para la adquisición de sistemas de defensa inmediata de la fuerza de desembarco",
+          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
+          "country": "ESP",
+          "cpv": [
+            "35320000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/614313-2026"
+        },
+        {
+          "id": "616105-2026",
+          "date": "2026-09-07",
+          "title": "Poland – Explosives – Dostawa materiałów wybuchowych, środków inicjujących wybuch, środków pozoracji oraz materiałów eksploatacyjnych na potrzeby realizacji szkoleń przez CSSG w Kętrzynie oraz na potrzeby W-MOSG",
+          "buyer": "WARMIŃSKO-MAZURSKI ODDZIAŁ STRAŻY GRANICZNEJ im. gen. bryg. Stefana Pasławskiego",
           "country": "POL",
           "cpv": [
-            "35341000"
+            "24600000",
+            "24615000",
+            "24612200",
+            "35300000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/615210-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/616105-2026"
+        },
+        {
+          "id": "614421-2026",
+          "date": "2026-09-07",
+          "title": "Estonia – Parts and accessories for vehicles and their engines – ATS süsteemide hooldus",
+          "buyer": "Riigi Kaitseinvesteeringute Keskus",
+          "country": "EST",
+          "cpv": [
+            "34300000",
+            "50116300",
+            "71300000",
+            "71320000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/614421-2026"
         }
       ]
     },
@@ -239,7 +242,7 @@
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 89,
       "freshness_factor": 0.26,
-      "current_14d_weekly_equivalent": 119638912.07,
+      "current_14d_weekly_equivalent": 119615661.83,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -513,7 +516,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 19
+          "age": 20
         },
         {
           "date": "2026-08-19",
@@ -822,6 +825,11 @@
     },
     {
       "generated": "2026-09-08T11:39:01.264851+00:00",
+      "score": 17.4,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-08T16:48:15.397063+00:00",
       "score": 17.4,
       "status": "BASELINE"
     }
