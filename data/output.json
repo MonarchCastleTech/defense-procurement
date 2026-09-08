@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-08T16:48:15.397063+00:00",
+    "generated": "2026-09-08T21:20:48.220155+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -143,15 +143,40 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/615664-2026"
         },
         {
-          "id": "613240-2026",
+          "id": "615123-2026",
           "date": "2026-09-07",
-          "title": "Spain – Ammunition for firearms and warfare – Suministro de artillería naval 5/54",
-          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
-          "country": "ESP",
+          "title": "Czechia – Ammunition for firearms and warfare – Rámcová dohoda – náboje 5,56x45",
+          "buyer": "Ministerstvo vnitra",
+          "country": "CZE",
           "cpv": [
             "35331000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/613240-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/615123-2026"
+        },
+        {
+          "id": "616105-2026",
+          "date": "2026-09-07",
+          "title": "Poland – Explosives – Dostawa materiałów wybuchowych, środków inicjujących wybuch, środków pozoracji oraz materiałów eksploatacyjnych na potrzeby realizacji szkoleń przez CSSG w Kętrzynie oraz na potrzeby W-MOSG",
+          "buyer": "WARMIŃSKO-MAZURSKI ODDZIAŁ STRAŻY GRANICZNEJ im. gen. bryg. Stefana Pasławskiego",
+          "country": "POL",
+          "cpv": [
+            "24600000",
+            "24615000",
+            "24612200",
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/616105-2026"
+        },
+        {
+          "id": "614313-2026",
+          "date": "2026-09-07",
+          "title": "Spain – Firearms – Acuerdo marco para la adquisición de sistemas de defensa inmediata de la fuerza de desembarco",
+          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
+          "country": "ESP",
+          "cpv": [
+            "35320000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/614313-2026"
         },
         {
           "id": "613235-2026",
@@ -168,6 +193,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/613235-2026"
         },
         {
+          "id": "613240-2026",
+          "date": "2026-09-07",
+          "title": "Spain – Ammunition for firearms and warfare – Suministro de artillería naval 5/54",
+          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
+          "country": "ESP",
+          "cpv": [
+            "35331000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/613240-2026"
+        },
+        {
           "id": "613874-2026",
           "date": "2026-09-07",
           "title": "Germany – Satellite earth stations – Informationseinholung im Rahmen einer Markterkundung für die Beschaffung von bodenbasierten Counter-Space Systemen gegen Kommunikationssatelliten",
@@ -178,42 +214,6 @@
             "35730000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/613874-2026"
-        },
-        {
-          "id": "615123-2026",
-          "date": "2026-09-07",
-          "title": "Czechia – Ammunition for firearms and warfare – Rámcová dohoda – náboje 5,56x45",
-          "buyer": "Ministerstvo vnitra",
-          "country": "CZE",
-          "cpv": [
-            "35331000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/615123-2026"
-        },
-        {
-          "id": "614313-2026",
-          "date": "2026-09-07",
-          "title": "Spain – Firearms – Acuerdo marco para la adquisición de sistemas de defensa inmediata de la fuerza de desembarco",
-          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
-          "country": "ESP",
-          "cpv": [
-            "35320000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/614313-2026"
-        },
-        {
-          "id": "616105-2026",
-          "date": "2026-09-07",
-          "title": "Poland – Explosives – Dostawa materiałów wybuchowych, środków inicjujących wybuch, środków pozoracji oraz materiałów eksploatacyjnych na potrzeby realizacji szkoleń przez CSSG w Kętrzynie oraz na potrzeby W-MOSG",
-          "buyer": "WARMIŃSKO-MAZURSKI ODDZIAŁ STRAŻY GRANICZNEJ im. gen. bryg. Stefana Pasławskiego",
-          "country": "POL",
-          "cpv": [
-            "24600000",
-            "24615000",
-            "24612200",
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/616105-2026"
         },
         {
           "id": "614421-2026",
@@ -242,7 +242,7 @@
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 89,
       "freshness_factor": 0.26,
-      "current_14d_weekly_equivalent": 119615661.83,
+      "current_14d_weekly_equivalent": 119566430.74,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -268,7 +268,7 @@
         },
         {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 11610780.3
+          "amount": 11578551.88
         },
         {
           "name": "L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P.",
@@ -830,6 +830,11 @@
     },
     {
       "generated": "2026-09-08T16:48:15.397063+00:00",
+      "score": 17.4,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-08T21:20:48.220155+00:00",
       "score": 17.4,
       "status": "BASELINE"
     }
