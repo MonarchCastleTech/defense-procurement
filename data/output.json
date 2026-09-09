@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-08T21:20:48.220155+00:00",
+    "generated": "2026-09-09T05:03:24.527850+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 17.4,
-    "raw_score": 17.4,
+    "score": 16.6,
+    "raw_score": 16.6,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 17.4/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 16.6/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -27,11 +27,85 @@
       "available": true,
       "retained": false,
       "coverage": 624,
-      "current_14d_weekly_equivalent": 44.0,
-      "baseline_weekly_median": 45.5,
-      "anomaly_z": -0.25,
+      "current_14d_weekly_equivalent": 42.5,
+      "baseline_weekly_median": 44.5,
+      "anomaly_z": -0.22,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "620149-2026",
+          "date": "2026-09-09",
+          "title": "Spain – Ammunition – Adquisición de granadas de mortero",
+          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+          "country": "ESP",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/620149-2026"
+        },
+        {
+          "id": "619998-2026",
+          "date": "2026-09-09",
+          "title": "Norway – Sonars – RFI Variable depth sonar",
+          "buyer": "FORSVARSMATERIELL",
+          "country": "NOR",
+          "cpv": [
+            "38113000",
+            "34500000",
+            "35510000",
+            "35520000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/619998-2026"
+        },
+        {
+          "id": "620335-2026",
+          "date": "2026-09-09",
+          "title": "Slovakia – Ammunition – Náboje pre krátke strelné zbrane a brokovnice",
+          "buyer": "Ministerstvo vnútra Slovenskej republiky",
+          "country": "SVK",
+          "cpv": [
+            "35330000",
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/620335-2026"
+        },
+        {
+          "id": "619743-2026",
+          "date": "2026-09-09",
+          "title": "Germany – Parts of military vehicles – 6003113289-BAAINBw E2.5F Schwingarmbaugruppen, Leopard 2",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/619743-2026"
+        },
+        {
+          "id": "619424-2026",
+          "date": "2026-09-09",
+          "title": "Poland – Security, fire-fighting, police and defence equipment – Zakup broni, amunicji i środków przymusu bezpośredniego na potrzeby IAS w Rzeszowie",
+          "buyer": "Izba Administracji Skarbowej w Rzeszowie",
+          "country": "POL",
+          "cpv": [
+            "35000000",
+            "35331000",
+            "35321100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/619424-2026"
+        },
+        {
+          "id": "621903-2026",
+          "date": "2026-09-09",
+          "title": "Belgium – Business and management consultancy and related services – Comprehensive policy framework for core geospatial data in the EU",
+          "buyer": "European Commission, DG DEFIS - Defence Industry and Space",
+          "country": "BEL",
+          "cpv": [
+            "79400000",
+            "35631200",
+            "72322000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/621903-2026"
+        },
         {
           "id": "616469-2026",
           "date": "2026-09-08",
@@ -143,56 +217,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/615664-2026"
         },
         {
-          "id": "615123-2026",
-          "date": "2026-09-07",
-          "title": "Czechia – Ammunition for firearms and warfare – Rámcová dohoda – náboje 5,56x45",
-          "buyer": "Ministerstvo vnitra",
-          "country": "CZE",
-          "cpv": [
-            "35331000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/615123-2026"
-        },
-        {
-          "id": "616105-2026",
-          "date": "2026-09-07",
-          "title": "Poland – Explosives – Dostawa materiałów wybuchowych, środków inicjujących wybuch, środków pozoracji oraz materiałów eksploatacyjnych na potrzeby realizacji szkoleń przez CSSG w Kętrzynie oraz na potrzeby W-MOSG",
-          "buyer": "WARMIŃSKO-MAZURSKI ODDZIAŁ STRAŻY GRANICZNEJ im. gen. bryg. Stefana Pasławskiego",
-          "country": "POL",
-          "cpv": [
-            "24600000",
-            "24615000",
-            "24612200",
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/616105-2026"
-        },
-        {
-          "id": "614313-2026",
-          "date": "2026-09-07",
-          "title": "Spain – Firearms – Acuerdo marco para la adquisición de sistemas de defensa inmediata de la fuerza de desembarco",
-          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
-          "country": "ESP",
-          "cpv": [
-            "35320000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/614313-2026"
-        },
-        {
-          "id": "613235-2026",
-          "date": "2026-09-07",
-          "title": "Spain – Police uniforms – Contrato administrativo suministro de prendas de uniformidad y equipamiento técnico y operativo de la Policía Local y Protección Civil del Ayuntamiento de Arroyomolinos (Madrid)",
-          "buyer": "Junta de Gobierno del Ayuntamiento de Arroyomolinos",
-          "country": "ESP",
-          "cpv": [
-            "35811200",
-            "18110000",
-            "18810000",
-            "18812200"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/613235-2026"
-        },
-        {
           "id": "613240-2026",
           "date": "2026-09-07",
           "title": "Spain – Ammunition for firearms and warfare – Suministro de artillería naval 5/54",
@@ -202,47 +226,21 @@
             "35331000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/613240-2026"
-        },
-        {
-          "id": "613874-2026",
-          "date": "2026-09-07",
-          "title": "Germany – Satellite earth stations – Informationseinholung im Rahmen einer Markterkundung für die Beschaffung von bodenbasierten Counter-Space Systemen gegen Kommunikationssatelliten",
-          "buyer": "Deutsche Raumfahrtagentur im Deutschen Zentrum für Luft- und Raumfahrt e.V.",
-          "country": "DEU",
-          "cpv": [
-            "32533000",
-            "35730000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/613874-2026"
-        },
-        {
-          "id": "614421-2026",
-          "date": "2026-09-07",
-          "title": "Estonia – Parts and accessories for vehicles and their engines – ATS süsteemide hooldus",
-          "buyer": "Riigi Kaitseinvesteeringute Keskus",
-          "country": "EST",
-          "cpv": [
-            "34300000",
-            "50116300",
-            "71300000",
-            "71320000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/614421-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 5.4,
+      "score": 5.2,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-06-11",
-      "reporting_lag_days": 89,
-      "freshness_factor": 0.26,
-      "current_14d_weekly_equivalent": 119566430.74,
+      "reporting_lag_days": 90,
+      "freshness_factor": 0.25,
+      "current_14d_weekly_equivalent": 119711393.39,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -268,7 +266,7 @@
         },
         {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 11578551.88
+          "amount": 11643008.72
         },
         {
           "name": "L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P.",
@@ -447,15 +445,15 @@
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 22.9,
+      "score": 19.2,
       "status": "BASELINE",
       "weight": 0.2,
       "available": true,
       "retained": false,
       "coverage": 88,
       "current_14d_weekly_equivalent": 5.0,
-      "baseline_weekly_median": 3.0,
-      "anomaly_z": 0.45,
+      "baseline_weekly_median": 5.75,
+      "anomaly_z": -0.09,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -836,6 +834,11 @@
     {
       "generated": "2026-09-08T21:20:48.220155+00:00",
       "score": 17.4,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-09T05:03:24.527850+00:00",
+      "score": 16.6,
       "status": "BASELINE"
     }
   ],
