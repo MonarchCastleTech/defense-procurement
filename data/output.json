@@ -1,23 +1,21 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-09T11:45:33.987360+00:00",
-    "mode": "partial",
+    "generated": "2026-09-09T16:50:42.518336+00:00",
+    "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
     "classification": "procurement-acceleration-screening-not-conflict-probability-or-contract-forecast",
     "coverage": "5/5",
-    "confidence": "MEDIUM",
-    "source_notes": [
-      "us_awards: retained (ReadTimeout)"
-    ]
+    "confidence": "HIGH",
+    "source_notes": []
   },
   "warning": {
-    "score": 16.6,
-    "raw_score": 16.6,
+    "score": 16.8,
+    "raw_score": 16.8,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 16.6/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 16.8/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -233,50 +231,50 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 5.2,
+      "score": 5.8,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
-      "retained": true,
+      "retained": false,
       "coverage": 600,
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 90,
       "freshness_factor": 0.25,
-      "current_14d_weekly_equivalent": 119711393.39,
+      "current_14d_weekly_equivalent": 195328046.21,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
           "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 54254540.22
+          "amount": 159516492.0
         },
         {
-          "name": "NAPATREE TECHNOLOGY LLC",
-          "amount": 47807500.0
+          "name": "RAYTHEON COMPANY",
+          "amount": 40606956.84
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 22704364.59
+          "amount": 31971378.67
         },
         {
-          "name": "NOVA TECHNOLOGIES AN EMPLOYEE-OWNED ENGINEERING COMPANY",
-          "amount": 13496508.0
+          "name": "SOURCE ONE SPARES LLC",
+          "amount": 31914205.0
         },
         {
-          "name": "DELL FEDERAL SYSTEMS L.P",
-          "amount": 12849649.1
+          "name": "VELO AVIATION LLC",
+          "amount": 26537137.0
         },
         {
-          "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 11643008.72
+          "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 26492470.82
+        },
+        {
+          "name": "BELL TEXTRON INC",
+          "amount": 19877227.43
         },
         {
           "name": "L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P.",
-          "amount": 10287346.0
-        },
-        {
-          "name": "NORTHROP GRUMMAN SYSTEMS CORP",
-          "amount": 9941411.0
+          "amount": 14763131.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -291,160 +289,159 @@
           "naics": "336411"
         },
         {
-          "date": "2026-06-08",
-          "award_id": "W912CH26CA009",
-          "recipient": "NAPATREE TECHNOLOGY LLC",
-          "amount": 47807500.0,
-          "agency": "Department of the Army",
-          "description": "PROCUREMENT OF SUPPLIES AND SERVICES FOR AS3 SURVEYOR DRONES, BUMBLEBEE V1, BUMBLEBEE V2, AND HORNETS.",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-08",
-          "award_id": "W31P4Q26F0115",
+          "date": "2026-06-09",
+          "award_id": "N0001925C0070",
           "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 28000000.0,
-          "agency": "Department of the Army",
-          "description": "M-CODE GUIDANCE SET - PRECISION STRIKE MISSILE (PRSM)",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-08",
-          "award_id": "FA810720F0001",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 21548545.67,
-          "agency": "Department of the Air Force",
-          "description": "B-52 CERP RAPID PROTOTYPING 1 (RP1) CCP9 AND CCP9M, TINKER AFB, OK",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-08",
-          "award_id": "FA861124F0028",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 15000000.0,
-          "agency": "Department of the Air Force",
-          "description": "INFRARED DEFENSIVE SUITE (IRDS) NOT TO EXCEED (NTE)",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-08",
-          "award_id": "FA862120F6310",
-          "recipient": "NOVA TECHNOLOGIES AN EMPLOYEE-OWNED ENGINEERING COMPANY",
-          "amount": 13496508.0,
-          "agency": "Department of the Air Force",
-          "description": "C130-J MAINTENANCE AND AIRCREW TRAINING SYSTEM",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-08",
-          "award_id": "FA862026CB008",
-          "recipient": "DELL FEDERAL SYSTEMS L.P",
-          "amount": 12849649.1,
-          "agency": "Department of the Air Force",
-          "description": "AFLCMC/WI",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-08",
-          "award_id": "FA862026FB010",
-          "recipient": "L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P.",
-          "amount": 10287346.0,
-          "agency": "Department of the Air Force",
-          "description": "AFLCMC/WI",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-08",
-          "award_id": "N0001926F2196",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 9967968.18,
+          "amount": 153900000.0,
           "agency": "Department of the Navy",
-          "description": "NEW TASK ORDER FOR PRESIDIQ LABOR/ENGINEERING APN",
+          "description": "THIS MODIFICATION AWARDS LONG LEAD FUNDING IN SUPPORT OF LOT 21 F-35 AIRCRAFT FOR AN FMS CUSTOMER.",
           "naics": "336411"
         },
         {
-          "date": "2026-06-08",
-          "award_id": "FA810824F0018",
-          "recipient": "M1 SUPPORT SERVICES, L.P.",
-          "amount": 6070976.98,
-          "agency": "Department of the Air Force",
-          "description": "COMMANDER NAVAL AIR FORCES (CNAP) FLEET REPLACEMENT SQUADRON (FRS) FLIGHT LINE, CORROSION CONTROL, TOOL ROOM, O LEVEL AND LIMITED I AND D LEVEL MAINTENANCE SUPPORT (VFA-122, NAS LEMOORE, CA)",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-08",
-          "award_id": "FA852822F0029",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 5863491.0,
-          "agency": "Department of the Air Force",
-          "description": "U-2 PDM INDUCTION OF AC1083",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-08",
-          "award_id": "FA852822F0027",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 5346550.0,
-          "agency": "Department of the Air Force",
-          "description": "AC 1073 PDM/S S",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-08",
-          "award_id": "FA811026FB017",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
-          "amount": 5085816.0,
-          "agency": "Department of the Air Force",
-          "description": "B-2 SPECIAL TEST EQUIPMENT (STE) FUEL MEASUREMENT MANAGEMENT SYSTEM (FMMS)",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-08",
-          "award_id": "FA811026FB015",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
-          "amount": 4855595.0,
-          "agency": "Department of the Air Force",
-          "description": "B-2 SPECIAL TEST EQUIPMENT (STE) BATTERY ELECTRONICS TEST STATION (BETS)",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-08",
-          "award_id": "M6785426F1045",
-          "recipient": "TELEDYNE FLIR DEFENSE, LLC",
-          "amount": 3107976.75,
-          "agency": "Department of the Navy",
-          "description": "USSOCOM - DELIVERY ORDER #8",
-          "naics": "336419"
-        },
-        {
-          "date": "2026-06-08",
-          "award_id": "W519TC26F0131",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 3023233.2,
-          "agency": "Department of the Army",
-          "description": "25MM PGU-24 DUMMY CARTRIDGE",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-06-08",
-          "award_id": "FA862625FB011",
-          "recipient": "RTX CORPORATION",
-          "amount": 3000000.0,
-          "agency": "Department of the Air Force",
-          "description": "DO3 - ENGINE BUILD, TEST, MATURATION AND INTEGRATION",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-06-08",
-          "award_id": "N0001920C0030",
+          "date": "2026-06-09",
+          "award_id": "HQ085124F0007",
           "recipient": "RAYTHEON COMPANY",
-          "amount": 1925956.9,
-          "agency": "Department of the Navy",
-          "description": "FRP 16/17 OVERRUN",
+          "amount": 39095000.0,
+          "agency": "Missile Defense Agency",
+          "description": "SM-3 BLK IB OBSOLESCENCE MITIGATION",
           "naics": "336414"
+        },
+        {
+          "date": "2026-06-09",
+          "award_id": "FA860926FB045",
+          "recipient": "SOURCE ONE SPARES LLC",
+          "amount": 31914205.0,
+          "agency": "Department of the Air Force",
+          "description": "KC-46 INITIAL SPARES FOPR 11 TRAVIS AFB AND HDPS - SOURCE ONE SPARES",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-09",
+          "award_id": "FA860926FB044",
+          "recipient": "VELO AVIATION LLC",
+          "amount": 26537137.0,
+          "agency": "Department of the Air Force",
+          "description": "KC-46 INITIAL SPARES FOPR 11 - VELO AVIATION",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-09",
+          "award_id": "FA869023FB001",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 26377753.87,
+          "agency": "Department of the Air Force",
+          "description": "ENTERPRISE SERVICES III",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-09",
+          "award_id": "FA863418C2701",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 19600000.0,
+          "agency": "Department of the Air Force",
+          "description": "F-15, FOREIGN MILITARY SALES, QATAR PROGRAM",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-09",
+          "award_id": "SPRPA125F0025",
+          "recipient": "BELL TEXTRON INC",
+          "amount": 18700690.96,
+          "agency": "Defense Logistics Agency",
+          "description": "8511665011!PBL MATERIAL BELL",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-09",
+          "award_id": "FA862026FB072",
+          "recipient": "L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P.",
+          "amount": 14763131.0,
+          "agency": "Department of the Air Force",
+          "description": "AFLCMC/WI",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-09",
+          "award_id": "FA810726FB008",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 8014030.81,
+          "agency": "Department of the Air Force",
+          "description": "INTERIM CONTRACTOR SUPPORT AND DIMINISHING MANUFACTURING SOURCES AND MATERIAL SHORTAGES FOR B-52",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-09",
+          "award_id": "FA868923F2650",
+          "recipient": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.",
+          "amount": 5441319.32,
+          "agency": "Department of the Air Force",
+          "description": "MQ-9 REAPER OPEN MISSION SYSTEM (OMS) STELLAR RELAY (SR) AND LINK-16 RETROFIT",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-09",
+          "award_id": "FA860926FB048",
+          "recipient": "VC DISPLAYS, INC.",
+          "amount": 3571164.0,
+          "agency": "Department of the Air Force",
+          "description": "KC-46 INITIAL SPARES TRAVIS AFB AND HDPS FOPR11-VC DISPLAYS",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-09",
+          "award_id": "FA823226FB222",
+          "recipient": "CHEROKEE NATION AEROSPACE AND DEFENSE, L.L.C.",
+          "amount": 3498175.0,
+          "agency": "Department of the Air Force",
+          "description": "COMM SUITE BLOCK 40/42C CSU WIRING HARNESS KITS",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-09",
+          "award_id": "FA860926FB049",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 3090930.46,
+          "agency": "Department of the Air Force",
+          "description": "KC-46 INITIAL SPARES FOPR 11 TRAVIS AFB AND HDPS - THE BOEING COMPANY",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-09",
+          "award_id": "FA861125F0034",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 2585327.0,
+          "agency": "Department of the Air Force",
+          "description": "F22 PROGRAM OFFICE SUPPORT",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-09",
+          "award_id": "N0001926F0025",
+          "recipient": "POWERHOUSE RESOURCES INTERNATIONAL LLC",
+          "amount": 2011215.08,
+          "agency": "Department of the Navy",
+          "description": "INCREMENTAL FUNDING",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-09",
+          "award_id": "N0001925F0264",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 1913860.0,
+          "agency": "Department of the Navy",
+          "description": "INCREMENTAL FUNDING MODIFICATION AND OVERRUN FUNDING.",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-09",
+          "award_id": "N0038326CBA22",
+          "recipient": "UNDERSEA SENSOR SYSTEMS, INC.",
+          "amount": 1603936.0,
+          "agency": "Department of the Navy",
+          "description": "RECEIVER RADIO",
+          "naics": "336413"
         }
-      ],
-      "retained_reason": "ReadTimeout"
+      ]
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -517,7 +514,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 20
+          "age": 21
         },
         {
           "date": "2026-08-19",
@@ -847,6 +844,11 @@
     {
       "generated": "2026-09-09T11:45:33.987360+00:00",
       "score": 16.6,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-09T16:50:42.518336+00:00",
+      "score": 16.8,
       "status": "BASELINE"
     }
   ],
