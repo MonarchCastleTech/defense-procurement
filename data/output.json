@@ -1,14 +1,16 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-09T05:03:24.527850+00:00",
-    "mode": "live",
+    "generated": "2026-09-09T11:45:33.987360+00:00",
+    "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–90 days",
     "classification": "procurement-acceleration-screening-not-conflict-probability-or-contract-forecast",
     "coverage": "5/5",
-    "confidence": "HIGH",
-    "source_notes": []
+    "confidence": "MEDIUM",
+    "source_notes": [
+      "us_awards: retained (ReadTimeout)"
+    ]
   },
   "warning": {
     "score": 16.6,
@@ -81,19 +83,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/619743-2026"
         },
         {
-          "id": "619424-2026",
-          "date": "2026-09-09",
-          "title": "Poland – Security, fire-fighting, police and defence equipment – Zakup broni, amunicji i środków przymusu bezpośredniego na potrzeby IAS w Rzeszowie",
-          "buyer": "Izba Administracji Skarbowej w Rzeszowie",
-          "country": "POL",
-          "cpv": [
-            "35000000",
-            "35331000",
-            "35321100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/619424-2026"
-        },
-        {
           "id": "621903-2026",
           "date": "2026-09-09",
           "title": "Belgium – Business and management consultancy and related services – Comprehensive policy framework for core geospatial data in the EU",
@@ -105,6 +94,19 @@
             "72322000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/621903-2026"
+        },
+        {
+          "id": "619424-2026",
+          "date": "2026-09-09",
+          "title": "Poland – Security, fire-fighting, police and defence equipment – Zakup broni, amunicji i środków przymusu bezpośredniego na potrzeby IAS w Rzeszowie",
+          "buyer": "Izba Administracji Skarbowej w Rzeszowie",
+          "country": "POL",
+          "cpv": [
+            "35000000",
+            "35331000",
+            "35321100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/619424-2026"
         },
         {
           "id": "616469-2026",
@@ -154,6 +156,31 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/616281-2026"
         },
         {
+          "id": "615664-2026",
+          "date": "2026-09-07",
+          "title": "Greece – Unmanned aerial vehicles – ΠΡΟΜΗΘΕΙΑ ΜΗ ΣΤΕΛΕΧΩΜΕΝΩΝ ΜΕΣΩΝ (DRONES) ΣΤΟ ΛΙΜΕΝΙΚΟ ΣΩΜΑ-ΕΛΛΗΝΙΚΗ ΑΚΤΟΦΥΛΑΚΗ ΚΑΙ ΣΥΝΑΦΕΙΣ ΥΠΗΡΕΣΙΕΣ",
+          "buyer": "Υπουργείο Ναυτιλίας και Νησιωτικής Πολιτικής",
+          "country": "GRC",
+          "cpv": [
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/615664-2026"
+        },
+        {
+          "id": "615545-2026",
+          "date": "2026-09-07",
+          "title": "Poland – Vehicles for the emergency services – Samochód dowodzenia i łączności (kompanijne stanowisko dowodzenia) – 9 sztuk",
+          "buyer": "Komenda Wojewódzka Państwowej Straży Pożarnej w Poznaniu",
+          "country": "POL",
+          "cpv": [
+            "34144200",
+            "35110000",
+            "35412500",
+            "34144210"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/615545-2026"
+        },
+        {
           "id": "612658-2026",
           "date": "2026-09-07",
           "title": "Germany – Military electronic systems – Q/U2CD/VA064/35590 - Fusionsbrille SpezKr Bw",
@@ -192,40 +219,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/615208-2026"
         },
         {
-          "id": "615545-2026",
+          "id": "615123-2026",
           "date": "2026-09-07",
-          "title": "Poland – Vehicles for the emergency services – Samochód dowodzenia i łączności (kompanijne stanowisko dowodzenia) – 9 sztuk",
-          "buyer": "Komenda Wojewódzka Państwowej Straży Pożarnej w Poznaniu",
-          "country": "POL",
-          "cpv": [
-            "34144200",
-            "35110000",
-            "35412500",
-            "34144210"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/615545-2026"
-        },
-        {
-          "id": "615664-2026",
-          "date": "2026-09-07",
-          "title": "Greece – Unmanned aerial vehicles – ΠΡΟΜΗΘΕΙΑ ΜΗ ΣΤΕΛΕΧΩΜΕΝΩΝ ΜΕΣΩΝ (DRONES) ΣΤΟ ΛΙΜΕΝΙΚΟ ΣΩΜΑ-ΕΛΛΗΝΙΚΗ ΑΚΤΟΦΥΛΑΚΗ ΚΑΙ ΣΥΝΑΦΕΙΣ ΥΠΗΡΕΣΙΕΣ",
-          "buyer": "Υπουργείο Ναυτιλίας και Νησιωτικής Πολιτικής",
-          "country": "GRC",
-          "cpv": [
-            "35613000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/615664-2026"
-        },
-        {
-          "id": "613240-2026",
-          "date": "2026-09-07",
-          "title": "Spain – Ammunition for firearms and warfare – Suministro de artillería naval 5/54",
-          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
-          "country": "ESP",
+          "title": "Czechia – Ammunition for firearms and warfare – Rámcová dohoda – náboje 5,56x45",
+          "buyer": "Ministerstvo vnitra",
+          "country": "CZE",
           "cpv": [
             "35331000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/613240-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/615123-2026"
         }
       ]
     },
@@ -235,7 +237,7 @@
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
-      "retained": false,
+      "retained": true,
       "coverage": 600,
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 90,
@@ -441,7 +443,8 @@
           "description": "FRP 16/17 OVERRUN",
           "naics": "336414"
         }
-      ]
+      ],
+      "retained_reason": "ReadTimeout"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -464,7 +467,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-09-01",
@@ -474,7 +477,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-09-01",
@@ -484,7 +487,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-09-01",
@@ -494,7 +497,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-08-19",
@@ -504,7 +507,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 20
+          "age": 21
         },
         {
           "date": "2026-08-19",
@@ -524,7 +527,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 20
+          "age": 21
         },
         {
           "date": "2026-08-19",
@@ -534,7 +537,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 20
+          "age": 21
         },
         {
           "date": "2026-08-06",
@@ -544,7 +547,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 33
+          "age": 34
         }
       ]
     },
@@ -838,6 +841,11 @@
     },
     {
       "generated": "2026-09-09T05:03:24.527850+00:00",
+      "score": 16.6,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-09T11:45:33.987360+00:00",
       "score": 16.6,
       "status": "BASELINE"
     }
