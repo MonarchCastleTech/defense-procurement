@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-10T11:42:52.910215+00:00",
+    "generated": "2026-09-10T16:37:21.985302+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -94,17 +94,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/625161-2026"
         },
         {
-          "id": "623890-2026",
-          "date": "2026-09-10",
-          "title": "Germany – Cartridges – 57MM TARGET PRACTICE (TP)",
-          "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
-          "country": "DEU",
-          "cpv": [
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/623890-2026"
-        },
-        {
           "id": "624437-2026",
           "date": "2026-09-10",
           "title": "Denmark – Security, fire-fighting, police and defence equipment – Contract regarding upgrade of VL MICA and purchase of additional missiles",
@@ -129,6 +118,17 @@
             "39225500"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/625642-2026"
+        },
+        {
+          "id": "623890-2026",
+          "date": "2026-09-10",
+          "title": "Germany – Cartridges – 57MM TARGET PRACTICE (TP)",
+          "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+          "country": "DEU",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/623890-2026"
         },
         {
           "id": "620149-2026",
@@ -179,19 +179,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/619743-2026"
         },
         {
-          "id": "619424-2026",
-          "date": "2026-09-09",
-          "title": "Poland – Security, fire-fighting, police and defence equipment – Zakup broni, amunicji i środków przymusu bezpośredniego na potrzeby IAS w Rzeszowie",
-          "buyer": "Izba Administracji Skarbowej w Rzeszowie",
-          "country": "POL",
-          "cpv": [
-            "35000000",
-            "35331000",
-            "35321100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/619424-2026"
-        },
-        {
           "id": "621903-2026",
           "date": "2026-09-09",
           "title": "Belgium – Business and management consultancy and related services – Comprehensive policy framework for core geospatial data in the EU",
@@ -203,6 +190,19 @@
             "72322000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/621903-2026"
+        },
+        {
+          "id": "619424-2026",
+          "date": "2026-09-09",
+          "title": "Poland – Security, fire-fighting, police and defence equipment – Zakup broni, amunicji i środków przymusu bezpośredniego na potrzeby IAS w Rzeszowie",
+          "buyer": "Izba Administracji Skarbowej w Rzeszowie",
+          "country": "POL",
+          "cpv": [
+            "35000000",
+            "35331000",
+            "35321100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/619424-2026"
         },
         {
           "id": "616469-2026",
@@ -233,7 +233,7 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 6.1,
+      "score": 6.2,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -242,13 +242,17 @@
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 91,
       "freshness_factor": 0.24,
-      "current_14d_weekly_equivalent": 328561685.95,
+      "current_14d_weekly_equivalent": 358276359.52,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
           "name": "FLIGHTSAFETY DEFENSE CORPORATION",
           "amount": 557961842.04
+        },
+        {
+          "name": "NORTHROP GRUMMAN SYSTEMS CORP",
+          "amount": 63380486.16
         },
         {
           "name": "RTX CORPORATION",
@@ -260,7 +264,7 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 9557434.78
+          "amount": 5107434.78
         },
         {
           "name": "GLOBAL LOGISTICS SUPPORT SERVICES INC",
@@ -273,10 +277,6 @@
         {
           "name": "RAYTHEON COMPANY",
           "amount": 2251334.79
-        },
-        {
-          "name": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 1695933.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -301,6 +301,15 @@
         },
         {
           "date": "2026-06-10",
+          "award_id": "W519TC26F0132",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
+          "amount": 63363945.16,
+          "agency": "Department of the Army",
+          "description": "DELIVERY ORDER FOR THE M782A1 MOFA II",
+          "naics": "332993"
+        },
+        {
+          "date": "2026-06-10",
           "award_id": "N0001926C0118",
           "recipient": "RTX CORPORATION",
           "amount": 35656944.0,
@@ -315,15 +324,6 @@
           "amount": 25728291.68,
           "agency": "Department of the Army",
           "description": "THE FUTURE LONG RANGE ASSAULT AIRCRAFT (FLRAA) PROGRAM THAT WILL DEVELOP AND FIELD THE NEXT GENERATION OF AFFORDABLE VERTICAL LIFT TACTICAL ASSAULT / UTILITY AIRCRAFT FOR THE ARMY.",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-10",
-          "award_id": "FA863422F0044",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 4450000.0,
-          "agency": "Department of the Air Force",
-          "description": "F-15 -- RAPID RESPONSE DELIVERY ORDER",
           "naics": "336411"
         },
         {
@@ -516,7 +516,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 21
+          "age": 22
         },
         {
           "date": "2026-08-19",
@@ -855,6 +855,11 @@
     },
     {
       "generated": "2026-09-10T11:42:52.910215+00:00",
+      "score": 16.4,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-10T16:37:21.985302+00:00",
       "score": 16.4,
       "status": "BASELINE"
     }
