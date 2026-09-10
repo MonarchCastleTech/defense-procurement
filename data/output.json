@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-10T16:37:21.985302+00:00",
+    "generated": "2026-09-10T21:06:53.401693+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -94,20 +94,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/625161-2026"
         },
         {
-          "id": "624437-2026",
-          "date": "2026-09-10",
-          "title": "Denmark – Security, fire-fighting, police and defence equipment – Contract regarding upgrade of VL MICA and purchase of additional missiles",
-          "buyer": "Danish Ministry of Defence Acquisition and Logistics Organisation",
-          "country": "DNK",
-          "cpv": [
-            "35000000",
-            "35622700",
-            "35711000",
-            "35712000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/624437-2026"
-        },
-        {
           "id": "625642-2026",
           "date": "2026-09-10",
           "title": "Germany – Ammunition – Angestrebt wird für die Herstellung und Lieferung von Signalpatronen 26,5mm Signalpatronen Fallschirm (LL57) eine Mehrpartnerrahmenvereinbarung mit Miniwettbewerb",
@@ -129,6 +115,20 @@
             "35331500"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/623890-2026"
+        },
+        {
+          "id": "624437-2026",
+          "date": "2026-09-10",
+          "title": "Denmark – Security, fire-fighting, police and defence equipment – Contract regarding upgrade of VL MICA and purchase of additional missiles",
+          "buyer": "Danish Ministry of Defence Acquisition and Logistics Organisation",
+          "country": "DNK",
+          "cpv": [
+            "35000000",
+            "35622700",
+            "35711000",
+            "35712000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/624437-2026"
         },
         {
           "id": "620149-2026",
@@ -168,15 +168,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/620335-2026"
         },
         {
-          "id": "619743-2026",
+          "id": "619424-2026",
           "date": "2026-09-09",
-          "title": "Germany – Parts of military vehicles – 6003113289-BAAINBw E2.5F Schwingarmbaugruppen, Leopard 2",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
+          "title": "Poland – Security, fire-fighting, police and defence equipment – Zakup broni, amunicji i środków przymusu bezpośredniego na potrzeby IAS w Rzeszowie",
+          "buyer": "Izba Administracji Skarbowej w Rzeszowie",
+          "country": "POL",
           "cpv": [
-            "35420000"
+            "35000000",
+            "35331000",
+            "35321100"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/619743-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/619424-2026"
         },
         {
           "id": "621903-2026",
@@ -192,17 +194,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/621903-2026"
         },
         {
-          "id": "619424-2026",
+          "id": "619743-2026",
           "date": "2026-09-09",
-          "title": "Poland – Security, fire-fighting, police and defence equipment – Zakup broni, amunicji i środków przymusu bezpośredniego na potrzeby IAS w Rzeszowie",
-          "buyer": "Izba Administracji Skarbowej w Rzeszowie",
-          "country": "POL",
+          "title": "Germany – Parts of military vehicles – 6003113289-BAAINBw E2.5F Schwingarmbaugruppen, Leopard 2",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
           "cpv": [
-            "35000000",
-            "35331000",
-            "35321100"
+            "35420000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/619424-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/619743-2026"
         },
         {
           "id": "616469-2026",
@@ -242,7 +242,7 @@
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 91,
       "freshness_factor": 0.24,
-      "current_14d_weekly_equivalent": 358276359.52,
+      "current_14d_weekly_equivalent": 358246046.88,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -860,6 +860,11 @@
     },
     {
       "generated": "2026-09-10T16:37:21.985302+00:00",
+      "score": 16.4,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-10T21:06:53.401693+00:00",
       "score": 16.4,
       "status": "BASELINE"
     }
