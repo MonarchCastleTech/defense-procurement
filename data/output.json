@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-11T05:03:47.960643+00:00",
+    "generated": "2026-09-11T11:43:36.678323+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 16.4,
-    "raw_score": 16.4,
+    "score": 16.3,
+    "raw_score": 16.3,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 16.4/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 16.3/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -236,7 +236,7 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 6.1,
+      "score": 6.0,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -245,206 +245,206 @@
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 387991033.1,
+      "current_14d_weekly_equivalent": 341169245.62,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
-          "name": "FLIGHTSAFETY DEFENSE CORPORATION",
-          "amount": 557961842.04
+          "name": "LOCKHEED MARTIN CORP",
+          "amount": 514412527.67
         },
         {
-          "name": "NORTHROP GRUMMAN SYSTEMS CORP",
-          "amount": 126760972.32
+          "name": "PARKER-HANNIFIN CORPORATION",
+          "amount": 27842743.4
         },
         {
-          "name": "RTX CORPORATION",
-          "amount": 41280175.65
+          "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 25465233.13
         },
         {
-          "name": "BELL TEXTRON INC",
-          "amount": 26722060.64
+          "name": "THE BOEING COMPANY",
+          "amount": 20581910.65
         },
         {
-          "name": "GLOBAL LOGISTICS SUPPORT SERVICES INC",
-          "amount": 3286737.92
+          "name": "SIG SAUER INC.",
+          "amount": 16516749.28
         },
         {
-          "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 2292484.84
+          "name": "AMTEC CORPORATION",
+          "amount": 16046910.72
         },
         {
-          "name": "RAYTHEON COMPANY",
-          "amount": 2251334.79
+          "name": "L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P.",
+          "amount": 11270288.2
         },
         {
-          "name": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 1695933.0
+          "name": "THOMAS INSTRUMENT, INCORPORATED",
+          "amount": 10795654.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
         {
           "date": "2026-06-11",
-          "award_id": "FA810824FB001",
-          "recipient": "STRATEGIC TECHNOLOGY INSTITUTE INC",
-          "amount": 0.0,
+          "award_id": "FA880718C0009",
+          "recipient": "LOCKHEED MARTIN CORP",
+          "amount": 514412527.67,
           "agency": "Department of the Air Force",
-          "description": "USCG AVIATION TRAINING CENTER (ATC) GROUND SUPPORT EQUIPMENT (GSE) MAINTENANCE, MOBILE, AL",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-10",
-          "award_id": "FA862113C6247",
-          "recipient": "FLIGHTSAFETY DEFENSE CORPORATION",
-          "amount": 557961842.04,
-          "agency": "Department of the Air Force",
-          "description": "KC-46 AIRCREW TRAINING SYSTEM (ATS)",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-10",
-          "award_id": "W519TC26F0132",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
-          "amount": 63363945.16,
-          "agency": "Department of the Army",
-          "description": "DELIVERY ORDER FOR THE M782A1 MOFA II",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-06-10",
-          "award_id": "W519TC26F0132",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
-          "amount": 63363945.16,
-          "agency": "Department of the Army",
-          "description": "DELIVERY ORDER FOR THE M782A1 MOFA II",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-06-10",
-          "award_id": "N0001926C0118",
-          "recipient": "RTX CORPORATION",
-          "amount": 35656944.0,
-          "agency": "Department of the Navy",
-          "description": "THE PURPOSE OF THIS MODIFICATION IS TO PROVIDE ADDITIONAL FUNDING.",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-06-10",
-          "award_id": "W58RGZ23C0001",
-          "recipient": "BELL TEXTRON INC",
-          "amount": 25728291.68,
-          "agency": "Department of the Army",
-          "description": "THE FUTURE LONG RANGE ASSAULT AIRCRAFT (FLRAA) PROGRAM THAT WILL DEVELOP AND FIELD THE NEXT GENERATION OF AFFORDABLE VERTICAL LIFT TACTICAL ASSAULT / UTILITY AIRCRAFT FOR THE ARMY.",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-10",
-          "award_id": "SPRHA126F0093",
-          "recipient": "RTX CORPORATION",
-          "amount": 3878284.0,
-          "agency": "Defense Logistics Agency",
-          "description": "F100 ENGINES",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-06-10",
-          "award_id": "N0001920C0030",
-          "recipient": "RAYTHEON COMPANY",
-          "amount": 2251334.79,
-          "agency": "Department of the Navy",
-          "description": "FRP 17 OVERRUN/CLOSEOUT",
+          "description": "GLOBAL POSITIONING SYSTEM 3 FOLLOW ON SPACE VEHICLE 23 AND 24 PURCHASE",
           "naics": "336414"
         },
         {
-          "date": "2026-06-10",
-          "award_id": "FA810824FB005",
-          "recipient": "GLOBAL LOGISTICS SUPPORT SERVICES INC",
-          "amount": 1711805.92,
+          "date": "2026-06-11",
+          "award_id": "SPRHA126F0090",
+          "recipient": "PARKER-HANNIFIN CORPORATION",
+          "amount": 27742309.59,
+          "agency": "Defense Logistics Agency",
+          "description": "PARKER ACTUATOR PBL POP5",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-11",
+          "award_id": "FA881825FB001",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 18000000.0,
           "agency": "Department of the Air Force",
-          "description": "CONTRACT FIELD TEAM (CFT) SUPPORT FOR HSC-2, NORFOLK, VA",
+          "description": "NO-COST PERIOD OF PERFORMANCE (POP) EXTENSION FOR (EFT-2) TASK ORDER",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-06-11",
+          "award_id": "FA855724F0001",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 16228369.26,
+          "agency": "Department of the Air Force",
+          "description": "C-17 GLOBEMASTER BEYOND LINE OF SIGHT (BLOS) RETRIOFIT KITS MATERIAL",
           "naics": "336411"
         },
         {
-          "date": "2026-06-10",
-          "award_id": "W58RGZ24F0307",
-          "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 1695933.0,
+          "date": "2026-06-11",
+          "award_id": "W52P1J22C0049",
+          "recipient": "AMTEC CORPORATION",
+          "amount": 16046910.72,
           "agency": "Department of the Army",
-          "description": "CH47 DVEP KITS BLOCK II, INSTALL",
-          "naics": "336413"
+          "description": "THIS MODIFICATION EXERCISES FY26 OPTION #2 FOR M430A1 (METAL PALLETS) CARTRIDGES IN ACCORDANCE WITH FAR CLAUSE 52.217-6.",
+          "naics": "332993"
         },
         {
-          "date": "2026-06-10",
-          "award_id": "FA810823F0034",
-          "recipient": "GLOBAL LOGISTICS SUPPORT SERVICES INC",
-          "amount": 1574932.0,
+          "date": "2026-06-11",
+          "award_id": "W15QKN26F0158",
+          "recipient": "SIG SAUER INC.",
+          "amount": 14478549.28,
+          "agency": "Department of the Army",
+          "description": "TO PURCHASE  1,222 NGSW-AUTO RIFLE W/OUT SHOT COUNTER W/BLUE FORCE GEAR SLING.",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-06-11",
+          "award_id": "FA863726FB003",
+          "recipient": "L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P.",
+          "amount": 11095565.2,
           "agency": "Department of the Air Force",
-          "description": "CONTRACT FIELD TEAM SUPPORT SERVICES V-30 JACKSONVILLE FL",
+          "description": "FA863726FB003 - DELIVERY ORDER 12 REQUIREMENTS IN ACCORDANCE WITH ATTACHMENT 01 - ARMED OVERWATCH STATEMENT OF WORK ON THE BASE IDIQ.",
           "naics": "336411"
         },
         {
-          "date": "2026-06-10",
-          "award_id": "N0001925F0927",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 1529032.5,
-          "agency": "Department of the Navy",
-          "description": "INCREASE FUNDING ON CLINS 0001 & 0003.",
+          "date": "2026-06-11",
+          "award_id": "SPRWA126F0028",
+          "recipient": "THOMAS INSTRUMENT, INCORPORATED",
+          "amount": 10758624.0,
+          "agency": "Defense Logistics Agency",
+          "description": "ELECTRO-MECHANICAL ACTUATOR",
           "naics": "336413"
         },
         {
-          "date": "2026-06-10",
-          "award_id": "FA810825FB020",
-          "recipient": "STRATEGIC TECHNOLOGY INSTITUTE INC",
-          "amount": 1038978.12,
+          "date": "2026-06-11",
+          "award_id": "N0002426C5403",
+          "recipient": "RAYTHEON COMPANY",
+          "amount": 6169677.57,
+          "agency": "Department of the Navy",
+          "description": "CVN TE GMRP OPTION EXERCISE",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-06-11",
+          "award_id": "N0001926F2201",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 6000000.0,
+          "agency": "Department of the Navy",
+          "description": "Q105 FLIGHT LOADS SURVEY TEST PLAN AND INSTRUMENTATION",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-11",
+          "award_id": "W15QKN26F0174",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 5304791.2,
+          "agency": "Department of the Army",
+          "description": "DELIVERY ORDER FOR THE XM343 SAVO",
+          "naics": "332993"
+        },
+        {
+          "date": "2026-06-11",
+          "award_id": "N6852023F0140",
+          "recipient": "AVMAC LLC",
+          "amount": 5086803.48,
+          "agency": "Department of the Navy",
+          "description": "AIRCRAFT MAINTENANCE SERVICES (AMS)",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-11",
+          "award_id": "W58RGZ25F0212",
+          "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 4378891.0,
+          "agency": "Department of the Army",
+          "description": "FOREIGN MILITARY SALES FOR GREECE HELLENIC ARMY BLACKHAWK PHASE 1",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-11",
+          "award_id": "N0042124F0184",
+          "recipient": "DAYTON T. BROWN, INC.",
+          "amount": 2827372.42,
+          "agency": "Department of the Navy",
+          "description": "INCREMENTAL FUNDING",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-11",
+          "award_id": "W15QKN26F0194",
+          "recipient": "SIG SAUER INC.",
+          "amount": 2038200.0,
+          "agency": "Department of the Army",
+          "description": "NEXT GENERATION SQUAD WEAPON",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-06-11",
+          "award_id": "FA810721F5005",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 2000000.0,
           "agency": "Department of the Air Force",
-          "description": "COMMANDER NAVAL AIR FORCES RESERVE INTERMEDIATE LEVEL MAINTENANCE SUPPORT FOR FLEET READINESS CENTER RESERVE MID-WEST DET FORT WORTH AND FLEET READINESS CENTER RESERVE MID-WEST DET NEW ORLEANS AND T56-A-16 ENGINE REPAIR",
+          "description": "B-52 ENGINEERING SERVICES",
           "naics": "336411"
         },
         {
-          "date": "2026-06-10",
-          "award_id": "SPRWA126F0026",
-          "recipient": "BELL TEXTRON INC",
-          "amount": 980865.0,
-          "agency": "Defense Logistics Agency",
-          "description": "CYLINDER ASSEMBLY FOR TH-1H HELICOPTER",
-          "naics": "336411"
+          "date": "2026-06-11",
+          "award_id": "W15QKN26F0174",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 1581367.32,
+          "agency": "Department of the Army",
+          "description": "DELIVERY ORDER FOR THE XM343 SAVO",
+          "naics": "332993"
         },
         {
-          "date": "2026-06-10",
-          "award_id": "SPRHA126F0092",
-          "recipient": "RTX CORPORATION",
-          "amount": 894471.0,
+          "date": "2026-06-11",
+          "award_id": "SPRTA126C0065",
+          "recipient": "UNISON INDUSTRIES LLC",
+          "amount": 1507415.0,
           "agency": "Defense Logistics Agency",
-          "description": "F100 ENGINES",
+          "description": "NEW MANUFACTURE OF TF-33 VIBRATOR, IGNITION C.",
           "naics": "336412"
-        },
-        {
-          "date": "2026-06-10",
-          "award_id": "SPRHA126F0091",
-          "recipient": "RTX CORPORATION",
-          "amount": 848930.0,
-          "agency": "Defense Logistics Agency",
-          "description": "F100 ENGINES",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-06-10",
-          "award_id": "N0001923F0002",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 665274.96,
-          "agency": "Department of the Navy",
-          "description": "UPDATES TO SECTION J AND EXHIBIT B UNDERRUN FUNDING MODIFICATION. EXERCISING OPTION YEARS FOR ECP 1323C2 OY2, 1779 OY1, 1780 OY1, 1786 OY1, 1722 OY2, 1782 OY2, AND 1835 OY2.",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-10",
-          "award_id": "SPE4A526F6950",
-          "recipient": "DERCO AEROSPACE, INC.",
-          "amount": 559089.66,
-          "agency": "Defense Logistics Agency",
-          "description": "8512164165!TUBE ASSY,DIAGONAL BRACE",
-          "naics": "336413"
         }
       ]
     },
@@ -469,7 +469,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 9
+          "age": 10
         },
         {
           "date": "2026-09-01",
@@ -479,7 +479,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 9
+          "age": 10
         },
         {
           "date": "2026-09-01",
@@ -489,7 +489,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 9
+          "age": 10
         },
         {
           "date": "2026-09-01",
@@ -499,7 +499,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 9
+          "age": 10
         },
         {
           "date": "2026-08-19",
@@ -509,7 +509,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 22
+          "age": 23
         },
         {
           "date": "2026-08-19",
@@ -529,7 +529,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 22
+          "age": 23
         },
         {
           "date": "2026-08-19",
@@ -539,7 +539,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 22
+          "age": 23
         }
       ]
     },
@@ -874,6 +874,11 @@
     {
       "generated": "2026-09-11T05:03:47.960643+00:00",
       "score": 16.4,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-11T11:43:36.678323+00:00",
+      "score": 16.3,
       "status": "BASELINE"
     }
   ],
