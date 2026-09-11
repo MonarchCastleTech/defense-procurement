@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-10T21:06:53.401693+00:00",
+    "generated": "2026-09-11T05:03:47.960643+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -27,11 +27,113 @@
       "available": true,
       "retained": false,
       "coverage": 616,
-      "current_14d_weekly_equivalent": 42.5,
+      "current_14d_weekly_equivalent": 40.0,
       "baseline_weekly_median": 44.0,
-      "anomaly_z": -0.4,
+      "anomaly_z": -0.9,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "626290-2026",
+          "date": "2026-09-11",
+          "title": "Germany – Firefighting vehicles – Ortsfeuerwehren Linden, Fümmelse, Leinde, Wendessen und Groß Stöckheim - Beschaffung von fünf MTW",
+          "buyer": "Stadt Wolfenbüttel",
+          "country": "DEU",
+          "cpv": [
+            "34144210",
+            "35412200"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/626290-2026"
+        },
+        {
+          "id": "626989-2026",
+          "date": "2026-09-11",
+          "title": "Germany – Pyrotechnics – Angestrebt wird für die Herstellung und Lieferung von Granate, Abschussgerät, DM75A1, 76 mm, Nebel, IR, RP eine Mehrpartnerrahmenvereinbarung mit Miniwettbewerb",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "39225500",
+            "35330000",
+            "35331500",
+            "35331300"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/626989-2026"
+        },
+        {
+          "id": "627236-2026",
+          "date": "2026-09-11",
+          "title": "Poland – Parts of firearms and ammunition – Dostawa technicznych środków materiałowych (tśm) do sprzętu wojskowego (SpW)",
+          "buyer": "2. Regionalna Baza Logistyczna",
+          "country": "POL",
+          "cpv": [
+            "35340000",
+            "35322200",
+            "35322100",
+            "38631000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/627236-2026"
+        },
+        {
+          "id": "628597-2026",
+          "date": "2026-09-11",
+          "title": "Spain – Unmanned aerial vehicles – Prestación del servicio de mantenimiento y suministro de repuestos y asistencia técnica para el sostenimiento de los sistemas RPAS MINI ALA FIJA TIPO A VECTOR",
+          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+          "country": "ESP",
+          "cpv": [
+            "35613000",
+            "80650000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/628597-2026"
+        },
+        {
+          "id": "626043-2026",
+          "date": "2026-09-11",
+          "title": "Lithuania – Cartridges – 12,7 x 99 mm kalibro šoviniai (PPR-468)",
+          "buyer": "Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos",
+          "country": "LTU",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/626043-2026"
+        },
+        {
+          "id": "627345-2026",
+          "date": "2026-09-11",
+          "title": "Estonia – Various chemical products – Käivitusakude ostmine IV",
+          "buyer": "Riigi Kaitseinvesteeringute Keskus",
+          "country": "EST",
+          "cpv": [
+            "24960000",
+            "34352000",
+            "22450000",
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/627345-2026"
+        },
+        {
+          "id": "626302-2026",
+          "date": "2026-09-11",
+          "title": "Sweden – Military vehicles and associated parts – Vidmakthåll Bandvagn 206, 208 och Bandvagnskärra 1922",
+          "buyer": "Försvarsmakten",
+          "country": "SWE",
+          "cpv": [
+            "35400000",
+            "34300000",
+            "43500000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/626302-2026"
+        },
+        {
+          "id": "626296-2026",
+          "date": "2026-09-11",
+          "title": "Germany – Radar detectors – RV IRIS Radar System mit Zubehör",
+          "buyer": "Freistaat Bayern, vertreten durch das Logistikzentrum der Bayerischen Polizei (LZBP)",
+          "country": "DEU",
+          "cpv": [
+            "35121900",
+            "35722000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/626296-2026"
+        },
         {
           "id": "622888-2026",
           "date": "2026-09-10",
@@ -129,120 +231,21 @@
             "35712000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/624437-2026"
-        },
-        {
-          "id": "620149-2026",
-          "date": "2026-09-09",
-          "title": "Spain – Ammunition – Adquisición de granadas de mortero",
-          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
-          "country": "ESP",
-          "cpv": [
-            "35330000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/620149-2026"
-        },
-        {
-          "id": "619998-2026",
-          "date": "2026-09-09",
-          "title": "Norway – Sonars – RFI Variable depth sonar",
-          "buyer": "FORSVARSMATERIELL",
-          "country": "NOR",
-          "cpv": [
-            "38113000",
-            "34500000",
-            "35510000",
-            "35520000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/619998-2026"
-        },
-        {
-          "id": "620335-2026",
-          "date": "2026-09-09",
-          "title": "Slovakia – Ammunition – Náboje pre krátke strelné zbrane a brokovnice",
-          "buyer": "Ministerstvo vnútra Slovenskej republiky",
-          "country": "SVK",
-          "cpv": [
-            "35330000",
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/620335-2026"
-        },
-        {
-          "id": "619424-2026",
-          "date": "2026-09-09",
-          "title": "Poland – Security, fire-fighting, police and defence equipment – Zakup broni, amunicji i środków przymusu bezpośredniego na potrzeby IAS w Rzeszowie",
-          "buyer": "Izba Administracji Skarbowej w Rzeszowie",
-          "country": "POL",
-          "cpv": [
-            "35000000",
-            "35331000",
-            "35321100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/619424-2026"
-        },
-        {
-          "id": "621903-2026",
-          "date": "2026-09-09",
-          "title": "Belgium – Business and management consultancy and related services – Comprehensive policy framework for core geospatial data in the EU",
-          "buyer": "European Commission, DG DEFIS - Defence Industry and Space",
-          "country": "BEL",
-          "cpv": [
-            "79400000",
-            "35631200",
-            "72322000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/621903-2026"
-        },
-        {
-          "id": "619743-2026",
-          "date": "2026-09-09",
-          "title": "Germany – Parts of military vehicles – 6003113289-BAAINBw E2.5F Schwingarmbaugruppen, Leopard 2",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/619743-2026"
-        },
-        {
-          "id": "616469-2026",
-          "date": "2026-09-08",
-          "title": "Denmark – Security, fire-fighting, police and defence equipment – Strategic Partnership for Production of Low-Cost Strike Capacity in Denmark",
-          "buyer": "Danish Ministry of Defence Acquisition and Logistics Organisation",
-          "country": "DNK",
-          "cpv": [
-            "35000000",
-            "35300000",
-            "35620000",
-            "35700000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/616469-2026"
-        },
-        {
-          "id": "619245-2026",
-          "date": "2026-09-08",
-          "title": "Poland – Parts of military vehicles – SUKCESYWNE DOSTAWY CZĘŚCI DO POJAZDÓW BOJOWYCH",
-          "buyer": "Dowództwo 1 Brygady Logistycznej",
-          "country": "POL",
-          "cpv": [
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/619245-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 6.2,
+      "score": 6.1,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-06-11",
-      "reporting_lag_days": 91,
-      "freshness_factor": 0.24,
-      "current_14d_weekly_equivalent": 358246046.88,
+      "reporting_lag_days": 92,
+      "freshness_factor": 0.23,
+      "current_14d_weekly_equivalent": 387991033.1,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -252,7 +255,7 @@
         },
         {
           "name": "NORTHROP GRUMMAN SYSTEMS CORP",
-          "amount": 63380486.16
+          "amount": 126760972.32
         },
         {
           "name": "RTX CORPORATION",
@@ -261,10 +264,6 @@
         {
           "name": "BELL TEXTRON INC",
           "amount": 26722060.64
-        },
-        {
-          "name": "THE BOEING COMPANY",
-          "amount": 5107434.78
         },
         {
           "name": "GLOBAL LOGISTICS SUPPORT SERVICES INC",
@@ -277,6 +276,10 @@
         {
           "name": "RAYTHEON COMPANY",
           "amount": 2251334.79
+        },
+        {
+          "name": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 1695933.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -310,6 +313,15 @@
         },
         {
           "date": "2026-06-10",
+          "award_id": "W519TC26F0132",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
+          "amount": 63363945.16,
+          "agency": "Department of the Army",
+          "description": "DELIVERY ORDER FOR THE M782A1 MOFA II",
+          "naics": "332993"
+        },
+        {
+          "date": "2026-06-10",
           "award_id": "N0001926C0118",
           "recipient": "RTX CORPORATION",
           "amount": 35656944.0,
@@ -324,15 +336,6 @@
           "amount": 25728291.68,
           "agency": "Department of the Army",
           "description": "THE FUTURE LONG RANGE ASSAULT AIRCRAFT (FLRAA) PROGRAM THAT WILL DEVELOP AND FIELD THE NEXT GENERATION OF AFFORDABLE VERTICAL LIFT TACTICAL ASSAULT / UTILITY AIRCRAFT FOR THE ARMY.",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-10",
-          "award_id": "FA863422F0044",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 4450000.0,
-          "agency": "Department of the Air Force",
-          "description": "F-15 -- RAPID RESPONSE DELIVERY ORDER",
           "naics": "336411"
         },
         {
@@ -454,8 +457,8 @@
       "retained": false,
       "coverage": 88,
       "current_14d_weekly_equivalent": 5.0,
-      "baseline_weekly_median": 5.75,
-      "anomaly_z": -0.09,
+      "baseline_weekly_median": 6.75,
+      "anomaly_z": -0.17,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -547,10 +550,10 @@
       "weight": 0.15,
       "available": true,
       "retained": false,
-      "coverage": 13,
+      "coverage": 12,
       "current_14d_weekly_equivalent": 0.0,
-      "baseline_weekly_median": 0.5,
-      "anomaly_z": -0.67,
+      "baseline_weekly_median": 0.0,
+      "anomaly_z": 0.0,
       "method": "Defense Acquisition Regulations System publication velocity; rules weighted 1.5.",
       "evidence": [
         {
@@ -865,6 +868,11 @@
     },
     {
       "generated": "2026-09-10T21:06:53.401693+00:00",
+      "score": 16.4,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-11T05:03:47.960643+00:00",
       "score": 16.4,
       "status": "BASELINE"
     }
