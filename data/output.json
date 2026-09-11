@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-11T11:43:36.678323+00:00",
+    "generated": "2026-09-11T16:42:00.825014+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -236,7 +236,7 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 6.0,
+      "score": 5.9,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -245,7 +245,7 @@
       "latest_observation": "2026-06-11",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 341169245.62,
+      "current_14d_weekly_equivalent": 336749841.19,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -263,7 +263,7 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 20581910.65
+          "amount": 21245722.95
         },
         {
           "name": "SIG SAUER INC.",
@@ -278,8 +278,8 @@
           "amount": 11270288.2
         },
         {
-          "name": "THOMAS INSTRUMENT, INCORPORATED",
-          "amount": 10795654.0
+          "name": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 6317651.11
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -346,15 +346,6 @@
           "agency": "Department of the Air Force",
           "description": "FA863726FB003 - DELIVERY ORDER 12 REQUIREMENTS IN ACCORDANCE WITH ATTACHMENT 01 - ARMED OVERWATCH STATEMENT OF WORK ON THE BASE IDIQ.",
           "naics": "336411"
-        },
-        {
-          "date": "2026-06-11",
-          "award_id": "SPRWA126F0028",
-          "recipient": "THOMAS INSTRUMENT, INCORPORATED",
-          "amount": 10758624.0,
-          "agency": "Defense Logistics Agency",
-          "description": "ELECTRO-MECHANICAL ACTUATOR",
-          "naics": "336413"
         },
         {
           "date": "2026-06-11",
@@ -445,6 +436,15 @@
           "agency": "Defense Logistics Agency",
           "description": "NEW MANUFACTURE OF TF-33 VIBRATOR, IGNITION C.",
           "naics": "336412"
+        },
+        {
+          "date": "2026-06-11",
+          "award_id": "FA850925FB001",
+          "recipient": "STRATEGIC ENTERPRISE SOLUTIONS, CORPORATION",
+          "amount": 921754.28,
+          "agency": "Department of the Air Force",
+          "description": "MC-130 J VARIABLE SPEED DROGUE FRP",
+          "naics": "336411"
         }
       ]
     },
@@ -519,7 +519,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 22
+          "age": 23
         },
         {
           "date": "2026-08-19",
@@ -878,6 +878,11 @@
     },
     {
       "generated": "2026-09-11T11:43:36.678323+00:00",
+      "score": 16.3,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-11T16:42:00.825014+00:00",
       "score": 16.3,
       "status": "BASELINE"
     }
