@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-12T11:09:54.237708+00:00",
+    "generated": "2026-09-12T15:46:00.939439+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -33,20 +33,6 @@
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
-          "id": "627236-2026",
-          "date": "2026-09-11",
-          "title": "Poland – Parts of firearms and ammunition – Dostawa technicznych środków materiałowych (tśm) do sprzętu wojskowego (SpW)",
-          "buyer": "2. Regionalna Baza Logistyczna",
-          "country": "POL",
-          "cpv": [
-            "35340000",
-            "35322200",
-            "35322100",
-            "38631000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/627236-2026"
-        },
-        {
           "id": "626290-2026",
           "date": "2026-09-11",
           "title": "Germany – Firefighting vehicles – Ortsfeuerwehren Linden, Fümmelse, Leinde, Wendessen und Groß Stöckheim - Beschaffung von fünf MTW",
@@ -71,6 +57,20 @@
             "35331300"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/626989-2026"
+        },
+        {
+          "id": "627236-2026",
+          "date": "2026-09-11",
+          "title": "Poland – Parts of firearms and ammunition – Dostawa technicznych środków materiałowych (tśm) do sprzętu wojskowego (SpW)",
+          "buyer": "2. Regionalna Baza Logistyczna",
+          "country": "POL",
+          "cpv": [
+            "35340000",
+            "35322200",
+            "35322100",
+            "38631000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/627236-2026"
         },
         {
           "id": "628597-2026",
@@ -135,18 +135,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/626296-2026"
         },
         {
-          "id": "625254-2026",
+          "id": "622888-2026",
           "date": "2026-09-10",
-          "title": "Ireland – Simulators – Multi Party Framework Agreements for the Provision of Specialist Equipment and Supplies for Apprenticeship and Further Education and Training",
-          "buyer": "Dublin and Dun Laoghaire Education and Training Board",
-          "country": "IRL",
+          "title": "Austria – Ammunition – Zuschlag - Bohrpatrone 0,10 kg TNT",
+          "buyer": "REPUBLIK ÖSTERREICH (Bund) vertreten durch die Bundesministerin für Landesverteidigung",
+          "country": "AUT",
           "cpv": [
-            "34150000",
-            "51430000",
-            "42300000",
-            "42122500"
+            "35330000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/625254-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/622888-2026"
         },
         {
           "id": "622736-2026",
@@ -160,15 +157,18 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/622736-2026"
         },
         {
-          "id": "622888-2026",
+          "id": "625254-2026",
           "date": "2026-09-10",
-          "title": "Austria – Ammunition – Zuschlag - Bohrpatrone 0,10 kg TNT",
-          "buyer": "REPUBLIK ÖSTERREICH (Bund) vertreten durch die Bundesministerin für Landesverteidigung",
-          "country": "AUT",
+          "title": "Ireland – Simulators – Multi Party Framework Agreements for the Provision of Specialist Equipment and Supplies for Apprenticeship and Further Education and Training",
+          "buyer": "Dublin and Dun Laoghaire Education and Training Board",
+          "country": "IRL",
           "cpv": [
-            "35330000"
+            "34150000",
+            "51430000",
+            "42300000",
+            "42122500"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/622888-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/625254-2026"
         },
         {
           "id": "624240-2026",
@@ -245,7 +245,7 @@
       "latest_observation": "2026-06-12",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 551746686.83,
+      "current_14d_weekly_equivalent": 552097158.86,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -519,7 +519,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 23
+          "age": 24
         },
         {
           "date": "2026-08-19",
@@ -898,6 +898,11 @@
     },
     {
       "generated": "2026-09-12T11:09:54.237708+00:00",
+      "score": 16.5,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-12T15:46:00.939439+00:00",
       "score": 16.5,
       "status": "BASELINE"
     }
