@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-11T21:10:56.474364+00:00",
+    "generated": "2026-09-12T04:54:02.921105+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,7 +26,7 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 616,
+      "coverage": 611,
       "current_14d_weekly_equivalent": 40.0,
       "baseline_weekly_median": 44.0,
       "anomaly_z": -0.9,
@@ -236,16 +236,16 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 5.9,
+      "score": 5.8,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-06-11",
-      "reporting_lag_days": 92,
-      "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 336746859.66,
+      "reporting_lag_days": 93,
+      "freshness_factor": 0.22,
+      "current_14d_weekly_equivalent": 350999827.67,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -262,6 +262,10 @@
           "amount": 25465233.13
         },
         {
+          "name": "THOMAS INSTRUMENT, INCORPORATED",
+          "amount": 21591308.0
+        },
+        {
           "name": "THE BOEING COMPANY",
           "amount": 21245722.95
         },
@@ -274,12 +278,8 @@
           "amount": 16046910.72
         },
         {
-          "name": "L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P.",
-          "amount": 11270288.2
-        },
-        {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 6317651.11
+          "amount": 12327184.39
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -349,12 +349,39 @@
         },
         {
           "date": "2026-06-11",
+          "award_id": "SPRWA126F0028",
+          "recipient": "THOMAS INSTRUMENT, INCORPORATED",
+          "amount": 10758624.0,
+          "agency": "Defense Logistics Agency",
+          "description": "ELECTRO-MECHANICAL ACTUATOR",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-11",
+          "award_id": "SPRWA126F0028",
+          "recipient": "THOMAS INSTRUMENT, INCORPORATED",
+          "amount": 10758624.0,
+          "agency": "Defense Logistics Agency",
+          "description": "ELECTRO-MECHANICAL ACTUATOR",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-11",
           "award_id": "N0002426C5403",
           "recipient": "RAYTHEON COMPANY",
           "amount": 6169677.57,
           "agency": "Department of the Navy",
           "description": "CVN TE GMRP OPTION EXERCISE",
           "naics": "336414"
+        },
+        {
+          "date": "2026-06-11",
+          "award_id": "N0001926F2201",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 6000000.0,
+          "agency": "Department of the Navy",
+          "description": "Q105 FLIGHT LOADS SURVEY TEST PLAN AND INSTRUMENTATION",
+          "naics": "336411"
         },
         {
           "date": "2026-06-11",
@@ -417,33 +444,6 @@
           "amount": 2000000.0,
           "agency": "Department of the Air Force",
           "description": "B-52 ENGINEERING SERVICES",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-11",
-          "award_id": "W15QKN26F0174",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 1581367.32,
-          "agency": "Department of the Army",
-          "description": "DELIVERY ORDER FOR THE XM343 SAVO",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-06-11",
-          "award_id": "SPRTA126C0065",
-          "recipient": "UNISON INDUSTRIES LLC",
-          "amount": 1507415.0,
-          "agency": "Defense Logistics Agency",
-          "description": "NEW MANUFACTURE OF TF-33 VIBRATOR, IGNITION C.",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-06-11",
-          "award_id": "FA850925FB001",
-          "recipient": "STRATEGIC ENTERPRISE SOLUTIONS, CORPORATION",
-          "amount": 921754.28,
-          "agency": "Department of the Air Force",
-          "description": "MC-130 J VARIABLE SPEED DROGUE FRP",
           "naics": "336411"
         }
       ]
@@ -888,6 +888,11 @@
     },
     {
       "generated": "2026-09-11T21:10:56.474364+00:00",
+      "score": 16.3,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-12T04:54:02.921105+00:00",
       "score": 16.3,
       "status": "BASELINE"
     }
