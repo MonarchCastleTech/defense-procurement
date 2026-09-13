@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-13T05:15:41.589895+00:00",
+    "generated": "2026-09-13T12:13:32.734054+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 16.4,
-    "raw_score": 16.4,
+    "score": 16.5,
+    "raw_score": 16.5,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 16.4/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 16.5/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -236,16 +236,16 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 6.2,
+      "score": 6.5,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-06-12",
-      "reporting_lag_days": 93,
-      "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 553036132.58,
+      "latest_observation": "2026-06-13",
+      "reporting_lag_days": 92,
+      "freshness_factor": 0.23,
+      "current_14d_weekly_equivalent": 551966287.41,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -259,7 +259,7 @@
         },
         {
           "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 83959736.3
+          "amount": 83160924.0
         },
         {
           "name": "PARKER-HANNIFIN CORPORATION",
@@ -267,7 +267,7 @@
         },
         {
           "name": "SYMETRICS INDUSTRIES, LLC",
-          "amount": 19305000.0
+          "amount": 18414000.0
         },
         {
           "name": "SIG SAUER INC.",
@@ -284,6 +284,60 @@
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
+        {
+          "date": "2026-06-13",
+          "award_id": "SPE4A626FCMQ2",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 21119.52,
+          "agency": "Defense Logistics Agency",
+          "description": "4572131411!CYLINDER,COMPRESSED",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-13",
+          "award_id": "SPE4AX26F213U",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 827.9,
+          "agency": "Defense Logistics Agency",
+          "description": "8512181993!WAS HER,FLAT",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-06-13",
+          "award_id": "SPE4AX26F213V",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 438.3,
+          "agency": "Defense Logistics Agency",
+          "description": "8512182036!PIN",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-06-13",
+          "award_id": "SPE4AX26F213W",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 160.74,
+          "agency": "Defense Logistics Agency",
+          "description": "8512182009!PLASTIC SHEET,PRESS",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-06-13",
+          "award_id": "SPE7L126FAL1M",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 132.4,
+          "agency": "Defense Logistics Agency",
+          "description": "4572131450!GASKET",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-06-13",
+          "award_id": "SPE7L126FAL1B",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 51.61,
+          "agency": "Defense Logistics Agency",
+          "description": "4572131135!COCK,POPPET DRAIN",
+          "naics": "332994"
+        },
         {
           "date": "2026-06-12",
           "award_id": "N0001925C0071",
@@ -340,9 +394,9 @@
         },
         {
           "date": "2026-06-12",
-          "award_id": "SPRTA126C0063",
+          "award_id": "SPRTA126C0088",
           "recipient": "SYMETRICS INDUSTRIES, LLC",
-          "amount": 9652500.0,
+          "amount": 8761500.0,
           "agency": "Defense Logistics Agency",
           "description": "BATTERY CHARGER",
           "naics": "336413"
@@ -391,60 +445,6 @@
           "agency": "Department of the Navy",
           "description": "TECHNICAL MATURATION IDIQ ORDER #1",
           "naics": "336411"
-        },
-        {
-          "date": "2026-06-12",
-          "award_id": "N0001926F0264",
-          "recipient": "RAYTHEON COMPANY",
-          "amount": 799860.0,
-          "agency": "Department of the Navy",
-          "description": "DSMAC ILLUMINATOR BUILD-TO-PRINT (BTP)",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-12",
-          "award_id": "FA880708C0010",
-          "recipient": "LOCKHEED MARTIN CORP",
-          "amount": 511230.0,
-          "agency": "Department of the Air Force",
-          "description": "GLOBAL POSITIONING SYSTEM IIA SPACE VEHICLES.",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-06-12",
-          "award_id": "FA860926FB046",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 438677.1,
-          "agency": "Department of the Air Force",
-          "description": "KSE FOPR 7 JAPAN",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-12",
-          "award_id": "FA810826FB007",
-          "recipient": "KAY AND ASSOCIATES, INC.",
-          "amount": 424637.12,
-          "agency": "Department of the Air Force",
-          "description": "COMMANDER NAVAL AIR FORCES PACIFIC AND I LEVEL MAINTENANCE, FLEET READINESS CENTER WEST, LEMOORE, CA",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-12",
-          "award_id": "FA880718C0009",
-          "recipient": "LOCKHEED MARTIN CORP",
-          "amount": 420749.68,
-          "agency": "Department of the Air Force",
-          "description": "GLOBAL POSITIONING SYSTEM 3 FOLLOW ON",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-06-12",
-          "award_id": "W912CH26F0348",
-          "recipient": "BAE SYSTEMS GCS INTERNATIONAL LIMITED",
-          "amount": 344836.36,
-          "agency": "Department of the Army",
-          "description": "LIFE CYCLE SUSTAINMENT (LCS) REQUIREMENTS COMPRISED OF CATALOG PARTS AND MANPOWER SERVICES TO SUPPORT THE MEDIUM TOWED 155MM M777 HOWITZER ARTILLERY SYSTEM.",
-          "naics": "332994"
         }
       ]
     },
@@ -469,7 +469,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 11
+          "age": 12
         },
         {
           "date": "2026-09-01",
@@ -479,7 +479,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 11
+          "age": 12
         },
         {
           "date": "2026-09-01",
@@ -489,7 +489,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 11
+          "age": 12
         },
         {
           "date": "2026-09-01",
@@ -499,7 +499,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 11
+          "age": 12
         },
         {
           "date": "2026-08-19",
@@ -509,7 +509,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 24
+          "age": 25
         },
         {
           "date": "2026-08-19",
@@ -529,7 +529,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 24
+          "age": 25
         },
         {
           "date": "2026-08-19",
@@ -539,7 +539,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 24
+          "age": 25
         }
       ]
     },
@@ -606,11 +606,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-08-28T11:41:36.415628+00:00",
-      "score": 22.5,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-08-28T22:33:17.455375+00:00",
       "score": 22.5,
@@ -904,6 +899,11 @@
     {
       "generated": "2026-09-13T05:15:41.589895+00:00",
       "score": 16.4,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-13T12:13:32.734054+00:00",
+      "score": 16.5,
       "status": "BASELINE"
     }
   ],
