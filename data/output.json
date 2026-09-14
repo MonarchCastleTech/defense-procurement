@@ -1,14 +1,16 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-14T05:20:24.184792+00:00",
-    "mode": "live",
+    "generated": "2026-09-14T13:14:31.882926+00:00",
+    "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–90 days",
     "classification": "procurement-acceleration-screening-not-conflict-probability-or-contract-forecast",
     "coverage": "5/5",
-    "confidence": "HIGH",
-    "source_notes": []
+    "confidence": "MEDIUM",
+    "source_notes": [
+      "us_awards: retained (ReadTimeout)"
+    ]
   },
   "warning": {
     "score": 16.4,
@@ -115,17 +117,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/632069-2026"
         },
         {
-          "id": "630124-2026",
+          "id": "631248-2026",
           "date": "2026-09-14",
-          "title": "Slovakia – Firearms – Dlhé strelné zbrane s príslušenstvom",
-          "buyer": "Generálne riaditeľstvo Zboru väzenskej a justičnej stráže",
-          "country": "SVK",
+          "title": "Germany – Military vehicles and associated parts – 125_6003117958-BAAINBw E2.5F (Rohrwaffenbaugruppe)",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+          "country": "DEU",
           "cpv": [
-            "35320000",
-            "35321100",
-            "35321200"
+            "35400000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/630124-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/631248-2026"
         },
         {
           "id": "632385-2026",
@@ -142,15 +142,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/632385-2026"
         },
         {
-          "id": "631248-2026",
+          "id": "630124-2026",
           "date": "2026-09-14",
-          "title": "Germany – Military vehicles and associated parts – 125_6003117958-BAAINBw E2.5F (Rohrwaffenbaugruppe)",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
-          "country": "DEU",
+          "title": "Slovakia – Firearms – Dlhé strelné zbrane s príslušenstvom",
+          "buyer": "Generálne riaditeľstvo Zboru väzenskej a justičnej stráže",
+          "country": "SVK",
           "cpv": [
-            "35400000"
+            "35320000",
+            "35321100",
+            "35321200"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/631248-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/630124-2026"
         },
         {
           "id": "631565-2026",
@@ -218,16 +220,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/627236-2026"
         },
         {
-          "id": "628597-2026",
+          "id": "626043-2026",
           "date": "2026-09-11",
-          "title": "Spain – Unmanned aerial vehicles – Prestación del servicio de mantenimiento y suministro de repuestos y asistencia técnica para el sostenimiento de los sistemas RPAS MINI ALA FIJA TIPO A VECTOR",
-          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
-          "country": "ESP",
+          "title": "Lithuania – Cartridges – 12,7 x 99 mm kalibro šoviniai (PPR-468)",
+          "buyer": "Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos",
+          "country": "LTU",
           "cpv": [
-            "35613000",
-            "80650000"
+            "35331500"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/628597-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/626043-2026"
         }
       ]
     },
@@ -237,7 +238,7 @@
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
-      "retained": false,
+      "retained": true,
       "coverage": 600,
       "latest_observation": "2026-06-13",
       "reporting_lag_days": 93,
@@ -443,7 +444,8 @@
           "description": "TECHNICAL MATURATION IDIQ ORDER #1",
           "naics": "336411"
         }
-      ]
+      ],
+      "retained_reason": "ReadTimeout"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -466,7 +468,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 12
+          "age": 13
         },
         {
           "date": "2026-09-01",
@@ -476,7 +478,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 12
+          "age": 13
         },
         {
           "date": "2026-09-01",
@@ -486,7 +488,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 12
+          "age": 13
         },
         {
           "date": "2026-09-01",
@@ -496,7 +498,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 12
+          "age": 13
         },
         {
           "date": "2026-08-19",
@@ -506,7 +508,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 25
+          "age": 26
         },
         {
           "date": "2026-08-19",
@@ -516,7 +518,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 25
+          "age": 26
         },
         {
           "date": "2026-08-19",
@@ -526,7 +528,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 25
+          "age": 26
         },
         {
           "date": "2026-08-19",
@@ -536,7 +538,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 25
+          "age": 26
         }
       ]
     },
@@ -603,11 +605,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-08-29T21:05:27.709356+00:00",
-      "score": 26.8,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-08-30T05:41:56.942473+00:00",
       "score": 26.4,
@@ -900,6 +897,11 @@
     },
     {
       "generated": "2026-09-14T05:20:24.184792+00:00",
+      "score": 16.4,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-14T13:14:31.882926+00:00",
       "score": 16.4,
       "status": "BASELINE"
     }
