@@ -1,23 +1,21 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-14T13:14:31.882926+00:00",
-    "mode": "partial",
+    "generated": "2026-09-14T21:58:20.028904+00:00",
+    "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
     "classification": "procurement-acceleration-screening-not-conflict-probability-or-contract-forecast",
     "coverage": "5/5",
-    "confidence": "MEDIUM",
-    "source_notes": [
-      "us_awards: retained (ReadTimeout)"
-    ]
+    "confidence": "HIGH",
+    "source_notes": []
   },
   "warning": {
-    "score": 16.4,
-    "raw_score": 16.4,
+    "score": 18.5,
+    "raw_score": 18.5,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 16.4/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 18.5/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -35,40 +33,6 @@
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
-          "id": "629407-2026",
-          "date": "2026-09-14",
-          "title": "Germany – Infantry fighting vehicles – Kompressoreinheit, Kühlmittel für das Waffensystem Schützenpanzer (SPz) PUMA",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35412100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/629407-2026"
-        },
-        {
-          "id": "632646-2026",
-          "date": "2026-09-14",
-          "title": "Spain – Cartridges – Acuerdo marco de suministro de munición de cartuchería 9x19 mm para el Ministerio de Defensa",
-          "buyer": "Junta de Contratación del Ministerio de Defensa",
-          "country": "ESP",
-          "cpv": [
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/632646-2026"
-        },
-        {
-          "id": "631846-2026",
-          "date": "2026-09-14",
-          "title": "Germany – Ammunition – Herstellung und Lieferung von Patrone 7,62 mm x 51, 1 DM151 Hartkern - 1 DM21A3, Weichkern, Leuchtspur - 1 DM111A2, Weichkern, gegurtet 120er Gurt AM41",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35330000",
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/631846-2026"
-        },
-        {
           "id": "632032-2026",
           "date": "2026-09-14",
           "title": "Germany – Ammunition – Herstellung und Lieferung von Patrone 7,62 mm x 51, 7 DM111A2 Weichkern - 4 DM21A3 Weichkern-Leuchtspur, 198er Gurt AM88",
@@ -79,6 +43,17 @@
             "35331500"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/632032-2026"
+        },
+        {
+          "id": "629407-2026",
+          "date": "2026-09-14",
+          "title": "Germany – Infantry fighting vehicles – Kompressoreinheit, Kühlmittel für das Waffensystem Schützenpanzer (SPz) PUMA",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35412100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/629407-2026"
         },
         {
           "id": "632200-2026",
@@ -95,6 +70,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/632200-2026"
         },
         {
+          "id": "632646-2026",
+          "date": "2026-09-14",
+          "title": "Spain – Cartridges – Acuerdo marco de suministro de munición de cartuchería 9x19 mm para el Ministerio de Defensa",
+          "buyer": "Junta de Contratación del Ministerio de Defensa",
+          "country": "ESP",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/632646-2026"
+        },
+        {
           "id": "631883-2026",
           "date": "2026-09-14",
           "title": "Czechia – Ammunition for firearms and warfare – Rámcová dohoda - náboje do brokovnic",
@@ -104,6 +90,18 @@
             "35331000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/631883-2026"
+        },
+        {
+          "id": "631846-2026",
+          "date": "2026-09-14",
+          "title": "Germany – Ammunition – Herstellung und Lieferung von Patrone 7,62 mm x 51, 1 DM151 Hartkern - 1 DM21A3, Weichkern, Leuchtspur - 1 DM111A2, Weichkern, gegurtet 120er Gurt AM41",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35330000",
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/631846-2026"
         },
         {
           "id": "632069-2026",
@@ -117,15 +115,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/632069-2026"
         },
         {
-          "id": "631248-2026",
+          "id": "630124-2026",
           "date": "2026-09-14",
-          "title": "Germany – Military vehicles and associated parts – 125_6003117958-BAAINBw E2.5F (Rohrwaffenbaugruppe)",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
-          "country": "DEU",
+          "title": "Slovakia – Firearms – Dlhé strelné zbrane s príslušenstvom",
+          "buyer": "Generálne riaditeľstvo Zboru väzenskej a justičnej stráže",
+          "country": "SVK",
           "cpv": [
-            "35400000"
+            "35320000",
+            "35321100",
+            "35321200"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/631248-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/630124-2026"
         },
         {
           "id": "632385-2026",
@@ -142,17 +142,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/632385-2026"
         },
         {
-          "id": "630124-2026",
+          "id": "631248-2026",
           "date": "2026-09-14",
-          "title": "Slovakia – Firearms – Dlhé strelné zbrane s príslušenstvom",
-          "buyer": "Generálne riaditeľstvo Zboru väzenskej a justičnej stráže",
-          "country": "SVK",
+          "title": "Germany – Military vehicles and associated parts – 125_6003117958-BAAINBw E2.5F (Rohrwaffenbaugruppe)",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+          "country": "DEU",
           "cpv": [
-            "35320000",
-            "35321100",
-            "35321200"
+            "35400000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/630124-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/631248-2026"
         },
         {
           "id": "631565-2026",
@@ -220,30 +218,31 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/627236-2026"
         },
         {
-          "id": "626043-2026",
+          "id": "628597-2026",
           "date": "2026-09-11",
-          "title": "Lithuania – Cartridges – 12,7 x 99 mm kalibro šoviniai (PPR-468)",
-          "buyer": "Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos",
-          "country": "LTU",
+          "title": "Spain – Unmanned aerial vehicles – Prestación del servicio de mantenimiento y suministro de repuestos y asistencia técnica para el sostenimiento de los sistemas RPAS MINI ALA FIJA TIPO A VECTOR",
+          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+          "country": "ESP",
           "cpv": [
-            "35331500"
+            "35613000",
+            "80650000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/626043-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/628597-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 6.2,
+      "score": 6.4,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
-      "retained": true,
+      "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-06-13",
-      "reporting_lag_days": 93,
-      "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 551808286.03,
+      "latest_observation": "2026-06-14",
+      "reporting_lag_days": 92,
+      "freshness_factor": 0.23,
+      "current_14d_weekly_equivalent": 547965964.43,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -268,12 +267,12 @@
           "amount": 18414000.0
         },
         {
-          "name": "SIG SAUER INC.",
-          "amount": 16516749.28
-        },
-        {
           "name": "AMTEC CORPORATION",
           "amount": 16046910.72
+        },
+        {
+          "name": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 14307431.72
         },
         {
           "name": "CAE USA INC.",
@@ -282,6 +281,114 @@
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
+        {
+          "date": "2026-06-14",
+          "award_id": "SPE4A626FCMW3",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 4835.1,
+          "agency": "Defense Logistics Agency",
+          "description": "4572132681!R-407A REFRIGERANT",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-14",
+          "award_id": "SPE4AX26F213Z",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 2526.34,
+          "agency": "Defense Logistics Agency",
+          "description": "8512182207!SEAL,PLAIN",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-06-14",
+          "award_id": "SPE7L126FAL1R",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 146.94,
+          "agency": "Defense Logistics Agency",
+          "description": "4572132707!PARTS KIT,ENGINE WA",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-06-14",
+          "award_id": "SPE7L126FAL1P",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 146.94,
+          "agency": "Defense Logistics Agency",
+          "description": "4572132705!PARTS KIT,ENGINE WA",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-06-14",
+          "award_id": "SPE7L126FAL1Q",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 146.94,
+          "agency": "Defense Logistics Agency",
+          "description": "4572132706!PARTS KIT,ENGINE WA",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-06-14",
+          "award_id": "SPE4AX26F213X",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 45.04,
+          "agency": "Defense Logistics Agency",
+          "description": "8512182201!CHAFING STRIP,DOOR",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-06-14",
+          "award_id": "SPE7L126FAL1T",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 43.56,
+          "agency": "Defense Logistics Agency",
+          "description": "4572132736!PLUG,PIPE",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-06-14",
+          "award_id": "SPE4A524P1247",
+          "recipient": "AERO ENGINEERING & MANUFACTURING COMPANY OF CALIFORNIA, LLC",
+          "amount": 0.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8510261163!TRUNNION ASSEMBLY,M",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-14",
+          "award_id": "SPE4A726P3373",
+          "recipient": "AEROMETALS, INC.",
+          "amount": 0.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8511786823!GOVERNMENT FIRST ARTICLE TEST",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-14",
+          "award_id": "SPE4A725P2089",
+          "recipient": "AEROMETALS, INC.",
+          "amount": 0.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8511019537!PARTS KIT,FUEL TANK",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-14",
+          "award_id": "N0038326FBT04",
+          "recipient": "GENERAL ATOMICS",
+          "amount": 0.0,
+          "agency": "Department of the Navy",
+          "description": "POWER SUPPLY ASSY",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-14",
+          "award_id": "SPE4A718PB003",
+          "recipient": "AEROMETALS, INC.",
+          "amount": -9692.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8505547453!TRAILING EDGE,AIRCR",
+          "naics": "336413"
+        },
         {
           "date": "2026-06-13",
           "award_id": "SPE4A626FCMQ2",
@@ -335,131 +442,42 @@
           "agency": "Defense Logistics Agency",
           "description": "4572131135!COCK,POPPET DRAIN",
           "naics": "332994"
-        },
-        {
-          "date": "2026-06-12",
-          "award_id": "N0001925C0071",
-          "recipient": "RAYTHEON COMPANY",
-          "amount": 229468000.0,
-          "agency": "Department of the Navy",
-          "description": "FRP 20 PAYMENT LINE ITEM REALIGNMENT",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-06-12",
-          "award_id": "N0001925C0071",
-          "recipient": "RAYTHEON COMPANY",
-          "amount": 124024000.0,
-          "agency": "Department of the Navy",
-          "description": "FRP 20 PAYMENT LINE ITEM REALIGNMENT",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-06-12",
-          "award_id": "N0001926F2191",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 83032599.0,
-          "agency": "Department of the Navy",
-          "description": "FY26 PROGRAM MANAGEMENT",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-12",
-          "award_id": "FA862121F6253",
-          "recipient": "CAE USA INC.",
-          "amount": 10961058.39,
-          "agency": "Department of the Air Force",
-          "description": "SUBJECT: KC-135 TS CY2026 CBA WAGE ADJUSTMENT CHANGE IN OBLIGATION: $10,961,058.39 CHANGE IN PRICE: $10,961,058.39 PCO EMAIL: VANESSA.POTTINGER.3@US.AF.MIL",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-12",
-          "award_id": "W58RGZ19C0003",
-          "recipient": "GENERAL ELECTRIC COMPANY",
-          "amount": 9780000.0,
-          "agency": "Department of the Army",
-          "description": "THE IMPROVED TURBINE ENGINE PROGRAM WILL DEVELOP AND QUALIFY A RELIABLE TURBOSHAFT ENGINE THAT IS CAPABLE OF PROVIDING SUFFICIENT POWER FOR THE APACHE AND BLACK HAWK TO MEET MISSION REQUIREMENTS. THE ADDITIONAL FUNDING IS NEEDED TO CONTINUE SUPPORT OF THE IMPROVED TURBINE ENGINE PROGRAM FOR THE ENGINEERING AND MANUFACTURING DEVELOPMENT EFFORTS.",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-06-12",
-          "award_id": "SPRTA126C0063",
-          "recipient": "SYMETRICS INDUSTRIES, LLC",
-          "amount": 9652500.0,
-          "agency": "Defense Logistics Agency",
-          "description": "BATTERY CHARGER",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-12",
-          "award_id": "SPRTA126C0088",
-          "recipient": "SYMETRICS INDUSTRIES, LLC",
-          "amount": 8761500.0,
-          "agency": "Defense Logistics Agency",
-          "description": "BATTERY CHARGER",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-12",
-          "award_id": "SPRTA126F0263",
-          "recipient": "RTX CORPORATION",
-          "amount": 4684773.39,
-          "agency": "Defense Logistics Agency",
-          "description": "OTHER SERVICES",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-06-12",
-          "award_id": "FA850926FB001",
-          "recipient": "SIERRA NEVADA COMPANY, LLC",
-          "amount": 4414054.0,
-          "agency": "Department of the Air Force",
-          "description": "AIRBORNE MISSION NETWORKING KITS AND CONTRACTOR LOGISTICS SUPPORT",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-12",
-          "award_id": "W15QKN26F0201",
-          "recipient": "MACHINING TECHNOLOGIES, INC",
-          "amount": 2470066.0,
-          "agency": "Department of the Army",
-          "description": "TO MANUFACTURE, TEST, PACKAGE, AND DELIVER 120MM (M31) MORTAR TAIL FINS.",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-06-12",
-          "award_id": "W15QKN26F0200",
-          "recipient": "GLOBE TECH LLC",
-          "amount": 2469989.84,
-          "agency": "Department of the Army",
-          "description": "TO MANUFACTURE, TEST, PACKAGE, AND DELIVER THE 60MM (M27).",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-06-12",
-          "award_id": "N0001926F1090",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 1877402.0,
-          "agency": "Department of the Navy",
-          "description": "TECHNICAL MATURATION IDIQ ORDER #1",
-          "naics": "336411"
         }
-      ],
-      "retained_reason": "ReadTimeout"
+      ]
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 19.2,
-      "status": "BASELINE",
+      "score": 29.5,
+      "status": "WATCH",
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 88,
-      "current_14d_weekly_equivalent": 5.0,
+      "coverage": 90,
+      "current_14d_weekly_equivalent": 7.5,
       "baseline_weekly_median": 6.75,
-      "anomaly_z": -0.17,
+      "anomaly_z": 0.07,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
+        {
+          "date": "2026-09-14",
+          "title": "Space Reverse Industry Event",
+          "url": "https://www.nato.int/en/news-and-events/articles/news/2024/01/09/space-reverse-industry-event",
+          "terms": [
+            "industry"
+          ],
+          "weight": 2.5,
+          "age": 0
+        },
+        {
+          "date": "2026-09-14",
+          "title": "Space Reverse Industry Event",
+          "url": "https://www.nato.int/fr/news-and-events/articles/news/2024/01/09/space-reverse-industry-event",
+          "terms": [
+            "industry"
+          ],
+          "weight": 2.5,
+          "age": 0
+        },
         {
           "date": "2026-09-01",
           "title": "Keynote Speech Defense Industry Forum",
@@ -605,11 +623,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-08-30T05:41:56.942473+00:00",
-      "score": 26.4,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-08-30T12:09:19.486615+00:00",
       "score": 26.4,
@@ -903,6 +916,11 @@
     {
       "generated": "2026-09-14T13:14:31.882926+00:00",
       "score": 16.4,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-14T21:58:20.028904+00:00",
+      "score": 18.5,
       "status": "BASELINE"
     }
   ],
