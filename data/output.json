@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-14T21:58:20.028904+00:00",
+    "generated": "2026-09-15T05:11:19.164158+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 18.5,
-    "raw_score": 18.5,
+    "score": 14.5,
+    "raw_score": 14.5,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 18.5/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 14.5/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -26,23 +26,117 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 623,
+      "coverage": 621,
       "current_14d_weekly_equivalent": 42.0,
-      "baseline_weekly_median": 43.5,
-      "anomaly_z": -0.51,
+      "baseline_weekly_median": 45.5,
+      "anomaly_z": -0.59,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
-          "id": "632032-2026",
-          "date": "2026-09-14",
-          "title": "Germany – Ammunition – Herstellung und Lieferung von Patrone 7,62 mm x 51, 7 DM111A2 Weichkern - 4 DM21A3 Weichkern-Leuchtspur, 198er Gurt AM88",
+          "id": "633792-2026",
+          "date": "2026-09-15",
+          "title": "Czechia – Sensors – SOUMOS – dodávka technologického, monitorovacího a aplikačního vybavení pro systém prevence komářích kalamit",
+          "buyer": "Město Břeclav",
+          "country": "CZE",
+          "cpv": [
+            "35125100",
+            "35613000",
+            "42924300",
+            "34741000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/633792-2026"
+        },
+        {
+          "id": "634934-2026",
+          "date": "2026-09-15",
+          "title": "Germany – Military vehicles and associated parts – 6003114831-BAAINBw E2.3Y E23Y003299",
           "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
           "country": "DEU",
           "cpv": [
-            "35330000",
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/634934-2026"
+        },
+        {
+          "id": "634494-2026",
+          "date": "2026-09-15",
+          "title": "Germany – Ammunition – Rahmenvereinbarung mit Miniwettbewerb Beschaffung von Patronen 30mm x 173 APFSDS-T",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/634494-2026"
+        },
+        {
+          "id": "634023-2026",
+          "date": "2026-09-15",
+          "title": "Czechia – Flow-measuring equipment – Hydrometrická přístrojová technika",
+          "buyer": "Český hydrometeorologický ústav",
+          "country": "CZE",
+          "cpv": [
+            "38421000",
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/634023-2026"
+        },
+        {
+          "id": "632960-2026",
+          "date": "2026-09-15",
+          "title": "Ireland – IT services: consulting, software development, Internet and support – Provision of Market Intelligence Services to Support the Operation of Ireland’s Foreign Investment Screening Mechanism",
+          "buyer": "The Department of Enterprise Tourism and Employment",
+          "country": "IRL",
+          "cpv": [
+            "72000000",
+            "35721000",
+            "79000000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/632960-2026"
+        },
+        {
+          "id": "635288-2026",
+          "date": "2026-09-15",
+          "title": "Denmark – Weapons, ammunition and associated parts – Military Droneguardian shotguns",
+          "buyer": "Forsvarsministeriets Materiel- og Indkøbsstyrelse",
+          "country": "DNK",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/635288-2026"
+        },
+        {
+          "id": "632903-2026",
+          "date": "2026-09-15",
+          "title": "Germany – Military vehicles and associated parts – 6003099563-BAAINBw E2.3Y_E23Y003342",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/632903-2026"
+        },
+        {
+          "id": "634931-2026",
+          "date": "2026-09-15",
+          "title": "Latvia – Repair and maintenance services of military vehicles – Visurgājēju transportlīdzekļu HAGGLUNDS BV 206 III-IV līmeņa remonta pakalpojumu un rezerves daļu iegāde",
+          "buyer": "Valsts aizsardzības loģistikas un iepirkumu centrs",
+          "country": "LVA",
+          "cpv": [
+            "50630000",
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/634931-2026"
+        },
+        {
+          "id": "635901-2026",
+          "date": "2026-09-15",
+          "title": "Italy – Cartridges – Fornitura di munizioni per armi da fuoco e da guerra",
+          "buyer": "Ministero della giustizia Dipartimento dell’amministrazione penitenziaria Direzione Generale per la gestione dei beni, dei servizi e degli interventi in materia di edilizia penitenziaria",
+          "country": "ITA",
+          "cpv": [
             "35331500"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/632032-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/635901-2026"
         },
         {
           "id": "629407-2026",
@@ -54,6 +148,41 @@
             "35412100"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/629407-2026"
+        },
+        {
+          "id": "632646-2026",
+          "date": "2026-09-14",
+          "title": "Spain – Cartridges – Acuerdo marco de suministro de munición de cartuchería 9x19 mm para el Ministerio de Defensa",
+          "buyer": "Junta de Contratación del Ministerio de Defensa",
+          "country": "ESP",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/632646-2026"
+        },
+        {
+          "id": "631846-2026",
+          "date": "2026-09-14",
+          "title": "Germany – Ammunition – Herstellung und Lieferung von Patrone 7,62 mm x 51, 1 DM151 Hartkern - 1 DM21A3, Weichkern, Leuchtspur - 1 DM111A2, Weichkern, gegurtet 120er Gurt AM41",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35330000",
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/631846-2026"
+        },
+        {
+          "id": "632032-2026",
+          "date": "2026-09-14",
+          "title": "Germany – Ammunition – Herstellung und Lieferung von Patrone 7,62 mm x 51, 7 DM111A2 Weichkern - 4 DM21A3 Weichkern-Leuchtspur, 198er Gurt AM88",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35330000",
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/632032-2026"
         },
         {
           "id": "632200-2026",
@@ -70,17 +199,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/632200-2026"
         },
         {
-          "id": "632646-2026",
-          "date": "2026-09-14",
-          "title": "Spain – Cartridges – Acuerdo marco de suministro de munición de cartuchería 9x19 mm para el Ministerio de Defensa",
-          "buyer": "Junta de Contratación del Ministerio de Defensa",
-          "country": "ESP",
-          "cpv": [
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/632646-2026"
-        },
-        {
           "id": "631883-2026",
           "date": "2026-09-14",
           "title": "Czechia – Ammunition for firearms and warfare – Rámcová dohoda - náboje do brokovnic",
@@ -92,18 +210,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/631883-2026"
         },
         {
-          "id": "631846-2026",
-          "date": "2026-09-14",
-          "title": "Germany – Ammunition – Herstellung und Lieferung von Patrone 7,62 mm x 51, 1 DM151 Hartkern - 1 DM21A3, Weichkern, Leuchtspur - 1 DM111A2, Weichkern, gegurtet 120er Gurt AM41",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35330000",
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/631846-2026"
-        },
-        {
           "id": "632069-2026",
           "date": "2026-09-14",
           "title": "Spain – Cartridges – Acuerdo marco de suministro de munición de cartuchería 5,56 x 45 mm para el Ministerio de Defensa",
@@ -113,136 +219,21 @@
             "35331500"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/632069-2026"
-        },
-        {
-          "id": "630124-2026",
-          "date": "2026-09-14",
-          "title": "Slovakia – Firearms – Dlhé strelné zbrane s príslušenstvom",
-          "buyer": "Generálne riaditeľstvo Zboru väzenskej a justičnej stráže",
-          "country": "SVK",
-          "cpv": [
-            "35320000",
-            "35321100",
-            "35321200"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/630124-2026"
-        },
-        {
-          "id": "632385-2026",
-          "date": "2026-09-14",
-          "title": "Greece – Industrial machinery – Δράσεις και Παρεμβάσεις Ενεργειακής αναβάθμισης Πολιτιστικού & Πνευματικού Κέντρου Κορίνθου του Δήμου Κορινθίων",
-          "buyer": "ΔΗΜΟΣ ΚΟΡΙΝΘΙΩΝ",
-          "country": "GRC",
-          "cpv": [
-            "42000000",
-            "42511110",
-            "44115200",
-            "44115210"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/632385-2026"
-        },
-        {
-          "id": "631248-2026",
-          "date": "2026-09-14",
-          "title": "Germany – Military vehicles and associated parts – 125_6003117958-BAAINBw E2.5F (Rohrwaffenbaugruppe)",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
-          "country": "DEU",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/631248-2026"
-        },
-        {
-          "id": "631565-2026",
-          "date": "2026-09-14",
-          "title": "Spain – Electronic and electrical spare parts for warships – Contrato para el Sostenimiento Integral de las CONSOLAS Navales Multifunción CONAM, de los Sistemas de Navegación WECDIS y de sus equipos asociados instalados en Buques de la Armada.",
-          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
-          "country": "ESP",
-          "cpv": [
-            "35522000",
-            "35712000",
-            "50660000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/631565-2026"
-        },
-        {
-          "id": "632446-2026",
-          "date": "2026-09-14",
-          "title": "Germany – Cartridges – Herstellung und Lieferung von Patrone 7,62 mm x 51, 1 DM111A2 Weichkern - 1 DM21A3 Weichkern-Leuchtspur, 200er Gurt AM22",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35331500",
-            "35330000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/632446-2026"
-        },
-        {
-          "id": "626290-2026",
-          "date": "2026-09-11",
-          "title": "Germany – Firefighting vehicles – Ortsfeuerwehren Linden, Fümmelse, Leinde, Wendessen und Groß Stöckheim - Beschaffung von fünf MTW",
-          "buyer": "Stadt Wolfenbüttel",
-          "country": "DEU",
-          "cpv": [
-            "34144210",
-            "35412200"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/626290-2026"
-        },
-        {
-          "id": "626989-2026",
-          "date": "2026-09-11",
-          "title": "Germany – Pyrotechnics – Angestrebt wird für die Herstellung und Lieferung von Granate, Abschussgerät, DM75A1, 76 mm, Nebel, IR, RP eine Mehrpartnerrahmenvereinbarung mit Miniwettbewerb",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "39225500",
-            "35330000",
-            "35331500",
-            "35331300"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/626989-2026"
-        },
-        {
-          "id": "627236-2026",
-          "date": "2026-09-11",
-          "title": "Poland – Parts of firearms and ammunition – Dostawa technicznych środków materiałowych (tśm) do sprzętu wojskowego (SpW)",
-          "buyer": "2. Regionalna Baza Logistyczna",
-          "country": "POL",
-          "cpv": [
-            "35340000",
-            "35322200",
-            "35322100",
-            "38631000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/627236-2026"
-        },
-        {
-          "id": "628597-2026",
-          "date": "2026-09-11",
-          "title": "Spain – Unmanned aerial vehicles – Prestación del servicio de mantenimiento y suministro de repuestos y asistencia técnica para el sostenimiento de los sistemas RPAS MINI ALA FIJA TIPO A VECTOR",
-          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
-          "country": "ESP",
-          "cpv": [
-            "35613000",
-            "80650000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/628597-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 6.4,
+      "score": 6.2,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-06-14",
-      "reporting_lag_days": 92,
-      "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 547965964.43,
+      "reporting_lag_days": 93,
+      "freshness_factor": 0.22,
+      "current_14d_weekly_equivalent": 544799813.26,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -271,12 +262,12 @@
           "amount": 16046910.72
         },
         {
-          "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 14307431.72
-        },
-        {
           "name": "CAE USA INC.",
           "amount": 10961058.39
+        },
+        {
+          "name": "GENERAL ELECTRIC COMPANY",
+          "amount": 9780000.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -447,15 +438,15 @@
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 29.5,
-      "status": "WATCH",
+      "score": 9.6,
+      "status": "BASELINE",
       "weight": 0.2,
       "available": true,
       "retained": false,
       "coverage": 90,
-      "current_14d_weekly_equivalent": 7.5,
-      "baseline_weekly_median": 6.75,
-      "anomaly_z": 0.07,
+      "current_14d_weekly_equivalent": 2.5,
+      "baseline_weekly_median": 4.25,
+      "anomaly_z": -0.28,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -623,11 +614,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-08-30T12:09:19.486615+00:00",
-      "score": 26.4,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-08-30T16:55:35.113698+00:00",
       "score": 26.4,
@@ -921,6 +907,11 @@
     {
       "generated": "2026-09-14T21:58:20.028904+00:00",
       "score": 18.5,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-15T05:11:19.164158+00:00",
+      "score": 14.5,
       "status": "BASELINE"
     }
   ],
