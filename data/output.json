@@ -1,21 +1,23 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-15T17:13:12.666709+00:00",
-    "mode": "live",
+    "generated": "2026-09-15T21:40:13.176888+00:00",
+    "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–90 days",
     "classification": "procurement-acceleration-screening-not-conflict-probability-or-contract-forecast",
     "coverage": "5/5",
-    "confidence": "HIGH",
-    "source_notes": []
+    "confidence": "MEDIUM",
+    "source_notes": [
+      "us_awards: retained (ReadTimeout)"
+    ]
   },
   "warning": {
-    "score": 19.7,
-    "raw_score": 19.7,
+    "score": 19.4,
+    "raw_score": 19.4,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 19.7/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 19.4/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -58,6 +60,29 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/633792-2026"
         },
         {
+          "id": "634494-2026",
+          "date": "2026-09-15",
+          "title": "Germany – Ammunition – Rahmenvereinbarung mit Miniwettbewerb Beschaffung von Patronen 30mm x 173 APFSDS-T",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/634494-2026"
+        },
+        {
+          "id": "634023-2026",
+          "date": "2026-09-15",
+          "title": "Czechia – Flow-measuring equipment – Hydrometrická přístrojová technika",
+          "buyer": "Český hydrometeorologický ústav",
+          "country": "CZE",
+          "cpv": [
+            "38421000",
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/634023-2026"
+        },
+        {
           "id": "632960-2026",
           "date": "2026-09-15",
           "title": "Ireland – IT services: consulting, software development, Internet and support – Provision of Market Intelligence Services to Support the Operation of Ireland’s Foreign Investment Screening Mechanism",
@@ -80,29 +105,6 @@
             "35300000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/635288-2026"
-        },
-        {
-          "id": "634023-2026",
-          "date": "2026-09-15",
-          "title": "Czechia – Flow-measuring equipment – Hydrometrická přístrojová technika",
-          "buyer": "Český hydrometeorologický ústav",
-          "country": "CZE",
-          "cpv": [
-            "38421000",
-            "35613000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/634023-2026"
-        },
-        {
-          "id": "634494-2026",
-          "date": "2026-09-15",
-          "title": "Germany – Ammunition – Rahmenvereinbarung mit Miniwettbewerb Beschaffung von Patronen 30mm x 173 APFSDS-T",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35330000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/634494-2026"
         },
         {
           "id": "632903-2026",
@@ -228,7 +230,7 @@
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
-      "retained": false,
+      "retained": true,
       "coverage": 600,
       "latest_observation": "2026-06-15",
       "reporting_lag_days": 92,
@@ -434,19 +436,20 @@
           "description": "HEAT EXCHANGER",
           "naics": "336413"
         }
-      ]
+      ],
+      "retained_reason": "ReadTimeout"
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 38.9,
+      "score": 37.3,
       "status": "WATCH",
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 96,
-      "current_14d_weekly_equivalent": 11.0,
+      "coverage": 95,
+      "current_14d_weekly_equivalent": 9.75,
       "baseline_weekly_median": 4.25,
-      "anomaly_z": 1.07,
+      "anomaly_z": 0.87,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -461,8 +464,8 @@
         },
         {
           "date": "2026-09-15",
-          "title": "Nato Summit Defence Industry Forum 2025 Time To Unite Innovate Deliver",
-          "url": "https://www.nato.int/en/multimedia/multimedia/audios/2025/06/24/nato-summit-defence-industry-forum-2025-time-to-unite-innovate--deliver",
+          "title": "Signing Ceremony At The Nato Summit Defence Industry Forum",
+          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2025/06/24/signing-ceremony-at-the-nato-summit-defence-industry-forum",
           "terms": [
             "industry"
           ],
@@ -471,8 +474,8 @@
         },
         {
           "date": "2026-09-15",
-          "title": "Signing Ceremony At The Nato Summit Defence Industry Forum",
-          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2025/06/24/signing-ceremony-at-the-nato-summit-defence-industry-forum",
+          "title": "Plenary Session Of The Nato Summit Defence Industry Forum",
+          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2025/06/24/plenary-session-of-the-nato-summit-defence-industry-forum",
           "terms": [
             "industry"
           ],
@@ -493,16 +496,6 @@
           "date": "2026-09-15",
           "title": "Plenary Session Of The Nato Summit Defence Industry Forum",
           "url": "https://www.nato.int/en/multimedia/multimedia/videos/2025/06/24/plenary-session-of-the-nato-summit-defence-industry-forum",
-          "terms": [
-            "industry"
-          ],
-          "weight": 2.5,
-          "age": 0
-        },
-        {
-          "date": "2026-09-15",
-          "title": "Nato Summit Defence Industry Forum 2025 Time To Unite Innovate Deliver",
-          "url": "https://www.nato.int/en/multimedia/multimedia/videos/2025/06/24/nato-summit-defence-industry-forum-2025-time-to-unite-innovate--deliver",
           "terms": [
             "industry"
           ],
@@ -588,6 +581,16 @@
           ],
           "weight": 2,
           "age": 27
+        },
+        {
+          "date": "2026-08-19",
+          "title": "Nato Tests Emerging Capabilities On Eastern Flank",
+          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2026/06/24/nato-tests-emerging-capabilities-on-eastern-flank",
+          "terms": [
+            "capabilities"
+          ],
+          "weight": 2,
+          "age": 27
         }
       ]
     },
@@ -654,11 +657,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-08-31T05:58:23.176467+00:00",
-      "score": 26.9,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-08-31T14:19:41.299461+00:00",
       "score": 26.9,
@@ -952,6 +950,11 @@
     {
       "generated": "2026-09-15T17:13:12.666709+00:00",
       "score": 19.7,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-15T21:40:13.176888+00:00",
+      "score": 19.4,
       "status": "BASELINE"
     }
   ],
