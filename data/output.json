@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-15T21:40:13.176888+00:00",
+    "generated": "2026-09-16T05:06:44.312041+00:00",
     "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -9,15 +9,15 @@
     "coverage": "5/5",
     "confidence": "MEDIUM",
     "source_notes": [
-      "us_awards: retained (ReadTimeout)"
+      "us_awards: retained (HTTPError)"
     ]
   },
   "warning": {
-    "score": 19.4,
-    "raw_score": 19.4,
+    "score": 18.8,
+    "raw_score": 18.8,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 19.4/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 18.8/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -28,12 +28,70 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 621,
-      "current_14d_weekly_equivalent": 42.0,
+      "coverage": 618,
+      "current_14d_weekly_equivalent": 38.5,
       "baseline_weekly_median": 45.5,
-      "anomaly_z": -0.59,
+      "anomaly_z": -0.94,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "637295-2026",
+          "date": "2026-09-16",
+          "title": "Sweden – Health and social work services – Upphandling av medicinsk journal- och ärendehantering för elevhälsa",
+          "buyer": "Uppsala kommun",
+          "country": "SWE",
+          "cpv": [
+            "85000000",
+            "35710000",
+            "48810000",
+            "48814000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/637295-2026"
+        },
+        {
+          "id": "637898-2026",
+          "date": "2026-09-16",
+          "title": "Germany – Military vehicles and associated parts – 062_6003041832-BAAINBw E2.5F_Ausleger, Kran",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/637898-2026"
+        },
+        {
+          "id": "637078-2026",
+          "date": "2026-09-16",
+          "title": "Austria – Ammunition – 12.000.000 Stück 7,62mm 4S : 1 L-Patronen/Maschinengewehr/gegurtet (7,62 mm 4 Ball : 1 Tracer, linked M13), Verhandlungsverfahren mit vorheriger Bekanntmachung im OSB gemäß 23 (3) BVergGVS 2012",
+          "buyer": "REPUBLIK ÖSTERREICH vertreten durch die Bundesministerin für Landesverteidigung",
+          "country": "AUT",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/637078-2026"
+        },
+        {
+          "id": "636200-2026",
+          "date": "2026-09-16",
+          "title": "Germany – Military vehicles and associated parts – Kaufbedarf EU Umrüstsätze für die PzH 2000",
+          "buyer": "HIL Heeresinstandsetzungslogistik GmbH",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/636200-2026"
+        },
+        {
+          "id": "637608-2026",
+          "date": "2026-09-16",
+          "title": "Poland – Ammunition – Zakup i dostawa amunicji w kal. 5,56x45 mm NATO z pociskiem typu SS 109",
+          "buyer": "Komenda Główna Policji",
+          "country": "POL",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/637608-2026"
+        },
         {
           "id": "634934-2026",
           "date": "2026-09-15",
@@ -161,66 +219,6 @@
             "35331500"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/632646-2026"
-        },
-        {
-          "id": "631846-2026",
-          "date": "2026-09-14",
-          "title": "Germany – Ammunition – Herstellung und Lieferung von Patrone 7,62 mm x 51, 1 DM151 Hartkern - 1 DM21A3, Weichkern, Leuchtspur - 1 DM111A2, Weichkern, gegurtet 120er Gurt AM41",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35330000",
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/631846-2026"
-        },
-        {
-          "id": "632032-2026",
-          "date": "2026-09-14",
-          "title": "Germany – Ammunition – Herstellung und Lieferung von Patrone 7,62 mm x 51, 7 DM111A2 Weichkern - 4 DM21A3 Weichkern-Leuchtspur, 198er Gurt AM88",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35330000",
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/632032-2026"
-        },
-        {
-          "id": "632200-2026",
-          "date": "2026-09-14",
-          "title": "Luxembourg – Telecommunications facilities – Phase 1 – Appel aux candidatures Procédure restreinte avec publication d’avis relatif à la fourniture d’un nouveau système de gestion des alertes et des appels d’urgences pour les besoins du central d’urgences du Corps Grand-Ducal d’Incendie et de Secours (CGDIS)",
-          "buyer": "Corps Grand-Ducal d'Incendie et de Secours",
-          "country": "LUX",
-          "cpv": [
-            "32523000",
-            "35711000",
-            "48510000",
-            "48000000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/632200-2026"
-        },
-        {
-          "id": "631883-2026",
-          "date": "2026-09-14",
-          "title": "Czechia – Ammunition for firearms and warfare – Rámcová dohoda - náboje do brokovnic",
-          "buyer": "Ministerstvo vnitra",
-          "country": "CZE",
-          "cpv": [
-            "35331000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/631883-2026"
-        },
-        {
-          "id": "632069-2026",
-          "date": "2026-09-14",
-          "title": "Spain – Cartridges – Acuerdo marco de suministro de munición de cartuchería 5,56 x 45 mm para el Ministerio de Defensa",
-          "buyer": "Junta de Contratación del Ministerio de Defensa",
-          "country": "ESP",
-          "cpv": [
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/632069-2026"
         }
       ]
     },
@@ -437,19 +435,19 @@
           "naics": "336413"
         }
       ],
-      "retained_reason": "ReadTimeout"
+      "retained_reason": "HTTPError"
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 37.3,
+      "score": 34.1,
       "status": "WATCH",
       "weight": 0.2,
       "available": true,
       "retained": false,
       "coverage": 95,
       "current_14d_weekly_equivalent": 9.75,
-      "baseline_weekly_median": 4.25,
-      "anomaly_z": 0.87,
+      "baseline_weekly_median": 5.75,
+      "anomaly_z": 0.47,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -657,11 +655,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-08-31T14:19:41.299461+00:00",
-      "score": 26.9,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-08-31T22:59:38.623471+00:00",
       "score": 26.9,
@@ -955,6 +948,11 @@
     {
       "generated": "2026-09-15T21:40:13.176888+00:00",
       "score": 19.4,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-16T05:06:44.312041+00:00",
+      "score": 18.8,
       "status": "BASELINE"
     }
   ],
