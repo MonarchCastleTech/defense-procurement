@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-16T05:06:44.312041+00:00",
+    "generated": "2026-09-16T11:57:21.715979+00:00",
     "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -9,7 +9,7 @@
     "coverage": "5/5",
     "confidence": "MEDIUM",
     "source_notes": [
-      "us_awards: retained (HTTPError)"
+      "us_awards: retained (ReadTimeout)"
     ]
   },
   "warning": {
@@ -435,7 +435,7 @@
           "naics": "336413"
         }
       ],
-      "retained_reason": "HTTPError"
+      "retained_reason": "ReadTimeout"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -468,7 +468,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-09-15",
@@ -508,7 +508,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-09-14",
@@ -538,7 +538,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 14
+          "age": 15
         },
         {
           "date": "2026-09-01",
@@ -548,7 +548,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 14
+          "age": 15
         },
         {
           "date": "2026-09-01",
@@ -558,7 +558,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 14
+          "age": 15
         },
         {
           "date": "2026-09-01",
@@ -568,7 +568,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 14
+          "age": 15
         },
         {
           "date": "2026-08-19",
@@ -578,7 +578,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 27
+          "age": 28
         },
         {
           "date": "2026-08-19",
@@ -655,11 +655,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-08-31T22:59:38.623471+00:00",
-      "score": 26.9,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-09-01T05:31:00.010386+00:00",
       "score": 26.5,
@@ -952,6 +947,11 @@
     },
     {
       "generated": "2026-09-16T05:06:44.312041+00:00",
+      "score": 18.8,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-16T11:57:21.715979+00:00",
       "score": 18.8,
       "status": "BASELINE"
     }
