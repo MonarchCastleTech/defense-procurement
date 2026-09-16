@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-16T11:57:21.715979+00:00",
+    "generated": "2026-09-16T17:14:09.173151+00:00",
     "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -9,7 +9,7 @@
     "coverage": "5/5",
     "confidence": "MEDIUM",
     "source_notes": [
-      "us_awards: retained (ReadTimeout)"
+      "us_awards: retained (HTTPError)"
     ]
   },
   "warning": {
@@ -93,17 +93,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/637608-2026"
         },
         {
-          "id": "634934-2026",
-          "date": "2026-09-15",
-          "title": "Germany – Military vehicles and associated parts – 6003114831-BAAINBw E2.3Y E23Y003299",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/634934-2026"
-        },
-        {
           "id": "633792-2026",
           "date": "2026-09-15",
           "title": "Czechia – Sensors – SOUMOS – dodávka technologického, monitorovacího a aplikačního vybavení pro systém prevence komářích kalamit",
@@ -116,6 +105,17 @@
             "34741000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/633792-2026"
+        },
+        {
+          "id": "634934-2026",
+          "date": "2026-09-15",
+          "title": "Germany – Military vehicles and associated parts – 6003114831-BAAINBw E2.3Y E23Y003299",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/634934-2026"
         },
         {
           "id": "634494-2026",
@@ -199,6 +199,18 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/635901-2026"
         },
         {
+          "id": "632032-2026",
+          "date": "2026-09-14",
+          "title": "Germany – Ammunition – Herstellung und Lieferung von Patrone 7,62 mm x 51, 7 DM111A2 Weichkern - 4 DM21A3 Weichkern-Leuchtspur, 198er Gurt AM88",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35330000",
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/632032-2026"
+        },
+        {
           "id": "629407-2026",
           "date": "2026-09-14",
           "title": "Germany – Infantry fighting vehicles – Kompressoreinheit, Kühlmittel für das Waffensystem Schützenpanzer (SPz) PUMA",
@@ -208,17 +220,6 @@
             "35412100"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/629407-2026"
-        },
-        {
-          "id": "632646-2026",
-          "date": "2026-09-14",
-          "title": "Spain – Cartridges – Acuerdo marco de suministro de munición de cartuchería 9x19 mm para el Ministerio de Defensa",
-          "buyer": "Junta de Contratación del Ministerio de Defensa",
-          "country": "ESP",
-          "cpv": [
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/632646-2026"
         }
       ]
     },
@@ -435,7 +436,7 @@
           "naics": "336413"
         }
       ],
-      "retained_reason": "ReadTimeout"
+      "retained_reason": "HTTPError"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -444,7 +445,7 @@
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 95,
+      "coverage": 93,
       "current_14d_weekly_equivalent": 9.75,
       "baseline_weekly_median": 5.75,
       "anomaly_z": 0.47,
@@ -458,7 +459,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-09-15",
@@ -478,7 +479,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-09-15",
@@ -488,7 +489,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-09-15",
@@ -498,7 +499,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-09-15",
@@ -518,7 +519,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-14",
@@ -528,7 +529,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-01",
@@ -588,7 +589,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 27
+          "age": 28
         }
       ]
     },
@@ -655,11 +656,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-01T05:31:00.010386+00:00",
-      "score": 26.5,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-09-01T11:56:27.346022+00:00",
       "score": 25.4,
@@ -952,6 +948,11 @@
     },
     {
       "generated": "2026-09-16T11:57:21.715979+00:00",
+      "score": 18.8,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-16T17:14:09.173151+00:00",
       "score": 18.8,
       "status": "BASELINE"
     }
