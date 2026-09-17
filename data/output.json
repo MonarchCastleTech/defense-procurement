@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-17T17:12:54.962510+00:00",
+    "generated": "2026-09-17T21:38:27.286932+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -236,7 +236,7 @@
       "latest_observation": "2026-06-17",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 211414386.85,
+      "current_14d_weekly_equivalent": 210300482.54,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -258,7 +258,7 @@
         },
         {
           "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 11941211.89
+          "amount": 11998535.89
         },
         {
           "name": "SIMMONDS PRECISION PRODUCTS INC",
@@ -269,8 +269,8 @@
           "amount": 5261105.16
         },
         {
-          "name": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 5251078.0
+          "name": "HORNET ACQUISITIONCO, LLC",
+          "amount": 4544971.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -430,12 +430,12 @@
         },
         {
           "date": "2026-06-17",
-          "award_id": "W58RGZ26F0284",
-          "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 2221465.0,
-          "agency": "Department of the Army",
-          "description": "ANNISTON ARMY DEPOT PREVENTATIVE MAINTENANCE PROGRAM",
-          "naics": "336413"
+          "award_id": "FA863423F0400",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 1769989.87,
+          "agency": "Department of the Air Force",
+          "description": "CDI OFP",
+          "naics": "336411"
         }
       ]
     },
@@ -657,11 +657,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-02T11:37:46.666942+00:00",
-      "score": 19.2,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-02T16:48:13.892187+00:00",
       "score": 19.3,
@@ -954,6 +949,11 @@
     },
     {
       "generated": "2026-09-17T17:12:54.962510+00:00",
+      "score": 19.3,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-17T21:38:27.286932+00:00",
       "score": 19.3,
       "status": "BASELINE"
     }
