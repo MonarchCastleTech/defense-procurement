@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-17T05:11:27.465703+00:00",
+    "generated": "2026-09-17T11:59:25.981487+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 19.0,
-    "raw_score": 19.0,
+    "score": 19.3,
+    "raw_score": 19.3,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 19.0/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 19.3/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -188,28 +188,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/633792-2026"
         },
         {
-          "id": "632960-2026",
+          "id": "634494-2026",
           "date": "2026-09-15",
-          "title": "Ireland – IT services: consulting, software development, Internet and support – Provision of Market Intelligence Services to Support the Operation of Ireland’s Foreign Investment Screening Mechanism",
-          "buyer": "The Department of Enterprise Tourism and Employment",
-          "country": "IRL",
+          "title": "Germany – Ammunition – Rahmenvereinbarung mit Miniwettbewerb Beschaffung von Patronen 30mm x 173 APFSDS-T",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
           "cpv": [
-            "72000000",
-            "35721000",
-            "79000000"
+            "35330000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/632960-2026"
-        },
-        {
-          "id": "635288-2026",
-          "date": "2026-09-15",
-          "title": "Denmark – Weapons, ammunition and associated parts – Military Droneguardian shotguns",
-          "buyer": "Forsvarsministeriets Materiel- og Indkøbsstyrelse",
-          "country": "DNK",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/635288-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/634494-2026"
         },
         {
           "id": "634023-2026",
@@ -222,219 +209,232 @@
             "35613000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/634023-2026"
+        },
+        {
+          "id": "632960-2026",
+          "date": "2026-09-15",
+          "title": "Ireland – IT services: consulting, software development, Internet and support – Provision of Market Intelligence Services to Support the Operation of Ireland’s Foreign Investment Screening Mechanism",
+          "buyer": "The Department of Enterprise Tourism and Employment",
+          "country": "IRL",
+          "cpv": [
+            "72000000",
+            "35721000",
+            "79000000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/632960-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 4.5,
+      "score": 5.5,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-06-16",
-      "reporting_lag_days": 93,
-      "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 93273432.54,
+      "latest_observation": "2026-06-17",
+      "reporting_lag_days": 92,
+      "freshness_factor": 0.23,
+      "current_14d_weekly_equivalent": 210529345.64,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
+          "name": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.",
+          "amount": 291957785.61
+        },
+        {
           "name": "THE BOEING COMPANY",
-          "amount": 90093000.3
+          "amount": 33244929.26
         },
         {
           "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 29397363.68
-        },
-        {
-          "name": "MEGGITT DEFENSE SYSTEMS, INC.",
-          "amount": 22471439.26
-        },
-        {
-          "name": "TOP FLIGHT AEROSTRUCTURES, INC.",
-          "amount": 16965025.0
+          "amount": 19666787.69
         },
         {
           "name": "RAYTHEON COMPANY",
-          "amount": 4980000.0
+          "amount": 17422172.19
         },
         {
-          "name": "MOOG MILITARY AIRCRAFT LLC",
-          "amount": 3693128.0
+          "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 11941211.89
         },
         {
-          "name": "BELL TEXTRON INC",
-          "amount": 3110458.63
+          "name": "SIMMONDS PRECISION PRODUCTS INC",
+          "amount": 6263865.9
         },
         {
-          "name": "GENERAL DYNAMICS MISSION SYSTEMS, INC.",
-          "amount": 1280065.0
+          "name": "NORTHROP GRUMMAN SYSTEMS CORP",
+          "amount": 5261105.16
+        },
+        {
+          "name": "HORNET ACQUISITIONCO, LLC",
+          "amount": 4544971.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
         {
-          "date": "2026-06-16",
-          "award_id": "FA860926FB042",
+          "date": "2026-06-17",
+          "award_id": "FA868925FB010",
+          "recipient": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.",
+          "amount": 258654785.61,
+          "agency": "Department of the Air Force",
+          "description": "THIS DELIVERY ORDER INCLUDES ALL ACTIVITIES REQUIRED FOR THE PRODUCTION AND DELIVERY OF IRIS DO-1 FOR INDIA MQ-9 FMS REQUIREMENTS.",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-17",
+          "award_id": "W58RGZ24C0031",
+          "recipient": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.",
+          "amount": 33303000.0,
+          "agency": "Department of the Army",
+          "description": "PERFORMANCE BASED LOGISITICS",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-17",
+          "award_id": "FA813426FB007",
           "recipient": "THE BOEING COMPANY",
-          "amount": 66489316.0,
+          "amount": 24931077.25,
           "agency": "Department of the Air Force",
-          "description": "F139 ZERO-TIME SPARE ENGINE CORE AND ACCESSORIES FOR USAF AND FMS PARTNER",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-16",
-          "award_id": "FA861125F0034",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 27361796.59,
-          "agency": "Department of the Air Force",
-          "description": "F22 PROGRAM OFFICE SUPPORT",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-16",
-          "award_id": "N0001926C0134",
-          "recipient": "MEGGITT DEFENSE SYSTEMS, INC.",
-          "amount": 22471439.26,
-          "agency": "Department of the Navy",
-          "description": "IRST ECU FRP LOTS 1-3 & FAN REPLACEMENT NRE",
+          "description": "E-4B CONTRACT LOGISTICS SUPPORT (CLS) OPTION YEARS 10 AND 11",
           "naics": "336413"
         },
         {
-          "date": "2026-06-16",
-          "award_id": "FA860926FB042",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 18929381.0,
-          "agency": "Department of the Air Force",
-          "description": "F139 ZERO-TIME SPARE ENGINE CORE AND ACCESSORIES FOR USAF AND FMS PARTNER",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-16",
-          "award_id": "SPRTA126F0190",
-          "recipient": "TOP FLIGHT AEROSTRUCTURES, INC.",
-          "amount": 16913669.0,
-          "agency": "Defense Logistics Agency",
-          "description": "MANUFACTURE OF THE TRAILING EDGE FOR THE B-1 AIRCRAFT.",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-16",
-          "award_id": "FA811826F0152",
-          "recipient": "MOOG MILITARY AIRCRAFT LLC",
-          "amount": 2649924.0,
-          "agency": "Department of the Air Force",
-          "description": "REMANUFACTURE OF THE B-2 FLIGHT CONTROL ACTUATORS",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-16",
-          "award_id": "N0042123F0738",
+          "date": "2026-06-17",
+          "award_id": "N0002423C5410",
           "recipient": "RAYTHEON COMPANY",
-          "amount": 2490000.0,
+          "amount": 17365281.0,
           "agency": "Department of the Navy",
-          "description": "TO INCREMENTALLY FUND AND REALIGN CEILING FOR CONTINUED TASK ORDER SUPPORT",
-          "naics": "336413"
+          "description": "ESTABLISHMENT OF SLIN 0301AA FOR TI 1007 (PLATE 3A).",
+          "naics": "336414"
         },
         {
-          "date": "2026-06-16",
-          "award_id": "N0042123F0738",
-          "recipient": "RAYTHEON COMPANY",
-          "amount": 2490000.0,
+          "date": "2026-06-17",
+          "award_id": "N0001920C0009",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 14566059.0,
           "agency": "Department of the Navy",
-          "description": "TO INCREMENTALLY FUND AND REALIGN CEILING FOR CONTINUED TASK ORDER SUPPORT",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-16",
-          "award_id": "N6893626F5052",
-          "recipient": "BELL TEXTRON INC",
-          "amount": 2442418.0,
-          "agency": "Department of the Navy",
-          "description": "THIS TASK ORDER IS FOR BELL, THE H-1 HELICOPTER DESIGNER/MANUFACTURER, TO ENGINEER AND DEVELOP MODERNIZATION KITS FOR THE USMC FLEET. SEE ATTACHMENT 1, STATEMENT OF WORK.",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-16",
-          "award_id": "SPE4A526F7014",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 2054301.96,
-          "agency": "Defense Logistics Agency",
-          "description": "8512171159!SHEET,CIRCUIT ANALO",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-16",
-          "award_id": "FA862516C6599",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 1730000.0,
-          "agency": "Department of the Air Force",
-          "description": "ACAT 1D, VC-25B PROGRAM, 15 SERVICE BULLETINS",
+          "description": "THE PURPOSE OF THIS MODIFICATION IS TO INCREMENTALLY FUND CLINS 7111,7112 AND 7113.  THIS MOD ALSO COMBINES TWO PIF EVENTS AND WILL AWARD PIF EVENT #3 AND #4.",
           "naics": "336411"
         },
         {
-          "date": "2026-06-16",
-          "award_id": "FA821424C0003",
-          "recipient": "GENERAL DYNAMICS MISSION SYSTEMS, INC.",
-          "amount": 1280065.0,
-          "agency": "Department of the Air Force",
-          "description": "THE HACTS 2.0 PROGRAM WILL PROVIDE THE ADDITION OF THE WEAPON SYSTEM CONTROL ELEMENT (WSCE) CONSOLE CAPABILITY FROM HARDWARE TO SOFTWARE.  IOT WILL ALSO UPDATE THE OPERATING SYSTEM FROM WINDOWS 7 TO WINDOWS 11.",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-06-16",
-          "award_id": "FA811826F0153",
-          "recipient": "MOOG MILITARY AIRCRAFT LLC",
-          "amount": 1043204.0,
-          "agency": "Department of the Air Force",
-          "description": "REMANUFACTURE OF THE B-2 FLIGHT CONTROL ACTUATORS",
+          "date": "2026-06-17",
+          "award_id": "N0038326FTP05",
+          "recipient": "SIMMONDS PRECISION PRODUCTS INC",
+          "amount": 6263865.9,
+          "agency": "Department of the Navy",
+          "description": "COMPUTER,DIGITAL,VA",
           "naics": "336413"
         },
         {
-          "date": "2026-06-16",
-          "award_id": "HQ014714C0004",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 900000.0,
-          "agency": "Missile Defense Agency",
-          "description": "TARGETS AND COUNTERMEASURES HIGHLY SPECIALIZED SERVICES",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-06-16",
-          "award_id": "HQ014714C0004",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 900000.0,
-          "agency": "Missile Defense Agency",
-          "description": "TARGETS AND COUNTERMEASURES HIGHLY SPECIALIZED SERVICES",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-06-16",
-          "award_id": "M6785425F0163",
-          "recipient": "ANDURIL INDUSTRIES, INC.",
-          "amount": 880390.35,
-          "agency": "Department of the Navy",
-          "description": "THE PURPOSE OF THIS MODIFICATION IS TO EXECUTE CLIN 1004 AND 1010 FOR INCIDENTAL ENGINEERING TO SUPPORT I-CSUAS AT MCAS MIRAMAR.",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-06-16",
-          "award_id": "FA862616C2138",
-          "recipient": "GENERAL ELECTRIC COMPANY",
-          "amount": 831369.95,
+          "date": "2026-06-17",
+          "award_id": "FA811026FB002",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
+          "amount": 5261105.16,
           "agency": "Department of the Air Force",
-          "description": "ADAPTIVE ENGINE TRANSITION PROGRAM (ATEP)",
+          "description": "B-2 REPAIR OPERATIONS: CONTAINS ASSETS FOR REPAIR AND WSSC LABS SUPPORT.",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-17",
+          "award_id": "SPRPA126FF801",
+          "recipient": "HORNET ACQUISITIONCO, LLC",
+          "amount": 4544971.0,
+          "agency": "Defense Logistics Agency",
+          "description": "DRUM,WINCH,AIRCRAFT",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-17",
+          "award_id": "N0038326FS50U",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 3890496.0,
+          "agency": "Department of the Navy",
+          "description": "2-CH PRE-AMP LRM,AI",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-17",
+          "award_id": "SPRPA126FCU08",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 3887724.2,
+          "agency": "Defense Logistics Agency",
+          "description": "2-CH PRE-AMP LRM,AI",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-17",
+          "award_id": "SPE4A226F1454",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 3331386.36,
+          "agency": "Defense Logistics Agency",
+          "description": "8511939319!AF GEN III SUPPORT",
           "naics": "336412"
         },
         {
-          "date": "2026-06-16",
-          "award_id": "FA852626FB015",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 808200.0,
+          "date": "2026-06-17",
+          "award_id": "FA852426F0034",
+          "recipient": "ABLE AEROSPACE SERVICES, INC.",
+          "amount": 3310860.0,
           "agency": "Department of the Air Force",
-          "description": "FUNDING WILL SUPPORT FMS OVERFLOW SPEEDLINES AND BEYOND-LINE-OF-SIGHT (BLOS) TRAINING",
+          "description": "REPAIR OF THE MAIN ROTOR HUB ASSEMBLY APPLICABLE TO THE UH-1N HELICOPTER",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-17",
+          "award_id": "FA862023F4863",
+          "recipient": "L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P.",
+          "amount": 3200000.0,
+          "agency": "Department of the Air Force",
+          "description": "AFLCMC/WI",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-17",
+          "award_id": "N0001921F0889",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 2676852.0,
+          "agency": "Department of the Navy",
+          "description": "FMS E-2C/E-2D ISS & TECH SUPPORT",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-17",
+          "award_id": "FA863418C2701",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 2600000.0,
+          "agency": "Department of the Air Force",
+          "description": "F-15, FOREIGN MILITARY SALES, QATAR PROGRAM",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-17",
+          "award_id": "FA852626FB001",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 2359830.0,
+          "agency": "Department of the Air Force",
+          "description": "FY26 C-17 GLOBEMASTER III VIRTUAL FLEET COMMON AND UNIQUE LABOR SUSTAINMENT",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-17",
+          "award_id": "W58RGZ26F0284",
+          "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 2221465.0,
+          "agency": "Department of the Army",
+          "description": "ANNISTON ARMY DEPOT PREVENTATIVE MAINTENANCE PROGRAM",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-17",
+          "award_id": "FA863423F0400",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 1769989.87,
+          "agency": "Department of the Air Force",
+          "description": "CDI OFP",
           "naics": "336411"
         }
       ]
@@ -446,7 +446,7 @@
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 93,
+      "coverage": 91,
       "current_14d_weekly_equivalent": 9.75,
       "baseline_weekly_median": 5.75,
       "anomaly_z": 0.54,
@@ -470,7 +470,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-15",
@@ -510,7 +510,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-14",
@@ -540,7 +540,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 15
+          "age": 16
         },
         {
           "date": "2026-09-01",
@@ -550,7 +550,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 15
+          "age": 16
         },
         {
           "date": "2026-09-01",
@@ -560,7 +560,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 15
+          "age": 16
         },
         {
           "date": "2026-09-01",
@@ -570,7 +570,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 15
+          "age": 16
         },
         {
           "date": "2026-08-19",
@@ -580,7 +580,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 28
+          "age": 29
         },
         {
           "date": "2026-08-19",
@@ -657,11 +657,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-01T21:14:42.593321+00:00",
-      "score": 24.8,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-02T04:57:02.098899+00:00",
       "score": 20.0,
@@ -955,6 +950,11 @@
     {
       "generated": "2026-09-17T05:11:27.465703+00:00",
       "score": 19.0,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-17T11:59:25.981487+00:00",
+      "score": 19.3,
       "status": "BASELINE"
     }
   ],
