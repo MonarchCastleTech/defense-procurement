@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-17T11:59:25.981487+00:00",
+    "generated": "2026-09-17T17:12:54.962510+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -56,6 +56,19 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/641896-2026"
         },
         {
+          "id": "641539-2026",
+          "date": "2026-09-17",
+          "title": "Hungary – Command, control, communication and computer systems – HM Válságreagáló Rendszer (HM VRR)",
+          "buyer": "Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság",
+          "country": "HUN",
+          "cpv": [
+            "35710000",
+            "71300000",
+            "48000000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/641539-2026"
+        },
+        {
           "id": "639965-2026",
           "date": "2026-09-17",
           "title": "Ireland – Electrical materials – 2026 54 Single part FWA for the Supply, Delivery, Installation and Commissioning of ​High-Accuracy Geospatial Data Acquisition Equipment for Environmental Management for AMTCE Dundalk",
@@ -68,19 +81,6 @@
             "79961200"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/639965-2026"
-        },
-        {
-          "id": "641539-2026",
-          "date": "2026-09-17",
-          "title": "Hungary – Command, control, communication and computer systems – HM Válságreagáló Rendszer (HM VRR)",
-          "buyer": "Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság",
-          "country": "HUN",
-          "cpv": [
-            "35710000",
-            "71300000",
-            "48000000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/641539-2026"
         },
         {
           "id": "641212-2026",
@@ -188,27 +188,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/633792-2026"
         },
         {
-          "id": "634494-2026",
+          "id": "635288-2026",
           "date": "2026-09-15",
-          "title": "Germany – Ammunition – Rahmenvereinbarung mit Miniwettbewerb Beschaffung von Patronen 30mm x 173 APFSDS-T",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
+          "title": "Denmark – Weapons, ammunition and associated parts – Military Droneguardian shotguns",
+          "buyer": "Forsvarsministeriets Materiel- og Indkøbsstyrelse",
+          "country": "DNK",
           "cpv": [
-            "35330000"
+            "35300000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/634494-2026"
-        },
-        {
-          "id": "634023-2026",
-          "date": "2026-09-15",
-          "title": "Czechia – Flow-measuring equipment – Hydrometrická přístrojová technika",
-          "buyer": "Český hydrometeorologický ústav",
-          "country": "CZE",
-          "cpv": [
-            "38421000",
-            "35613000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/634023-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/635288-2026"
         },
         {
           "id": "632960-2026",
@@ -222,6 +210,18 @@
             "79000000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/632960-2026"
+        },
+        {
+          "id": "634023-2026",
+          "date": "2026-09-15",
+          "title": "Czechia – Flow-measuring equipment – Hydrometrická přístrojová technika",
+          "buyer": "Český hydrometeorologický ústav",
+          "country": "CZE",
+          "cpv": [
+            "38421000",
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/634023-2026"
         }
       ]
     },
@@ -236,7 +236,7 @@
       "latest_observation": "2026-06-17",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 210529345.64,
+      "current_14d_weekly_equivalent": 211414386.85,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -269,8 +269,8 @@
           "amount": 5261105.16
         },
         {
-          "name": "HORNET ACQUISITIONCO, LLC",
-          "amount": 4544971.0
+          "name": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 5251078.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -430,12 +430,12 @@
         },
         {
           "date": "2026-06-17",
-          "award_id": "FA863423F0400",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 1769989.87,
-          "agency": "Department of the Air Force",
-          "description": "CDI OFP",
-          "naics": "336411"
+          "award_id": "W58RGZ26F0284",
+          "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 2221465.0,
+          "agency": "Department of the Army",
+          "description": "ANNISTON ARMY DEPOT PREVENTATIVE MAINTENANCE PROGRAM",
+          "naics": "336413"
         }
       ]
     },
@@ -460,7 +460,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-15",
@@ -480,7 +480,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-15",
@@ -490,7 +490,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-15",
@@ -500,7 +500,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-15",
@@ -520,7 +520,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-09-14",
@@ -530,7 +530,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-09-01",
@@ -590,7 +590,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 28
+          "age": 29
         }
       ]
     },
@@ -657,11 +657,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-02T04:57:02.098899+00:00",
-      "score": 20.0,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-02T11:37:46.666942+00:00",
       "score": 19.2,
@@ -954,6 +949,11 @@
     },
     {
       "generated": "2026-09-17T11:59:25.981487+00:00",
+      "score": 19.3,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-17T17:12:54.962510+00:00",
       "score": 19.3,
       "status": "BASELINE"
     }
