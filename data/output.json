@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-18T16:39:24.804648+00:00",
+    "generated": "2026-09-18T21:09:28.843407+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -79,28 +79,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/645351-2026"
         },
         {
-          "id": "645055-2026",
-          "date": "2026-09-18",
-          "title": "Germany – Intelligence, surveillance, target acquisition and reconnaissance – Miete Hyperspektralsensorik",
-          "buyer": "Planungsamt der Bundeswehr Referat I 1 (4)",
-          "country": "DEU",
-          "cpv": [
-            "35720000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/645055-2026"
-        },
-        {
-          "id": "646318-2026",
-          "date": "2026-09-18",
-          "title": "Poland – Parts of rocket launchers – Dostawa technicznych środków materiałowych do 155 mm sh K9 w 2026 roku",
-          "buyer": "2. Regionalna Baza Logistyczna",
-          "country": "POL",
-          "cpv": [
-            "35342000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/646318-2026"
-        },
-        {
           "id": "644252-2026",
           "date": "2026-09-18",
           "title": "Slovenia – Ammunition – Topovske salve",
@@ -146,6 +124,28 @@
             "35730000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/643234-2026"
+        },
+        {
+          "id": "645055-2026",
+          "date": "2026-09-18",
+          "title": "Germany – Intelligence, surveillance, target acquisition and reconnaissance – Miete Hyperspektralsensorik",
+          "buyer": "Planungsamt der Bundeswehr Referat I 1 (4)",
+          "country": "DEU",
+          "cpv": [
+            "35720000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/645055-2026"
+        },
+        {
+          "id": "646318-2026",
+          "date": "2026-09-18",
+          "title": "Poland – Parts of rocket launchers – Dostawa technicznych środków materiałowych do 155 mm sh K9 w 2026 roku",
+          "buyer": "2. Regionalna Baza Logistyczna",
+          "country": "POL",
+          "cpv": [
+            "35342000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/646318-2026"
         },
         {
           "id": "639742-2026",
@@ -232,7 +232,7 @@
       "latest_observation": "2026-06-17",
       "reporting_lag_days": 93,
       "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 227180400.34,
+      "current_14d_weekly_equivalent": 213333013.38,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -242,11 +242,7 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 35971486.89
-        },
-        {
-          "name": "HONEYWELL INTERNATIONAL INC.",
-          "amount": 29523128.82
+          "amount": 35844929.26
         },
         {
           "name": "LOCKHEED MARTIN CORPORATION",
@@ -258,7 +254,7 @@
         },
         {
           "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 11883887.89
+          "amount": 11941211.89
         },
         {
           "name": "ABLE AEROSPACE SERVICES, INC.",
@@ -267,6 +263,10 @@
         {
           "name": "SIMMONDS PRECISION PRODUCTS INC",
           "amount": 6263865.9
+        },
+        {
+          "name": "NORTHROP GRUMMAN SYSTEMS CORP",
+          "amount": 5261105.16
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -288,15 +288,6 @@
           "agency": "Department of the Army",
           "description": "PERFORMANCE BASED LOGISITICS",
           "naics": "336411"
-        },
-        {
-          "date": "2026-06-17",
-          "award_id": "W58RGZ26F0345",
-          "recipient": "HONEYWELL INTERNATIONAL INC.",
-          "amount": 29400000.0,
-          "agency": "Department of the Army",
-          "description": "OVERHAUL CH-47 T-55 ENGINE.",
-          "naics": "336412"
         },
         {
           "date": "2026-06-17",
@@ -431,6 +422,15 @@
           "amount": 2600000.0,
           "agency": "Department of the Air Force",
           "description": "F-15, FOREIGN MILITARY SALES, QATAR PROGRAM",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-17",
+          "award_id": "FA852626FB001",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 2359830.0,
+          "agency": "Department of the Air Force",
+          "description": "FY26 C-17 GLOBEMASTER III VIRTUAL FLEET COMMON AND UNIQUE LABOR SUSTAINMENT",
           "naics": "336411"
         }
       ]
@@ -653,11 +653,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-03T11:36:00.542721+00:00",
-      "score": 20.2,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-03T16:37:49.227769+00:00",
       "score": 20.2,
@@ -950,6 +945,11 @@
     },
     {
       "generated": "2026-09-18T16:39:24.804648+00:00",
+      "score": 18.9,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-18T21:09:28.843407+00:00",
       "score": 18.9,
       "status": "BASELINE"
     }
