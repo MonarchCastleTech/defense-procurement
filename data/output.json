@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-18T05:04:11.926615+00:00",
+    "generated": "2026-09-18T11:40:20.071454+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -232,7 +232,7 @@
       "latest_observation": "2026-06-17",
       "reporting_lag_days": 93,
       "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 225993179.68,
+      "current_14d_weekly_equivalent": 226485389.31,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -242,11 +242,11 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 33135255.63
+          "amount": 35853371.26
         },
         {
           "name": "HONEYWELL INTERNATIONAL INC.",
-          "amount": 29523999.9
+          "amount": 29522257.74
         },
         {
           "name": "LOCKHEED MARTIN CORPORATION",
@@ -258,15 +258,15 @@
         },
         {
           "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 11998535.89
+          "amount": 11941211.89
+        },
+        {
+          "name": "ABLE AEROSPACE SERVICES, INC.",
+          "amount": 6621720.0
         },
         {
           "name": "SIMMONDS PRECISION PRODUCTS INC",
           "amount": 6263865.9
-        },
-        {
-          "name": "NORTHROP GRUMMAN SYSTEMS CORP",
-          "amount": 5261105.16
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -390,6 +390,15 @@
         },
         {
           "date": "2026-06-17",
+          "award_id": "FA852426F0034",
+          "recipient": "ABLE AEROSPACE SERVICES, INC.",
+          "amount": 3310860.0,
+          "agency": "Department of the Air Force",
+          "description": "REPAIR OF THE MAIN ROTOR HUB ASSEMBLY APPLICABLE TO THE UH-1N HELICOPTER",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-17",
           "award_id": "FA862023F4863",
           "recipient": "L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P.",
           "amount": 3200000.0,
@@ -417,21 +426,12 @@
         },
         {
           "date": "2026-06-17",
-          "award_id": "FA852626FB001",
+          "award_id": "FA863418C2701",
           "recipient": "THE BOEING COMPANY",
-          "amount": 2359830.0,
+          "amount": 2600000.0,
           "agency": "Department of the Air Force",
-          "description": "FY26 C-17 GLOBEMASTER III VIRTUAL FLEET COMMON AND UNIQUE LABOR SUSTAINMENT",
+          "description": "F-15, FOREIGN MILITARY SALES, QATAR PROGRAM",
           "naics": "336411"
-        },
-        {
-          "date": "2026-06-17",
-          "award_id": "W58RGZ26F0284",
-          "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 2221465.0,
-          "agency": "Department of the Army",
-          "description": "ANNISTON ARMY DEPOT PREVENTATIVE MAINTENANCE PROGRAM",
-          "naics": "336413"
         }
       ]
     },
@@ -466,7 +466,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-09-15",
@@ -506,7 +506,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-09-14",
@@ -536,7 +536,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 16
+          "age": 17
         },
         {
           "date": "2026-09-01",
@@ -546,7 +546,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 16
+          "age": 17
         },
         {
           "date": "2026-09-01",
@@ -556,7 +556,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 16
+          "age": 17
         },
         {
           "date": "2026-09-01",
@@ -566,7 +566,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 16
+          "age": 17
         },
         {
           "date": "2026-08-19",
@@ -576,7 +576,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 29
+          "age": 30
         },
         {
           "date": "2026-08-19",
@@ -653,11 +653,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-02T21:12:58.022096+00:00",
-      "score": 19.3,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-03T04:54:11.069424+00:00",
       "score": 19.8,
@@ -950,6 +945,11 @@
     },
     {
       "generated": "2026-09-18T05:04:11.926615+00:00",
+      "score": 18.9,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-18T11:40:20.071454+00:00",
       "score": 18.9,
       "status": "BASELINE"
     }
