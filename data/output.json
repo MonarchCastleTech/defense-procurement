@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-20T05:16:17.938614+00:00",
+    "generated": "2026-09-20T11:44:39.205751+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -223,16 +223,16 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 5.0,
+      "score": 5.2,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-06-19",
-      "reporting_lag_days": 93,
-      "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 161927126.22,
+      "latest_observation": "2026-06-20",
+      "reporting_lag_days": 92,
+      "freshness_factor": 0.23,
+      "current_14d_weekly_equivalent": 158818504.42,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -249,16 +249,16 @@
           "amount": 46977467.43
         },
         {
-          "name": "THE BOEING COMPANY",
-          "amount": 31296866.16
-        },
-        {
           "name": "GENERAL DYNAMICS ORDNANCE & TACTICAL SYSTEMS, INC.",
           "amount": 30294598.4
         },
         {
+          "name": "THE BOEING COMPANY",
+          "amount": 28696866.16
+        },
+        {
           "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 19297197.33
+          "amount": 15406701.33
         },
         {
           "name": "CFM INTERNATIONAL INC",
@@ -271,6 +271,33 @@
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
+        {
+          "date": "2026-06-20",
+          "award_id": "FA862124FB011",
+          "recipient": "NOVA TECHNOLOGIES AN EMPLOYEE-OWNED ENGINEERING COMPANY",
+          "amount": 235230.0,
+          "agency": "Department of the Air Force",
+          "description": "B-52 TRAINING SYSTEMS CLS AND TSSC",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-20",
+          "award_id": "W31P4Q24F0299",
+          "recipient": "RAYTHEON COMPANY",
+          "amount": 0.0,
+          "agency": "Department of the Army",
+          "description": "W31P4Q-24-D-0030, TASK ORDER W31P4Q24F0299 P00015, ENGINEERING CHANGE PROPOSALS.",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-06-20",
+          "award_id": "W15QKN17C0024",
+          "recipient": "L3HARRIS FUZING AND ORDNANCE SYSTEMS, INC.",
+          "amount": 0.0,
+          "agency": "Department of the Army",
+          "description": "TO CHANGE THE BASE CLIN DODAACS TO ENABLE TRANSITION FROM PADDS TO ACWS  AND TO ADD THE TRANSITION LANGUAGE TO THE CONTRACT. ALSO, TO UPDATE THE DEFENSE FINANCE & ACCOUNTING SERVICE (DFAS) PAYMENT OFFICE CODE FROM HQ0338 TO HQ0339.",
+          "naics": "332993"
+        },
         {
           "date": "2026-06-19",
           "award_id": "W519TC25F0272",
@@ -405,33 +432,6 @@
           "agency": "Defense Logistics Agency",
           "description": "BLADE,TURBINE ROTOR",
           "naics": "336412"
-        },
-        {
-          "date": "2026-06-18",
-          "award_id": "FA862116C6390",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 3538166.4,
-          "agency": "Department of the Air Force",
-          "description": "KC-46 MTS",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-18",
-          "award_id": "N0042126F0221",
-          "recipient": "MAGEE TECHNOLOGIES LLC",
-          "amount": 3485863.0,
-          "agency": "Department of the Navy",
-          "description": "SEE SECTION J FOR STATEMENT OF WORK ATTACHMENT.",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-18",
-          "award_id": "HQ085425FE039",
-          "recipient": "MODERN TECHNOLOGY SOLUTIONS, INC.",
-          "amount": 2013047.0,
-          "agency": "Missile Defense Agency",
-          "description": "THE CONTRACTOR SHALL PERFORM REQUIREMENTS DEFINITION, DEVELOPMENT, ANALYSIS, INTEGRATION, ASSESSMENT, AND PLANNING TO DELIVER HIGHLY TECHNICAL THREAT SYSTEM ENGINEERING PRODUCTS AND SERVICES.",
-          "naics": "332993"
         }
       ]
     },
@@ -476,7 +476,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-09-15",
@@ -516,7 +516,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-09-14",
@@ -546,7 +546,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 18
+          "age": 19
         },
         {
           "date": "2026-09-01",
@@ -556,7 +556,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 18
+          "age": 19
         },
         {
           "date": "2026-09-01",
@@ -566,7 +566,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 18
+          "age": 19
         },
         {
           "date": "2026-09-01",
@@ -576,7 +576,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 18
+          "age": 19
         },
         {
           "date": "2026-08-19",
@@ -586,7 +586,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 31
+          "age": 32
         }
       ]
     },
@@ -653,11 +653,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-04T20:57:20.791426+00:00",
-      "score": 19.5,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-05T04:51:25.400519+00:00",
       "score": 19.4,
@@ -950,6 +945,11 @@
     },
     {
       "generated": "2026-09-20T05:16:17.938614+00:00",
+      "score": 18.8,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-20T11:44:39.205751+00:00",
       "score": 18.8,
       "status": "BASELINE"
     }
