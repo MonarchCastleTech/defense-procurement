@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-20T16:25:08.648600+00:00",
+    "generated": "2026-09-20T21:00:12.806661+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -223,7 +223,7 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 5.2,
+      "score": 5.0,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -232,17 +232,13 @@
       "latest_observation": "2026-06-20",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 158321044.34,
+      "current_14d_weekly_equivalent": 134848411.97,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
           "name": "DYNETICS, INC.",
           "amount": 87274500.0
-        },
-        {
-          "name": "RAYTHEON COMPANY",
-          "amount": 50147926.83
         },
         {
           "name": "LOCKHEED MARTIN CORP",
@@ -254,7 +250,7 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 28696866.16
+          "amount": 28680483.41
         },
         {
           "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
@@ -267,6 +263,10 @@
         {
           "name": "LOCKHEED MARTIN CORPORATION",
           "amount": 8965195.0
+        },
+        {
+          "name": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 6779741.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -354,15 +354,6 @@
         },
         {
           "date": "2026-06-18",
-          "award_id": "HQ085126FE036",
-          "recipient": "RAYTHEON COMPANY",
-          "amount": 48000141.0,
-          "agency": "Missile Defense Agency",
-          "description": "SM-3 BLOCK IB TECHNOLOGY REFRESH ON-RAMP",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-06-18",
           "award_id": "FA862526FB004",
           "recipient": "LOCKHEED MARTIN CORP",
           "amount": 46700000.0,
@@ -432,6 +423,15 @@
           "agency": "Defense Logistics Agency",
           "description": "BLADE,TURBINE ROTOR",
           "naics": "336412"
+        },
+        {
+          "date": "2026-06-18",
+          "award_id": "FA862116C6390",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 3538166.4,
+          "agency": "Department of the Air Force",
+          "description": "KC-46 MTS",
+          "naics": "336413"
         }
       ]
     },
@@ -653,11 +653,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-05T10:51:40.192296+00:00",
-      "score": 19.7,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-05T15:28:16.477697+00:00",
       "score": 19.7,
@@ -950,6 +945,11 @@
     },
     {
       "generated": "2026-09-20T16:25:08.648600+00:00",
+      "score": 18.8,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-20T21:00:12.806661+00:00",
       "score": 18.8,
       "status": "BASELINE"
     }
