@@ -1,16 +1,14 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-21T05:19:16.930025+00:00",
-    "mode": "partial",
+    "generated": "2026-09-21T13:12:57.610773+00:00",
+    "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
     "classification": "procurement-acceleration-screening-not-conflict-probability-or-contract-forecast",
     "coverage": "5/5",
-    "confidence": "MEDIUM",
-    "source_notes": [
-      "eu_notices: retained (HTTPError)"
-    ]
+    "confidence": "HIGH",
+    "source_notes": []
   },
   "warning": {
     "score": 19.0,
@@ -27,13 +25,61 @@
       "status": "WATCH",
       "weight": 0.3,
       "available": true,
-      "retained": true,
-      "coverage": 607,
-      "current_14d_weekly_equivalent": 42.5,
+      "retained": false,
+      "coverage": 611,
+      "current_14d_weekly_equivalent": 36.0,
       "baseline_weekly_median": 43.5,
-      "anomaly_z": -0.15,
+      "anomaly_z": -2.53,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "647528-2026",
+          "date": "2026-09-21",
+          "title": "Germany – Radar detectors – RV IRIS Radar System mit Zubehör",
+          "buyer": "Freistaat Bayern, vertreten durch das Logistikzentrum der Bayerischen Polizei (LZBP)",
+          "country": "DEU",
+          "cpv": [
+            "35121900",
+            "35722000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/647528-2026"
+        },
+        {
+          "id": "649713-2026",
+          "date": "2026-09-21",
+          "title": "Germany – Military vehicles and associated parts – 6002970430-BAAINBw E2.5F Achsantrieb, Fahrzeug",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/649713-2026"
+        },
+        {
+          "id": "648636-2026",
+          "date": "2026-09-21",
+          "title": "Germany – Unmanned aerial vehicles – Projekt EULE",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/648636-2026"
+        },
+        {
+          "id": "647124-2026",
+          "date": "2026-09-21",
+          "title": "Norway – IT services: consulting, software development, Internet and support – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+          "buyer": "NDMA",
+          "country": "NOR",
+          "cpv": [
+            "72000000",
+            "32420000",
+            "35700000",
+            "35710000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/647124-2026"
+        },
         {
           "id": "644101-2026",
           "date": "2026-09-18",
@@ -171,58 +217,8 @@
             "35342000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/641896-2026"
-        },
-        {
-          "id": "639965-2026",
-          "date": "2026-09-17",
-          "title": "Ireland – Electrical materials – 2026 54 Single part FWA for the Supply, Delivery, Installation and Commissioning of ​High-Accuracy Geospatial Data Acquisition Equipment for Environmental Management for AMTCE Dundalk",
-          "buyer": "Louth and Meath Education and Training Board 1384",
-          "country": "IRL",
-          "cpv": [
-            "31681410",
-            "31681000",
-            "35613000",
-            "79961200"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/639965-2026"
-        },
-        {
-          "id": "641539-2026",
-          "date": "2026-09-17",
-          "title": "Hungary – Command, control, communication and computer systems – HM Válságreagáló Rendszer (HM VRR)",
-          "buyer": "Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság",
-          "country": "HUN",
-          "cpv": [
-            "35710000",
-            "71300000",
-            "48000000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/641539-2026"
-        },
-        {
-          "id": "641212-2026",
-          "date": "2026-09-17",
-          "title": "Bulgaria – Command, control, communication systems – Обновяване на процесори, комуникационни модули, спомагателни модули и повишаване на софтуерна версия за SIL3 на контролери за защити и блокировки Safety Manager, работещи на блокове 1, 2, 3, 4, 7 и 8.",
-          "buyer": "ТЕЦ МАРИЦА ИЗТОК 2 ЕАД",
-          "country": "BGR",
-          "cpv": [
-            "35711000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/641212-2026"
-        },
-        {
-          "id": "641246-2026",
-          "date": "2026-09-17",
-          "title": "Portugal – Armoured military vehicles – 3026008982 / Fornecimento de Viatura Táticas Ultraligeiras (VTUL)",
-          "buyer": "Ministério da Defesa Nacional - Marinha",
-          "country": "PRT",
-          "cpv": [
-            "35410000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/641246-2026"
         }
-      ],
-      "retained_reason": "HTTPError"
+      ]
     },
     "us_awards": {
       "key": "us_awards",
@@ -232,20 +228,20 @@
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-06-20",
-      "reporting_lag_days": 93,
-      "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 182096870.9,
+      "latest_observation": "2026-06-21",
+      "reporting_lag_days": 92,
+      "freshness_factor": 0.23,
+      "current_14d_weekly_equivalent": 154387069.75,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
-          "name": "RAYTHEON COMPANY",
-          "amount": 96548067.83
-        },
-        {
           "name": "DYNETICS, INC.",
           "amount": 87274500.0
+        },
+        {
+          "name": "RAYTHEON COMPANY",
+          "amount": 50147926.83
         },
         {
           "name": "LOCKHEED MARTIN CORP",
@@ -257,7 +253,7 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 28687319.03
+          "amount": 19634715.87
         },
         {
           "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
@@ -274,6 +270,33 @@
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
+        {
+          "date": "2026-06-21",
+          "award_id": "FA810822F0001",
+          "recipient": "KAY AND ASSOCIATES, INC.",
+          "amount": 0.0,
+          "agency": "Department of the Air Force",
+          "description": "CONTRACT FIELD TEAM SUPPORT SERVICES",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-21",
+          "award_id": "FA810821F0019",
+          "recipient": "KAY AND ASSOCIATES, INC.",
+          "amount": 0.0,
+          "agency": "Department of the Air Force",
+          "description": "CFT SUPPORT SERVICES",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-21",
+          "award_id": "0022",
+          "recipient": "SUPPORT SYSTEMS ASSOCIATES INC",
+          "amount": -6612.0,
+          "agency": "Department of the Army",
+          "description": "INFRARED SEARCH LIGHTS",
+          "naics": "336411"
+        },
         {
           "date": "2026-06-20",
           "award_id": "FA862124FB011",
@@ -366,15 +389,6 @@
         },
         {
           "date": "2026-06-18",
-          "award_id": "HQ085126FE036",
-          "recipient": "RAYTHEON COMPANY",
-          "amount": 48000141.0,
-          "agency": "Missile Defense Agency",
-          "description": "SM-3 BLOCK IB TECHNOLOGY REFRESH ON-RAMP",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-06-18",
           "award_id": "FA862526FB004",
           "recipient": "LOCKHEED MARTIN CORP",
           "amount": 46700000.0,
@@ -411,30 +425,12 @@
         },
         {
           "date": "2026-06-18",
-          "award_id": "SPRPA126F0018",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 9052603.16,
-          "agency": "Defense Logistics Agency",
-          "description": "8512191816!PBL MATERIAL BOEING",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-18",
           "award_id": "FA861523F0001",
           "recipient": "LOCKHEED MARTIN CORPORATION",
           "amount": 8906309.0,
           "agency": "Department of the Air Force",
           "description": "ROYAL JORDANIAN AIR FORCE F-16 BLOCK 70 PRODUCTION PROGRAM",
           "naics": "336411"
-        },
-        {
-          "date": "2026-06-18",
-          "award_id": "W58RGZ25F0263",
-          "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 5047125.0,
-          "agency": "Department of the Army",
-          "description": "CH-47 AIRCRAFT STAGING",
-          "naics": "336413"
         }
       ]
     },
@@ -445,7 +441,7 @@
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 92,
+      "coverage": 91,
       "current_14d_weekly_equivalent": 11.25,
       "baseline_weekly_median": 6.75,
       "anomaly_z": 0.45,
@@ -459,7 +455,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-09-15",
@@ -479,7 +475,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-09-15",
@@ -499,7 +495,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-09-15",
@@ -519,7 +515,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-09-14",
@@ -529,7 +525,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-09-14",
@@ -539,7 +535,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-09-01",
@@ -549,7 +545,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 19
+          "age": 20
         },
         {
           "date": "2026-09-01",
@@ -559,7 +555,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 19
+          "age": 20
         },
         {
           "date": "2026-09-01",
@@ -569,7 +565,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 19
+          "age": 20
         },
         {
           "date": "2026-09-01",
@@ -579,7 +575,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 19
+          "age": 20
         },
         {
           "date": "2026-08-19",
@@ -589,7 +585,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 32
+          "age": 33
         }
       ]
     },
@@ -649,11 +645,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-05T20:38:25.859156+00:00",
-      "score": 19.7,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-06T04:58:59.040497+00:00",
       "score": 19.6,
@@ -946,6 +937,11 @@
     },
     {
       "generated": "2026-09-21T05:19:16.930025+00:00",
+      "score": 19.0,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-21T13:12:57.610773+00:00",
       "score": 19.0,
       "status": "BASELINE"
     }
