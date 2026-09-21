@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-21T13:12:57.610773+00:00",
+    "generated": "2026-09-21T22:08:15.831993+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 19.0,
-    "raw_score": 19.0,
+    "score": 19.1,
+    "raw_score": 19.1,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 19.0/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 19.1/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -222,7 +222,7 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 5.1,
+      "score": 5.2,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -231,7 +231,7 @@
       "latest_observation": "2026-06-21",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 154387069.75,
+      "current_14d_weekly_equivalent": 157841278.89,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -253,7 +253,7 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 19634715.87
+          "amount": 28696866.16
         },
         {
           "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
@@ -272,20 +272,20 @@
       "evidence": [
         {
           "date": "2026-06-21",
-          "award_id": "FA810822F0001",
-          "recipient": "KAY AND ASSOCIATES, INC.",
-          "amount": 0.0,
-          "agency": "Department of the Air Force",
-          "description": "CONTRACT FIELD TEAM SUPPORT SERVICES",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-21",
           "award_id": "FA810821F0019",
           "recipient": "KAY AND ASSOCIATES, INC.",
           "amount": 0.0,
           "agency": "Department of the Air Force",
           "description": "CFT SUPPORT SERVICES",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-21",
+          "award_id": "FA810822F0001",
+          "recipient": "KAY AND ASSOCIATES, INC.",
+          "amount": 0.0,
+          "agency": "Department of the Air Force",
+          "description": "CONTRACT FIELD TEAM SUPPORT SERVICES",
           "naics": "336411"
         },
         {
@@ -425,12 +425,12 @@
         },
         {
           "date": "2026-06-18",
-          "award_id": "FA861523F0001",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 8906309.0,
-          "agency": "Department of the Air Force",
-          "description": "ROYAL JORDANIAN AIR FORCE F-16 BLOCK 70 PRODUCTION PROGRAM",
-          "naics": "336411"
+          "award_id": "SPRPA126F0018",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 9052603.16,
+          "agency": "Defense Logistics Agency",
+          "description": "8512191816!PBL MATERIAL BOEING",
+          "naics": "336413"
         }
       ]
     },
@@ -465,7 +465,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-09-15",
@@ -485,7 +485,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-09-15",
@@ -505,7 +505,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-09-15",
@@ -645,11 +645,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-06T04:58:59.040497+00:00",
-      "score": 19.6,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-06T11:16:14.595748+00:00",
       "score": 19.6,
@@ -943,6 +938,11 @@
     {
       "generated": "2026-09-21T13:12:57.610773+00:00",
       "score": 19.0,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-21T22:08:15.831993+00:00",
+      "score": 19.1,
       "status": "BASELINE"
     }
   ],
