@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-22T17:11:29.535482+00:00",
+    "generated": "2026-09-22T21:35:52.330895+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -56,19 +56,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/651536-2026"
         },
         {
-          "id": "653415-2026",
-          "date": "2026-09-22",
-          "title": "Germany – Security, fire-fighting, police and defence equipment – 4 Mannschaftstransportfahrzeuge mit erweiterter IuK-Ausstattung und Beladung für die Feuerwehr der Stadt Ahaus",
-          "buyer": "Stadt Ahaus",
-          "country": "DEU",
-          "cpv": [
-            "35000000",
-            "34144210",
-            "35412200"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/653415-2026"
-        },
-        {
           "id": "650930-2026",
           "date": "2026-09-22",
           "title": "Spain – Cartridges – Acuerdo marco de suministro de munición de cartuchería 5,56 x 45 mm para el Ministerio de Defensa",
@@ -78,6 +65,17 @@
             "35331500"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/650930-2026"
+        },
+        {
+          "id": "652248-2026",
+          "date": "2026-09-22",
+          "title": "Germany – Military vehicles and associated parts – 6003120152-BAAINBw E2.3V TV153",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/652248-2026"
         },
         {
           "id": "652969-2026",
@@ -91,15 +89,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/652969-2026"
         },
         {
-          "id": "652248-2026",
+          "id": "653415-2026",
           "date": "2026-09-22",
-          "title": "Germany – Military vehicles and associated parts – 6003120152-BAAINBw E2.3V TV153",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "title": "Germany – Security, fire-fighting, police and defence equipment – 4 Mannschaftstransportfahrzeuge mit erweiterter IuK-Ausstattung und Beladung für die Feuerwehr der Stadt Ahaus",
+          "buyer": "Stadt Ahaus",
           "country": "DEU",
           "cpv": [
-            "35400000"
+            "35000000",
+            "34144210",
+            "35412200"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/652248-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/653415-2026"
         },
         {
           "id": "647528-2026",
@@ -125,17 +125,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/649713-2026"
         },
         {
-          "id": "648636-2026",
-          "date": "2026-09-21",
-          "title": "Germany – Unmanned aerial vehicles – Projekt EULE",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35613000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/648636-2026"
-        },
-        {
           "id": "647124-2026",
           "date": "2026-09-21",
           "title": "Norway – IT services: consulting, software development, Internet and support – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
@@ -148,6 +137,17 @@
             "35710000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/647124-2026"
+        },
+        {
+          "id": "648636-2026",
+          "date": "2026-09-21",
+          "title": "Germany – Unmanned aerial vehicles – Projekt EULE",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/648636-2026"
         },
         {
           "id": "644101-2026",
@@ -196,6 +196,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/645351-2026"
         },
         {
+          "id": "643234-2026",
+          "date": "2026-09-18",
+          "title": "Germany – Electronic warfare systems and counter measures – Unterwassersensorsysteme",
+          "buyer": "Bundeswehr-Dienstleistungszentrum Kiel",
+          "country": "DEU",
+          "cpv": [
+            "35730000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/643234-2026"
+        },
+        {
           "id": "645055-2026",
           "date": "2026-09-18",
           "title": "Germany – Intelligence, surveillance, target acquisition and reconnaissance – Miete Hyperspektralsensorik",
@@ -205,17 +216,6 @@
             "35720000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/645055-2026"
-        },
-        {
-          "id": "646318-2026",
-          "date": "2026-09-18",
-          "title": "Poland – Parts of rocket launchers – Dostawa technicznych środków materiałowych do 155 mm sh K9 w 2026 roku",
-          "buyer": "2. Regionalna Baza Logistyczna",
-          "country": "POL",
-          "cpv": [
-            "35342000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/646318-2026"
         }
       ]
     },
@@ -230,7 +230,7 @@
       "latest_observation": "2026-06-22",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 196797701.73,
+      "current_14d_weekly_equivalent": 196708150.14,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -244,23 +244,23 @@
         },
         {
           "name": "PARKER-HANNIFIN CORPORATION",
-          "amount": 34016480.09
+          "amount": 35865414.02
         },
         {
           "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
           "amount": 27758469.91
         },
         {
-          "name": "AMENTUM SERVICES, INC.",
-          "amount": 19365100.98
-        },
-        {
           "name": "MOOG MILITARY AIRCRAFT LLC",
           "amount": 17284178.0
         },
         {
+          "name": "AMENTUM SERVICES, INC.",
+          "amount": 16930832.54
+        },
+        {
           "name": "RAYTHEON COMPANY",
-          "amount": 15883697.55
+          "amount": 15947745.87
         },
         {
           "name": "KRATOS UNMANNED AERIAL SYSTEMS, INC",
@@ -388,21 +388,21 @@
         },
         {
           "date": "2026-06-22",
+          "award_id": "FA810824F0042",
+          "recipient": "AMENTUM SERVICES, INC.",
+          "amount": 5267700.2,
+          "agency": "Department of the Air Force",
+          "description": "CONTRACT FIELD TEAM SUPPORT FOR DEPOT LEVEL AIRCRAFT MAINTENANCE FOR CSWP-NAMCE AT NAS LEMOORE, CA.",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-22",
           "award_id": "FA867826FB008",
           "recipient": "KRATOS UNMANNED AERIAL SYSTEMS, INC",
           "amount": 5117708.51,
           "agency": "Department of the Air Force",
           "description": "SPARES PURCHASE USING SELECTION OF PRE-PRICED ITEMS DERIVED FROM ATTACHMENT 2 (SPARES) FA867821D0001. THESE SPARES ARE PURCHASED UNDER CLIN 4011 CY26 SPARES.",
           "naics": "336413"
-        },
-        {
-          "date": "2026-06-22",
-          "award_id": "FA810825FB008",
-          "recipient": "AMENTUM SERVICES, INC.",
-          "amount": 4024268.52,
-          "agency": "Department of the Air Force",
-          "description": "COMMANDER NAVAL AIR FORCES ATLANTIC (CNAL) FLEET REPLACEMENT SQUADRON (FRS) FLIGHT LINE, TOOL ROOM AND ORGANIZATIONAL AND LIMITED DEPOT LEVEL MAINTENANCE SUPPORT (VFA-106, NAS OCEANA, VA)",
-          "naics": "336411"
         },
         {
           "date": "2026-06-22",
@@ -644,11 +644,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-07T05:06:25.388434+00:00",
-      "score": 18.3,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-07T12:57:09.254207+00:00",
       "score": 18.3,
@@ -941,6 +936,11 @@
     },
     {
       "generated": "2026-09-22T17:11:29.535482+00:00",
+      "score": 22.2,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-22T21:35:52.330895+00:00",
       "score": 22.2,
       "status": "BASELINE"
     }
