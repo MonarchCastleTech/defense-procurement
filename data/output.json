@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-22T05:17:09.144775+00:00",
+    "generated": "2026-09-22T11:59:34.833824+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 22.1,
-    "raw_score": 22.1,
+    "score": 22.2,
+    "raw_score": 22.2,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 22.1/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 22.2/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -45,6 +45,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/652012-2026"
         },
         {
+          "id": "651536-2026",
+          "date": "2026-09-22",
+          "title": "Spain – Cartridges – Acuerdo marco de suministro de munición de cartuchería 9x19 mm para el Ministerio de Defensa",
+          "buyer": "Junta de Contratación del Ministerio de Defensa",
+          "country": "ESP",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/651536-2026"
+        },
+        {
           "id": "650930-2026",
           "date": "2026-09-22",
           "title": "Spain – Cartridges – Acuerdo marco de suministro de munición de cartuchería 5,56 x 45 mm para el Ministerio de Defensa",
@@ -67,15 +78,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/652248-2026"
         },
         {
-          "id": "651536-2026",
+          "id": "652969-2026",
           "date": "2026-09-22",
-          "title": "Spain – Cartridges – Acuerdo marco de suministro de munición de cartuchería 9x19 mm para el Ministerio de Defensa",
-          "buyer": "Junta de Contratación del Ministerio de Defensa",
-          "country": "ESP",
+          "title": "Italy – Mechanical spare parts for military vehicles – FASC. 484 Ammodernamento Supporto logistico veicoli tattici e AAV7. Fornitura di PP.DD.RR. in dotazione alla Brigata Marina San Marco",
+          "buyer": "DIREZIONE DI INTENDENZA MARINA MILITARE DI BRINDISI",
+          "country": "ITA",
           "cpv": [
-            "35331500"
+            "35421000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/651536-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/652969-2026"
         },
         {
           "id": "653415-2026",
@@ -89,17 +100,6 @@
             "35412200"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/653415-2026"
-        },
-        {
-          "id": "652969-2026",
-          "date": "2026-09-22",
-          "title": "Italy – Mechanical spare parts for military vehicles – FASC. 484 Ammodernamento Supporto logistico veicoli tattici e AAV7. Fornitura di PP.DD.RR. in dotazione alla Brigata Marina San Marco",
-          "buyer": "DIREZIONE DI INTENDENZA MARINA MILITARE DI BRINDISI",
-          "country": "ITA",
-          "cpv": [
-            "35421000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/652969-2026"
         },
         {
           "id": "647528-2026",
@@ -125,17 +125,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/649713-2026"
         },
         {
-          "id": "648636-2026",
-          "date": "2026-09-21",
-          "title": "Germany – Unmanned aerial vehicles – Projekt EULE",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35613000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/648636-2026"
-        },
-        {
           "id": "647124-2026",
           "date": "2026-09-21",
           "title": "Norway – IT services: consulting, software development, Internet and support – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
@@ -148,6 +137,17 @@
             "35710000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/647124-2026"
+        },
+        {
+          "id": "648636-2026",
+          "date": "2026-09-21",
+          "title": "Germany – Unmanned aerial vehicles – Projekt EULE",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/648636-2026"
         },
         {
           "id": "644101-2026",
@@ -196,6 +196,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/645351-2026"
         },
         {
+          "id": "643234-2026",
+          "date": "2026-09-18",
+          "title": "Germany – Electronic warfare systems and counter measures – Unterwassersensorsysteme",
+          "buyer": "Bundeswehr-Dienstleistungszentrum Kiel",
+          "country": "DEU",
+          "cpv": [
+            "35730000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/643234-2026"
+        },
+        {
           "id": "645055-2026",
           "date": "2026-09-18",
           "title": "Germany – Intelligence, surveillance, target acquisition and reconnaissance – Miete Hyperspektralsensorik",
@@ -205,231 +216,220 @@
             "35720000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/645055-2026"
-        },
-        {
-          "id": "646318-2026",
-          "date": "2026-09-18",
-          "title": "Poland – Parts of rocket launchers – Dostawa technicznych środków materiałowych do 155 mm sh K9 w 2026 roku",
-          "buyer": "2. Regionalna Baza Logistyczna",
-          "country": "POL",
-          "cpv": [
-            "35342000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/646318-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 4.9,
+      "score": 5.4,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-06-21",
-      "reporting_lag_days": 93,
-      "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 139849948.14,
+      "latest_observation": "2026-06-22",
+      "reporting_lag_days": 92,
+      "freshness_factor": 0.23,
+      "current_14d_weekly_equivalent": 197000620.64,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
-          "name": "DYNETICS, INC.",
-          "amount": 87274500.0
-        },
-        {
-          "name": "LOCKHEED MARTIN CORP",
-          "amount": 46977467.43
-        },
-        {
           "name": "THE BOEING COMPANY",
-          "amount": 37772687.69
+          "amount": 124138027.66
         },
         {
-          "name": "GENERAL DYNAMICS ORDNANCE & TACTICAL SYSTEMS, INC.",
-          "amount": 30294598.4
+          "name": "SIERRA NEVADA COMPANY, LLC",
+          "amount": 66087582.27
+        },
+        {
+          "name": "PARKER-HANNIFIN CORPORATION",
+          "amount": 35865414.02
         },
         {
           "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 15406701.33
+          "amount": 27758469.91
         },
         {
-          "name": "CFM INTERNATIONAL INC",
-          "amount": 13359405.0
+          "name": "MOOG MILITARY AIRCRAFT LLC",
+          "amount": 17284178.0
         },
         {
-          "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 8965195.0
+          "name": "AMENTUM SERVICES, INC.",
+          "amount": 16930832.54
         },
         {
-          "name": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 6779741.0
+          "name": "RAYTHEON COMPANY",
+          "amount": 15947745.87
+        },
+        {
+          "name": "KRATOS UNMANNED AERIAL SYSTEMS, INC",
+          "amount": 13428331.11
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
         {
-          "date": "2026-06-21",
-          "award_id": "FA810822F0001",
-          "recipient": "KAY AND ASSOCIATES, INC.",
-          "amount": 0.0,
-          "agency": "Department of the Air Force",
-          "description": "CONTRACT FIELD TEAM SUPPORT SERVICES",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-21",
-          "award_id": "FA810821F0019",
-          "recipient": "KAY AND ASSOCIATES, INC.",
-          "amount": 0.0,
-          "agency": "Department of the Air Force",
-          "description": "CFT SUPPORT SERVICES",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-21",
-          "award_id": "0022",
-          "recipient": "SUPPORT SYSTEMS ASSOCIATES INC",
-          "amount": -6612.0,
-          "agency": "Department of the Army",
-          "description": "INFRARED SEARCH LIGHTS",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-20",
-          "award_id": "FA862124FB011",
-          "recipient": "NOVA TECHNOLOGIES AN EMPLOYEE-OWNED ENGINEERING COMPANY",
-          "amount": 235230.0,
-          "agency": "Department of the Air Force",
-          "description": "B-52 TRAINING SYSTEMS CLS AND TSSC",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-20",
-          "award_id": "W31P4Q24F0299",
-          "recipient": "RAYTHEON COMPANY",
-          "amount": 0.0,
-          "agency": "Department of the Army",
-          "description": "W31P4Q-24-D-0030, TASK ORDER W31P4Q24F0299 P00015, ENGINEERING CHANGE PROPOSALS.",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-06-20",
-          "award_id": "W15QKN17C0024",
-          "recipient": "L3HARRIS FUZING AND ORDNANCE SYSTEMS, INC.",
-          "amount": 0.0,
-          "agency": "Department of the Army",
-          "description": "TO CHANGE THE BASE CLIN DODAACS TO ENABLE TRANSITION FROM PADDS TO ACWS  AND TO ADD THE TRANSITION LANGUAGE TO THE CONTRACT. ALSO, TO UPDATE THE DEFENSE FINANCE & ACCOUNTING SERVICE (DFAS) PAYMENT OFFICE CODE FROM HQ0338 TO HQ0339.",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-06-19",
-          "award_id": "W519TC25F0272",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 7868223.9,
-          "agency": "Department of the Army",
-          "description": "MEDIUM CALIBER M788 CARTRIDGES",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-06-19",
-          "award_id": "W519TC25F0272",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 7386776.1,
-          "agency": "Department of the Army",
-          "description": "MEDIUM CALIBER M788 CARTRIDGES",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-06-19",
-          "award_id": "W9124225PA040",
-          "recipient": "TYONEK SERVICES OVERHAUL FACILITY-STENNIS, LLC",
-          "amount": 1027599.34,
-          "agency": "Department of the Army",
-          "description": "RAPSC AH64 D/E AIRCRAFT MAINTENANCE OPTION YEAR I. SBA REQUIREMENT NUMBER SN1742418698H.",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-19",
-          "award_id": "N6833526C1038",
-          "recipient": "CONCEPTS NREC, LLC",
-          "amount": 977025.81,
+          "date": "2026-06-22",
+          "award_id": "N0001926F1095",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 121195041.0,
           "agency": "Department of the Navy",
-          "description": "THE CONTRACTOR SHALL PROVIDE NINETEEN (19) 813 TMS READOUT UNITS , THREE (3) TMS READOUT UNIT SPARES AND RELATED TECHNICAL DATA IN ACCORDANCE WITH ATTACHMENT 1, SOW AND EXHIBIT A, CONTRACT DATA REQUIREMENTS LIST (CDRL) ATTACHED IN SECTION J.",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-06-19",
-          "award_id": "FA813426FB034",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 126900.0,
-          "agency": "Department of the Air Force",
-          "description": "GALLEY KIT",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-18",
-          "award_id": "W31P4Q25C0003",
-          "recipient": "DYNETICS, INC.",
-          "amount": 87274500.0,
-          "agency": "Department of the Army",
-          "description": "CHGB TPS ADDITIONAL UNITS",
-          "naics": "336419"
-        },
-        {
-          "date": "2026-06-18",
-          "award_id": "FA862526FB004",
-          "recipient": "LOCKHEED MARTIN CORP",
-          "amount": 46700000.0,
-          "agency": "Department of the Air Force",
-          "description": "MILITARY AIRBORNE COLLISION AVOIDANCE SYSTEM - FORMATION RENDEZVOUS (MILACAS-FR) FORMATION POSITIONING SYSTEM (FPS) PROCUREMENT",
+          "description": "ECP 6 RETROFITS FY26-FY27 A-KITS AND FY26-FY28 INSTALLS AND ANCILLARY COSTS",
           "naics": "336411"
         },
         {
-          "date": "2026-06-18",
-          "award_id": "W519TC25F0271",
+          "date": "2026-06-22",
+          "award_id": "FA850926FB001",
+          "recipient": "SIERRA NEVADA COMPANY, LLC",
+          "amount": 66087582.27,
+          "agency": "Department of the Air Force",
+          "description": "AIRBORNE MISSION NETWORKING KITS AND CONTRACTOR LOGISTICS SUPPORT",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-22",
+          "award_id": "SPRHA126F0100",
+          "recipient": "PARKER-HANNIFIN CORPORATION",
+          "amount": 27713385.34,
+          "agency": "Defense Logistics Agency",
+          "description": "PARKER ACTUATOR PBL",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-22",
+          "award_id": "SPRTA126F0215",
+          "recipient": "MOOG MILITARY AIRCRAFT LLC",
+          "amount": 17284178.0,
+          "agency": "Defense Logistics Agency",
+          "description": "HYDRAULIC DRIVE UNIT",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-22",
+          "award_id": "FA811926F0022",
+          "recipient": "RAYTHEON COMPANY",
+          "amount": 15868697.55,
+          "agency": "Department of the Air Force",
+          "description": "B-2 CDM REPAIR",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-22",
+          "award_id": "W519TC26F0144",
           "recipient": "GENERAL DYNAMICS ORDNANCE & TACTICAL SYSTEMS, INC.",
-          "amount": 28506011.6,
+          "amount": 13154935.43,
           "agency": "Department of the Army",
-          "description": "MCFB M788 TP CARTRIDGE AWARD",
+          "description": "PGU-13 LINKED CARTRIDGE",
           "naics": "332993"
         },
         {
-          "date": "2026-06-18",
-          "award_id": "FA813426FB008",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 13600932.66,
+          "date": "2026-06-22",
+          "award_id": "FA862524F3035",
+          "recipient": "LOCKHEED MARTIN CORP",
+          "amount": 12000000.0,
           "agency": "Department of the Air Force",
-          "description": "OPTION YEAR 10 ENGINES",
+          "description": "THIS MODIFICATION IS TO CONDUCT AN INCREMENTAL FUNDING IN THE AMOUNT OF $12,000,000.00 TO THE FMS RAAF DO PRE UCA DEFINITIZATION",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-22",
+          "award_id": "HQ085426FE016",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 10766641.48,
+          "agency": "Missile Defense Agency",
+          "description": "MISSILE DEFENSE AGENCY (MDA) MODELING AND SIMULATION VISTAS - THREAT AND ADVANCED SIMULATIONS DEVELOPMENT (MSV-TASD) EFFORTS. SEE SECTION J ATTACHMENT 1A MSV-TASD-PWS",
+          "naics": "332993"
+        },
+        {
+          "date": "2026-06-22",
+          "award_id": "N0001922C0004",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 8726614.0,
+          "agency": "Department of the Navy",
+          "description": "INCORPORATING LOT 7-8 GFP CARE AND FEEDING SCOPE.",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-22",
+          "award_id": "FA862023F4703",
+          "recipient": "BAE SYSTEMS INFORMATION AND ELECTRONIC SYSTEMS INTEGRATION INC.",
+          "amount": 8549309.0,
+          "agency": "Department of the Air Force",
+          "description": "AFLCMC/WI",
           "naics": "336413"
         },
         {
-          "date": "2026-06-18",
-          "award_id": "SPRTA126F0260",
-          "recipient": "CFM INTERNATIONAL INC",
-          "amount": 9577080.0,
-          "agency": "Defense Logistics Agency",
-          "description": "CASE,COMPRESSOR,AIR",
-          "naics": "336412"
+          "date": "2026-06-22",
+          "award_id": "W900KK26FA112",
+          "recipient": "KRATOS UNMANNED AERIAL SYSTEMS, INC",
+          "amount": 8310622.6,
+          "agency": "Department of the Army",
+          "description": "TO PROVIDE ACCREDITED, THREAT REPRESENTATIVE UNMANNED AERIAL TARGET SYSTEMS FOR USE IN SENSOR PRESENTATIONS OR LIVE FIRE TRACKING AND ENGAGEMENT FOR WEAPONS SYSTEMS TESTING.",
+          "naics": "336411"
         },
         {
-          "date": "2026-06-18",
-          "award_id": "SPRPA126F0018",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 9052603.16,
-          "agency": "Defense Logistics Agency",
-          "description": "8512191816!PBL MATERIAL BOEING",
+          "date": "2026-06-22",
+          "award_id": "W58RGZ26F0248",
+          "recipient": "PARKER-HANNIFIN CORPORATION",
+          "amount": 6168180.0,
+          "agency": "Department of the Army",
+          "description": "MAINTENANCE AND OVERHAUL (M&O) SERVOCYLINDER, COLLECTIVE. THE SERVOCYLINDER, COLLECTIVE IS IDENTIFIED AS A CRITICAL SAFETY ITEM (CSI).",
           "naics": "336413"
         },
         {
-          "date": "2026-06-18",
-          "award_id": "SPRPA126F0018",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 9052603.16,
-          "agency": "Defense Logistics Agency",
-          "description": "8512191816!PBL MATERIAL BOEING",
+          "date": "2026-06-22",
+          "award_id": "FA869126FB009",
+          "recipient": "GOODRICH CORPORATION",
+          "amount": 5618957.91,
+          "agency": "Department of the Air Force",
+          "description": "POLAND MS-110 ORDER OFF BOA FA8691-25-G-B001. SEE SECTION J, ATTACHMENT 1 STATEMENT OF WORK.",
           "naics": "336413"
+        },
+        {
+          "date": "2026-06-22",
+          "award_id": "FA810824F0042",
+          "recipient": "AMENTUM SERVICES, INC.",
+          "amount": 5267700.2,
+          "agency": "Department of the Air Force",
+          "description": "CONTRACT FIELD TEAM SUPPORT FOR DEPOT LEVEL AIRCRAFT MAINTENANCE FOR CSWP-NAMCE AT NAS LEMOORE, CA.",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-22",
+          "award_id": "FA867826FB008",
+          "recipient": "KRATOS UNMANNED AERIAL SYSTEMS, INC",
+          "amount": 5117708.51,
+          "agency": "Department of the Air Force",
+          "description": "SPARES PURCHASE USING SELECTION OF PRE-PRICED ITEMS DERIVED FROM ATTACHMENT 2 (SPARES) FA867821D0001. THESE SPARES ARE PURCHASED UNDER CLIN 4011 CY26 SPARES.",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-22",
+          "award_id": "FA810825FB008",
+          "recipient": "AMENTUM SERVICES, INC.",
+          "amount": 4024268.52,
+          "agency": "Department of the Air Force",
+          "description": "COMMANDER NAVAL AIR FORCES ATLANTIC (CNAL) FLEET REPLACEMENT SQUADRON (FRS) FLIGHT LINE, TOOL ROOM AND ORGANIZATIONAL AND LIMITED DEPOT LEVEL MAINTENANCE SUPPORT (VFA-106, NAS OCEANA, VA)",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-22",
+          "award_id": "FA810825FB021",
+          "recipient": "AMENTUM SERVICES, INC.",
+          "amount": 3961163.7,
+          "agency": "Department of the Air Force",
+          "description": "HSC-3 FLEET REPLACEMENT SQUADRON (FRS) FLIGHT LINE, CORROSION CONTROL, TOOL ROOM AND O LEVEL MAINTENANCE SUPPORT, SAN DIEGO, CA.",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-22",
+          "award_id": "FA810824F0039",
+          "recipient": "AMENTUM SERVICES, INC.",
+          "amount": 3677700.12,
+          "agency": "Department of the Air Force",
+          "description": "CONTRACT FIELD TEAM SUPPORT FOR COMMANDER NAVAL AIR FORCES PACIFIC FLEET REPLACEMENT SQUADRON \"O\"  LEVEL MAINTENENCE SUPPORT AT VAQ-129 WHIDBEY ISLAND, WA.",
+          "naics": "336411"
         }
       ]
     },
@@ -474,7 +474,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-09-15",
@@ -514,7 +514,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-09-14",
@@ -544,7 +544,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 20
+          "age": 21
         },
         {
           "date": "2026-09-01",
@@ -554,7 +554,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 20
+          "age": 21
         },
         {
           "date": "2026-09-01",
@@ -564,7 +564,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 20
+          "age": 21
         },
         {
           "date": "2026-09-01",
@@ -574,7 +574,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 20
+          "age": 21
         },
         {
           "date": "2026-08-19",
@@ -584,7 +584,7 @@
             "investment"
           ],
           "weight": 2,
-          "age": 33
+          "age": 34
         }
       ]
     },
@@ -644,11 +644,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-06T15:41:36.284802+00:00",
-      "score": 19.6,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-06T20:42:41.656130+00:00",
       "score": 19.7,
@@ -942,6 +937,11 @@
     {
       "generated": "2026-09-22T05:17:09.144775+00:00",
       "score": 22.1,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-22T11:59:34.833824+00:00",
+      "score": 22.2,
       "status": "BASELINE"
     }
   ],
