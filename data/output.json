@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-21T22:08:15.831993+00:00",
+    "generated": "2026-09-22T05:17:09.144775+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 19.1,
-    "raw_score": 19.1,
+    "score": 22.1,
+    "raw_score": 22.1,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 19.1/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 22.1/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -26,12 +26,81 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 611,
-      "current_14d_weekly_equivalent": 36.0,
-      "baseline_weekly_median": 43.5,
-      "anomaly_z": -2.53,
+      "coverage": 603,
+      "current_14d_weekly_equivalent": 37.0,
+      "baseline_weekly_median": 43.0,
+      "anomaly_z": -0.67,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "652012-2026",
+          "date": "2026-09-22",
+          "title": "Ireland – Rifles – Department of Defence - Call for Tender to supply Designated Marksman Rifle/ Sniper Support Rifle and accessories.",
+          "buyer": "Department of Defence",
+          "country": "IRL",
+          "cpv": [
+            "35321200",
+            "38633000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/652012-2026"
+        },
+        {
+          "id": "650930-2026",
+          "date": "2026-09-22",
+          "title": "Spain – Cartridges – Acuerdo marco de suministro de munición de cartuchería 5,56 x 45 mm para el Ministerio de Defensa",
+          "buyer": "Junta de Contratación del Ministerio de Defensa",
+          "country": "ESP",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/650930-2026"
+        },
+        {
+          "id": "652248-2026",
+          "date": "2026-09-22",
+          "title": "Germany – Military vehicles and associated parts – 6003120152-BAAINBw E2.3V TV153",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/652248-2026"
+        },
+        {
+          "id": "651536-2026",
+          "date": "2026-09-22",
+          "title": "Spain – Cartridges – Acuerdo marco de suministro de munición de cartuchería 9x19 mm para el Ministerio de Defensa",
+          "buyer": "Junta de Contratación del Ministerio de Defensa",
+          "country": "ESP",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/651536-2026"
+        },
+        {
+          "id": "653415-2026",
+          "date": "2026-09-22",
+          "title": "Germany – Security, fire-fighting, police and defence equipment – 4 Mannschaftstransportfahrzeuge mit erweiterter IuK-Ausstattung und Beladung für die Feuerwehr der Stadt Ahaus",
+          "buyer": "Stadt Ahaus",
+          "country": "DEU",
+          "cpv": [
+            "35000000",
+            "34144210",
+            "35412200"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/653415-2026"
+        },
+        {
+          "id": "652969-2026",
+          "date": "2026-09-22",
+          "title": "Italy – Mechanical spare parts for military vehicles – FASC. 484 Ammodernamento Supporto logistico veicoli tattici e AAV7. Fornitura di PP.DD.RR. in dotazione alla Brigata Marina San Marco",
+          "buyer": "DIREZIONE DI INTENDENZA MARINA MILITARE DI BRINDISI",
+          "country": "ITA",
+          "cpv": [
+            "35421000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/652969-2026"
+        },
         {
           "id": "647528-2026",
           "date": "2026-09-21",
@@ -147,91 +216,21 @@
             "35342000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/646318-2026"
-        },
-        {
-          "id": "643234-2026",
-          "date": "2026-09-18",
-          "title": "Germany – Electronic warfare systems and counter measures – Unterwassersensorsysteme",
-          "buyer": "Bundeswehr-Dienstleistungszentrum Kiel",
-          "country": "DEU",
-          "cpv": [
-            "35730000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/643234-2026"
-        },
-        {
-          "id": "644252-2026",
-          "date": "2026-09-18",
-          "title": "Slovenia – Ammunition – Topovske salve",
-          "buyer": "MINISTRSTVO ZA OBRAMBO",
-          "country": "SVN",
-          "cpv": [
-            "35330000",
-            "35300000",
-            "35331200",
-            "35331000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/644252-2026"
-        },
-        {
-          "id": "644604-2026",
-          "date": "2026-09-18",
-          "title": "Poland – Mechanical spare parts for military vehicles – Zakup części zamiennych do pojazdów MRAP",
-          "buyer": "4 Regionalna Baza Logistyczna",
-          "country": "POL",
-          "cpv": [
-            "35421000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/644604-2026"
-        },
-        {
-          "id": "645534-2026",
-          "date": "2026-09-18",
-          "title": "Spain – Ammunition for firearms and warfare – Suministro de disparos 76/62 mm de ejercicio (E)",
-          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
-          "country": "ESP",
-          "cpv": [
-            "35331000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/645534-2026"
-        },
-        {
-          "id": "639742-2026",
-          "date": "2026-09-17",
-          "title": "Netherlands – Ammunition – Cartridges 5.56mm Blanks",
-          "buyer": "Ministerie van Defensie",
-          "country": "NLD",
-          "cpv": [
-            "35330000",
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/639742-2026"
-        },
-        {
-          "id": "641896-2026",
-          "date": "2026-09-17",
-          "title": "Poland – Parts of rocket launchers – Zakup technicznych środków materiałowych do HOMAR-K w 2026 r.",
-          "buyer": "2. Regionalna Baza Logistyczna",
-          "country": "POL",
-          "cpv": [
-            "35342000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/641896-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 5.2,
+      "score": 4.9,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-06-21",
-      "reporting_lag_days": 92,
-      "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 157841278.89,
+      "reporting_lag_days": 93,
+      "freshness_factor": 0.22,
+      "current_14d_weekly_equivalent": 139849948.14,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -240,20 +239,16 @@
           "amount": 87274500.0
         },
         {
-          "name": "RAYTHEON COMPANY",
-          "amount": 50147926.83
-        },
-        {
           "name": "LOCKHEED MARTIN CORP",
           "amount": 46977467.43
         },
         {
-          "name": "GENERAL DYNAMICS ORDNANCE & TACTICAL SYSTEMS, INC.",
-          "amount": 30294598.4
+          "name": "THE BOEING COMPANY",
+          "amount": 37772687.69
         },
         {
-          "name": "THE BOEING COMPANY",
-          "amount": 28696866.16
+          "name": "GENERAL DYNAMICS ORDNANCE & TACTICAL SYSTEMS, INC.",
+          "amount": 30294598.4
         },
         {
           "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
@@ -266,19 +261,14 @@
         {
           "name": "LOCKHEED MARTIN CORPORATION",
           "amount": 8965195.0
+        },
+        {
+          "name": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 6779741.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
-        {
-          "date": "2026-06-21",
-          "award_id": "FA810821F0019",
-          "recipient": "KAY AND ASSOCIATES, INC.",
-          "amount": 0.0,
-          "agency": "Department of the Air Force",
-          "description": "CFT SUPPORT SERVICES",
-          "naics": "336411"
-        },
         {
           "date": "2026-06-21",
           "award_id": "FA810822F0001",
@@ -286,6 +276,15 @@
           "amount": 0.0,
           "agency": "Department of the Air Force",
           "description": "CONTRACT FIELD TEAM SUPPORT SERVICES",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-21",
+          "award_id": "FA810821F0019",
+          "recipient": "KAY AND ASSOCIATES, INC.",
+          "amount": 0.0,
+          "agency": "Department of the Air Force",
+          "description": "CFT SUPPORT SERVICES",
           "naics": "336411"
         },
         {
@@ -380,15 +379,6 @@
         },
         {
           "date": "2026-06-18",
-          "award_id": "HQ085126FE036",
-          "recipient": "RAYTHEON COMPANY",
-          "amount": 48000141.0,
-          "agency": "Missile Defense Agency",
-          "description": "SM-3 BLOCK IB TECHNOLOGY REFRESH ON-RAMP",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-06-18",
           "award_id": "FA862526FB004",
           "recipient": "LOCKHEED MARTIN CORP",
           "amount": 46700000.0,
@@ -431,20 +421,29 @@
           "agency": "Defense Logistics Agency",
           "description": "8512191816!PBL MATERIAL BOEING",
           "naics": "336413"
+        },
+        {
+          "date": "2026-06-18",
+          "award_id": "SPRPA126F0018",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 9052603.16,
+          "agency": "Defense Logistics Agency",
+          "description": "8512191816!PBL MATERIAL BOEING",
+          "naics": "336413"
         }
       ]
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 33.9,
-      "status": "WATCH",
+      "score": 49.4,
+      "status": "ELEVATED",
       "weight": 0.2,
       "available": true,
       "retained": false,
       "coverage": 91,
       "current_14d_weekly_equivalent": 11.25,
-      "baseline_weekly_median": 6.75,
-      "anomaly_z": 0.45,
+      "baseline_weekly_median": 2.5,
+      "anomaly_z": 2.36,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -645,11 +644,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-06T11:16:14.595748+00:00",
-      "score": 19.6,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-06T15:41:36.284802+00:00",
       "score": 19.6,
@@ -943,6 +937,11 @@
     {
       "generated": "2026-09-21T22:08:15.831993+00:00",
       "score": 19.1,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-22T05:17:09.144775+00:00",
+      "score": 22.1,
       "status": "BASELINE"
     }
   ],
