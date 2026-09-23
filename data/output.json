@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-23T12:00:55.608777+00:00",
+    "generated": "2026-09-23T17:24:12.291990+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -152,6 +152,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/653415-2026"
         },
         {
+          "id": "649713-2026",
+          "date": "2026-09-21",
+          "title": "Germany – Military vehicles and associated parts – 6002970430-BAAINBw E2.5F Achsantrieb, Fahrzeug",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/649713-2026"
+        },
+        {
           "id": "647528-2026",
           "date": "2026-09-21",
           "title": "Germany – Radar detectors – RV IRIS Radar System mit Zubehör",
@@ -162,17 +173,6 @@
             "35722000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/647528-2026"
-        },
-        {
-          "id": "649713-2026",
-          "date": "2026-09-21",
-          "title": "Germany – Military vehicles and associated parts – 6002970430-BAAINBw E2.5F Achsantrieb, Fahrzeug",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
-          "country": "DEU",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/649713-2026"
         },
         {
           "id": "647124-2026",
@@ -226,7 +226,7 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 5.1,
+      "score": 5.2,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -235,7 +235,7 @@
       "latest_observation": "2026-06-23",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 144337997.86,
+      "current_14d_weekly_equivalent": 155706342.31,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -249,7 +249,7 @@
         },
         {
           "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 24494789.64
+          "amount": 47894613.64
         },
         {
           "name": "L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P.",
@@ -257,7 +257,7 @@
         },
         {
           "name": "BELL BOEING JOINT PROJECT OFFICE",
-          "amount": 17265100.68
+          "amount": 16269405.73
         },
         {
           "name": "CFM INTERNATIONAL INC",
@@ -299,6 +299,15 @@
           "amount": 23627034.0,
           "agency": "Department of the Air Force",
           "description": "AFLCMC/WI",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-23",
+          "award_id": "N0001926F1093",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 23399824.0,
+          "agency": "Department of the Navy",
+          "description": "MB2 AND B7 RETROFIT MATERIAL KITS AND INSTALLATIONS.",
           "naics": "336413"
         },
         {
@@ -393,15 +402,6 @@
         },
         {
           "date": "2026-06-23",
-          "award_id": "N6134022F7005",
-          "recipient": "BELL BOEING JOINT PROJECT OFFICE",
-          "amount": 1006516.0,
-          "agency": "Department of the Navy",
-          "description": "HALF WING PART TASK TRAINER",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-23",
           "award_id": "FA861519C6050",
           "recipient": "LOCKHEED MARTIN CORPORATION",
           "amount": 1000000.0,
@@ -459,7 +459,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-09-15",
@@ -469,7 +469,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-09-15",
@@ -489,7 +489,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-09-15",
@@ -509,7 +509,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-09-15",
@@ -529,7 +529,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 8
+          "age": 9
         },
         {
           "date": "2026-09-14",
@@ -539,7 +539,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 8
+          "age": 9
         },
         {
           "date": "2026-09-01",
@@ -580,16 +580,6 @@
           ],
           "weight": 2.5,
           "age": 22
-        },
-        {
-          "date": "2026-08-19",
-          "title": "Nato Tests Emerging Capabilities On Eastern Flank",
-          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2026/06/24/nato-tests-emerging-capabilities-on-eastern-flank",
-          "terms": [
-            "capabilities"
-          ],
-          "weight": 2,
-          "age": 34
         }
       ]
     },
@@ -649,11 +639,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-08T05:04:17.212306+00:00",
-      "score": 17.7,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-08T11:39:01.264851+00:00",
       "score": 17.4,
@@ -946,6 +931,11 @@
     },
     {
       "generated": "2026-09-23T12:00:55.608777+00:00",
+      "score": 20.5,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-23T17:24:12.291990+00:00",
       "score": 20.5,
       "status": "BASELINE"
     }
