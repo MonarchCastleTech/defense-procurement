@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-22T21:35:52.330895+00:00",
+    "generated": "2026-09-23T05:02:45.542206+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 22.2,
-    "raw_score": 22.2,
+    "score": 20.5,
+    "raw_score": 20.5,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 22.2/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 20.5/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -26,12 +26,62 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 603,
-      "current_14d_weekly_equivalent": 37.0,
-      "baseline_weekly_median": 43.0,
-      "anomaly_z": -0.67,
+      "coverage": 601,
+      "current_14d_weekly_equivalent": 36.0,
+      "baseline_weekly_median": 44.5,
+      "anomaly_z": -0.96,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "654117-2026",
+          "date": "2026-09-23",
+          "title": "Portugal – Cartridges – DMSA 5026003914 - AQUISIÇÃO DE CARTUCHOS PARA EXTINTORES DE MOTOR PARA A FROTA P-3C",
+          "buyer": "Estado Maior da Força Aérea",
+          "country": "PRT",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/654117-2026"
+        },
+        {
+          "id": "653973-2026",
+          "date": "2026-09-23",
+          "title": "Slovenia – Weapons, ammunition and associated parts – Naboji 7,62 x 39 mm",
+          "buyer": "MINISTRSTVO ZA OBRAMBO",
+          "country": "SVN",
+          "cpv": [
+            "35300000",
+            "35330000",
+            "35331000",
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/653973-2026"
+        },
+        {
+          "id": "655604-2026",
+          "date": "2026-09-23",
+          "title": "Spain – Swords, cutlasses, bayonets and lances – Suministro de sables para dotar a la Academia de Oficiales de la Guardia Civil y Academia de Suboficiales de la Guardia Civil, así como a las distintas Zonas del Cuerpo y a las Comandancias de Ceuta y Melilla.",
+          "buyer": "Jefatura de Asuntos Económicos de la Guardia Civil",
+          "country": "ESP",
+          "cpv": [
+            "35311000",
+            "35311200"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/655604-2026"
+        },
+        {
+          "id": "657032-2026",
+          "date": "2026-09-23",
+          "title": "Germany – Satellite-related communications equipment – Informationseinholung im Rahmen einer Markterkundung für die Beschaffung eines „verlegefähigen Bodensegments zum Betrieb militärischer Satelliten“.",
+          "buyer": "Deutsche Raumfahrtagentur im Deutschen Zentrum für Luft- und Raumfahrt e.V.",
+          "country": "DEU",
+          "cpv": [
+            "32530000",
+            "35712000",
+            "35720000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/657032-2026"
+        },
         {
           "id": "652012-2026",
           "date": "2026-09-22",
@@ -56,6 +106,19 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/651536-2026"
         },
         {
+          "id": "653415-2026",
+          "date": "2026-09-22",
+          "title": "Germany – Security, fire-fighting, police and defence equipment – 4 Mannschaftstransportfahrzeuge mit erweiterter IuK-Ausstattung und Beladung für die Feuerwehr der Stadt Ahaus",
+          "buyer": "Stadt Ahaus",
+          "country": "DEU",
+          "cpv": [
+            "35000000",
+            "34144210",
+            "35412200"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/653415-2026"
+        },
+        {
           "id": "650930-2026",
           "date": "2026-09-22",
           "title": "Spain – Cartridges – Acuerdo marco de suministro de munición de cartuchería 5,56 x 45 mm para el Ministerio de Defensa",
@@ -65,17 +128,6 @@
             "35331500"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/650930-2026"
-        },
-        {
-          "id": "652248-2026",
-          "date": "2026-09-22",
-          "title": "Germany – Military vehicles and associated parts – 6003120152-BAAINBw E2.3V TV153",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/652248-2026"
         },
         {
           "id": "652969-2026",
@@ -89,17 +141,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/652969-2026"
         },
         {
-          "id": "653415-2026",
+          "id": "652248-2026",
           "date": "2026-09-22",
-          "title": "Germany – Security, fire-fighting, police and defence equipment – 4 Mannschaftstransportfahrzeuge mit erweiterter IuK-Ausstattung und Beladung für die Feuerwehr der Stadt Ahaus",
-          "buyer": "Stadt Ahaus",
+          "title": "Germany – Military vehicles and associated parts – 6003120152-BAAINBw E2.3V TV153",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
           "country": "DEU",
           "cpv": [
-            "35000000",
-            "34144210",
-            "35412200"
+            "35400000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/653415-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/652248-2026"
         },
         {
           "id": "647528-2026",
@@ -125,6 +175,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/649713-2026"
         },
         {
+          "id": "648636-2026",
+          "date": "2026-09-21",
+          "title": "Germany – Unmanned aerial vehicles – Projekt EULE",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/648636-2026"
+        },
+        {
           "id": "647124-2026",
           "date": "2026-09-21",
           "title": "Norway – IT services: consulting, software development, Internet and support – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
@@ -137,17 +198,6 @@
             "35710000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/647124-2026"
-        },
-        {
-          "id": "648636-2026",
-          "date": "2026-09-21",
-          "title": "Germany – Unmanned aerial vehicles – Projekt EULE",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35613000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/648636-2026"
         },
         {
           "id": "644101-2026",
@@ -171,66 +221,21 @@
             "35331000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/646341-2026"
-        },
-        {
-          "id": "645130-2026",
-          "date": "2026-09-18",
-          "title": "Germany – Cartridges – Herstellung und Lieferung von Patrone 7,62 mm x 51, 1 DM111A2 Weichkern - 1 DM21A3 Weichkern-Leuchtspur, 200er Gurt AM22",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35331500",
-            "35330000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/645130-2026"
-        },
-        {
-          "id": "645351-2026",
-          "date": "2026-09-18",
-          "title": "Italy – Mechanical spare parts for military vehicles – FASC. 484 Ammodernamento Supporto logistico veicoli tattici e AAV7. Fornitura di PP.DD.RR. in dotazione alla Brigata Marina San Marco",
-          "buyer": "DIREZIONE DI INTENDENZA MARINA MILITARE DI BRINDISI",
-          "country": "ITA",
-          "cpv": [
-            "35421000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/645351-2026"
-        },
-        {
-          "id": "643234-2026",
-          "date": "2026-09-18",
-          "title": "Germany – Electronic warfare systems and counter measures – Unterwassersensorsysteme",
-          "buyer": "Bundeswehr-Dienstleistungszentrum Kiel",
-          "country": "DEU",
-          "cpv": [
-            "35730000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/643234-2026"
-        },
-        {
-          "id": "645055-2026",
-          "date": "2026-09-18",
-          "title": "Germany – Intelligence, surveillance, target acquisition and reconnaissance – Miete Hyperspektralsensorik",
-          "buyer": "Planungsamt der Bundeswehr Referat I 1 (4)",
-          "country": "DEU",
-          "cpv": [
-            "35720000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/645055-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 5.4,
+      "score": 5.2,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-06-22",
-      "reporting_lag_days": 92,
-      "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 196708150.14,
+      "reporting_lag_days": 93,
+      "freshness_factor": 0.22,
+      "current_14d_weekly_equivalent": 196084244.58,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -255,12 +260,12 @@
           "amount": 17284178.0
         },
         {
-          "name": "AMENTUM SERVICES, INC.",
-          "amount": 16930832.54
+          "name": "RAYTHEON COMPANY",
+          "amount": 16011794.19
         },
         {
-          "name": "RAYTHEON COMPANY",
-          "amount": 15947745.87
+          "name": "AMENTUM SERVICES, INC.",
+          "amount": 14496564.1
         },
         {
           "name": "KRATOS UNMANNED AERIAL SYSTEMS, INC",
@@ -397,21 +402,21 @@
         },
         {
           "date": "2026-06-22",
+          "award_id": "FA810824F0042",
+          "recipient": "AMENTUM SERVICES, INC.",
+          "amount": 5267700.2,
+          "agency": "Department of the Air Force",
+          "description": "CONTRACT FIELD TEAM SUPPORT FOR DEPOT LEVEL AIRCRAFT MAINTENANCE FOR CSWP-NAMCE AT NAS LEMOORE, CA.",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-22",
           "award_id": "FA867826FB008",
           "recipient": "KRATOS UNMANNED AERIAL SYSTEMS, INC",
           "amount": 5117708.51,
           "agency": "Department of the Air Force",
           "description": "SPARES PURCHASE USING SELECTION OF PRE-PRICED ITEMS DERIVED FROM ATTACHMENT 2 (SPARES) FA867821D0001. THESE SPARES ARE PURCHASED UNDER CLIN 4011 CY26 SPARES.",
           "naics": "336413"
-        },
-        {
-          "date": "2026-06-22",
-          "award_id": "FA810825FB008",
-          "recipient": "AMENTUM SERVICES, INC.",
-          "amount": 4024268.52,
-          "agency": "Department of the Air Force",
-          "description": "COMMANDER NAVAL AIR FORCES ATLANTIC (CNAL) FLEET REPLACEMENT SQUADRON (FRS) FLIGHT LINE, TOOL ROOM AND ORGANIZATIONAL AND LIMITED DEPOT LEVEL MAINTENANCE SUPPORT (VFA-106, NAS OCEANA, VA)",
-          "naics": "336411"
         },
         {
           "date": "2026-06-22",
@@ -424,26 +429,26 @@
         },
         {
           "date": "2026-06-22",
-          "award_id": "FA810824F0039",
-          "recipient": "AMENTUM SERVICES, INC.",
-          "amount": 3677700.12,
+          "award_id": "FA868925FB009",
+          "recipient": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.",
+          "amount": 2210688.0,
           "agency": "Department of the Air Force",
-          "description": "CONTRACT FIELD TEAM SUPPORT FOR COMMANDER NAVAL AIR FORCES PACIFIC FLEET REPLACEMENT SQUADRON \"O\"  LEVEL MAINTENENCE SUPPORT AT VAQ-129 WHIDBEY ISLAND, WA.",
+          "description": "PLEO RETROFIT PH IV FOLLOW-ON",
           "naics": "336411"
         }
       ]
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 49.4,
-      "status": "ELEVATED",
+      "score": 41.2,
+      "status": "WATCH",
       "weight": 0.2,
       "available": true,
       "retained": false,
       "coverage": 89,
       "current_14d_weekly_equivalent": 11.25,
-      "baseline_weekly_median": 2.5,
-      "anomaly_z": 2.36,
+      "baseline_weekly_median": 3.75,
+      "anomaly_z": 1.35,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -644,11 +649,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-07T12:57:09.254207+00:00",
-      "score": 18.3,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-07T21:43:42.258224+00:00",
       "score": 18.3,
@@ -942,6 +942,11 @@
     {
       "generated": "2026-09-22T21:35:52.330895+00:00",
       "score": 22.2,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-23T05:02:45.542206+00:00",
+      "score": 20.5,
       "status": "BASELINE"
     }
   ],
