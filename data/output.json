@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-23T21:41:45.757850+00:00",
+    "generated": "2026-09-24T05:13:44.747283+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,12 +26,168 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 601,
-      "current_14d_weekly_equivalent": 36.0,
-      "baseline_weekly_median": 44.5,
-      "anomaly_z": -0.96,
+      "coverage": 602,
+      "current_14d_weekly_equivalent": 38.5,
+      "baseline_weekly_median": 44.0,
+      "anomaly_z": -1.24,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "659990-2026",
+          "date": "2026-09-24",
+          "title": "Greece – Industrial machinery – Δράσεις και Παρεμβάσεις Ενεργειακής αναβάθμισης Πολιτιστικού & Πνευματικού Κέντρου Κορίνθου του Δήμου Κορινθίων",
+          "buyer": "ΔΗΜΟΣ ΚΟΡΙΝΘΙΩΝ",
+          "country": "GRC",
+          "cpv": [
+            "42000000",
+            "42511110",
+            "44115200",
+            "44115210"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/659990-2026"
+        },
+        {
+          "id": "658554-2026",
+          "date": "2026-09-24",
+          "title": "Germany – Light firearms – Laserlichtausstattung Handwaffen",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35321000",
+            "38636100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/658554-2026"
+        },
+        {
+          "id": "659970-2026",
+          "date": "2026-09-24",
+          "title": "Lithuania – Parts of firearms and ammunition – Kolimatorinis taikiklis su priartintoju automatiniam ginklui (PPR-583)",
+          "buyer": "Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos",
+          "country": "LTU",
+          "cpv": [
+            "35340000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/659970-2026"
+        },
+        {
+          "id": "658634-2026",
+          "date": "2026-09-24",
+          "title": "Switzerland – Foundry moulds – IWB, Wasserleitungsrohre (Guss) und Formstücke",
+          "buyer": "IWB Industrielle Werke Basel",
+          "country": "CHE",
+          "cpv": [
+            "43415000",
+            "35341100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/658634-2026"
+        },
+        {
+          "id": "657152-2026",
+          "date": "2026-09-24",
+          "title": "Poland – Weapons, ammunition and associated parts – Dostawa technicznych środków materiałowych, zestawów konwersyjnych do nabojów UTM do broni strzeleckiej",
+          "buyer": "1 REGIONALNA BAZA LOGISTYCZNA",
+          "country": "POL",
+          "cpv": [
+            "35300000",
+            "35341000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/657152-2026"
+        },
+        {
+          "id": "658475-2026",
+          "date": "2026-09-24",
+          "title": "Germany – Satellite earth stations – Informationseinholung im Rahmen einer Markterkundung für die Beschaffung von bodenbasierten Counter-Space Systemen gegen Kommunikationssatelliten",
+          "buyer": "Deutsche Raumfahrtagentur im Deutschen Zentrum für Luft- und Raumfahrt e.V.",
+          "country": "DEU",
+          "cpv": [
+            "32533000",
+            "35730000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/658475-2026"
+        },
+        {
+          "id": "658418-2026",
+          "date": "2026-09-24",
+          "title": "Belgium – Intelligence, surveillance, target acquisition and reconnaissance – Concerning the punctual purchase and delivery of \"Mobile robotic platform with two motorized mechanical arms” for the benefit of the Department of Mechanics of the Royal Military Academy.",
+          "buyer": "Ministère de la Défense",
+          "country": "BEL",
+          "cpv": [
+            "35720000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/658418-2026"
+        },
+        {
+          "id": "658068-2026",
+          "date": "2026-09-24",
+          "title": "Germany – Cartridges – Patronen 5,56mm x 45 Weichkern, DM41A1",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35331500",
+            "35330000",
+            "35331000",
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/658068-2026"
+        },
+        {
+          "id": "658617-2026",
+          "date": "2026-09-24",
+          "title": "Germany – Weapons, ammunition and associated parts – Patronen 5,56mm x 45 Hartkern, DM31A1",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35300000",
+            "35330000",
+            "35331000",
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/658617-2026"
+        },
+        {
+          "id": "659995-2026",
+          "date": "2026-09-24",
+          "title": "Bulgaria – Firearms – \"Доставка на 40 mm автоматичен гранатомет – рамково споразумение\"",
+          "buyer": "Министерство на отбраната",
+          "country": "BGR",
+          "cpv": [
+            "35320000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/659995-2026"
+        },
+        {
+          "id": "658965-2026",
+          "date": "2026-09-24",
+          "title": "Poland – Military vehicles and associated parts – D/99/2026 Dostawa części zamiennych do spycharko - ładowarek (SŁ)",
+          "buyer": "2. Regionalna Baza Logistyczna",
+          "country": "POL",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/658965-2026"
+        },
+        {
+          "id": "658680-2026",
+          "date": "2026-09-24",
+          "title": "France – Weapons, ammunition and associated parts – ACQUISITION DE PISTOLETS A IMPULSION ELECTRIQUE POUR LA POLICE MUNICIPALE DE LA VILLE DE BEZIERS",
+          "buyer": "Mairie de BEZIERS",
+          "country": "FRA",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/658680-2026"
+        },
+        {
+          "id": "660203-2026",
+          "date": "2026-09-24",
+          "title": "Germany – Mechanical spare parts for military vehicles – Herstellung und Lieferung von containerbasierenden Werkstattausstattung (WSA) für die mobile (mob) Instandhaltung (IH) in der Instandhaltungsstufe 2/3 (IHS 2/3) - mobIH 2/3",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35421000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/660203-2026"
+        },
         {
           "id": "654117-2026",
           "date": "2026-09-23",
@@ -68,174 +224,21 @@
             "35311200"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/655604-2026"
-        },
-        {
-          "id": "657032-2026",
-          "date": "2026-09-23",
-          "title": "Germany – Satellite-related communications equipment – Informationseinholung im Rahmen einer Markterkundung für die Beschaffung eines „verlegefähigen Bodensegments zum Betrieb militärischer Satelliten“.",
-          "buyer": "Deutsche Raumfahrtagentur im Deutschen Zentrum für Luft- und Raumfahrt e.V.",
-          "country": "DEU",
-          "cpv": [
-            "32530000",
-            "35712000",
-            "35720000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/657032-2026"
-        },
-        {
-          "id": "652012-2026",
-          "date": "2026-09-22",
-          "title": "Ireland – Rifles – Department of Defence - Call for Tender to supply Designated Marksman Rifle/ Sniper Support Rifle and accessories.",
-          "buyer": "Department of Defence",
-          "country": "IRL",
-          "cpv": [
-            "35321200",
-            "38633000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/652012-2026"
-        },
-        {
-          "id": "651536-2026",
-          "date": "2026-09-22",
-          "title": "Spain – Cartridges – Acuerdo marco de suministro de munición de cartuchería 9x19 mm para el Ministerio de Defensa",
-          "buyer": "Junta de Contratación del Ministerio de Defensa",
-          "country": "ESP",
-          "cpv": [
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/651536-2026"
-        },
-        {
-          "id": "653415-2026",
-          "date": "2026-09-22",
-          "title": "Germany – Security, fire-fighting, police and defence equipment – 4 Mannschaftstransportfahrzeuge mit erweiterter IuK-Ausstattung und Beladung für die Feuerwehr der Stadt Ahaus",
-          "buyer": "Stadt Ahaus",
-          "country": "DEU",
-          "cpv": [
-            "35000000",
-            "34144210",
-            "35412200"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/653415-2026"
-        },
-        {
-          "id": "650930-2026",
-          "date": "2026-09-22",
-          "title": "Spain – Cartridges – Acuerdo marco de suministro de munición de cartuchería 5,56 x 45 mm para el Ministerio de Defensa",
-          "buyer": "Junta de Contratación del Ministerio de Defensa",
-          "country": "ESP",
-          "cpv": [
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/650930-2026"
-        },
-        {
-          "id": "652969-2026",
-          "date": "2026-09-22",
-          "title": "Italy – Mechanical spare parts for military vehicles – FASC. 484 Ammodernamento Supporto logistico veicoli tattici e AAV7. Fornitura di PP.DD.RR. in dotazione alla Brigata Marina San Marco",
-          "buyer": "DIREZIONE DI INTENDENZA MARINA MILITARE DI BRINDISI",
-          "country": "ITA",
-          "cpv": [
-            "35421000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/652969-2026"
-        },
-        {
-          "id": "652248-2026",
-          "date": "2026-09-22",
-          "title": "Germany – Military vehicles and associated parts – 6003120152-BAAINBw E2.3V TV153",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/652248-2026"
-        },
-        {
-          "id": "647528-2026",
-          "date": "2026-09-21",
-          "title": "Germany – Radar detectors – RV IRIS Radar System mit Zubehör",
-          "buyer": "Freistaat Bayern, vertreten durch das Logistikzentrum der Bayerischen Polizei (LZBP)",
-          "country": "DEU",
-          "cpv": [
-            "35121900",
-            "35722000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/647528-2026"
-        },
-        {
-          "id": "649713-2026",
-          "date": "2026-09-21",
-          "title": "Germany – Military vehicles and associated parts – 6002970430-BAAINBw E2.5F Achsantrieb, Fahrzeug",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
-          "country": "DEU",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/649713-2026"
-        },
-        {
-          "id": "648636-2026",
-          "date": "2026-09-21",
-          "title": "Germany – Unmanned aerial vehicles – Projekt EULE",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35613000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/648636-2026"
-        },
-        {
-          "id": "647124-2026",
-          "date": "2026-09-21",
-          "title": "Norway – IT services: consulting, software development, Internet and support – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
-          "buyer": "NDMA",
-          "country": "NOR",
-          "cpv": [
-            "72000000",
-            "32420000",
-            "35700000",
-            "35710000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/647124-2026"
-        },
-        {
-          "id": "644101-2026",
-          "date": "2026-09-18",
-          "title": "Germany – Ammunition – Herstellung und Lieferung von Patrone 7,62 mm x 51, 1 DM151 Hartkern - 1 DM21A3, Weichkern, Leuchtspur - 1 DM111A2, Weichkern, gegurtet 120er Gurt AM41",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35330000",
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/644101-2026"
-        },
-        {
-          "id": "646341-2026",
-          "date": "2026-09-18",
-          "title": "Czechia – Ammunition for firearms and warfare – Rámcová dohoda - náboje 4,6x30 mm v provedení pro ozbrojené složky",
-          "buyer": "Ministerstvo vnitra",
-          "country": "CZE",
-          "cpv": [
-            "35331000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/646341-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 5.2,
+      "score": 5.0,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-06-23",
-      "reporting_lag_days": 92,
-      "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 155706342.31,
+      "reporting_lag_days": 93,
+      "freshness_factor": 0.22,
+      "current_14d_weekly_equivalent": 156069509.44,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -257,7 +260,7 @@
         },
         {
           "name": "BELL BOEING JOINT PROJECT OFFICE",
-          "amount": 16269405.73
+          "amount": 17265100.68
         },
         {
           "name": "CFM INTERNATIONAL INC",
@@ -402,6 +405,15 @@
         },
         {
           "date": "2026-06-23",
+          "award_id": "N6134022F7005",
+          "recipient": "BELL BOEING JOINT PROJECT OFFICE",
+          "amount": 1006516.0,
+          "agency": "Department of the Navy",
+          "description": "HALF WING PART TASK TRAINER",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-23",
           "award_id": "FA861519C6050",
           "recipient": "LOCKHEED MARTIN CORPORATION",
           "amount": 1000000.0,
@@ -426,15 +438,6 @@
           "agency": "Department of the Air Force",
           "description": "WEATHER SYSTEMS FOLLOW-ON - MICROWAVE - SYSTEM DESIGN OF SATELLITE WITH MICROWAVE RADIOMETER AND SENSOR",
           "naics": "336414"
-        },
-        {
-          "date": "2026-06-23",
-          "award_id": "SPE4A726PC292",
-          "recipient": "INTEGRATED PROCUREMENT TECHNOLOGIES",
-          "amount": 587462.22,
-          "agency": "Defense Logistics Agency",
-          "description": "8512162550!SUPPORT,STRUCTURAL",
-          "naics": "336413"
         }
       ]
     },
@@ -639,11 +642,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-08T16:48:15.397063+00:00",
-      "score": 17.4,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-08T21:20:48.220155+00:00",
       "score": 17.4,
@@ -936,6 +934,11 @@
     },
     {
       "generated": "2026-09-23T21:41:45.757850+00:00",
+      "score": 20.5,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-24T05:13:44.747283+00:00",
       "score": 20.5,
       "status": "BASELINE"
     }
