@@ -1,23 +1,21 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-24T12:06:15.508477+00:00",
-    "mode": "partial",
+    "generated": "2026-09-24T17:29:06.751907+00:00",
+    "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
     "classification": "procurement-acceleration-screening-not-conflict-probability-or-contract-forecast",
     "coverage": "5/5",
-    "confidence": "MEDIUM",
-    "source_notes": [
-      "us_awards: retained (ReadTimeout)"
-    ]
+    "confidence": "HIGH",
+    "source_notes": []
   },
   "warning": {
-    "score": 20.5,
-    "raw_score": 20.5,
+    "score": 22.6,
+    "raw_score": 22.6,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 20.5/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 22.6/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -35,18 +33,16 @@
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
-          "id": "659990-2026",
+          "id": "658634-2026",
           "date": "2026-09-24",
-          "title": "Greece – Industrial machinery – Δράσεις και Παρεμβάσεις Ενεργειακής αναβάθμισης Πολιτιστικού & Πνευματικού Κέντρου Κορίνθου του Δήμου Κορινθίων",
-          "buyer": "ΔΗΜΟΣ ΚΟΡΙΝΘΙΩΝ",
-          "country": "GRC",
+          "title": "Switzerland – Foundry moulds – IWB, Wasserleitungsrohre (Guss) und Formstücke",
+          "buyer": "IWB Industrielle Werke Basel",
+          "country": "CHE",
           "cpv": [
-            "42000000",
-            "42511110",
-            "44115200",
-            "44115210"
+            "43415000",
+            "35341100"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/659990-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/658634-2026"
         },
         {
           "id": "658554-2026",
@@ -72,16 +68,18 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/659970-2026"
         },
         {
-          "id": "658634-2026",
+          "id": "659990-2026",
           "date": "2026-09-24",
-          "title": "Switzerland – Foundry moulds – IWB, Wasserleitungsrohre (Guss) und Formstücke",
-          "buyer": "IWB Industrielle Werke Basel",
-          "country": "CHE",
+          "title": "Greece – Industrial machinery – Δράσεις και Παρεμβάσεις Ενεργειακής αναβάθμισης Πολιτιστικού & Πνευματικού Κέντρου Κορίνθου του Δήμου Κορινθίων",
+          "buyer": "ΔΗΜΟΣ ΚΟΡΙΝΘΙΩΝ",
+          "country": "GRC",
           "cpv": [
-            "43415000",
-            "35341100"
+            "42000000",
+            "42511110",
+            "44115200",
+            "44115210"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/658634-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/659990-2026"
         },
         {
           "id": "657152-2026",
@@ -96,31 +94,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/657152-2026"
         },
         {
-          "id": "658617-2026",
-          "date": "2026-09-24",
-          "title": "Germany – Weapons, ammunition and associated parts – Patronen 5,56mm x 45 Hartkern, DM31A1",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35300000",
-            "35330000",
-            "35331000",
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/658617-2026"
-        },
-        {
-          "id": "658418-2026",
-          "date": "2026-09-24",
-          "title": "Belgium – Intelligence, surveillance, target acquisition and reconnaissance – Concerning the punctual purchase and delivery of \"Mobile robotic platform with two motorized mechanical arms” for the benefit of the Department of Mechanics of the Royal Military Academy.",
-          "buyer": "Ministère de la Défense",
-          "country": "BEL",
-          "cpv": [
-            "35720000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/658418-2026"
-        },
-        {
           "id": "658475-2026",
           "date": "2026-09-24",
           "title": "Germany – Satellite earth stations – Informationseinholung im Rahmen einer Markterkundung für die Beschaffung von bodenbasierten Counter-Space Systemen gegen Kommunikationssatelliten",
@@ -133,15 +106,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/658475-2026"
         },
         {
-          "id": "659995-2026",
+          "id": "658418-2026",
           "date": "2026-09-24",
-          "title": "Bulgaria – Firearms – \"Доставка на 40 mm автоматичен гранатомет – рамково споразумение\"",
-          "buyer": "Министерство на отбраната",
-          "country": "BGR",
+          "title": "Belgium – Intelligence, surveillance, target acquisition and reconnaissance – Concerning the punctual purchase and delivery of \"Mobile robotic platform with two motorized mechanical arms” for the benefit of the Department of Mechanics of the Royal Military Academy.",
+          "buyer": "Ministère de la Défense",
+          "country": "BEL",
           "cpv": [
-            "35320000"
+            "35720000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/659995-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/658418-2026"
         },
         {
           "id": "658068-2026",
@@ -158,15 +131,29 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/658068-2026"
         },
         {
-          "id": "658680-2026",
+          "id": "658617-2026",
           "date": "2026-09-24",
-          "title": "France – Weapons, ammunition and associated parts – ACQUISITION DE PISTOLETS A IMPULSION ELECTRIQUE POUR LA POLICE MUNICIPALE DE LA VILLE DE BEZIERS",
-          "buyer": "Mairie de BEZIERS",
-          "country": "FRA",
+          "title": "Germany – Weapons, ammunition and associated parts – Patronen 5,56mm x 45 Hartkern, DM31A1",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
           "cpv": [
-            "35300000"
+            "35300000",
+            "35330000",
+            "35331000",
+            "35331500"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/658680-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/658617-2026"
+        },
+        {
+          "id": "659995-2026",
+          "date": "2026-09-24",
+          "title": "Bulgaria – Firearms – \"Доставка на 40 mm автоматичен гранатомет – рамково споразумение\"",
+          "buyer": "Министерство на отбраната",
+          "country": "BGR",
+          "cpv": [
+            "35320000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/659995-2026"
         },
         {
           "id": "658965-2026",
@@ -189,6 +176,17 @@
             "35421000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/660203-2026"
+        },
+        {
+          "id": "658680-2026",
+          "date": "2026-09-24",
+          "title": "France – Weapons, ammunition and associated parts – ACQUISITION DE PISTOLETS A IMPULSION ELECTRIQUE POUR LA POLICE MUNICIPALE DE LA VILLE DE BEZIERS",
+          "buyer": "Mairie de BEZIERS",
+          "country": "FRA",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/658680-2026"
         },
         {
           "id": "654117-2026",
@@ -231,232 +229,281 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 5.0,
+      "score": 6.5,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
-      "retained": true,
+      "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-06-23",
-      "reporting_lag_days": 93,
-      "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 156069509.44,
+      "latest_observation": "2026-06-24",
+      "reporting_lag_days": 92,
+      "freshness_factor": 0.23,
+      "current_14d_weekly_equivalent": 586919475.26,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
-          "name": "RAYTHEON COMPANY",
-          "amount": 118808882.3
-        },
-        {
           "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 64690475.08
+          "amount": 846683986.0
         },
         {
           "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 47894613.64
+          "amount": 83953284.96
         },
         {
-          "name": "L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P.",
-          "amount": 23627034.0
+          "name": "ROLLS-ROYCE CORPORATION",
+          "amount": 78324246.72
         },
         {
-          "name": "BELL BOEING JOINT PROJECT OFFICE",
-          "amount": 17265100.68
+          "name": "THE BOEING COMPANY",
+          "amount": 28472577.55
         },
         {
-          "name": "CFM INTERNATIONAL INC",
-          "amount": 9079541.9
+          "name": "STRATEGIC MISSION SYSTEMS, LLC",
+          "amount": 24866448.58
         },
         {
-          "name": "DRS NETWORK & IMAGING SYSTEMS LLC",
-          "amount": 5112914.64
+          "name": "TOP FLIGHT AEROSTRUCTURES, INC.",
+          "amount": 23790639.0
         },
         {
-          "name": "LEO TECH LLC",
-          "amount": 4674026.68
+          "name": "BELL TEXTRON INC",
+          "amount": 21247004.08
+        },
+        {
+          "name": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 13035482.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
         {
-          "date": "2026-06-23",
-          "award_id": "FA855626CB003",
-          "recipient": "RAYTHEON COMPANY",
-          "amount": 104103634.3,
-          "agency": "Department of the Air Force",
-          "description": "THIS UNDEFINITIZED CONTRACT ACTION (UCA) FOR D4/C9 EMD DESIGN WILL ONLY COVER TASKS THAT SUPPORT THE FIRST 18 MONTHS OF D4/C9 EMD TO INCLUDE SRR AND EARLY ACTIONS THAT WILL SUPPORT A FUTURE D4/C9 PDR.",
+          "date": "2026-06-24",
+          "award_id": "HQ085326CE003",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 842871672.0,
+          "agency": "Missile Defense Agency",
+          "description": "AWARD FOR THE THAAD MAC MULTI-YEAR PRODUCTION CONTRACT FY26-32",
           "naics": "336414"
         },
         {
-          "date": "2026-06-23",
-          "award_id": "N0001926F2192",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 63263427.0,
-          "agency": "Department of the Navy",
-          "description": "RMIP",
-          "naics": "336411"
+          "date": "2026-06-24",
+          "award_id": "HY023326C0012",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 83589468.0,
+          "agency": "Immediate Office of the Secretary of Defense",
+          "description": "DARK TIDE II",
+          "naics": "336414"
         },
         {
-          "date": "2026-06-23",
+          "date": "2026-06-24",
+          "award_id": "FA812426FB007",
+          "recipient": "ROLLS-ROYCE CORPORATION",
+          "amount": 78324246.72,
+          "agency": "Department of the Air Force",
+          "description": "T108 PROPULSION SUSTAINMENT SYSTEM (ENGINE NACELLE, AND PROPELLER) PRICE PER FLYING HOUR TASK ORDER.",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-06-24",
+          "award_id": "FA813426FB082",
+          "recipient": "STRATEGIC MISSION SYSTEMS, LLC",
+          "amount": 24866448.58,
+          "agency": "Department of the Air Force",
+          "description": "E-4B NATIONAL NUCLEAR COMMUNICATIONS SUPPORT SERVICES BASE YEAR",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-24",
+          "award_id": "FA862126FB001",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 22389776.92,
+          "agency": "Department of the Air Force",
+          "description": "UCA 2.0 FOR THE C-17 TRAINING SYSTEM TO PROVIDE ESSENTIAL TRAINING AND SUPPORT AS A BRIDGE CONTRACT.",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-24",
+          "award_id": "N0038326F0083",
+          "recipient": "BELL TEXTRON INC",
+          "amount": 21175522.48,
+          "agency": "Department of the Navy",
+          "description": "ACRN: AA PN: 449-040-011-103ACRN: AA PN: 449-040-004-105ACRN: AB PN: 214-040-009-115ACRN: AB PN: 449-540-013-111ACRN: AB PN: 449-040-013-103ACRN: AB PN: 449-540-009-101",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-24",
+          "award_id": "SPRTA126F0188",
+          "recipient": "TOP FLIGHT AEROSTRUCTURES, INC.",
+          "amount": 16913669.0,
+          "agency": "Defense Logistics Agency",
+          "description": "MANUFACTURE OF TRAILING EDGE FOR THE B-1 AIRCRAFT.",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-24",
+          "award_id": "W58RGZ25F0075",
+          "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 10465056.0,
+          "agency": "Department of the Army",
+          "description": "CH-47F NEW EQUIPMENT TRAINING (NET) AND TECHNICAL SUPPORT",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-24",
+          "award_id": "W519TC25F0235",
+          "recipient": "CANADIAN COMMERCIAL CORPORATION",
+          "amount": 8303443.2,
+          "agency": "Department of the Army",
+          "description": "AWARD M1 METAL PARTS",
+          "naics": "332993"
+        },
+        {
+          "date": "2026-06-24",
+          "award_id": "SPE4A726C0095",
+          "recipient": "VSE AVIATION, INC.",
+          "amount": 7104936.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8512169680!SHAFT ASSEMBLY,FUEL",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-06-24",
+          "award_id": "SPRTA126F0225",
+          "recipient": "TOP FLIGHT AEROSTRUCTURES, INC.",
+          "amount": 6860697.0,
+          "agency": "Defense Logistics Agency",
+          "description": "MANUFACTURE OF AIRCRAFT TIP FOR THE B-1 AIRCRAFT.",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-24",
           "award_id": "FA862026FB005",
           "recipient": "L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P.",
-          "amount": 23627034.0,
+          "amount": 4411510.0,
           "agency": "Department of the Air Force",
           "description": "AFLCMC/WI",
           "naics": "336413"
         },
         {
-          "date": "2026-06-23",
-          "award_id": "N0001926F1093",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 23399824.0,
+          "date": "2026-06-24",
+          "award_id": "N0001926F0288",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
+          "amount": 4123225.0,
           "agency": "Department of the Navy",
-          "description": "MB2 AND B7 RETROFIT MATERIAL KITS AND INSTALLATIONS.",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-23",
-          "award_id": "N0001926F1093",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 23399824.0,
-          "agency": "Department of the Navy",
-          "description": "MB2 AND B7 RETROFIT MATERIAL KITS AND INSTALLATIONS.",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-23",
-          "award_id": "N0038326CTA04",
-          "recipient": "BELL BOEING JOINT PROJECT OFFICE",
-          "amount": 16224988.0,
-          "agency": "Department of the Navy",
-          "description": "RING,STRUCTURAL,ASS",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-23",
-          "award_id": "HQ085126FE039",
-          "recipient": "RAYTHEON COMPANY",
-          "amount": 13210910.0,
-          "agency": "Missile Defense Agency",
-          "description": "SPECIALIZED TOOLING AND ESSENTIAL EQUIPMENT FOR LOGISTICS (STEEL)",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-06-23",
-          "award_id": "SPE4AX26F231M",
-          "recipient": "CFM INTERNATIONAL INC",
-          "amount": 9079541.9,
-          "agency": "Defense Logistics Agency",
-          "description": "8512195417!CPUP KIT,ENGINE,AIR",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-06-23",
-          "award_id": "W15QKN26F0189",
-          "recipient": "DRS NETWORK & IMAGING SYSTEMS LLC",
-          "amount": 5112914.64,
-          "agency": "Department of the Army",
-          "description": "DELIVERY ORDER TO PROCURE THREE (3) SETS OF CABLES UNDER THE FIRECON-PRO CONTRACT.",
+          "description": "ADD ON FUZES TO FMU-139D/B CONTRACT",
           "naics": "332994"
         },
         {
-          "date": "2026-06-23",
-          "award_id": "FA822426F0052",
-          "recipient": "LEO TECH LLC",
-          "amount": 4519050.97,
-          "agency": "Department of the Air Force",
-          "description": "AEROSPACE GROUND EQUIPMENT MAINTENANCE SERVICES.",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-23",
-          "award_id": "N0001926C0135",
-          "recipient": "GENERAL DYNAMICS-OTS, INC.",
-          "amount": 2730142.38,
-          "agency": "Department of the Navy",
-          "description": "NIGERIA - M197 20 MM GUN WO BARREL",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-23",
-          "award_id": "N0038326FSX06",
-          "recipient": "GENERAL ATOMICS",
-          "amount": 1503670.9,
-          "agency": "Department of the Navy",
-          "description": "NRP,MOTOR TO PUMP A",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-23",
-          "award_id": "N0001926F2205",
+          "date": "2026-06-24",
+          "award_id": "HQ085124C0001",
           "recipient": "RAYTHEON COMPANY",
-          "amount": 1494338.0,
-          "agency": "Department of the Navy",
-          "description": "FMS SECTIONALIZATION",
+          "amount": 3864297.5,
+          "agency": "Missile Defense Agency",
+          "description": "FY 23-25 SM-3 BLOCK IIA AURS",
           "naics": "336414"
         },
         {
-          "date": "2026-06-23",
-          "award_id": "SPE4A524F095X",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 1046378.04,
-          "agency": "Defense Logistics Agency",
-          "description": "8510759099!DOOR,AIRCRAFT",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-23",
-          "award_id": "N6134022F7005",
-          "recipient": "BELL BOEING JOINT PROJECT OFFICE",
-          "amount": 1006516.0,
-          "agency": "Department of the Navy",
-          "description": "HALF WING PART TASK TRAINER",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-23",
-          "award_id": "FA861519C6050",
+          "date": "2026-06-24",
+          "award_id": "N0003024C0100",
           "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 1000000.0,
-          "agency": "Department of the Air Force",
-          "description": "F-16 GREECE VIPER UPGRADE PROGRAM",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-23",
-          "award_id": "FA861626FB005",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
-          "amount": 975794.67,
-          "agency": "Department of the Air Force",
-          "description": "ENTERPRISE SUPPORT DELIVERY ORDER PRODUCT SERVICE CODE: R408",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-23",
-          "award_id": "FA881018C0002",
-          "recipient": "BAE SYSTEMS SPACE & MISSION SYSTEMS INC.",
-          "amount": 911977.0,
-          "agency": "Department of the Air Force",
-          "description": "WEATHER SYSTEMS FOLLOW-ON - MICROWAVE - SYSTEM DESIGN OF SATELLITE WITH MICROWAVE RADIOMETER AND SENSOR",
+          "amount": 3569654.0,
+          "agency": "Department of the Navy",
+          "description": "THIS MODIFICATION INCLUDES TOTAL FUNDING ACTIONS OF $3,569,654 FOR THE TRIDENT D5 II PROGRAM UNDER CLIN 0081 INCREMENTAL FUNDS FOR RESEARCH, DEVELOPMENT, TEST, AND EVALUATION (RDT&E) AND CLIN 0008 VARIANCE FOR WEAPONS PROCUREMENT, NAVY (WPN).",
           "naics": "336414"
+        },
+        {
+          "date": "2026-06-24",
+          "award_id": "N0038326FAE01",
+          "recipient": "GE AVIATION SYSTEMS LIMITED",
+          "amount": 3541903.43,
+          "agency": "Department of the Navy",
+          "description": "CONVERTER,SIGNAL DA",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-24",
+          "award_id": "FA852624F0003",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 3075610.0,
+          "agency": "Department of the Air Force",
+          "description": "FY24 C-17 MX/MODS",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-24",
+          "award_id": "N0001924C0033",
+          "recipient": "GCI INC",
+          "amount": 2827540.96,
+          "agency": "Department of the Navy",
+          "description": "OPTION YEAR 3 EXERCISE CLINS 3001, 3002, 3003, 3004, & 3005.",
+          "naics": "336419"
         }
-      ],
-      "retained_reason": "ReadTimeout"
+      ]
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 41.2,
-      "status": "WATCH",
+      "score": 49.9,
+      "status": "ELEVATED",
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 89,
-      "current_14d_weekly_equivalent": 11.25,
+      "coverage": 94,
+      "current_14d_weekly_equivalent": 17.25,
       "baseline_weekly_median": 3.75,
-      "anomaly_z": 1.35,
+      "anomaly_z": 2.43,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
+        {
+          "date": "2026-09-24",
+          "title": "Nato Allies Step Up Multinational Capability Delivery Cooperation",
+          "url": "https://www.nato.int/en/news-and-events/articles/news/2025/06/24/nato-allies-step-up-multinational-capability-delivery-cooperation",
+          "terms": [
+            "capability"
+          ],
+          "weight": 2,
+          "age": 0
+        },
+        {
+          "date": "2026-09-24",
+          "title": "Nato Summit Defence Industry Forum 2025 Time To Unite Innovate Deliver",
+          "url": "https://www.nato.int/en/news-and-events/articles/news/2025/06/24/nato-summit-defence-industry-forum-2025-time-to-unite-innovate--deliver",
+          "terms": [
+            "industry"
+          ],
+          "weight": 2.5,
+          "age": 0
+        },
+        {
+          "date": "2026-09-24",
+          "title": "Nato Releases Updated Defence Production Action Plan Commercial Space Strategy And Rapid Adoption Action Plan",
+          "url": "https://www.nato.int/fr/news-and-events/articles/news/2025/06/24/nato-releases-updated-defence-production-action-plan-commercial-space-strategy-and-rapid-adoption-action-plan",
+          "terms": [
+            "production"
+          ],
+          "weight": 3,
+          "age": 0
+        },
+        {
+          "date": "2026-09-24",
+          "title": "Nato Allies Step Up Multinational Capability Delivery Cooperation",
+          "url": "https://www.nato.int/fr/news-and-events/articles/news/2025/06/24/nato-allies-step-up-multinational-capability-delivery-cooperation",
+          "terms": [
+            "capability"
+          ],
+          "weight": 2,
+          "age": 0
+        },
+        {
+          "date": "2026-09-24",
+          "title": "Nato Summit Defence Industry Forum 2025 Time To Unite Innovate Deliver",
+          "url": "https://www.nato.int/fr/news-and-events/articles/news/2025/06/24/nato-summit-defence-industry-forum-2025-time-to-unite-innovate--deliver",
+          "terms": [
+            "industry"
+          ],
+          "weight": 2.5,
+          "age": 0
+        },
         {
           "date": "2026-09-18",
           "title": "Canadian Troops Improve Their Drone Battlefield Skills In Latvia",
@@ -465,7 +512,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-09-15",
@@ -475,7 +522,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 8
+          "age": 9
         },
         {
           "date": "2026-09-15",
@@ -495,7 +542,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 8
+          "age": 9
         },
         {
           "date": "2026-09-15",
@@ -515,7 +562,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 8
+          "age": 9
         },
         {
           "date": "2026-09-15",
@@ -535,7 +582,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 9
+          "age": 10
         },
         {
           "date": "2026-09-14",
@@ -545,47 +592,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 9
-        },
-        {
-          "date": "2026-09-01",
-          "title": "Keynote Speech Defense Industry Forum",
-          "url": "https://www.nato.int/en/news-and-events/events/transcripts/2024/07/09/keynote-speech-defense-industry-forum",
-          "terms": [
-            "industry"
-          ],
-          "weight": 2.5,
-          "age": 23
-        },
-        {
-          "date": "2026-09-01",
-          "title": "Keynote Speech By The Nato Secretary General At The Defense Industry Forum",
-          "url": "https://www.nato.int/en/multimedia/multimedia/audios/2024/07/09/keynote-speech-by-the-nato-secretary-general-at-the-defense-industry-forum",
-          "terms": [
-            "industry"
-          ],
-          "weight": 2.5,
-          "age": 23
-        },
-        {
-          "date": "2026-09-01",
-          "title": "Keynote Speech By The Nato Secretary General At The Defense Industry Forum",
-          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2024/07/09/keynote-speech-by-the-nato-secretary-general-at-the-defense-industry-forum",
-          "terms": [
-            "industry"
-          ],
-          "weight": 2.5,
-          "age": 23
-        },
-        {
-          "date": "2026-09-01",
-          "title": "Keynote Speech By The Nato Secretary General At The Defense Industry Forum",
-          "url": "https://www.nato.int/en/multimedia/multimedia/videos/2024/07/09/keynote-speech-by-the-nato-secretary-general-at-the-defense-industry-forum",
-          "terms": [
-            "industry"
-          ],
-          "weight": 2.5,
-          "age": 23
+          "age": 10
         }
       ]
     },
@@ -645,11 +652,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-09T05:03:24.527850+00:00",
-      "score": 16.6,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-09T11:45:33.987360+00:00",
       "score": 16.6,
@@ -943,6 +945,11 @@
     {
       "generated": "2026-09-24T12:06:15.508477+00:00",
       "score": 20.5,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-24T17:29:06.751907+00:00",
+      "score": 22.6,
       "status": "BASELINE"
     }
   ],
