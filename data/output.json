@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-24T17:29:06.751907+00:00",
+    "generated": "2026-09-24T21:43:20.223512+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 22.6,
-    "raw_score": 22.6,
+    "score": 20.9,
+    "raw_score": 20.9,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 22.6/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 20.9/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -33,16 +33,18 @@
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
-          "id": "658634-2026",
+          "id": "659990-2026",
           "date": "2026-09-24",
-          "title": "Switzerland – Foundry moulds – IWB, Wasserleitungsrohre (Guss) und Formstücke",
-          "buyer": "IWB Industrielle Werke Basel",
-          "country": "CHE",
+          "title": "Greece – Industrial machinery – Δράσεις και Παρεμβάσεις Ενεργειακής αναβάθμισης Πολιτιστικού & Πνευματικού Κέντρου Κορίνθου του Δήμου Κορινθίων",
+          "buyer": "ΔΗΜΟΣ ΚΟΡΙΝΘΙΩΝ",
+          "country": "GRC",
           "cpv": [
-            "43415000",
-            "35341100"
+            "42000000",
+            "42511110",
+            "44115200",
+            "44115210"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/658634-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/659990-2026"
         },
         {
           "id": "658554-2026",
@@ -68,18 +70,16 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/659970-2026"
         },
         {
-          "id": "659990-2026",
+          "id": "658634-2026",
           "date": "2026-09-24",
-          "title": "Greece – Industrial machinery – Δράσεις και Παρεμβάσεις Ενεργειακής αναβάθμισης Πολιτιστικού & Πνευματικού Κέντρου Κορίνθου του Δήμου Κορινθίων",
-          "buyer": "ΔΗΜΟΣ ΚΟΡΙΝΘΙΩΝ",
-          "country": "GRC",
+          "title": "Switzerland – Foundry moulds – IWB, Wasserleitungsrohre (Guss) und Formstücke",
+          "buyer": "IWB Industrielle Werke Basel",
+          "country": "CHE",
           "cpv": [
-            "42000000",
-            "42511110",
-            "44115200",
-            "44115210"
+            "43415000",
+            "35341100"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/659990-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/658634-2026"
         },
         {
           "id": "657152-2026",
@@ -94,6 +94,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/657152-2026"
         },
         {
+          "id": "658418-2026",
+          "date": "2026-09-24",
+          "title": "Belgium – Intelligence, surveillance, target acquisition and reconnaissance – Concerning the punctual purchase and delivery of \"Mobile robotic platform with two motorized mechanical arms” for the benefit of the Department of Mechanics of the Royal Military Academy.",
+          "buyer": "Ministère de la Défense",
+          "country": "BEL",
+          "cpv": [
+            "35720000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/658418-2026"
+        },
+        {
           "id": "658475-2026",
           "date": "2026-09-24",
           "title": "Germany – Satellite earth stations – Informationseinholung im Rahmen einer Markterkundung für die Beschaffung von bodenbasierten Counter-Space Systemen gegen Kommunikationssatelliten",
@@ -106,15 +117,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/658475-2026"
         },
         {
-          "id": "658418-2026",
+          "id": "659995-2026",
           "date": "2026-09-24",
-          "title": "Belgium – Intelligence, surveillance, target acquisition and reconnaissance – Concerning the punctual purchase and delivery of \"Mobile robotic platform with two motorized mechanical arms” for the benefit of the Department of Mechanics of the Royal Military Academy.",
-          "buyer": "Ministère de la Défense",
-          "country": "BEL",
+          "title": "Bulgaria – Firearms – \"Доставка на 40 mm автоматичен гранатомет – рамково споразумение\"",
+          "buyer": "Министерство на отбраната",
+          "country": "BGR",
           "cpv": [
-            "35720000"
+            "35320000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/658418-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/659995-2026"
         },
         {
           "id": "658068-2026",
@@ -145,15 +156,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/658617-2026"
         },
         {
-          "id": "659995-2026",
+          "id": "658680-2026",
           "date": "2026-09-24",
-          "title": "Bulgaria – Firearms – \"Доставка на 40 mm автоматичен гранатомет – рамково споразумение\"",
-          "buyer": "Министерство на отбраната",
-          "country": "BGR",
+          "title": "France – Weapons, ammunition and associated parts – ACQUISITION DE PISTOLETS A IMPULSION ELECTRIQUE POUR LA POLICE MUNICIPALE DE LA VILLE DE BEZIERS",
+          "buyer": "Mairie de BEZIERS",
+          "country": "FRA",
           "cpv": [
-            "35320000"
+            "35300000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/659995-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/658680-2026"
         },
         {
           "id": "658965-2026",
@@ -176,17 +187,6 @@
             "35421000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/660203-2026"
-        },
-        {
-          "id": "658680-2026",
-          "date": "2026-09-24",
-          "title": "France – Weapons, ammunition and associated parts – ACQUISITION DE PISTOLETS A IMPULSION ELECTRIQUE POUR LA POLICE MUNICIPALE DE LA VILLE DE BEZIERS",
-          "buyer": "Mairie de BEZIERS",
-          "country": "FRA",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/658680-2026"
         },
         {
           "id": "654117-2026",
@@ -238,7 +238,7 @@
       "latest_observation": "2026-06-24",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 586919475.26,
+      "current_14d_weekly_equivalent": 586682894.12,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -248,7 +248,7 @@
         },
         {
           "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 83953284.96
+          "amount": 83779162.96
         },
         {
           "name": "ROLLS-ROYCE CORPORATION",
@@ -256,7 +256,7 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 28472577.55
+          "amount": 28466671.55
         },
         {
           "name": "STRATEGIC MISSION SYSTEMS, LLC",
@@ -264,7 +264,7 @@
         },
         {
           "name": "TOP FLIGHT AEROSTRUCTURES, INC.",
-          "amount": 23790639.0
+          "amount": 23774366.0
         },
         {
           "name": "BELL TEXTRON INC",
@@ -443,67 +443,17 @@
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 49.9,
-      "status": "ELEVATED",
+      "score": 41.2,
+      "status": "WATCH",
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 94,
-      "current_14d_weekly_equivalent": 17.25,
+      "coverage": 89,
+      "current_14d_weekly_equivalent": 11.25,
       "baseline_weekly_median": 3.75,
-      "anomaly_z": 2.43,
+      "anomaly_z": 1.35,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
-        {
-          "date": "2026-09-24",
-          "title": "Nato Allies Step Up Multinational Capability Delivery Cooperation",
-          "url": "https://www.nato.int/en/news-and-events/articles/news/2025/06/24/nato-allies-step-up-multinational-capability-delivery-cooperation",
-          "terms": [
-            "capability"
-          ],
-          "weight": 2,
-          "age": 0
-        },
-        {
-          "date": "2026-09-24",
-          "title": "Nato Summit Defence Industry Forum 2025 Time To Unite Innovate Deliver",
-          "url": "https://www.nato.int/en/news-and-events/articles/news/2025/06/24/nato-summit-defence-industry-forum-2025-time-to-unite-innovate--deliver",
-          "terms": [
-            "industry"
-          ],
-          "weight": 2.5,
-          "age": 0
-        },
-        {
-          "date": "2026-09-24",
-          "title": "Nato Releases Updated Defence Production Action Plan Commercial Space Strategy And Rapid Adoption Action Plan",
-          "url": "https://www.nato.int/fr/news-and-events/articles/news/2025/06/24/nato-releases-updated-defence-production-action-plan-commercial-space-strategy-and-rapid-adoption-action-plan",
-          "terms": [
-            "production"
-          ],
-          "weight": 3,
-          "age": 0
-        },
-        {
-          "date": "2026-09-24",
-          "title": "Nato Allies Step Up Multinational Capability Delivery Cooperation",
-          "url": "https://www.nato.int/fr/news-and-events/articles/news/2025/06/24/nato-allies-step-up-multinational-capability-delivery-cooperation",
-          "terms": [
-            "capability"
-          ],
-          "weight": 2,
-          "age": 0
-        },
-        {
-          "date": "2026-09-24",
-          "title": "Nato Summit Defence Industry Forum 2025 Time To Unite Innovate Deliver",
-          "url": "https://www.nato.int/fr/news-and-events/articles/news/2025/06/24/nato-summit-defence-industry-forum-2025-time-to-unite-innovate--deliver",
-          "terms": [
-            "industry"
-          ],
-          "weight": 2.5,
-          "age": 0
-        },
         {
           "date": "2026-09-18",
           "title": "Canadian Troops Improve Their Drone Battlefield Skills In Latvia",
@@ -593,6 +543,46 @@
           ],
           "weight": 2.5,
           "age": 10
+        },
+        {
+          "date": "2026-09-01",
+          "title": "Keynote Speech Defense Industry Forum",
+          "url": "https://www.nato.int/en/news-and-events/events/transcripts/2024/07/09/keynote-speech-defense-industry-forum",
+          "terms": [
+            "industry"
+          ],
+          "weight": 2.5,
+          "age": 23
+        },
+        {
+          "date": "2026-09-01",
+          "title": "Keynote Speech By The Nato Secretary General At The Defense Industry Forum",
+          "url": "https://www.nato.int/en/multimedia/multimedia/audios/2024/07/09/keynote-speech-by-the-nato-secretary-general-at-the-defense-industry-forum",
+          "terms": [
+            "industry"
+          ],
+          "weight": 2.5,
+          "age": 23
+        },
+        {
+          "date": "2026-09-01",
+          "title": "Keynote Speech By The Nato Secretary General At The Defense Industry Forum",
+          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2024/07/09/keynote-speech-by-the-nato-secretary-general-at-the-defense-industry-forum",
+          "terms": [
+            "industry"
+          ],
+          "weight": 2.5,
+          "age": 23
+        },
+        {
+          "date": "2026-09-01",
+          "title": "Keynote Speech By The Nato Secretary General At The Defense Industry Forum",
+          "url": "https://www.nato.int/en/multimedia/multimedia/videos/2024/07/09/keynote-speech-by-the-nato-secretary-general-at-the-defense-industry-forum",
+          "terms": [
+            "industry"
+          ],
+          "weight": 2.5,
+          "age": 23
         }
       ]
     },
@@ -652,11 +642,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-09T11:45:33.987360+00:00",
-      "score": 16.6,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-09T16:50:42.518336+00:00",
       "score": 16.8,
@@ -950,6 +935,11 @@
     {
       "generated": "2026-09-24T17:29:06.751907+00:00",
       "score": 22.6,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-24T21:43:20.223512+00:00",
+      "score": 20.9,
       "status": "BASELINE"
     }
   ],
