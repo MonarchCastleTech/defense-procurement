@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-25T17:28:37.714704+00:00",
+    "generated": "2026-09-25T21:45:48.590072+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -33,6 +33,32 @@
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
+          "id": "660593-2026",
+          "date": "2026-09-25",
+          "title": "Greece – Sensors – ΔΙΑΚΗΡΥΞΗ για την προμήθεια εξοπλισμού και του ολοκληρωμένου συστήματος παρακολούθησης και εποπτείας",
+          "buyer": "ΟΡΓΑΝΙΣΜΟΣ ΦΥΣΙΚΟΥ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΚΛΙΜΑΤΙΚΗΣ ΑΛΛΑΓΗΣ",
+          "country": "GRC",
+          "cpv": [
+            "35125100",
+            "48329000",
+            "35312000",
+            "44313100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/660593-2026"
+        },
+        {
+          "id": "660574-2026",
+          "date": "2026-09-25",
+          "title": "France – Commissioning of heating installations – Maintenance, diagnostic, mise à niveau et exploitation des GTB des bâtiments et des collèges du Département des Pyrénées-Atlantiques",
+          "buyer": "Département des Pyrénées-Atlantiques",
+          "country": "FRA",
+          "cpv": [
+            "50721000",
+            "35710000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/660574-2026"
+        },
+        {
           "id": "662048-2026",
           "date": "2026-09-25",
           "title": "Estonia – Unmanned aerial vehicles – Hüperspektraalkaameraga drooni ostmine",
@@ -43,6 +69,17 @@
             "38290000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/662048-2026"
+        },
+        {
+          "id": "663681-2026",
+          "date": "2026-09-25",
+          "title": "Spain – Ammunition – Adquisición de granadas de aturdimiento Stun",
+          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+          "country": "ESP",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/663681-2026"
         },
         {
           "id": "662186-2026",
@@ -59,41 +96,18 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/662186-2026"
         },
         {
-          "id": "660574-2026",
+          "id": "663717-2026",
           "date": "2026-09-25",
-          "title": "France – Commissioning of heating installations – Maintenance, diagnostic, mise à niveau et exploitation des GTB des bâtiments et des collèges du Département des Pyrénées-Atlantiques",
-          "buyer": "Département des Pyrénées-Atlantiques",
-          "country": "FRA",
+          "title": "Norway – Security, fire-fighting, police and defence equipment – Consultation and information enquiry - Procurement of trade fair and service uniforms with accessories.",
+          "buyer": "FORSVARSMATERIELL",
+          "country": "NOR",
           "cpv": [
-            "50721000",
-            "35710000"
+            "35000000",
+            "18000000",
+            "18100000",
+            "18200000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/660574-2026"
-        },
-        {
-          "id": "663681-2026",
-          "date": "2026-09-25",
-          "title": "Spain – Ammunition – Adquisición de granadas de aturdimiento Stun",
-          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
-          "country": "ESP",
-          "cpv": [
-            "35330000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/663681-2026"
-        },
-        {
-          "id": "660593-2026",
-          "date": "2026-09-25",
-          "title": "Greece – Sensors – ΔΙΑΚΗΡΥΞΗ για την προμήθεια εξοπλισμού και του ολοκληρωμένου συστήματος παρακολούθησης και εποπτείας",
-          "buyer": "ΟΡΓΑΝΙΣΜΟΣ ΦΥΣΙΚΟΥ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΚΛΙΜΑΤΙΚΗΣ ΑΛΛΑΓΗΣ",
-          "country": "GRC",
-          "cpv": [
-            "35125100",
-            "48329000",
-            "35312000",
-            "44313100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/660593-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/663717-2026"
         },
         {
           "id": "660795-2026",
@@ -107,18 +121,16 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/660795-2026"
         },
         {
-          "id": "663717-2026",
+          "id": "663590-2026",
           "date": "2026-09-25",
-          "title": "Norway – Security, fire-fighting, police and defence equipment – Consultation and information enquiry - Procurement of trade fair and service uniforms with accessories.",
-          "buyer": "FORSVARSMATERIELL",
-          "country": "NOR",
+          "title": "Germany – Radar detectors – Rahmenvereinbarung über die Lieferung von mobilen Drohnendetektoren auf Radarbasis, Radar Panel Echo Shield",
+          "buyer": "Freistaat Bayern, vertreten durch das Logistikzentrum der Bayerischen Polizei (LZBP)",
+          "country": "DEU",
           "cpv": [
-            "35000000",
-            "18000000",
-            "18100000",
-            "18200000"
+            "35121900",
+            "35722000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/663717-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/663590-2026"
         },
         {
           "id": "660644-2026",
@@ -146,30 +158,16 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/661105-2026"
         },
         {
-          "id": "663590-2026",
-          "date": "2026-09-25",
-          "title": "Germany – Radar detectors – Rahmenvereinbarung über die Lieferung von mobilen Drohnendetektoren auf Radarbasis, Radar Panel Echo Shield",
-          "buyer": "Freistaat Bayern, vertreten durch das Logistikzentrum der Bayerischen Polizei (LZBP)",
-          "country": "DEU",
-          "cpv": [
-            "35121900",
-            "35722000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/663590-2026"
-        },
-        {
-          "id": "659990-2026",
+          "id": "658634-2026",
           "date": "2026-09-24",
-          "title": "Greece – Industrial machinery – Δράσεις και Παρεμβάσεις Ενεργειακής αναβάθμισης Πολιτιστικού & Πνευματικού Κέντρου Κορίνθου του Δήμου Κορινθίων",
-          "buyer": "ΔΗΜΟΣ ΚΟΡΙΝΘΙΩΝ",
-          "country": "GRC",
+          "title": "Switzerland – Foundry moulds – IWB, Wasserleitungsrohre (Guss) und Formstücke",
+          "buyer": "IWB Industrielle Werke Basel",
+          "country": "CHE",
           "cpv": [
-            "42000000",
-            "42511110",
-            "44115200",
-            "44115210"
+            "43415000",
+            "35341100"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/659990-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/658634-2026"
         },
         {
           "id": "658554-2026",
@@ -195,16 +193,18 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/659970-2026"
         },
         {
-          "id": "658634-2026",
+          "id": "659990-2026",
           "date": "2026-09-24",
-          "title": "Switzerland – Foundry moulds – IWB, Wasserleitungsrohre (Guss) und Formstücke",
-          "buyer": "IWB Industrielle Werke Basel",
-          "country": "CHE",
+          "title": "Greece – Industrial machinery – Δράσεις και Παρεμβάσεις Ενεργειακής αναβάθμισης Πολιτιστικού & Πνευματικού Κέντρου Κορίνθου του Δήμου Κορινθίων",
+          "buyer": "ΔΗΜΟΣ ΚΟΡΙΝΘΙΩΝ",
+          "country": "GRC",
           "cpv": [
-            "43415000",
-            "35341100"
+            "42000000",
+            "42511110",
+            "44115200",
+            "44115210"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/658634-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/659990-2026"
         },
         {
           "id": "657152-2026",
@@ -219,15 +219,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/657152-2026"
         },
         {
-          "id": "658418-2026",
+          "id": "659995-2026",
           "date": "2026-09-24",
-          "title": "Belgium – Intelligence, surveillance, target acquisition and reconnaissance – Concerning the punctual purchase and delivery of \"Mobile robotic platform with two motorized mechanical arms” for the benefit of the Department of Mechanics of the Royal Military Academy.",
-          "buyer": "Ministère de la Défense",
-          "country": "BEL",
+          "title": "Bulgaria – Firearms – \"Доставка на 40 mm автоматичен гранатомет – рамково споразумение\"",
+          "buyer": "Министерство на отбраната",
+          "country": "BGR",
           "cpv": [
-            "35720000"
+            "35320000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/658418-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/659995-2026"
         }
       ]
     },
@@ -657,11 +657,6 @@
   },
   "history": [
     {
-      "generated": "2026-09-10T11:42:52.910215+00:00",
-      "score": 16.4,
-      "status": "BASELINE"
-    },
-    {
       "generated": "2026-09-10T16:37:21.985302+00:00",
       "score": 16.4,
       "status": "BASELINE"
@@ -953,6 +948,11 @@
     },
     {
       "generated": "2026-09-25T17:28:37.714704+00:00",
+      "score": 21.7,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-25T21:45:48.590072+00:00",
       "score": 21.7,
       "status": "BASELINE"
     }
