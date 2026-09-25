@@ -1,14 +1,16 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-25T05:15:25.757442+00:00",
-    "mode": "live",
+    "generated": "2026-09-25T12:06:35.232472+00:00",
+    "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–90 days",
     "classification": "procurement-acceleration-screening-not-conflict-probability-or-contract-forecast",
     "coverage": "5/5",
-    "confidence": "HIGH",
-    "source_notes": []
+    "confidence": "MEDIUM",
+    "source_notes": [
+      "us_awards: retained (HTTPError)"
+    ]
   },
   "warning": {
     "score": 22.2,
@@ -121,17 +123,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/663717-2026"
         },
         {
-          "id": "660644-2026",
-          "date": "2026-09-25",
-          "title": "Slovenia – Ammunition – Nakup raket zrak-zemlja 2,75''",
-          "buyer": "MINISTRSTVO ZA OBRAMBO",
-          "country": "SVN",
-          "cpv": [
-            "35330000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/660644-2026"
-        },
-        {
           "id": "661105-2026",
           "date": "2026-09-25",
           "title": "Ireland – Justice services – RFT for the provision of an Electronic Monitoring Managed Service for an Electronic Monitoring Pilot Programme in Ireland",
@@ -144,6 +135,17 @@
             "35721000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/661105-2026"
+        },
+        {
+          "id": "660644-2026",
+          "date": "2026-09-25",
+          "title": "Slovenia – Ammunition – Nakup raket zrak-zemlja 2,75''",
+          "buyer": "MINISTRSTVO ZA OBRAMBO",
+          "country": "SVN",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/660644-2026"
         },
         {
           "id": "663590-2026",
@@ -238,7 +240,7 @@
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
-      "retained": false,
+      "retained": true,
       "coverage": 600,
       "latest_observation": "2026-06-24",
       "reporting_lag_days": 93,
@@ -444,7 +446,8 @@
           "description": "OPTION YEAR 3 EXERCISE CLINS 3001, 3002, 3003, 3004, & 3005.",
           "naics": "336419"
         }
-      ]
+      ],
+      "retained_reason": "HTTPError"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -537,7 +540,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 9
+          "age": 10
         },
         {
           "date": "2026-09-15",
@@ -557,7 +560,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 9
+          "age": 10
         },
         {
           "date": "2026-09-15",
@@ -577,7 +580,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 9
+          "age": 10
         },
         {
           "date": "2026-09-14",
@@ -657,11 +660,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-09T21:06:10.383868+00:00",
-      "score": 16.8,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-10T05:06:16.280418+00:00",
       "score": 16.2,
@@ -954,6 +952,11 @@
     },
     {
       "generated": "2026-09-25T05:15:25.757442+00:00",
+      "score": 22.2,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-25T12:06:35.232472+00:00",
       "score": 22.2,
       "status": "BASELINE"
     }
