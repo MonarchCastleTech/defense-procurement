@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-26T05:20:37.717728+00:00",
+    "generated": "2026-09-26T11:42:27.213025+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 21.7,
-    "raw_score": 21.7,
+    "score": 21.9,
+    "raw_score": 21.9,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 21.7/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 21.9/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -33,30 +33,18 @@
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
-          "id": "662048-2026",
+          "id": "660593-2026",
           "date": "2026-09-25",
-          "title": "Estonia – Unmanned aerial vehicles – Hüperspektraalkaameraga drooni ostmine",
-          "buyer": "Tartu Ülikool",
-          "country": "EST",
+          "title": "Greece – Sensors – ΔΙΑΚΗΡΥΞΗ για την προμήθεια εξοπλισμού και του ολοκληρωμένου συστήματος παρακολούθησης και εποπτείας",
+          "buyer": "ΟΡΓΑΝΙΣΜΟΣ ΦΥΣΙΚΟΥ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΚΛΙΜΑΤΙΚΗΣ ΑΛΛΑΓΗΣ",
+          "country": "GRC",
           "cpv": [
-            "35613000",
-            "38290000"
+            "35125100",
+            "48329000",
+            "35312000",
+            "44313100"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/662048-2026"
-        },
-        {
-          "id": "662186-2026",
-          "date": "2026-09-25",
-          "title": "Norway – Security, fire-fighting, police and defence equipment – Consultation and information enquiry - Procurement of trade fair and service uniforms with accessories.",
-          "buyer": "FORSVARSMATERIELL",
-          "country": "NOR",
-          "cpv": [
-            "35000000",
-            "18000000",
-            "18100000",
-            "18200000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/662186-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/660593-2026"
         },
         {
           "id": "660574-2026",
@@ -71,6 +59,18 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/660574-2026"
         },
         {
+          "id": "662048-2026",
+          "date": "2026-09-25",
+          "title": "Estonia – Unmanned aerial vehicles – Hüperspektraalkaameraga drooni ostmine",
+          "buyer": "Tartu Ülikool",
+          "country": "EST",
+          "cpv": [
+            "35613000",
+            "38290000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/662048-2026"
+        },
+        {
           "id": "663681-2026",
           "date": "2026-09-25",
           "title": "Spain – Ammunition – Adquisición de granadas de aturdimiento Stun",
@@ -82,18 +82,18 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/663681-2026"
         },
         {
-          "id": "660593-2026",
+          "id": "662186-2026",
           "date": "2026-09-25",
-          "title": "Greece – Sensors – ΔΙΑΚΗΡΥΞΗ για την προμήθεια εξοπλισμού και του ολοκληρωμένου συστήματος παρακολούθησης και εποπτείας",
-          "buyer": "ΟΡΓΑΝΙΣΜΟΣ ΦΥΣΙΚΟΥ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΚΛΙΜΑΤΙΚΗΣ ΑΛΛΑΓΗΣ",
-          "country": "GRC",
+          "title": "Norway – Security, fire-fighting, police and defence equipment – Consultation and information enquiry - Procurement of trade fair and service uniforms with accessories.",
+          "buyer": "FORSVARSMATERIELL",
+          "country": "NOR",
           "cpv": [
-            "35125100",
-            "48329000",
-            "35312000",
-            "44313100"
+            "35000000",
+            "18000000",
+            "18100000",
+            "18200000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/660593-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/662186-2026"
         },
         {
           "id": "663717-2026",
@@ -121,6 +121,18 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/660795-2026"
         },
         {
+          "id": "663590-2026",
+          "date": "2026-09-25",
+          "title": "Germany – Radar detectors – Rahmenvereinbarung über die Lieferung von mobilen Drohnendetektoren auf Radarbasis, Radar Panel Echo Shield",
+          "buyer": "Freistaat Bayern, vertreten durch das Logistikzentrum der Bayerischen Polizei (LZBP)",
+          "country": "DEU",
+          "cpv": [
+            "35121900",
+            "35722000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/663590-2026"
+        },
+        {
           "id": "660644-2026",
           "date": "2026-09-25",
           "title": "Slovenia – Ammunition – Nakup raket zrak-zemlja 2,75''",
@@ -146,30 +158,16 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/661105-2026"
         },
         {
-          "id": "663590-2026",
-          "date": "2026-09-25",
-          "title": "Germany – Radar detectors – Rahmenvereinbarung über die Lieferung von mobilen Drohnendetektoren auf Radarbasis, Radar Panel Echo Shield",
-          "buyer": "Freistaat Bayern, vertreten durch das Logistikzentrum der Bayerischen Polizei (LZBP)",
-          "country": "DEU",
-          "cpv": [
-            "35121900",
-            "35722000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/663590-2026"
-        },
-        {
-          "id": "659990-2026",
+          "id": "658634-2026",
           "date": "2026-09-24",
-          "title": "Greece – Industrial machinery – Δράσεις και Παρεμβάσεις Ενεργειακής αναβάθμισης Πολιτιστικού & Πνευματικού Κέντρου Κορίνθου του Δήμου Κορινθίων",
-          "buyer": "ΔΗΜΟΣ ΚΟΡΙΝΘΙΩΝ",
-          "country": "GRC",
+          "title": "Switzerland – Foundry moulds – IWB, Wasserleitungsrohre (Guss) und Formstücke",
+          "buyer": "IWB Industrielle Werke Basel",
+          "country": "CHE",
           "cpv": [
-            "42000000",
-            "42511110",
-            "44115200",
-            "44115210"
+            "43415000",
+            "35341100"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/659990-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/658634-2026"
         },
         {
           "id": "658554-2026",
@@ -195,16 +193,18 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/659970-2026"
         },
         {
-          "id": "658634-2026",
+          "id": "659990-2026",
           "date": "2026-09-24",
-          "title": "Switzerland – Foundry moulds – IWB, Wasserleitungsrohre (Guss) und Formstücke",
-          "buyer": "IWB Industrielle Werke Basel",
-          "country": "CHE",
+          "title": "Greece – Industrial machinery – Δράσεις και Παρεμβάσεις Ενεργειακής αναβάθμισης Πολιτιστικού & Πνευματικού Κέντρου Κορίνθου του Δήμου Κορινθίων",
+          "buyer": "ΔΗΜΟΣ ΚΟΡΙΝΘΙΩΝ",
+          "country": "GRC",
           "cpv": [
-            "43415000",
-            "35341100"
+            "42000000",
+            "42511110",
+            "44115200",
+            "44115210"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/658634-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/659990-2026"
         },
         {
           "id": "657152-2026",
@@ -233,215 +233,215 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 4.1,
+      "score": 4.9,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-06-25",
-      "reporting_lag_days": 93,
-      "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 62433172.85,
+      "latest_observation": "2026-06-26",
+      "reporting_lag_days": 92,
+      "freshness_factor": 0.23,
+      "current_14d_weekly_equivalent": 123536975.6,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
-          "name": "RAYTHEON COMPANY",
-          "amount": 52255329.3
+          "name": "GENERAL DYNAMICS-OTS, INC.",
+          "amount": 58988743.0
+        },
+        {
+          "name": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 41287990.0
+        },
+        {
+          "name": "KONGSBERG DEFENCE & AEROSPACE AS",
+          "amount": 27974933.77
         },
         {
           "name": "L3HARRIS TECHNOLOGIES, INC.",
           "amount": 14309373.25
         },
         {
+          "name": "RTX CORPORATION",
+          "amount": 13018527.55
+        },
+        {
           "name": "THE BOEING COMPANY",
-          "amount": 11844297.72
+          "amount": 12393437.84
         },
         {
-          "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 10957747.0
-        },
-        {
-          "name": "DAVIS THORPE CO. LLC",
-          "amount": 5852838.36
-        },
-        {
-          "name": "ROLLS-ROYCE CORPORATION",
-          "amount": 5733186.0
+          "name": "NORTHROP GRUMMAN SYSTEMS CORP",
+          "amount": 11406632.0
         },
         {
           "name": "GENERAL ELECTRIC COMPANY",
-          "amount": 2436684.54
-        },
-        {
-          "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 2160540.24
+          "amount": 11175526.83
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
         {
-          "date": "2026-06-25",
-          "award_id": "N0002425C5413",
-          "recipient": "RAYTHEON COMPANY",
-          "amount": 20000000.0,
+          "date": "2026-06-26",
+          "award_id": "W15QKN26F0178",
+          "recipient": "GENERAL DYNAMICS-OTS, INC.",
+          "amount": 54811658.0,
+          "agency": "Department of the Army",
+          "description": "DELIVERY ORDER W15QKN26F0178 UNDER BASE CONTRACT W15QKN-19-D-0110 IS FUND GFM STORAGE CAPACITY INCREASE IN SUPPORT OF THE PRODUCTION OF THE MACS M231/M232 TYPE LAP FOR THE 155MM PROPELLING CHARGES.",
+          "naics": "332993"
+        },
+        {
+          "date": "2026-06-26",
+          "award_id": "W58RGZ25F0212",
+          "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 41039867.0,
+          "agency": "Department of the Army",
+          "description": "PROVIDE SUPPORT FOR THE PERSONNEL, MATERIALS, FACILITIES, AND SERVICES REQUIRED TO PROCURE, FABRICATE, MODIFY, VERIFY, DOCUMENT SYSTEM PERFORMANCE, AND AIRWORTHINESS SUPPORT FOR 35 UH-60M AIRCRAF",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-26",
+          "award_id": "W15QKN26F0181",
+          "recipient": "KONGSBERG DEFENCE & AEROSPACE AS",
+          "amount": 27797423.27,
+          "agency": "Department of the Army",
+          "description": "THIS DELIVERY ORDER IS FOR THE PROCUREMENT OF PARTS AND SPARES FOR THE COMMONLY OPERATED REMOTE WEAPONS SYSTEM (CROWS) ON BEHALF OF VARIOUS USG CUSTOMERS.",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-06-26",
+          "award_id": "N0001924C0042",
+          "recipient": "RTX CORPORATION",
+          "amount": 10246330.0,
           "agency": "Department of the Navy",
-          "description": "RFNIU UPDATE TO 3.5.3.3",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-06-25",
-          "award_id": "FA855626CB003",
-          "recipient": "RAYTHEON COMPANY",
-          "amount": 19116913.0,
-          "agency": "Department of the Air Force",
-          "description": "THIS UNDEFINITIZED CONTRACT ACTION (UCA) FOR D4/C9 EMD DESIGN WILL ONLY COVER TASKS THAT SUPPORT THE FIRST 18 MONTHS OF D4/C9 EMD TO INCLUDE SRR AND EARLY ACTIONS THAT WILL SUPPORT A FUTURE D4/C9 PDR.",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-06-25",
-          "award_id": "H9224126FE033",
-          "recipient": "L3HARRIS TECHNOLOGIES, INC.",
-          "amount": 13752159.35,
-          "agency": "U.S. Special Operations Command",
-          "description": "SEE ATTACHMENT 1 - STATEMENT OF WORK (SOW).",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-25",
-          "award_id": "N0001926F0155",
-          "recipient": "RAYTHEON COMPANY",
-          "amount": 12031117.0,
-          "agency": "Department of the Navy",
-          "description": "JPALS UNIT, OBRP PARTS, INCO KIT FOR THE GOVERNMENT OF ITALY",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-25",
-          "award_id": "FA853326F0011",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 8509342.0,
-          "agency": "Department of the Air Force",
-          "description": "COMMON ORGANIZATIONAL LEVEL TESTER (COLT) PLUS CONTRACT.",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-25",
-          "award_id": "FA861718F8001",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 7000000.0,
-          "agency": "Department of the Air Force",
-          "description": "ADVANCED PILOT TRAINING PROGRAM ENGINEERING MANUFACTURING AND DEVELOPMENT",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-25",
-          "award_id": "SPRTA126C0084",
-          "recipient": "DAVIS THORPE CO. LLC",
-          "amount": 5852838.36,
-          "agency": "Defense Logistics Agency",
-          "description": "MANUFACTURE OF AIRCRAFT DOOR FOR THE KC-135 AIRCRAFT.",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-25",
-          "award_id": "N0001926F0298",
-          "recipient": "ROLLS-ROYCE CORPORATION",
-          "amount": 5733186.0,
-          "agency": "Department of the Navy",
-          "description": "THE PURPOSE OF THIS MODIFICATION IS TO OBLIGATE FY26 O&M,N FUNDING TO SUPPORT THE USMC ACTIVE REQUIREMENTS FOR SLINS 0003-0006 AA AND AB FOR CAE540639 AND CAE540342.",
+          "description": "F135 ENGINE CORE UPGRADE RISK REDUCTION DESIGN (ECU RRD) ADMINISTRATIVE MODIFICATION FOR INCREMENTAL FUNDING AND CHANGE OF DFAS PAY OFFICE.",
           "naics": "336412"
         },
         {
-          "date": "2026-06-25",
-          "award_id": "FA863418C2701",
+          "date": "2026-06-26",
+          "award_id": "W58RGZ26C0019",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 10210041.0,
+          "agency": "Department of the Army",
+          "description": "CONTRACT W58RGZ-26-C-0019 IS AWARDED 55 MONTHS FIRM-FIXED PRICE (FFP) CONTRACT FOR APX-123A MODE 5 CAPABILITY NON-RECURRING ENGINEERING (NRE) AND RETROFIT AIRCRAFT CONFIGURATION CHANGE IN SUPPORT OF SAUDI ARABIA NATIONAL GUARD, FMS SI-B-WAY.",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-26",
+          "award_id": "FA813426FB007",
           "recipient": "THE BOEING COMPANY",
-          "amount": 2554186.0,
+          "amount": 8242146.0,
           "agency": "Department of the Air Force",
-          "description": "F-15, FOREIGN MILITARY SALES, QATAR PROGRAM",
+          "description": "E-4B CONTRACT LOGISTICS SUPPORT (CLS) OPTION YEARS 10 AND 11",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-26",
+          "award_id": "FA811026FB001",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
+          "amount": 7782990.0,
+          "agency": "Department of the Air Force",
+          "description": "THIS REQUIREMENT IS IN ACCORDANCE TO B-2 CY26-CY28 CAPABILITIES, DEVELOPMENT, INNOVATION, AND SUSTAINMENT (CDIS) II PWS DATED 12 DECEMBER 2025.",
           "naics": "336411"
         },
         {
-          "date": "2026-06-25",
-          "award_id": "FA862122C0020",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 2315633.0,
-          "agency": "Department of the Air Force",
-          "description": "FMS - BAHRAIN, SLOVAKIA, BULGARIA F-16 BLOCK 70",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-25",
-          "award_id": "N0042126F1019",
+          "date": "2026-06-26",
+          "award_id": "SPE4A226F0776",
           "recipient": "GENERAL ELECTRIC COMPANY",
-          "amount": 2026090.52,
-          "agency": "Department of the Navy",
-          "description": "FY26 MPPST DO",
+          "amount": 7584443.19,
+          "agency": "Defense Logistics Agency",
+          "description": "8511817177!PBL MATERIAL GE - RESERVED FO",
           "naics": "336412"
         },
         {
-          "date": "2026-06-25",
-          "award_id": "W519TC25F0050",
+          "date": "2026-06-26",
+          "award_id": "FA862113C6247",
+          "recipient": "FLIGHTSAFETY DEFENSE CORPORATION",
+          "amount": 6436966.33,
+          "agency": "Department of the Air Force",
+          "description": "KC-46 AIRCREW TRAINING SYSTEM (ATS)",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-26",
+          "award_id": "N0001918C1037",
           "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 1967054.76,
-          "agency": "Department of the Army",
-          "description": "30MM MK239 TARGET PRACTICE WITH TRACE (TP-T) CARTRIDGES, DEPARTMENT OF DEFENSE IDENTIFICATION CODE (DODIC): AA90, NATIONAL STOCK NUMBER (NSN): 1305-01-524-0220.",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-06-25",
-          "award_id": "FA853825F0032",
-          "recipient": "ENGINEERING AND SOFTWARE SYSTEM SOLUTIONS, INC.",
-          "amount": 1817185.65,
-          "agency": "Department of the Air Force",
-          "description": "IGF: :OT: :IGF REPAIR OF FSC 1560 NSNS",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-25",
-          "award_id": "FA863422F0044",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 1577386.8,
-          "agency": "Department of the Air Force",
-          "description": "F-15 -- RAPID RESPONSE DELIVERY ORDER",
+          "amount": 5800000.0,
+          "agency": "Department of the Navy",
+          "description": "E-2D MULTIYEAR PRODUCTION II",
           "naics": "336411"
         },
         {
-          "date": "2026-06-25",
-          "award_id": "FA813426FB028",
-          "recipient": "STRATEGIC MISSION SYSTEMS, LLC",
-          "amount": 1363107.51,
-          "agency": "Department of the Air Force",
-          "description": "SPECTRE 2A A-KIT INSTALL FOR AC 1677",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-25",
-          "award_id": "FA862116C6371",
-          "recipient": "CAE USA INC.",
-          "amount": 1305945.0,
-          "agency": "Department of the Air Force",
-          "description": "AWACS DRAGON FCTS",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-25",
-          "award_id": "W15QKN19C0032",
-          "recipient": "RDZM, LLC",
-          "amount": 893592.57,
-          "agency": "Department of the Army",
-          "description": "HEDP",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-06-25",
-          "award_id": "SPRPA126PRA24",
-          "recipient": "ELECTROMECH TECHNOLOGIES LLC",
-          "amount": 888678.25,
+          "date": "2026-06-26",
+          "award_id": "SPRTA126F0137",
+          "recipient": "GENERAL ELECTRIC COMPANY",
+          "amount": 3587592.96,
           "agency": "Defense Logistics Agency",
-          "description": "MOTOR-PUMP,HYDRAULI",
+          "description": "SHROUD SEGMENT,TURB SUPPORING THE F110",
           "naics": "336413"
+        },
+        {
+          "date": "2026-06-26",
+          "award_id": "FA862121F6253",
+          "recipient": "CAE USA INC.",
+          "amount": 3270180.62,
+          "agency": "Department of the Air Force",
+          "description": "KC-135 TS: SIMULATOR COMMON ARCHITECTURE REQUIREMENTS AND STANDARDS (SCARS) CHANGE IN PRICE: $3,280,944.44 CHANGE IN OBLIGATION: $3,280,944.44 PCO EMAIL: VANESSA.POTTINGER.3@US.AF.MIL",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-26",
+          "award_id": "FA869021F1001",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 2394081.92,
+          "agency": "Department of the Air Force",
+          "description": "MISSION PLANNING",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-26",
+          "award_id": "W15QKN24F0443",
+          "recipient": "GENERAL DYNAMICS-OTS, INC.",
+          "amount": 2270296.0,
+          "agency": "Department of the Army",
+          "description": "THE PURPOSE OF MODIFICATION P00002 UNDER DELIVERY ORDER W15QKN24F0443 IS TO PROVIDE FUNDING FOR THE UNIT PRICE ADJUSTMENT DUE TO THE INCREASE AND RAMP UP IN PRODUCTION CAPACITY, UPDATED DFAS CODE, AND MODIFY DESTINATION DODAAC UNDER CLIN0039AG.",
+          "naics": "332993"
+        },
+        {
+          "date": "2026-06-26",
+          "award_id": "FA811025F0003",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
+          "amount": 1968195.0,
+          "agency": "Department of the Air Force",
+          "description": "B-2 CY25-CY28 CONTRACTOR LOGISTICS SUPPORT (CLS)",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-26",
+          "award_id": "W15QKN23F0048",
+          "recipient": "GENERAL DYNAMICS-OTS, INC.",
+          "amount": 1478798.0,
+          "agency": "Department of the Army",
+          "description": "THE PURPOSE OF MODIFICATION P00002 IS TO REVISE THE DELIVERY SCHEDULE UNDER CLIN 0024AA-AB, UPDATE DFAS CODE, TO FUND THE UNIT PRICE INCREASE UNDER CLIN0024AC, AND TO FORMALLY INCORPORATE RFV R25A8019 AND R26A8006 AT NO ADDITIONAL COST.",
+          "naics": "332993"
+        },
+        {
+          "date": "2026-06-26",
+          "award_id": "FA811026FB001",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
+          "amount": 692888.0,
+          "agency": "Department of the Air Force",
+          "description": "THIS REQUIREMENT IS IN ACCORDANCE TO B-2 CY26-CY28 CAPABILITIES, DEVELOPMENT, INNOVATION, AND SUSTAINMENT (CDIS) II PWS DATED 12 DECEMBER 2025.",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-26",
+          "award_id": "FA811026FB001",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
+          "amount": 643600.0,
+          "agency": "Department of the Air Force",
+          "description": "THIS REQUIREMENT IS IN ACCORDANCE TO B-2 CY26-CY28 CAPABILITIES, DEVELOPMENT, INNOVATION, AND SUSTAINMENT (CDIS) II PWS DATED 12 DECEMBER 2025.",
+          "naics": "336411"
         }
       ]
     },
@@ -536,7 +536,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-09-15",
@@ -576,7 +576,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-09-14",
@@ -656,11 +656,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-10T21:06:53.401693+00:00",
-      "score": 16.4,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-11T05:03:47.960643+00:00",
       "score": 16.4,
@@ -954,6 +949,11 @@
     {
       "generated": "2026-09-26T05:20:37.717728+00:00",
       "score": 21.7,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-26T11:42:27.213025+00:00",
+      "score": 21.9,
       "status": "BASELINE"
     }
   ],
