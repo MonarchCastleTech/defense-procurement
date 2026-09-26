@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-25T21:45:48.590072+00:00",
+    "generated": "2026-09-26T05:20:37.717728+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,38 +26,12 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 604,
+      "coverage": 596,
       "current_14d_weekly_equivalent": 39.5,
       "baseline_weekly_median": 43.0,
       "anomaly_z": -0.67,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
-        {
-          "id": "660593-2026",
-          "date": "2026-09-25",
-          "title": "Greece – Sensors – ΔΙΑΚΗΡΥΞΗ για την προμήθεια εξοπλισμού και του ολοκληρωμένου συστήματος παρακολούθησης και εποπτείας",
-          "buyer": "ΟΡΓΑΝΙΣΜΟΣ ΦΥΣΙΚΟΥ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΚΛΙΜΑΤΙΚΗΣ ΑΛΛΑΓΗΣ",
-          "country": "GRC",
-          "cpv": [
-            "35125100",
-            "48329000",
-            "35312000",
-            "44313100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/660593-2026"
-        },
-        {
-          "id": "660574-2026",
-          "date": "2026-09-25",
-          "title": "France – Commissioning of heating installations – Maintenance, diagnostic, mise à niveau et exploitation des GTB des bâtiments et des collèges du Département des Pyrénées-Atlantiques",
-          "buyer": "Département des Pyrénées-Atlantiques",
-          "country": "FRA",
-          "cpv": [
-            "50721000",
-            "35710000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/660574-2026"
-        },
         {
           "id": "662048-2026",
           "date": "2026-09-25",
@@ -69,17 +43,6 @@
             "38290000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/662048-2026"
-        },
-        {
-          "id": "663681-2026",
-          "date": "2026-09-25",
-          "title": "Spain – Ammunition – Adquisición de granadas de aturdimiento Stun",
-          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
-          "country": "ESP",
-          "cpv": [
-            "35330000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/663681-2026"
         },
         {
           "id": "662186-2026",
@@ -94,6 +57,43 @@
             "18200000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/662186-2026"
+        },
+        {
+          "id": "660574-2026",
+          "date": "2026-09-25",
+          "title": "France – Commissioning of heating installations – Maintenance, diagnostic, mise à niveau et exploitation des GTB des bâtiments et des collèges du Département des Pyrénées-Atlantiques",
+          "buyer": "Département des Pyrénées-Atlantiques",
+          "country": "FRA",
+          "cpv": [
+            "50721000",
+            "35710000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/660574-2026"
+        },
+        {
+          "id": "663681-2026",
+          "date": "2026-09-25",
+          "title": "Spain – Ammunition – Adquisición de granadas de aturdimiento Stun",
+          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+          "country": "ESP",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/663681-2026"
+        },
+        {
+          "id": "660593-2026",
+          "date": "2026-09-25",
+          "title": "Greece – Sensors – ΔΙΑΚΗΡΥΞΗ για την προμήθεια εξοπλισμού και του ολοκληρωμένου συστήματος παρακολούθησης και εποπτείας",
+          "buyer": "ΟΡΓΑΝΙΣΜΟΣ ΦΥΣΙΚΟΥ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΚΛΙΜΑΤΙΚΗΣ ΑΛΛΑΓΗΣ",
+          "country": "GRC",
+          "cpv": [
+            "35125100",
+            "48329000",
+            "35312000",
+            "44313100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/660593-2026"
         },
         {
           "id": "663717-2026",
@@ -121,18 +121,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/660795-2026"
         },
         {
-          "id": "663590-2026",
-          "date": "2026-09-25",
-          "title": "Germany – Radar detectors – Rahmenvereinbarung über die Lieferung von mobilen Drohnendetektoren auf Radarbasis, Radar Panel Echo Shield",
-          "buyer": "Freistaat Bayern, vertreten durch das Logistikzentrum der Bayerischen Polizei (LZBP)",
-          "country": "DEU",
-          "cpv": [
-            "35121900",
-            "35722000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/663590-2026"
-        },
-        {
           "id": "660644-2026",
           "date": "2026-09-25",
           "title": "Slovenia – Ammunition – Nakup raket zrak-zemlja 2,75''",
@@ -158,16 +146,30 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/661105-2026"
         },
         {
-          "id": "658634-2026",
-          "date": "2026-09-24",
-          "title": "Switzerland – Foundry moulds – IWB, Wasserleitungsrohre (Guss) und Formstücke",
-          "buyer": "IWB Industrielle Werke Basel",
-          "country": "CHE",
+          "id": "663590-2026",
+          "date": "2026-09-25",
+          "title": "Germany – Radar detectors – Rahmenvereinbarung über die Lieferung von mobilen Drohnendetektoren auf Radarbasis, Radar Panel Echo Shield",
+          "buyer": "Freistaat Bayern, vertreten durch das Logistikzentrum der Bayerischen Polizei (LZBP)",
+          "country": "DEU",
           "cpv": [
-            "43415000",
-            "35341100"
+            "35121900",
+            "35722000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/658634-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/663590-2026"
+        },
+        {
+          "id": "659990-2026",
+          "date": "2026-09-24",
+          "title": "Greece – Industrial machinery – Δράσεις και Παρεμβάσεις Ενεργειακής αναβάθμισης Πολιτιστικού & Πνευματικού Κέντρου Κορίνθου του Δήμου Κορινθίων",
+          "buyer": "ΔΗΜΟΣ ΚΟΡΙΝΘΙΩΝ",
+          "country": "GRC",
+          "cpv": [
+            "42000000",
+            "42511110",
+            "44115200",
+            "44115210"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/659990-2026"
         },
         {
           "id": "658554-2026",
@@ -193,18 +195,16 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/659970-2026"
         },
         {
-          "id": "659990-2026",
+          "id": "658634-2026",
           "date": "2026-09-24",
-          "title": "Greece – Industrial machinery – Δράσεις και Παρεμβάσεις Ενεργειακής αναβάθμισης Πολιτιστικού & Πνευματικού Κέντρου Κορίνθου του Δήμου Κορινθίων",
-          "buyer": "ΔΗΜΟΣ ΚΟΡΙΝΘΙΩΝ",
-          "country": "GRC",
+          "title": "Switzerland – Foundry moulds – IWB, Wasserleitungsrohre (Guss) und Formstücke",
+          "buyer": "IWB Industrielle Werke Basel",
+          "country": "CHE",
           "cpv": [
-            "42000000",
-            "42511110",
-            "44115200",
-            "44115210"
+            "43415000",
+            "35341100"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/659990-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/658634-2026"
         },
         {
           "id": "657152-2026",
@@ -233,16 +233,16 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 4.2,
+      "score": 4.1,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-06-25",
-      "reporting_lag_days": 92,
-      "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 59157767.14,
+      "reporting_lag_days": 93,
+      "freshness_factor": 0.22,
+      "current_14d_weekly_equivalent": 62433172.85,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -255,8 +255,12 @@
           "amount": 14309373.25
         },
         {
+          "name": "THE BOEING COMPANY",
+          "amount": 11844297.72
+        },
+        {
           "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 13273380.0
+          "amount": 10957747.0
         },
         {
           "name": "DAVIS THORPE CO. LLC",
@@ -267,16 +271,12 @@
           "amount": 5733186.0
         },
         {
-          "name": "THE BOEING COMPANY",
-          "amount": 3591153.07
-        },
-        {
           "name": "GENERAL ELECTRIC COMPANY",
-          "amount": 2452972.54
+          "amount": 2436684.54
         },
         {
           "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 1967054.76
+          "amount": 2160540.24
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -328,6 +328,15 @@
         },
         {
           "date": "2026-06-25",
+          "award_id": "FA861718F8001",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 7000000.0,
+          "agency": "Department of the Air Force",
+          "description": "ADVANCED PILOT TRAINING PROGRAM ENGINEERING MANUFACTURING AND DEVELOPMENT",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-25",
           "award_id": "SPRTA126C0084",
           "recipient": "DAVIS THORPE CO. LLC",
           "amount": 5852838.36,
@@ -346,11 +355,11 @@
         },
         {
           "date": "2026-06-25",
-          "award_id": "FA862122C0020",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 2315633.0,
+          "award_id": "FA863418C2701",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 2554186.0,
           "agency": "Department of the Air Force",
-          "description": "FMS - BAHRAIN, SLOVAKIA, BULGARIA F-16 BLOCK 70",
+          "description": "F-15, FOREIGN MILITARY SALES, QATAR PROGRAM",
           "naics": "336411"
         },
         {
@@ -388,15 +397,6 @@
           "agency": "Department of the Air Force",
           "description": "IGF: :OT: :IGF REPAIR OF FSC 1560 NSNS",
           "naics": "336413"
-        },
-        {
-          "date": "2026-06-25",
-          "award_id": "FA863422F0044",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 1577386.8,
-          "agency": "Department of the Air Force",
-          "description": "F-15 -- RAPID RESPONSE DELIVERY ORDER",
-          "naics": "336411"
         },
         {
           "date": "2026-06-25",
@@ -656,11 +656,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-10T16:37:21.985302+00:00",
-      "score": 16.4,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-10T21:06:53.401693+00:00",
       "score": 16.4,
@@ -953,6 +948,11 @@
     },
     {
       "generated": "2026-09-25T21:45:48.590072+00:00",
+      "score": 21.7,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-26T05:20:37.717728+00:00",
       "score": 21.7,
       "status": "BASELINE"
     }
