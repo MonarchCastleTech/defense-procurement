@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-26T11:42:27.213025+00:00",
+    "generated": "2026-09-26T16:38:29.120133+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -233,7 +233,7 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 4.9,
+      "score": 5.0,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -242,7 +242,7 @@
       "latest_observation": "2026-06-26",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 123536975.6,
+      "current_14d_weekly_equivalent": 127121218.36,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -259,16 +259,16 @@
           "amount": 27974933.77
         },
         {
+          "name": "THE BOEING COMPANY",
+          "amount": 19489437.84
+        },
+        {
           "name": "L3HARRIS TECHNOLOGIES, INC.",
-          "amount": 14309373.25
+          "amount": 13752159.35
         },
         {
           "name": "RTX CORPORATION",
           "amount": 13018527.55
-        },
-        {
-          "name": "THE BOEING COMPANY",
-          "amount": 12393437.84
         },
         {
           "name": "NORTHROP GRUMMAN SYSTEMS CORP",
@@ -466,7 +466,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-24",
@@ -476,7 +476,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-24",
@@ -486,7 +486,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-24",
@@ -496,7 +496,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-24",
@@ -506,7 +506,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-18",
@@ -516,7 +516,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-09-15",
@@ -526,7 +526,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-09-15",
@@ -546,7 +546,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-09-15",
@@ -556,7 +556,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-09-15",
@@ -566,7 +566,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-09-15",
@@ -586,7 +586,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 11
+          "age": 12
         },
         {
           "date": "2026-09-14",
@@ -596,7 +596,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 11
+          "age": 12
         }
       ]
     },
@@ -656,11 +656,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-11T05:03:47.960643+00:00",
-      "score": 16.4,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-11T11:43:36.678323+00:00",
       "score": 16.3,
@@ -953,6 +948,11 @@
     },
     {
       "generated": "2026-09-26T11:42:27.213025+00:00",
+      "score": 21.9,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-26T16:38:29.120133+00:00",
       "score": 21.9,
       "status": "BASELINE"
     }
