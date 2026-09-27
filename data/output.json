@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-26T21:24:41.827894+00:00",
+    "generated": "2026-09-27T05:37:20.376367+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 21.9,
-    "raw_score": 21.9,
+    "score": 20.9,
+    "raw_score": 20.9,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 21.9/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 20.9/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -33,18 +33,6 @@
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
-          "id": "662048-2026",
-          "date": "2026-09-25",
-          "title": "Estonia – Unmanned aerial vehicles – Hüperspektraalkaameraga drooni ostmine",
-          "buyer": "Tartu Ülikool",
-          "country": "EST",
-          "cpv": [
-            "35613000",
-            "38290000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/662048-2026"
-        },
-        {
           "id": "662186-2026",
           "date": "2026-09-25",
           "title": "Norway – Security, fire-fighting, police and defence equipment – Consultation and information enquiry - Procurement of trade fair and service uniforms with accessories.",
@@ -57,29 +45,6 @@
             "18200000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/662186-2026"
-        },
-        {
-          "id": "660574-2026",
-          "date": "2026-09-25",
-          "title": "France – Commissioning of heating installations – Maintenance, diagnostic, mise à niveau et exploitation des GTB des bâtiments et des collèges du Département des Pyrénées-Atlantiques",
-          "buyer": "Département des Pyrénées-Atlantiques",
-          "country": "FRA",
-          "cpv": [
-            "50721000",
-            "35710000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/660574-2026"
-        },
-        {
-          "id": "663681-2026",
-          "date": "2026-09-25",
-          "title": "Spain – Ammunition – Adquisición de granadas de aturdimiento Stun",
-          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
-          "country": "ESP",
-          "cpv": [
-            "35330000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/663681-2026"
         },
         {
           "id": "660593-2026",
@@ -96,15 +61,39 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/660593-2026"
         },
         {
-          "id": "660795-2026",
+          "id": "660574-2026",
           "date": "2026-09-25",
-          "title": "Latvia – Weapons, ammunition and associated parts – Bises, tās rezerves daļu un personāla apmācības iegāde",
-          "buyer": "Valsts aizsardzības loģistikas un iepirkumu centrs",
-          "country": "LVA",
+          "title": "France – Commissioning of heating installations – Maintenance, diagnostic, mise à niveau et exploitation des GTB des bâtiments et des collèges du Département des Pyrénées-Atlantiques",
+          "buyer": "Département des Pyrénées-Atlantiques",
+          "country": "FRA",
           "cpv": [
-            "35300000"
+            "50721000",
+            "35710000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/660795-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/660574-2026"
+        },
+        {
+          "id": "662048-2026",
+          "date": "2026-09-25",
+          "title": "Estonia – Unmanned aerial vehicles – Hüperspektraalkaameraga drooni ostmine",
+          "buyer": "Tartu Ülikool",
+          "country": "EST",
+          "cpv": [
+            "35613000",
+            "38290000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/662048-2026"
+        },
+        {
+          "id": "663681-2026",
+          "date": "2026-09-25",
+          "title": "Spain – Ammunition – Adquisición de granadas de aturdimiento Stun",
+          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+          "country": "ESP",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/663681-2026"
         },
         {
           "id": "663717-2026",
@@ -121,16 +110,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/663717-2026"
         },
         {
-          "id": "663590-2026",
+          "id": "660795-2026",
           "date": "2026-09-25",
-          "title": "Germany – Radar detectors – Rahmenvereinbarung über die Lieferung von mobilen Drohnendetektoren auf Radarbasis, Radar Panel Echo Shield",
-          "buyer": "Freistaat Bayern, vertreten durch das Logistikzentrum der Bayerischen Polizei (LZBP)",
-          "country": "DEU",
+          "title": "Latvia – Weapons, ammunition and associated parts – Bises, tās rezerves daļu un personāla apmācības iegāde",
+          "buyer": "Valsts aizsardzības loģistikas un iepirkumu centrs",
+          "country": "LVA",
           "cpv": [
-            "35121900",
-            "35722000"
+            "35300000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/663590-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/660795-2026"
         },
         {
           "id": "660644-2026",
@@ -158,18 +146,40 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/661105-2026"
         },
         {
-          "id": "659990-2026",
-          "date": "2026-09-24",
-          "title": "Greece – Industrial machinery – Δράσεις και Παρεμβάσεις Ενεργειακής αναβάθμισης Πολιτιστικού & Πνευματικού Κέντρου Κορίνθου του Δήμου Κορινθίων",
-          "buyer": "ΔΗΜΟΣ ΚΟΡΙΝΘΙΩΝ",
-          "country": "GRC",
+          "id": "663590-2026",
+          "date": "2026-09-25",
+          "title": "Germany – Radar detectors – Rahmenvereinbarung über die Lieferung von mobilen Drohnendetektoren auf Radarbasis, Radar Panel Echo Shield",
+          "buyer": "Freistaat Bayern, vertreten durch das Logistikzentrum der Bayerischen Polizei (LZBP)",
+          "country": "DEU",
           "cpv": [
-            "42000000",
-            "42511110",
-            "44115200",
-            "44115210"
+            "35121900",
+            "35722000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/659990-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/663590-2026"
+        },
+        {
+          "id": "657152-2026",
+          "date": "2026-09-24",
+          "title": "Poland – Weapons, ammunition and associated parts – Dostawa technicznych środków materiałowych, zestawów konwersyjnych do nabojów UTM do broni strzeleckiej",
+          "buyer": "1 REGIONALNA BAZA LOGISTYCZNA",
+          "country": "POL",
+          "cpv": [
+            "35300000",
+            "35341000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/657152-2026"
+        },
+        {
+          "id": "658634-2026",
+          "date": "2026-09-24",
+          "title": "Switzerland – Foundry moulds – IWB, Wasserleitungsrohre (Guss) und Formstücke",
+          "buyer": "IWB Industrielle Werke Basel",
+          "country": "CHE",
+          "cpv": [
+            "43415000",
+            "35341100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/658634-2026"
         },
         {
           "id": "658554-2026",
@@ -195,28 +205,18 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/659970-2026"
         },
         {
-          "id": "658634-2026",
+          "id": "659990-2026",
           "date": "2026-09-24",
-          "title": "Switzerland – Foundry moulds – IWB, Wasserleitungsrohre (Guss) und Formstücke",
-          "buyer": "IWB Industrielle Werke Basel",
-          "country": "CHE",
+          "title": "Greece – Industrial machinery – Δράσεις και Παρεμβάσεις Ενεργειακής αναβάθμισης Πολιτιστικού & Πνευματικού Κέντρου Κορίνθου του Δήμου Κορινθίων",
+          "buyer": "ΔΗΜΟΣ ΚΟΡΙΝΘΙΩΝ",
+          "country": "GRC",
           "cpv": [
-            "43415000",
-            "35341100"
+            "42000000",
+            "42511110",
+            "44115200",
+            "44115210"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/658634-2026"
-        },
-        {
-          "id": "657152-2026",
-          "date": "2026-09-24",
-          "title": "Poland – Weapons, ammunition and associated parts – Dostawa technicznych środków materiałowych, zestawów konwersyjnych do nabojów UTM do broni strzeleckiej",
-          "buyer": "1 REGIONALNA BAZA LOGISTYCZNA",
-          "country": "POL",
-          "cpv": [
-            "35300000",
-            "35341000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/657152-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/659990-2026"
         },
         {
           "id": "658418-2026",
@@ -233,16 +233,16 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 5.0,
+      "score": 4.8,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-06-26",
-      "reporting_lag_days": 92,
-      "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 127390017.61,
+      "reporting_lag_days": 93,
+      "freshness_factor": 0.22,
+      "current_14d_weekly_equivalent": 124520271.12,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -259,24 +259,24 @@
           "amount": 27974933.77
         },
         {
-          "name": "THE BOEING COMPANY",
-          "amount": 19489437.84
+          "name": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 20644027.57
         },
         {
           "name": "L3HARRIS TECHNOLOGIES, INC.",
-          "amount": 14309373.25
+          "amount": 14866587.15
         },
         {
           "name": "RTX CORPORATION",
-          "amount": 13018527.55
+          "amount": 12776888.38
+        },
+        {
+          "name": "THE BOEING COMPANY",
+          "amount": 12393437.84
         },
         {
           "name": "NORTHROP GRUMMAN SYSTEMS CORP",
           "amount": 11406632.0
-        },
-        {
-          "name": "GENERAL ELECTRIC COMPANY",
-          "amount": 11175526.83
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -328,6 +328,15 @@
         },
         {
           "date": "2026-06-26",
+          "award_id": "W58RGZ26C0019",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 10210041.0,
+          "agency": "Department of the Army",
+          "description": "CONTRACT W58RGZ-26-C-0019 IS AWARDED 55 MONTHS FIRM-FIXED PRICE (FFP) CONTRACT FOR APX-123A MODE 5 CAPABILITY NON-RECURRING ENGINEERING (NRE) AND RETROFIT AIRCRAFT CONFIGURATION CHANGE IN SUPPORT OF SAUDI ARABIA NATIONAL GUARD, FMS SI-B-WAY.",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-26",
           "award_id": "FA813426FB007",
           "recipient": "THE BOEING COMPANY",
           "amount": 8242146.0,
@@ -343,15 +352,6 @@
           "agency": "Department of the Air Force",
           "description": "THIS REQUIREMENT IS IN ACCORDANCE TO B-2 CY26-CY28 CAPABILITIES, DEVELOPMENT, INNOVATION, AND SUSTAINMENT (CDIS) II PWS DATED 12 DECEMBER 2025.",
           "naics": "336411"
-        },
-        {
-          "date": "2026-06-26",
-          "award_id": "SPE4A226F0776",
-          "recipient": "GENERAL ELECTRIC COMPANY",
-          "amount": 7584443.19,
-          "agency": "Defense Logistics Agency",
-          "description": "8511817177!PBL MATERIAL GE - RESERVED FO",
-          "naics": "336412"
         },
         {
           "date": "2026-06-26",
@@ -447,15 +447,15 @@
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 48.3,
-      "status": "ELEVATED",
+      "score": 43.6,
+      "status": "WATCH",
       "weight": 0.2,
       "available": true,
       "retained": false,
       "coverage": 94,
       "current_14d_weekly_equivalent": 17.25,
-      "baseline_weekly_median": 4.0,
-      "anomaly_z": 2.23,
+      "baseline_weekly_median": 5.0,
+      "anomaly_z": 1.65,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -656,11 +656,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-11T16:42:00.825014+00:00",
-      "score": 16.3,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-11T21:10:56.474364+00:00",
       "score": 16.3,
@@ -954,6 +949,11 @@
     {
       "generated": "2026-09-26T21:24:41.827894+00:00",
       "score": 21.9,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-27T05:37:20.376367+00:00",
+      "score": 20.9,
       "status": "BASELINE"
     }
   ],
