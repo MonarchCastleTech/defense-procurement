@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-27T05:37:20.376367+00:00",
+    "generated": "2026-09-27T12:21:47.526859+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 20.9,
-    "raw_score": 20.9,
+    "score": 21.0,
+    "raw_score": 21.0,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 20.9/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 21.0/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -121,6 +121,18 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/660795-2026"
         },
         {
+          "id": "663590-2026",
+          "date": "2026-09-25",
+          "title": "Germany – Radar detectors – Rahmenvereinbarung über die Lieferung von mobilen Drohnendetektoren auf Radarbasis, Radar Panel Echo Shield",
+          "buyer": "Freistaat Bayern, vertreten durch das Logistikzentrum der Bayerischen Polizei (LZBP)",
+          "country": "DEU",
+          "cpv": [
+            "35121900",
+            "35722000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/663590-2026"
+        },
+        {
           "id": "660644-2026",
           "date": "2026-09-25",
           "title": "Slovenia – Ammunition – Nakup raket zrak-zemlja 2,75''",
@@ -144,18 +156,6 @@
             "35721000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/661105-2026"
-        },
-        {
-          "id": "663590-2026",
-          "date": "2026-09-25",
-          "title": "Germany – Radar detectors – Rahmenvereinbarung über die Lieferung von mobilen Drohnendetektoren auf Radarbasis, Radar Panel Echo Shield",
-          "buyer": "Freistaat Bayern, vertreten durch das Logistikzentrum der Bayerischen Polizei (LZBP)",
-          "country": "DEU",
-          "cpv": [
-            "35121900",
-            "35722000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/663590-2026"
         },
         {
           "id": "657152-2026",
@@ -219,30 +219,31 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/659990-2026"
         },
         {
-          "id": "658418-2026",
+          "id": "658475-2026",
           "date": "2026-09-24",
-          "title": "Belgium – Intelligence, surveillance, target acquisition and reconnaissance – Concerning the punctual purchase and delivery of \"Mobile robotic platform with two motorized mechanical arms” for the benefit of the Department of Mechanics of the Royal Military Academy.",
-          "buyer": "Ministère de la Défense",
-          "country": "BEL",
+          "title": "Germany – Satellite earth stations – Informationseinholung im Rahmen einer Markterkundung für die Beschaffung von bodenbasierten Counter-Space Systemen gegen Kommunikationssatelliten",
+          "buyer": "Deutsche Raumfahrtagentur im Deutschen Zentrum für Luft- und Raumfahrt e.V.",
+          "country": "DEU",
           "cpv": [
-            "35720000"
+            "32533000",
+            "35730000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/658418-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/658475-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 4.8,
+      "score": 5.0,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-06-26",
-      "reporting_lag_days": 93,
-      "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 124520271.12,
+      "latest_observation": "2026-06-27",
+      "reporting_lag_days": 92,
+      "freshness_factor": 0.23,
+      "current_14d_weekly_equivalent": 127097596.4,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -259,28 +260,118 @@
           "amount": 27974933.77
         },
         {
-          "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 20644027.57
+          "name": "THE BOEING COMPANY",
+          "amount": 21066824.64
         },
         {
           "name": "L3HARRIS TECHNOLOGIES, INC.",
-          "amount": 14866587.15
+          "amount": 14309373.25
         },
         {
           "name": "RTX CORPORATION",
           "amount": 12776888.38
         },
         {
-          "name": "THE BOEING COMPANY",
-          "amount": 12393437.84
-        },
-        {
           "name": "NORTHROP GRUMMAN SYSTEMS CORP",
           "amount": 11406632.0
+        },
+        {
+          "name": "GENERAL ELECTRIC COMPANY",
+          "amount": 11172036.15
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
+        {
+          "date": "2026-06-27",
+          "award_id": "SPE4AX26F249K",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 28622.88,
+          "agency": "Defense Logistics Agency",
+          "description": "8512209158!SUPPORT,STRUCTURAL COMPONENT,",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-06-27",
+          "award_id": "SPE4A626FCDQH",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 10559.76,
+          "agency": "Defense Logistics Agency",
+          "description": "4572250179!CYLINDER,COMPRESSED",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-27",
+          "award_id": "SPE7L126FAP6V",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 2175.0,
+          "agency": "Defense Logistics Agency",
+          "description": "4572250051!WHEEL ASSEMBLY,PNEU",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-06-27",
+          "award_id": "SPE4A626FCDRS",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 597.67,
+          "agency": "Defense Logistics Agency",
+          "description": "4572250589!CYLINDER,COMPRESSED GAS,ARGON",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-27",
+          "award_id": "SPE4A626FCDRU",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 597.67,
+          "agency": "Defense Logistics Agency",
+          "description": "4572250591!CYLINDER,COMPRESSED GAS,ARGON",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-27",
+          "award_id": "SPE4A626FCDRR",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 597.67,
+          "agency": "Defense Logistics Agency",
+          "description": "4572250588!CYLINDER,COMPRESSED GAS,OXYGEN",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-27",
+          "award_id": "SPE4A626FCDRT",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 597.67,
+          "agency": "Defense Logistics Agency",
+          "description": "4572250590!CYLINDER,COMPRESSED GAS,ARGON",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-27",
+          "award_id": "SPE4AX26F249C",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 529.1,
+          "agency": "Defense Logistics Agency",
+          "description": "8512209098!LOCKING PLATE,NUT AND BOLT",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-06-27",
+          "award_id": "SPE7L126FAP6K",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 84.51,
+          "agency": "Defense Logistics Agency",
+          "description": "4572249977!FILTER ELEMENT,FLUI",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-06-27",
+          "award_id": "SPRPA125PER21",
+          "recipient": "KEARFOTT CORP",
+          "amount": 0.0,
+          "agency": "Defense Logistics Agency",
+          "description": "MOTOR,ALTERNATING C",
+          "naics": "336413"
+        },
         {
           "date": "2026-06-26",
           "award_id": "W15QKN26F0178",
@@ -328,15 +419,6 @@
         },
         {
           "date": "2026-06-26",
-          "award_id": "W58RGZ26C0019",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 10210041.0,
-          "agency": "Department of the Army",
-          "description": "CONTRACT W58RGZ-26-C-0019 IS AWARDED 55 MONTHS FIRM-FIXED PRICE (FFP) CONTRACT FOR APX-123A MODE 5 CAPABILITY NON-RECURRING ENGINEERING (NRE) AND RETROFIT AIRCRAFT CONFIGURATION CHANGE IN SUPPORT OF SAUDI ARABIA NATIONAL GUARD, FMS SI-B-WAY.",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-26",
           "award_id": "FA813426FB007",
           "recipient": "THE BOEING COMPANY",
           "amount": 8242146.0,
@@ -355,93 +437,12 @@
         },
         {
           "date": "2026-06-26",
-          "award_id": "FA862113C6247",
-          "recipient": "FLIGHTSAFETY DEFENSE CORPORATION",
-          "amount": 6436966.33,
-          "agency": "Department of the Air Force",
-          "description": "KC-46 AIRCREW TRAINING SYSTEM (ATS)",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-26",
-          "award_id": "N0001918C1037",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 5800000.0,
-          "agency": "Department of the Navy",
-          "description": "E-2D MULTIYEAR PRODUCTION II",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-26",
-          "award_id": "SPRTA126F0137",
+          "award_id": "SPE4A226F0776",
           "recipient": "GENERAL ELECTRIC COMPANY",
-          "amount": 3587592.96,
+          "amount": 7584443.19,
           "agency": "Defense Logistics Agency",
-          "description": "SHROUD SEGMENT,TURB SUPPORING THE F110",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-26",
-          "award_id": "FA862121F6253",
-          "recipient": "CAE USA INC.",
-          "amount": 3270180.62,
-          "agency": "Department of the Air Force",
-          "description": "KC-135 TS: SIMULATOR COMMON ARCHITECTURE REQUIREMENTS AND STANDARDS (SCARS) CHANGE IN PRICE: $3,280,944.44 CHANGE IN OBLIGATION: $3,280,944.44 PCO EMAIL: VANESSA.POTTINGER.3@US.AF.MIL",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-26",
-          "award_id": "FA869021F1001",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 2394081.92,
-          "agency": "Department of the Air Force",
-          "description": "MISSION PLANNING",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-26",
-          "award_id": "W15QKN24F0443",
-          "recipient": "GENERAL DYNAMICS-OTS, INC.",
-          "amount": 2270296.0,
-          "agency": "Department of the Army",
-          "description": "THE PURPOSE OF MODIFICATION P00002 UNDER DELIVERY ORDER W15QKN24F0443 IS TO PROVIDE FUNDING FOR THE UNIT PRICE ADJUSTMENT DUE TO THE INCREASE AND RAMP UP IN PRODUCTION CAPACITY, UPDATED DFAS CODE, AND MODIFY DESTINATION DODAAC UNDER CLIN0039AG.",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-06-26",
-          "award_id": "FA811025F0003",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
-          "amount": 1968195.0,
-          "agency": "Department of the Air Force",
-          "description": "B-2 CY25-CY28 CONTRACTOR LOGISTICS SUPPORT (CLS)",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-26",
-          "award_id": "W15QKN23F0048",
-          "recipient": "GENERAL DYNAMICS-OTS, INC.",
-          "amount": 1478798.0,
-          "agency": "Department of the Army",
-          "description": "THE PURPOSE OF MODIFICATION P00002 IS TO REVISE THE DELIVERY SCHEDULE UNDER CLIN 0024AA-AB, UPDATE DFAS CODE, TO FUND THE UNIT PRICE INCREASE UNDER CLIN0024AC, AND TO FORMALLY INCORPORATE RFV R25A8019 AND R26A8006 AT NO ADDITIONAL COST.",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-06-26",
-          "award_id": "FA811026FB001",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
-          "amount": 692888.0,
-          "agency": "Department of the Air Force",
-          "description": "THIS REQUIREMENT IS IN ACCORDANCE TO B-2 CY26-CY28 CAPABILITIES, DEVELOPMENT, INNOVATION, AND SUSTAINMENT (CDIS) II PWS DATED 12 DECEMBER 2025.",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-26",
-          "award_id": "FA811026FB001",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
-          "amount": 643600.0,
-          "agency": "Department of the Air Force",
-          "description": "THIS REQUIREMENT IS IN ACCORDANCE TO B-2 CY26-CY28 CAPABILITIES, DEVELOPMENT, INNOVATION, AND SUSTAINMENT (CDIS) II PWS DATED 12 DECEMBER 2025.",
-          "naics": "336411"
+          "description": "8511817177!PBL MATERIAL GE - RESERVED FO",
+          "naics": "336412"
         }
       ]
     },
@@ -536,7 +537,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 11
+          "age": 12
         },
         {
           "date": "2026-09-15",
@@ -556,7 +557,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 11
+          "age": 12
         },
         {
           "date": "2026-09-15",
@@ -576,7 +577,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 11
+          "age": 12
         },
         {
           "date": "2026-09-14",
@@ -656,11 +657,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-11T21:10:56.474364+00:00",
-      "score": 16.3,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-12T04:54:02.921105+00:00",
       "score": 16.3,
@@ -954,6 +950,11 @@
     {
       "generated": "2026-09-27T05:37:20.376367+00:00",
       "score": 20.9,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-27T12:21:47.526859+00:00",
+      "score": 21.0,
       "status": "BASELINE"
     }
   ],
