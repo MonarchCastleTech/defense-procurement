@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-27T12:21:47.526859+00:00",
+    "generated": "2026-09-27T17:12:10.729372+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 21.0,
-    "raw_score": 21.0,
+    "score": 20.9,
+    "raw_score": 20.9,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 21.0/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 20.9/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -121,18 +121,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/660795-2026"
         },
         {
-          "id": "663590-2026",
-          "date": "2026-09-25",
-          "title": "Germany – Radar detectors – Rahmenvereinbarung über die Lieferung von mobilen Drohnendetektoren auf Radarbasis, Radar Panel Echo Shield",
-          "buyer": "Freistaat Bayern, vertreten durch das Logistikzentrum der Bayerischen Polizei (LZBP)",
-          "country": "DEU",
-          "cpv": [
-            "35121900",
-            "35722000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/663590-2026"
-        },
-        {
           "id": "660644-2026",
           "date": "2026-09-25",
           "title": "Slovenia – Ammunition – Nakup raket zrak-zemlja 2,75''",
@@ -156,6 +144,18 @@
             "35721000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/661105-2026"
+        },
+        {
+          "id": "663590-2026",
+          "date": "2026-09-25",
+          "title": "Germany – Radar detectors – Rahmenvereinbarung über die Lieferung von mobilen Drohnendetektoren auf Radarbasis, Radar Panel Echo Shield",
+          "buyer": "Freistaat Bayern, vertreten durch das Logistikzentrum der Bayerischen Polizei (LZBP)",
+          "country": "DEU",
+          "cpv": [
+            "35121900",
+            "35722000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/663590-2026"
         },
         {
           "id": "657152-2026",
@@ -234,7 +234,7 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 5.0,
+      "score": 4.9,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -243,7 +243,7 @@
       "latest_observation": "2026-06-27",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 127097596.4,
+      "current_14d_weekly_equivalent": 124639765.77,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -261,7 +261,7 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 21066824.64
+          "amount": 19489437.84
         },
         {
           "name": "L3HARRIS TECHNOLOGIES, INC.",
@@ -311,15 +311,6 @@
         },
         {
           "date": "2026-06-27",
-          "award_id": "SPE4A626FCDRS",
-          "recipient": "HUDSON TECHNOLOGIES COMPANY",
-          "amount": 597.67,
-          "agency": "Defense Logistics Agency",
-          "description": "4572250589!CYLINDER,COMPRESSED GAS,ARGON",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-27",
           "award_id": "SPE4A626FCDRU",
           "recipient": "HUDSON TECHNOLOGIES COMPANY",
           "amount": 597.67,
@@ -343,6 +334,15 @@
           "amount": 597.67,
           "agency": "Defense Logistics Agency",
           "description": "4572250590!CYLINDER,COMPRESSED GAS,ARGON",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-06-27",
+          "award_id": "SPE4A626FCDRS",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 597.67,
+          "agency": "Defense Logistics Agency",
+          "description": "4572250589!CYLINDER,COMPRESSED GAS,ARGON",
           "naics": "336413"
         },
         {
@@ -467,7 +467,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-09-24",
@@ -477,7 +477,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-09-24",
@@ -487,7 +487,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-09-24",
@@ -497,7 +497,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-09-24",
@@ -507,7 +507,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-09-18",
@@ -517,7 +517,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 8
+          "age": 9
         },
         {
           "date": "2026-09-15",
@@ -527,7 +527,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 11
+          "age": 12
         },
         {
           "date": "2026-09-15",
@@ -547,7 +547,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 11
+          "age": 12
         },
         {
           "date": "2026-09-15",
@@ -567,7 +567,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 11
+          "age": 12
         },
         {
           "date": "2026-09-15",
@@ -587,7 +587,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 12
+          "age": 13
         },
         {
           "date": "2026-09-14",
@@ -597,7 +597,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 12
+          "age": 13
         }
       ]
     },
@@ -657,11 +657,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-12T04:54:02.921105+00:00",
-      "score": 16.3,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-12T11:09:54.237708+00:00",
       "score": 16.5,
@@ -955,6 +950,11 @@
     {
       "generated": "2026-09-27T12:21:47.526859+00:00",
       "score": 21.0,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-27T17:12:10.729372+00:00",
+      "score": 20.9,
       "status": "BASELINE"
     }
   ],
