@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-28T23:27:01.616242+00:00",
+    "generated": "2026-09-29T06:02:21.726826+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 20.1,
-    "raw_score": 20.1,
+    "score": 21.1,
+    "raw_score": 21.1,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 20.1/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 21.1/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -26,10 +26,10 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 611,
-      "current_14d_weekly_equivalent": 36.0,
+      "coverage": 605,
+      "current_14d_weekly_equivalent": 36.5,
       "baseline_weekly_median": 43.5,
-      "anomaly_z": -2.53,
+      "anomaly_z": -1.18,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
@@ -77,15 +77,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/670193-2026"
         },
         {
-          "id": "668545-2026",
+          "id": "668765-2026",
           "date": "2026-09-29",
-          "title": "Finland – Weapons, ammunition and associated parts – Tietopyyntö; Sirpalevaikutteinen miina ja painevaikutteinen miina",
-          "buyer": "Puolustusvoimien logistiikkalaitos",
-          "country": "FIN",
+          "title": "Lithuania – Cartridges – 12,7 x 99 mm kalibro šoviniai (PPR-468)",
+          "buyer": "Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos",
+          "country": "LTU",
           "cpv": [
-            "35300000"
+            "35331500"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/668545-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/668765-2026"
         },
         {
           "id": "668926-2026",
@@ -99,15 +99,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/668926-2026"
         },
         {
-          "id": "668765-2026",
+          "id": "668545-2026",
           "date": "2026-09-29",
-          "title": "Lithuania – Cartridges – 12,7 x 99 mm kalibro šoviniai (PPR-468)",
-          "buyer": "Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos",
-          "country": "LTU",
+          "title": "Finland – Weapons, ammunition and associated parts – Tietopyyntö; Sirpalevaikutteinen miina ja painevaikutteinen miina",
+          "buyer": "Puolustusvoimien logistiikkalaitos",
+          "country": "FIN",
           "cpv": [
-            "35331500"
+            "35300000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/668765-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/668545-2026"
         },
         {
           "id": "667957-2026",
@@ -219,280 +219,290 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 4.9,
+      "score": 4.8,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-06-28",
+      "latest_observation": "2026-06-29",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 123424393.17,
+      "current_14d_weekly_equivalent": 112681383.32,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
-          "name": "GENERAL DYNAMICS-OTS, INC.",
-          "amount": 58988743.0
+          "name": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 53278674.48
         },
         {
-          "name": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 41287990.0
-        },
-        {
-          "name": "KONGSBERG DEFENCE & AEROSPACE AS",
-          "amount": 27974933.77
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "amount": 46446761.54
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 19525470.32
+          "amount": 31256738.2
         },
         {
-          "name": "L3HARRIS TECHNOLOGIES, INC.",
-          "amount": 14309373.25
+          "name": "PINNACLE SOLUTIONS, LLC",
+          "amount": 27330367.75
         },
         {
-          "name": "GENERAL ELECTRIC COMPANY",
-          "amount": 13348617.35
+          "name": "GOODRICH CORPORATION",
+          "amount": 13358916.0
         },
         {
-          "name": "NORTHROP GRUMMAN SYSTEMS CORP",
-          "amount": 11406632.0
+          "name": "CPI AEROSTRUCTURES INC",
+          "amount": 8348900.68
         },
         {
-          "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 11150345.19
+          "name": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.",
+          "amount": 6600000.0
+        },
+        {
+          "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 5823374.48
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
         {
-          "date": "2026-06-28",
-          "award_id": "SPE4A526P6407",
-          "recipient": "COLLINS ENGINE NOZZLES, INC",
-          "amount": 89507.75,
-          "agency": "Defense Logistics Agency",
-          "description": "8512209314!BODY ASSY",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-06-28",
-          "award_id": "SPE4A726PD284",
-          "recipient": "SALEM MANUFACTURING & SALES INC",
-          "amount": 44000.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512209341!ASSY,BRCKT MOUNTNG",
-          "naics": "336419"
-        },
-        {
-          "date": "2026-06-28",
-          "award_id": "SPE4AX26F249M",
+          "date": "2026-06-29",
+          "award_id": "N0001926F2212",
           "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 4198.75,
-          "agency": "Defense Logistics Agency",
-          "description": "8512209400!WINDSHIELD WIPER ASSEMBLY",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-06-28",
-          "award_id": "SPE4AX26F249P",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 1687.37,
-          "agency": "Defense Logistics Agency",
-          "description": "8512209397!STEP ASSEMBLY,PYLON",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-06-28",
-          "award_id": "SPE4AX26F249Q",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 1252.72,
-          "agency": "Defense Logistics Agency",
-          "description": "8512209434!SHIM",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-06-28",
-          "award_id": "SPE4A626FCDSN",
-          "recipient": "HUDSON TECHNOLOGIES COMPANY",
-          "amount": 1202.08,
-          "agency": "Defense Logistics Agency",
-          "description": "4572252018!CALIBRATION GAS",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-06-28",
-          "award_id": "SPE4AX26F249N",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 58.64,
-          "agency": "Defense Logistics Agency",
-          "description": "8512209299!PIN,COVER ASSY",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-06-28",
-          "award_id": "N0002423C5300",
-          "recipient": "BAE SYSTEMS LAND & ARMAMENTS L.P.",
-          "amount": 0.0,
+          "amount": 51714440.14,
           "agency": "Department of the Navy",
-          "description": "MK45 GUN MOUNT",
-          "naics": "332994"
+          "description": "FY26 SPARES FORVH-92A, VH-3D, AND VH-60N AIRCRAFT",
+          "naics": "336411"
         },
         {
-          "date": "2026-06-28",
-          "award_id": "N0001922F2616",
-          "recipient": "DEVAL LIFE CYCLE SUPPORT LLC",
-          "amount": 0.0,
+          "date": "2026-06-29",
+          "award_id": "N0003025C0100",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 36671622.0,
           "agency": "Department of the Navy",
-          "description": "ADMIN MOD AND DELIVERY EXTENSION",
+          "description": "THIS MODIFICATION INCLUDES FUNDING ACTIONS FOR THE TRIDENT D5 II EFFORTS FOR INCREMENTAL FUNDING ACTIONS FOR CONTRACT LINE ITEM NUMBER (CLIN) 0002, 0009, 0010, AND 0076 AND EXERCISE AND FULLY FUND OPTION CLIN 0042.",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-06-29",
+          "award_id": "FA861725FB001",
+          "recipient": "PINNACLE SOLUTIONS, LLC",
+          "amount": 27330367.75,
+          "agency": "Department of the Air Force",
+          "description": "RED HAWK MAINTENANCE TRAINING SYSTEM",
           "naics": "336413"
         },
         {
-          "date": "2026-06-28",
-          "award_id": "SPE4A723PE703",
-          "recipient": "AEROMETALS, INC.",
-          "amount": 0.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8510111423!DUCT ASSEMBLY,AIR C",
-          "naics": "336412"
+          "date": "2026-06-29",
+          "award_id": "FA863422F0035",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 13902764.02,
+          "agency": "Department of the Air Force",
+          "description": "F-15EX - LOT 4",
+          "naics": "336411"
         },
         {
-          "date": "2026-06-28",
-          "award_id": "SPE4A726PC233",
-          "recipient": "AERO COMPONENTS, LLC",
-          "amount": 0.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512161252!TAIL PIPE ASSY",
+          "date": "2026-06-29",
+          "award_id": "W31P4Q23F0341",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 9764160.0,
+          "agency": "Department of the Army",
+          "description": "GUIDED MULTIPLE LAUNCH ROCKET SYSTEMS (GMLRS) MILITARY-CODE GUIDANCE SET (MGS) SYSTEM DESIGN, INTEGRATION, AND QUALIFICATION, PHASE II.",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-06-29",
+          "award_id": "FA863424F0041",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 8080240.96,
+          "agency": "Department of the Air Force",
+          "description": "MUOS SATURN",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-29",
+          "award_id": "FA869124FB008",
+          "recipient": "GOODRICH CORPORATION",
+          "amount": 6679458.0,
+          "agency": "Department of the Air Force",
+          "description": "SAUDI YEAR 3 TASK ORDER AND SPARES",
           "naics": "336413"
         },
         {
-          "date": "2026-06-28",
-          "award_id": "SPE4A726PB069",
-          "recipient": "AERO COMPONENTS, LLC",
-          "amount": 0.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512114168!TAIL PIPE ASSY",
+          "date": "2026-06-29",
+          "award_id": "FA869124FB008",
+          "recipient": "GOODRICH CORPORATION",
+          "amount": 6679458.0,
+          "agency": "Department of the Air Force",
+          "description": "SAUDI YEAR 3 TASK ORDER AND SPARES",
           "naics": "336413"
         },
         {
-          "date": "2026-06-27",
-          "award_id": "SPE4AX26F249K",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 28622.88,
-          "agency": "Defense Logistics Agency",
-          "description": "8512209158!SUPPORT,STRUCTURAL COMPONENT,",
-          "naics": "336412"
+          "date": "2026-06-29",
+          "award_id": "W58RGZ24C0031",
+          "recipient": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.",
+          "amount": 6600000.0,
+          "agency": "Department of the Army",
+          "description": "2024 THROUGH 2028 GRAY EAGLE PERFORMANCE BASED LOGISTICS",
+          "naics": "336411"
         },
         {
-          "date": "2026-06-27",
-          "award_id": "SPE4A626FCDQH",
-          "recipient": "HUDSON TECHNOLOGIES COMPANY",
-          "amount": 10559.76,
-          "agency": "Defense Logistics Agency",
-          "description": "4572250179!CYLINDER,COMPRESSED",
+          "date": "2026-06-29",
+          "award_id": "FA810726FB005",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 6226991.66,
+          "agency": "Department of the Air Force",
+          "description": "B-52 RECURRING ENGINEERING SERVICES FOR OPTION VII",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-29",
+          "award_id": "W58RGZ24F0360",
+          "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 4910741.0,
+          "agency": "Department of the Army",
+          "description": "ELECTRONIC SYSTEMS TEST SET (ESTS) MODERNIZATION",
           "naics": "336413"
         },
         {
-          "date": "2026-06-27",
-          "award_id": "SPE7L126FAP6V",
-          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
-          "amount": 2175.0,
-          "agency": "Defense Logistics Agency",
-          "description": "4572250051!WHEEL ASSEMBLY,PNEU",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-06-27",
-          "award_id": "SPE4A626FCDRR",
-          "recipient": "HUDSON TECHNOLOGIES COMPANY",
-          "amount": 597.67,
-          "agency": "Defense Logistics Agency",
-          "description": "4572250588!CYLINDER,COMPRESSED GAS,OXYGEN",
+          "date": "2026-06-29",
+          "award_id": "FA822025FB019",
+          "recipient": "CPI AEROSTRUCTURES INC",
+          "amount": 4814108.79,
+          "agency": "Department of the Air Force",
+          "description": "T-38 STRUCTURAL IMPROVEMENT KITS",
           "naics": "336413"
         },
         {
-          "date": "2026-06-27",
-          "award_id": "SPE4A626FCDRT",
-          "recipient": "HUDSON TECHNOLOGIES COMPANY",
-          "amount": 597.67,
-          "agency": "Defense Logistics Agency",
-          "description": "4572250590!CYLINDER,COMPRESSED GAS,ARGON",
+          "date": "2026-06-29",
+          "award_id": "FA850925FB014",
+          "recipient": "DMAERO, LLC",
+          "amount": 4728205.78,
+          "agency": "Department of the Air Force",
+          "description": "ACAT III MIDDLE TIER ACQUISITION (MTA) TO SATISFY AIRWORTHINESS REQUIREMENTS OF THE NEXTGEN SPECIAL MISSION PROCESSOR (NEXTGEN SMP).",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-29",
+          "award_id": "FA822025FB020",
+          "recipient": "CPI AEROSTRUCTURES INC",
+          "amount": 3534791.89,
+          "agency": "Department of the Air Force",
+          "description": "T-38 STRUCTURAL IMPROVEMENT KITS",
           "naics": "336413"
         },
         {
-          "date": "2026-06-27",
-          "award_id": "SPE4A626FCDRS",
-          "recipient": "HUDSON TECHNOLOGIES COMPANY",
-          "amount": 597.67,
+          "date": "2026-06-29",
+          "award_id": "N0001919C0079",
+          "recipient": "RAYTHEON COMPANY",
+          "amount": 3086224.0,
+          "agency": "Department of the Navy",
+          "description": "THE PURPOSE OF THIS MODIFICATION IS TO INCREASE THE COST ON CLINS 0001 AND 1001 TO FUND COST OVERRUNS, UPDATE CLAUSE 5252.232-9516, AND UPDATE  ATTACHMENT 5.",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-06-29",
+          "award_id": "SPRTA126F0150",
+          "recipient": "PARKER-HANNIFIN CORPORATION",
+          "amount": 2338528.4,
           "agency": "Defense Logistics Agency",
-          "description": "4572250589!CYLINDER,COMPRESSED GAS,ARGON",
+          "description": "TRANSMITTER,RATE OF FLOW",
           "naics": "336413"
+        },
+        {
+          "date": "2026-06-29",
+          "award_id": "N0001924F1810",
+          "recipient": "DELAWARE RESOURCE GROUP OF OKLAHOMA LLC",
+          "amount": 1333548.0,
+          "agency": "Department of the Navy",
+          "description": "EXERCISE OPTIONS 0201 - 0206",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-06-29",
+          "award_id": "S2606A26F0019",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 1244047.0,
+          "agency": "Defense Contract Management Agency",
+          "description": "CORPORATE BASIC ORDERING AGREEMENT (BOA) WITH THE BOEING COMPANY AND NAVAL AIR SYSTEMS COMMAND. (FPA)",
+          "naics": "336411"
         }
       ]
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 39.4,
+      "score": 44.5,
       "status": "WATCH",
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 93,
-      "current_14d_weekly_equivalent": 14.75,
-      "baseline_weekly_median": 5.5,
-      "anomaly_z": 1.13,
+      "coverage": 94,
+      "current_14d_weekly_equivalent": 9.0,
+      "baseline_weekly_median": 2.5,
+      "anomaly_z": 1.75,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
-          "date": "2026-09-24",
+          "date": "2026-09-28",
+          "title": "Nato Releases Updated Defence Production Action Plan Commercial Space Strategy And Rapid Adoption Action Plan",
+          "url": "https://www.nato.int/en/news-and-events/articles/news/2025/06/24/nato-releases-updated-defence-production-action-plan-commercial-space-strategy-and-rapid-adoption-action-plan",
+          "terms": [
+            "production"
+          ],
+          "weight": 3,
+          "age": 0
+        },
+        {
+          "date": "2026-09-28",
           "title": "Nato Allies Step Up Multinational Capability Delivery Cooperation",
           "url": "https://www.nato.int/en/news-and-events/articles/news/2025/06/24/nato-allies-step-up-multinational-capability-delivery-cooperation",
           "terms": [
             "capability"
           ],
           "weight": 2,
-          "age": 4
+          "age": 0
         },
         {
-          "date": "2026-09-24",
+          "date": "2026-09-28",
           "title": "Nato Summit Defence Industry Forum 2025 Time To Unite Innovate Deliver",
           "url": "https://www.nato.int/en/news-and-events/articles/news/2025/06/24/nato-summit-defence-industry-forum-2025-time-to-unite-innovate--deliver",
           "terms": [
             "industry"
           ],
           "weight": 2.5,
-          "age": 4
+          "age": 0
         },
         {
-          "date": "2026-09-24",
+          "date": "2026-09-28",
           "title": "Nato Releases Updated Defence Production Action Plan Commercial Space Strategy And Rapid Adoption Action Plan",
           "url": "https://www.nato.int/fr/news-and-events/articles/news/2025/06/24/nato-releases-updated-defence-production-action-plan-commercial-space-strategy-and-rapid-adoption-action-plan",
           "terms": [
             "production"
           ],
           "weight": 3,
-          "age": 4
+          "age": 0
         },
         {
-          "date": "2026-09-24",
+          "date": "2026-09-28",
           "title": "Nato Allies Step Up Multinational Capability Delivery Cooperation",
           "url": "https://www.nato.int/fr/news-and-events/articles/news/2025/06/24/nato-allies-step-up-multinational-capability-delivery-cooperation",
           "terms": [
             "capability"
           ],
           "weight": 2,
-          "age": 4
+          "age": 0
         },
         {
-          "date": "2026-09-24",
+          "date": "2026-09-28",
           "title": "Nato Summit Defence Industry Forum 2025 Time To Unite Innovate Deliver",
           "url": "https://www.nato.int/fr/news-and-events/articles/news/2025/06/24/nato-summit-defence-industry-forum-2025-time-to-unite-innovate--deliver",
           "terms": [
             "industry"
           ],
           "weight": 2.5,
-          "age": 4
+          "age": 0
         },
         {
           "date": "2026-09-18",
@@ -573,16 +583,6 @@
           ],
           "weight": 2.5,
           "age": 14
-        },
-        {
-          "date": "2026-09-14",
-          "title": "Space Reverse Industry Event",
-          "url": "https://www.nato.int/fr/news-and-events/articles/news/2024/01/09/space-reverse-industry-event",
-          "terms": [
-            "industry"
-          ],
-          "weight": 2.5,
-          "age": 14
         }
       ]
     },
@@ -642,11 +642,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-13T12:13:32.734054+00:00",
-      "score": 16.5,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-13T16:34:47.121069+00:00",
       "score": 16.5,
@@ -940,6 +935,11 @@
     {
       "generated": "2026-09-28T23:27:01.616242+00:00",
       "score": 20.1,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-29T06:02:21.726826+00:00",
+      "score": 21.1,
       "status": "BASELINE"
     }
   ],
