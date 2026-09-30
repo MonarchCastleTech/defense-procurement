@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-09-30T12:55:22.630326+00:00",
+    "generated": "2026-09-30T22:30:45.799600+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,12 +26,160 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 619,
+      "coverage": 629,
       "current_14d_weekly_equivalent": 41.0,
       "baseline_weekly_median": 44.5,
       "anomaly_z": -0.52,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "675136-2026",
+          "date": "2026-10-01",
+          "title": "Cyprus – Cartridges – Δ.Ο 7/2026 ΠΡΟΣΦΟΡΑ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΦΥΣΙΓΓΙΩΝ 5,56 Χ 45 ΜΜ",
+          "buyer": "Αστυνομία Κύπρου",
+          "country": "CYP",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/675136-2026"
+        },
+        {
+          "id": "677096-2026",
+          "date": "2026-10-01",
+          "title": "Netherlands – Military vehicles and associated parts – Delivery and Maintenance of Flatrack tank Containers, water and fuel. Incl. associated, goods and service",
+          "buyer": "Ministerie van Defensie",
+          "country": "NLD",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/677096-2026"
+        },
+        {
+          "id": "675167-2026",
+          "date": "2026-10-01",
+          "title": "Estonia – Various chemical products – Õlide, määrdeainete, konserveerimisvahendite kestvushankeleping 2026/2027",
+          "buyer": "Riigi Kaitseinvesteeringute Keskus",
+          "country": "EST",
+          "cpv": [
+            "24960000",
+            "34352000",
+            "22450000",
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/675167-2026"
+        },
+        {
+          "id": "674937-2026",
+          "date": "2026-10-01",
+          "title": "Portugal – Command, control, communication systems – Projeto de Sistema de Telegestão de Abastecimento e Saneamento",
+          "buyer": "AgdA - Águas Públicas do Alentejo, SA",
+          "country": "PRT",
+          "cpv": [
+            "35711000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/674937-2026"
+        },
+        {
+          "id": "675036-2026",
+          "date": "2026-10-01",
+          "title": "Italy – Cartridges – Cartucce Cal. 9x19 da addestramento",
+          "buyer": "Comando Generale della Guardia di Finanza",
+          "country": "ITA",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/675036-2026"
+        },
+        {
+          "id": "676630-2026",
+          "date": "2026-10-01",
+          "title": "Romania – Battle simulators – Achizitie simulator de scenarii reale",
+          "buyer": "Scoala de Pregatire a Agentilor Politiei de Frontiera \"Avram Iancu\" Oradea",
+          "country": "ROU",
+          "cpv": [
+            "35740000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/676630-2026"
+        },
+        {
+          "id": "676007-2026",
+          "date": "2026-10-01",
+          "title": "Germany – Ammunition – Kauf von Munition der Firma MEN",
+          "buyer": "Thüringer Polizei, Landespolizeidirektion, Sachgebiet 24",
+          "country": "DEU",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/676007-2026"
+        },
+        {
+          "id": "676934-2026",
+          "date": "2026-10-01",
+          "title": "Germany – Ammunition – Kauf von Munition der Firma Rheinmetall",
+          "buyer": "Thüringer Polizei, Landespolizeidirektion, Sachgebiet 24",
+          "country": "DEU",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/676934-2026"
+        },
+        {
+          "id": "676090-2026",
+          "date": "2026-10-01",
+          "title": "France – Ammunition – Appel d'offres en vue de la fourniture de munitions pour pistolets à impulsion électrique (PIE) de modèle X2 pour les policiers municipaux",
+          "buyer": "Ville de Toulon",
+          "country": "FRA",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/676090-2026"
+        },
+        {
+          "id": "675339-2026",
+          "date": "2026-10-01",
+          "title": "Romania – Ammunition – Muniție letală și neletală pentru 24 luni (6 loturi)",
+          "buyer": "Unitatea de Logistică și Achiziții Centralizate a Poliției Penitenciare",
+          "country": "ROU",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/675339-2026"
+        },
+        {
+          "id": "673679-2026",
+          "date": "2026-09-30",
+          "title": "Germany – Parts of military vehicles – 6002977963-BAAINBw E2.5F Periskope, gepanzerte Fahrzeuge, WS Leopard 2",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/673679-2026"
+        },
+        {
+          "id": "673469-2026",
+          "date": "2026-09-30",
+          "title": "Germany – Trailers, semi-trailers and mobile containers – Lieferung von vier Stromerzeugern auf Anhänger",
+          "buyer": "Kreisverwaltung Mayen-Koblenz",
+          "country": "DEU",
+          "cpv": [
+            "34220000",
+            "35412500",
+            "34223000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/673469-2026"
+        },
+        {
+          "id": "673568-2026",
+          "date": "2026-09-30",
+          "title": "Spain – Bombs – Suministro de bombas BLU-111 C/B",
+          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
+          "country": "ESP",
+          "cpv": [
+            "35333100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/673568-2026"
+        },
         {
           "id": "672298-2026",
           "date": "2026-09-30",
@@ -70,162 +218,12 @@
             "35710000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/673282-2026"
-        },
-        {
-          "id": "672950-2026",
-          "date": "2026-09-30",
-          "title": "Germany – Military aircrafts, missiles and spacecrafts – Herstellung von Basishelikoptern nebst Ausrüstung sowie Unterstützungsleistungen für die Polizeifliegerstaffel Hessen und die Polizeihubschrauberstaffel Thüringen",
-          "buyer": "Land Hessen, vertreten durch das Hessische Ministerium des Innern, für Sicherheit und Heimatschutz, dieses vertreten druch das Hessische Polizeipräsidium für Technik",
-          "country": "DEU",
-          "cpv": [
-            "35600000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/672950-2026"
-        },
-        {
-          "id": "673679-2026",
-          "date": "2026-09-30",
-          "title": "Germany – Parts of military vehicles – 6002977963-BAAINBw E2.5F Periskope, gepanzerte Fahrzeuge, WS Leopard 2",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/673679-2026"
-        },
-        {
-          "id": "673469-2026",
-          "date": "2026-09-30",
-          "title": "Germany – Trailers, semi-trailers and mobile containers – Lieferung von vier Stromerzeugern auf Anhänger",
-          "buyer": "Kreisverwaltung Mayen-Koblenz",
-          "country": "DEU",
-          "cpv": [
-            "34220000",
-            "35412500",
-            "34223000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/673469-2026"
-        },
-        {
-          "id": "673568-2026",
-          "date": "2026-09-30",
-          "title": "Spain – Bombs – Suministro de bombas BLU-111 C/B",
-          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
-          "country": "ESP",
-          "cpv": [
-            "35333100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/673568-2026"
-        },
-        {
-          "id": "673171-2026",
-          "date": "2026-09-30",
-          "title": "Belgium – Ammunition – Meerjarige raamovereenkomst van leveringen betreffende de aankoop van munitie .300 BLK ten voordele van de Speciale Eenheden van de Federale Politie",
-          "buyer": "Police Fédérale",
-          "country": "BEL",
-          "cpv": [
-            "35330000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/673171-2026"
-        },
-        {
-          "id": "672884-2026",
-          "date": "2026-09-30",
-          "title": "Lithuania – Military electronic systems – Nuotolinė sprogmenų detonavimo sistema",
-          "buyer": "GYNYBOS RESURSŲ AGENTŪRA PRIE KAM",
-          "country": "LTU",
-          "cpv": [
-            "35700000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/672884-2026"
-        },
-        {
-          "id": "671645-2026",
-          "date": "2026-09-30",
-          "title": "Estonia – Unmanned aerial vehicles – Mehitamata õhusõiduki EOS C VTOL remont",
-          "buyer": "Politsei- ja Piirivalveamet",
-          "country": "EST",
-          "cpv": [
-            "35613000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/671645-2026"
-        },
-        {
-          "id": "671379-2026",
-          "date": "2026-09-30",
-          "title": "Norway – Security, fire-fighting, police and defence equipment – Request for Information - Explosive cutters/minesweeping cutters",
-          "buyer": "Norwegian Defence Material Agency",
-          "country": "NOR",
-          "cpv": [
-            "35000000",
-            "35300000",
-            "35332000",
-            "35332200"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/671379-2026"
-        },
-        {
-          "id": "672444-2026",
-          "date": "2026-09-30",
-          "title": "Belgium – Ammunition – Demande de participation pour l'acquisition de munitions 81 mm de différents types pour mortier",
-          "buyer": "Ministère de la Défense",
-          "country": "BEL",
-          "cpv": [
-            "35330000",
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/672444-2026"
-        },
-        {
-          "id": "673698-2026",
-          "date": "2026-09-30",
-          "title": "Estonia – Unmanned aerial vehicles – MÕS lõhkepeade, laengute konteinerite ja muude kinnitatavate vahendite ostmine ning elutsükli tagamine",
-          "buyer": "Riigi Kaitseinvesteeringute Keskus",
-          "country": "EST",
-          "cpv": [
-            "35613000",
-            "24600000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/673698-2026"
-        },
-        {
-          "id": "672975-2026",
-          "date": "2026-09-30",
-          "title": "Germany – Weapons, ammunition and associated parts – 6002985958-BAAINBw E2.2B - Abschussvorrichtung TKWA MASS",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/672975-2026"
-        },
-        {
-          "id": "668222-2026",
-          "date": "2026-09-29",
-          "title": "Germany – Military vehicles and associated parts – 6003121709-BAAINBw E2.3Y_E23Y003367",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/668222-2026"
-        },
-        {
-          "id": "669783-2026",
-          "date": "2026-09-29",
-          "title": "Czechia – Navigation satellites – Procurement of Galileo Transition Satellites",
-          "buyer": "European Union Agency for the Space Programme",
-          "country": "CZE",
-          "cpv": [
-            "35631300"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/669783-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 6.3,
+      "score": 6.2,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -234,7 +232,7 @@
       "latest_observation": "2026-06-30",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 469562858.51,
+      "current_14d_weekly_equivalent": 422751328.32,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -247,10 +245,6 @@
           "amount": 125145616.96
         },
         {
-          "name": "GENERAL ELECTRIC COMPANY",
-          "amount": 83198966.27
-        },
-        {
           "name": "LOCKHEED MARTIN CORPORATION",
           "amount": 75169432.64
         },
@@ -260,15 +254,19 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 40247102.91
+          "amount": 44818256.99
         },
         {
           "name": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 35610954.0
+          "amount": 32160105.0
         },
         {
-          "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 20497367.12
+          "name": "RAYTHEON COMPANY",
+          "amount": 18443504.17
+        },
+        {
+          "name": "ADVANCED SYSTEMS & SOFTWARE ENGINEERING TECHNOLOGIES LLC",
+          "amount": 14653210.58
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -290,15 +288,6 @@
           "agency": "Department of the Army",
           "description": "ORDER W519YTC26F0141 IS FOR THE CONTRACTOR TO LOAD, ASSEMBLE, AND PACK A QUANTITY OF 225,862 155MM M795 TNT LOADED PROJECTILES.",
           "naics": "332993"
-        },
-        {
-          "date": "2026-06-30",
-          "award_id": "W58RGZ19C0003",
-          "recipient": "GENERAL ELECTRIC COMPANY",
-          "amount": 77780000.0,
-          "agency": "Department of the Army",
-          "description": "SUPPORT OF THE INTEGRATED ENGINE FOR THE IMPROVED TURBINE ENGINE PROGRAM.",
-          "naics": "336412"
         },
         {
           "date": "2026-06-30",
@@ -347,15 +336,6 @@
         },
         {
           "date": "2026-06-30",
-          "award_id": "FA862914C2403",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 17438033.35,
-          "agency": "Department of the Air Force",
-          "description": "COMBAT RESCUE HELICOPTER LOT 5B SPARES DEFINITIZATION",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-06-30",
           "award_id": "W31P4Q23C0036",
           "recipient": "RAYTHEON COMPANY",
           "amount": 15369778.26,
@@ -380,6 +360,15 @@
           "agency": "U.S. Special Operations Command",
           "description": "TASK ORDER FOR V4F2 RED LABEL SOFTWARE, FLIGHT TEST, AND PRODUCTION RELEASE OF V4 SOFTWARE.",
           "naics": "336413"
+        },
+        {
+          "date": "2026-06-30",
+          "award_id": "N6893624F0007",
+          "recipient": "ADVANCED SYSTEMS & SOFTWARE ENGINEERING TECHNOLOGIES LLC",
+          "amount": 7326605.29,
+          "agency": "Department of the Navy",
+          "description": "F-18 PROJECT OFFICE SUPPORT",
+          "naics": "336411"
         },
         {
           "date": "2026-06-30",
@@ -419,12 +408,12 @@
         },
         {
           "date": "2026-06-30",
-          "award_id": "SPE4A726F1856",
-          "recipient": "GENERAL ELECTRIC COMPANY",
-          "amount": 5417919.87,
-          "agency": "Defense Logistics Agency",
-          "description": "8511817345!PBL MATERIAL GE",
-          "naics": "336412"
+          "award_id": "N0001926F1106",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 5565958.37,
+          "agency": "Department of the Navy",
+          "description": "FOLLOW ON SUPPORT DELIVERY ORDER",
+          "naics": "336411"
         },
         {
           "date": "2026-06-30",
@@ -434,6 +423,15 @@
           "agency": "Defense Logistics Agency",
           "description": "F100 ENGINES",
           "naics": "336412"
+        },
+        {
+          "date": "2026-06-30",
+          "award_id": "W58RGZ25F0315",
+          "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 3450849.0,
+          "agency": "Department of the Army",
+          "description": "C-17 GLOBEMASTER III PECULIAR SUPPORT EQUIPMENT SERIES AN/APN-232 COMBINED ALTITUDE RADAR ALTIMETER (CARA) 6000 DISCRETE DELAY ALTIMETER TEST SET FIRST ARTICLE TESTING AND KIT PROCUREMENT",
+          "naics": "336413"
         }
       ]
     },
@@ -468,7 +466,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-09-28",
@@ -478,7 +476,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-28",
@@ -488,7 +486,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-28",
@@ -498,7 +496,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-28",
@@ -508,7 +506,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-28",
@@ -518,7 +516,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-28",
@@ -528,7 +526,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-18",
@@ -538,7 +536,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 11
+          "age": 12
         },
         {
           "date": "2026-09-15",
@@ -548,7 +546,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 14
+          "age": 15
         },
         {
           "date": "2026-09-15",
@@ -568,7 +566,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 14
+          "age": 15
         },
         {
           "date": "2026-09-15",
@@ -588,7 +586,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 14
+          "age": 15
         }
       ]
     },
@@ -648,11 +646,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-14T21:58:20.028904+00:00",
-      "score": 18.5,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-15T05:11:19.164158+00:00",
       "score": 14.5,
@@ -945,6 +938,11 @@
     },
     {
       "generated": "2026-09-30T12:55:22.630326+00:00",
+      "score": 20.8,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-30T22:30:45.799600+00:00",
       "score": 20.8,
       "status": "BASELINE"
     }
