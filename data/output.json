@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-01T06:25:04.190553+00:00",
+    "generated": "2026-10-01T13:46:55.431105+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 20.5,
-    "raw_score": 20.5,
+    "score": 24.8,
+    "raw_score": 24.8,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 20.5/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 24.8/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -55,6 +55,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/677096-2026"
         },
         {
+          "id": "676630-2026",
+          "date": "2026-10-01",
+          "title": "Romania – Battle simulators – Achizitie simulator de scenarii reale",
+          "buyer": "Scoala de Pregatire a Agentilor Politiei de Frontiera \"Avram Iancu\" Oradea",
+          "country": "ROU",
+          "cpv": [
+            "35740000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/676630-2026"
+        },
+        {
           "id": "675167-2026",
           "date": "2026-10-01",
           "title": "Estonia – Various chemical products – Õlide, määrdeainete, konserveerimisvahendite kestvushankeleping 2026/2027",
@@ -91,17 +102,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/675036-2026"
         },
         {
-          "id": "676630-2026",
-          "date": "2026-10-01",
-          "title": "Romania – Battle simulators – Achizitie simulator de scenarii reale",
-          "buyer": "Scoala de Pregatire a Agentilor Politiei de Frontiera \"Avram Iancu\" Oradea",
-          "country": "ROU",
-          "cpv": [
-            "35740000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/676630-2026"
-        },
-        {
           "id": "676090-2026",
           "date": "2026-10-01",
           "title": "France – Ammunition – Appel d'offres en vue de la fourniture de munitions pour pistolets à impulsion électrique (PIE) de modèle X2 pour les policiers municipaux",
@@ -124,17 +124,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/675339-2026"
         },
         {
-          "id": "676007-2026",
-          "date": "2026-10-01",
-          "title": "Germany – Ammunition – Kauf von Munition der Firma MEN",
-          "buyer": "Thüringer Polizei, Landespolizeidirektion, Sachgebiet 24",
-          "country": "DEU",
-          "cpv": [
-            "35330000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/676007-2026"
-        },
-        {
           "id": "676934-2026",
           "date": "2026-10-01",
           "title": "Germany – Ammunition – Kauf von Munition der Firma Rheinmetall",
@@ -144,6 +133,17 @@
             "35330000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/676934-2026"
+        },
+        {
+          "id": "676007-2026",
+          "date": "2026-10-01",
+          "title": "Germany – Ammunition – Kauf von Munition der Firma MEN",
+          "buyer": "Thüringer Polizei, Landespolizeidirektion, Sachgebiet 24",
+          "country": "DEU",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/676007-2026"
         },
         {
           "id": "672950-2026",
@@ -232,7 +232,7 @@
       "latest_observation": "2026-07-01",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 143767521.74,
+      "current_14d_weekly_equivalent": 146092439.56,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -246,11 +246,11 @@
         },
         {
           "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 53417952.39
+          "amount": 53502952.39
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 17785327.8
+          "amount": 22035327.8
         },
         {
           "name": "NEROS, INC.",
@@ -265,8 +265,8 @@
           "amount": 5017630.5
         },
         {
-          "name": "SAAB, INC",
-          "amount": 2316019.0
+          "name": "PARKER-HANNIFIN CORPORATION",
+          "amount": 3287103.87
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -372,6 +372,15 @@
         },
         {
           "date": "2026-07-01",
+          "award_id": "FA861726FB001",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 4250000.0,
+          "agency": "Department of the Air Force",
+          "description": "PRODUCTION LOT 1 AIRCRAFT",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-07-01",
           "award_id": "W31P4Q26F0118",
           "recipient": "LOCKHEED MARTIN CORPORATION",
           "amount": 4078876.56,
@@ -423,15 +432,6 @@
           "agency": "Department of the Air Force",
           "description": "ENTERPRISE SUPPORT DELIVERY ORDER PRODUCT SERVICE CODE: R408",
           "naics": "336411"
-        },
-        {
-          "date": "2026-07-01",
-          "award_id": "SPRHA126F0065",
-          "recipient": "ES3 PRIME LOGISTICS GROUP INC",
-          "amount": 1034312.88,
-          "agency": "Defense Logistics Agency",
-          "description": "B2 AXELS",
-          "naics": "336413"
         }
       ]
     },
@@ -456,7 +456,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-29",
@@ -486,7 +486,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-09-28",
@@ -496,7 +496,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-09-28",
@@ -516,7 +516,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-09-28",
@@ -526,7 +526,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-09-18",
@@ -536,7 +536,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 12
+          "age": 13
         },
         {
           "date": "2026-09-15",
@@ -556,7 +556,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 15
+          "age": 16
         },
         {
           "date": "2026-09-15",
@@ -576,7 +576,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 15
+          "age": 16
         },
         {
           "date": "2026-09-15",
@@ -592,17 +592,53 @@
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
-      "score": 0.0,
-      "status": "BASELINE",
+      "score": 28.9,
+      "status": "WATCH",
       "weight": 0.15,
       "available": true,
       "retained": false,
-      "coverage": 12,
-      "current_14d_weekly_equivalent": 0.0,
+      "coverage": 17,
+      "current_14d_weekly_equivalent": 2.5,
       "baseline_weekly_median": 0.0,
-      "anomaly_z": 0.0,
+      "anomaly_z": 1.53,
       "method": "Defense Acquisition Regulations System publication velocity; rules weighted 1.5.",
-      "evidence": []
+      "evidence": [
+        {
+          "date": "2026-10-01",
+          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement; Covered Defense Telecommunications Equipment or Services",
+          "type": "Notice",
+          "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20176/information-collection-requirement-defense-federal-acquisition-regulation-supplement-covered-defense",
+          "abstract": "The Defense Acquisition Regulations System has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act."
+        },
+        {
+          "date": "2026-10-01",
+          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 219, Small Business Programs",
+          "type": "Notice",
+          "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20175/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-219",
+          "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0386 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
+        },
+        {
+          "date": "2026-10-01",
+          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 237, Service Contracting, and Related Clauses and Forms",
+          "type": "Notice",
+          "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20174/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-237",
+          "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0252 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
+        },
+        {
+          "date": "2026-10-01",
+          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 245, Government Property, Related Clauses and Forms",
+          "type": "Notice",
+          "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20173/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-245",
+          "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0246 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
+        },
+        {
+          "date": "2026-10-01",
+          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 247, Transportation and Related Clauses",
+          "type": "Notice",
+          "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20172/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-247",
+          "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed revision and extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
+        }
+      ]
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -638,11 +674,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-15T12:00:31.623070+00:00",
-      "score": 13.9,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-15T17:13:12.666709+00:00",
       "score": 19.7,
@@ -936,6 +967,11 @@
     {
       "generated": "2026-10-01T06:25:04.190553+00:00",
       "score": 20.5,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-01T13:46:55.431105+00:00",
+      "score": 24.8,
       "status": "BASELINE"
     }
   ],
