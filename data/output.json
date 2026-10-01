@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-01T13:46:55.431105+00:00",
+    "generated": "2026-10-01T22:50:52.499057+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 24.8,
-    "raw_score": 24.8,
+    "score": 25.2,
+    "raw_score": 25.2,
     "concurrence_bonus": 0.0,
-    "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 24.8/100.",
+    "status": "WATCH",
+    "headline": "Defense procurement acceleration pressure is watch at 25.2/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -26,12 +26,70 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 625,
+      "coverage": 630,
       "current_14d_weekly_equivalent": 43.0,
       "baseline_weekly_median": 44.0,
       "anomaly_z": -0.22,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "679921-2026",
+          "date": "2026-10-02",
+          "title": "Germany – Grenades – Angestrebt wird für die Herstellung und Lieferung von Granaten, Abschussgerät (ASG), 76 mm, Nebel, Infrarot (IR), roter Phosphor (RP) eine Mehrpartnerrahmenvereinbarung mit Miniwettbewerb",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35331300",
+            "35330000",
+            "39225500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/679921-2026"
+        },
+        {
+          "id": "679452-2026",
+          "date": "2026-10-02",
+          "title": "Czechia – Command, control, communication and computer systems – Technické prostředky pro rozvoj RZP",
+          "buyer": "Ministerstvo obrany",
+          "country": "CZE",
+          "cpv": [
+            "35710000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/679452-2026"
+        },
+        {
+          "id": "680588-2026",
+          "date": "2026-10-02",
+          "title": "Finland – Weapons, ammunition and associated parts – Erittäin lyhyen kantaman ilmatorjuntaohjusjärjestelmä",
+          "buyer": "Puolustusvoimien logistiikkalaitos",
+          "country": "FIN",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/680588-2026"
+        },
+        {
+          "id": "681440-2026",
+          "date": "2026-10-02",
+          "title": "Latvia – Police equipment – Šaujamieroču piegāde Jelgavas pašvaldības policijas vajadzībām",
+          "buyer": "Jelgavas valstspilsētas pašvaldība",
+          "country": "LVA",
+          "cpv": [
+            "35200000",
+            "35320000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/681440-2026"
+        },
+        {
+          "id": "680778-2026",
+          "date": "2026-10-02",
+          "title": "Spain – Unmanned aerial vehicles – Adquisición RPAS Clase I para el centro de experimentación de vehículos no tripulados de la Armada",
+          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
+          "country": "ESP",
+          "cpv": [
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/680778-2026"
+        },
         {
           "id": "675136-2026",
           "date": "2026-10-01",
@@ -55,17 +113,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/677096-2026"
         },
         {
-          "id": "676630-2026",
-          "date": "2026-10-01",
-          "title": "Romania – Battle simulators – Achizitie simulator de scenarii reale",
-          "buyer": "Scoala de Pregatire a Agentilor Politiei de Frontiera \"Avram Iancu\" Oradea",
-          "country": "ROU",
-          "cpv": [
-            "35740000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/676630-2026"
-        },
-        {
           "id": "675167-2026",
           "date": "2026-10-01",
           "title": "Estonia – Various chemical products – Õlide, määrdeainete, konserveerimisvahendite kestvushankeleping 2026/2027",
@@ -80,15 +127,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/675167-2026"
         },
         {
-          "id": "674937-2026",
+          "id": "676630-2026",
           "date": "2026-10-01",
-          "title": "Portugal – Command, control, communication systems – Projeto de Sistema de Telegestão de Abastecimento e Saneamento",
-          "buyer": "AgdA - Águas Públicas do Alentejo, SA",
-          "country": "PRT",
+          "title": "Romania – Battle simulators – Achizitie simulator de scenarii reale",
+          "buyer": "Scoala de Pregatire a Agentilor Politiei de Frontiera \"Avram Iancu\" Oradea",
+          "country": "ROU",
           "cpv": [
-            "35711000"
+            "35740000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/674937-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/676630-2026"
         },
         {
           "id": "675036-2026",
@@ -100,6 +147,28 @@
             "35331500"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/675036-2026"
+        },
+        {
+          "id": "674937-2026",
+          "date": "2026-10-01",
+          "title": "Portugal – Command, control, communication systems – Projeto de Sistema de Telegestão de Abastecimento e Saneamento",
+          "buyer": "AgdA - Águas Públicas do Alentejo, SA",
+          "country": "PRT",
+          "cpv": [
+            "35711000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/674937-2026"
+        },
+        {
+          "id": "676934-2026",
+          "date": "2026-10-01",
+          "title": "Germany – Ammunition – Kauf von Munition der Firma Rheinmetall",
+          "buyer": "Thüringer Polizei, Landespolizeidirektion, Sachgebiet 24",
+          "country": "DEU",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/676934-2026"
         },
         {
           "id": "676090-2026",
@@ -124,17 +193,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/675339-2026"
         },
         {
-          "id": "676934-2026",
-          "date": "2026-10-01",
-          "title": "Germany – Ammunition – Kauf von Munition der Firma Rheinmetall",
-          "buyer": "Thüringer Polizei, Landespolizeidirektion, Sachgebiet 24",
-          "country": "DEU",
-          "cpv": [
-            "35330000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/676934-2026"
-        },
-        {
           "id": "676007-2026",
           "date": "2026-10-01",
           "title": "Germany – Ammunition – Kauf von Munition der Firma MEN",
@@ -155,69 +213,6 @@
             "35600000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/672950-2026"
-        },
-        {
-          "id": "673469-2026",
-          "date": "2026-09-30",
-          "title": "Germany – Trailers, semi-trailers and mobile containers – Lieferung von vier Stromerzeugern auf Anhänger",
-          "buyer": "Kreisverwaltung Mayen-Koblenz",
-          "country": "DEU",
-          "cpv": [
-            "34220000",
-            "35412500",
-            "34223000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/673469-2026"
-        },
-        {
-          "id": "673568-2026",
-          "date": "2026-09-30",
-          "title": "Spain – Bombs – Suministro de bombas BLU-111 C/B",
-          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
-          "country": "ESP",
-          "cpv": [
-            "35333100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/673568-2026"
-        },
-        {
-          "id": "672298-2026",
-          "date": "2026-09-30",
-          "title": "Sweden – Medical information systems – Avvikelsesystem",
-          "buyer": "Region Blekinge",
-          "country": "SWE",
-          "cpv": [
-            "48814000",
-            "35711000",
-            "48000000",
-            "72000000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/672298-2026"
-        },
-        {
-          "id": "673282-2026",
-          "date": "2026-09-30",
-          "title": "Germany – Electrical fitting work – Generalsanierung SPFZ Forchheim Elektroinstallationen",
-          "buyer": "Landratsamt Forchheim",
-          "country": "DEU",
-          "cpv": [
-            "45311200",
-            "45315600",
-            "31625200",
-            "35710000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/673282-2026"
-        },
-        {
-          "id": "673679-2026",
-          "date": "2026-09-30",
-          "title": "Germany – Parts of military vehicles – 6002977963-BAAINBw E2.5F Periskope, gepanzerte Fahrzeuge, WS Leopard 2",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/673679-2026"
         }
       ]
     },
@@ -232,7 +227,7 @@
       "latest_observation": "2026-07-01",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 146092439.56,
+      "current_14d_weekly_equivalent": 143884011.95,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -246,11 +241,11 @@
         },
         {
           "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 53502952.39
+          "amount": 53417952.39
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 22035327.8
+          "amount": 17785327.8
         },
         {
           "name": "NEROS, INC.",
@@ -372,15 +367,6 @@
         },
         {
           "date": "2026-07-01",
-          "award_id": "FA861726FB001",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 4250000.0,
-          "agency": "Department of the Air Force",
-          "description": "PRODUCTION LOT 1 AIRCRAFT",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-01",
           "award_id": "W31P4Q26F0118",
           "recipient": "LOCKHEED MARTIN CORPORATION",
           "amount": 4078876.56,
@@ -432,22 +418,41 @@
           "agency": "Department of the Air Force",
           "description": "ENTERPRISE SUPPORT DELIVERY ORDER PRODUCT SERVICE CODE: R408",
           "naics": "336411"
+        },
+        {
+          "date": "2026-07-01",
+          "award_id": "SPRHA126F0065",
+          "recipient": "ES3 PRIME LOGISTICS GROUP INC",
+          "amount": 1034312.88,
+          "agency": "Defense Logistics Agency",
+          "description": "B2 AXELS",
+          "naics": "336413"
         }
       ]
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 41.2,
+      "score": 43.2,
       "status": "WATCH",
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 95,
-      "current_14d_weekly_equivalent": 12.0,
+      "coverage": 96,
+      "current_14d_weekly_equivalent": 13.5,
       "baseline_weekly_median": 4.0,
-      "anomaly_z": 1.35,
+      "anomaly_z": 1.6,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
+        {
+          "date": "2026-10-01",
+          "title": "Nato Allies Test Drone Defences At Sea",
+          "url": "https://www.nato.int/en/multimedia/multimedia/videos/2026/10/01/nato-allies-test-drone-defences-at-sea",
+          "terms": [
+            "drone"
+          ],
+          "weight": 3,
+          "age": 0
+        },
         {
           "date": "2026-09-29",
           "title": "Secretary General And Lithuanian Prime Minister Discuss Eastern Flank Defence Drones And Support For Ukraine",
@@ -466,7 +471,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-28",
@@ -476,7 +481,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-09-28",
@@ -506,7 +511,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-09-28",
@@ -546,7 +551,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 15
+          "age": 16
         },
         {
           "date": "2026-09-15",
@@ -566,7 +571,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 15
+          "age": 16
         },
         {
           "date": "2026-09-15",
@@ -577,16 +582,6 @@
           ],
           "weight": 2,
           "age": 16
-        },
-        {
-          "date": "2026-09-15",
-          "title": "Plenary Session Of The Nato Summit Defence Industry Forum",
-          "url": "https://www.nato.int/en/multimedia/multimedia/videos/2025/06/24/plenary-session-of-the-nato-summit-defence-industry-forum",
-          "terms": [
-            "industry"
-          ],
-          "weight": 2.5,
-          "age": 15
         }
       ]
     },
@@ -674,11 +669,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-15T17:13:12.666709+00:00",
-      "score": 19.7,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-15T21:40:13.176888+00:00",
       "score": 19.4,
@@ -973,6 +963,11 @@
       "generated": "2026-10-01T13:46:55.431105+00:00",
       "score": 24.8,
       "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-01T22:50:52.499057+00:00",
+      "score": 25.2,
+      "status": "WATCH"
     }
   ],
   "sources": [
