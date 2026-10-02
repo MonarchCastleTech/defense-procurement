@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-02T06:03:26.787176+00:00",
+    "generated": "2026-10-02T13:03:25.815388+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -160,17 +160,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/675036-2026"
         },
         {
-          "id": "676934-2026",
-          "date": "2026-10-01",
-          "title": "Germany – Ammunition – Kauf von Munition der Firma Rheinmetall",
-          "buyer": "Thüringer Polizei, Landespolizeidirektion, Sachgebiet 24",
-          "country": "DEU",
-          "cpv": [
-            "35330000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/676934-2026"
-        },
-        {
           "id": "676090-2026",
           "date": "2026-10-01",
           "title": "France – Ammunition – Appel d'offres en vue de la fourniture de munitions pour pistolets à impulsion électrique (PIE) de modèle X2 pour les policiers municipaux",
@@ -191,6 +180,17 @@
             "35330000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/675339-2026"
+        },
+        {
+          "id": "676934-2026",
+          "date": "2026-10-01",
+          "title": "Germany – Ammunition – Kauf von Munition der Firma Rheinmetall",
+          "buyer": "Thüringer Polizei, Landespolizeidirektion, Sachgebiet 24",
+          "country": "DEU",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/676934-2026"
         },
         {
           "id": "676007-2026",
@@ -218,7 +218,7 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 5.0,
+      "score": 4.9,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -227,7 +227,7 @@
       "latest_observation": "2026-07-01",
       "reporting_lag_days": 93,
       "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 161268189.09,
+      "current_14d_weekly_equivalent": 137706312.67,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -236,16 +236,16 @@
           "amount": 103166412.37
         },
         {
-          "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 100975510.39
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "amount": 53952263.9
         },
         {
-          "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 54640683.9
+          "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 53390937.39
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 17741616.3
+          "amount": 17788427.8
         },
         {
           "name": "ROLLS-ROYCE CORPORATION",
@@ -257,7 +257,7 @@
         },
         {
           "name": "HAMILTON SUNDSTRAND CORPORATION",
-          "amount": 4080811.0
+          "amount": 4050116.02
         },
         {
           "name": "SAAB, INC",
@@ -273,15 +273,6 @@
           "amount": 99893845.23,
           "agency": "Department of the Army",
           "description": "COYOTE INTERCEPTORS",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-07-01",
-          "award_id": "FA880726CB001",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 47556208.0,
-          "agency": "Department of the Air Force",
-          "description": "SATCOM SPACE VEHICLE",
           "naics": "336414"
         },
         {
@@ -427,6 +418,15 @@
           "agency": "Department of the Army",
           "description": "THIS CONTRACT IS FOR PATRIOT ADVANCED CAPABILITIES-3 (PAC-3) MISSILE SUPPORT CENTER (P3MSC) FOR THE UNITED STATES AND FOREIGN MILITARY SALES (FMS) CUSTOMERS.",
           "naics": "336419"
+        },
+        {
+          "date": "2026-07-01",
+          "award_id": "FA861626FB005",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
+          "amount": 1332000.0,
+          "agency": "Department of the Air Force",
+          "description": "ENTERPRISE SUPPORT DELIVERY ORDER PRODUCT SERVICE CODE: R408",
+          "naics": "336411"
         }
       ]
     },
@@ -437,7 +437,7 @@
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 96,
+      "coverage": 95,
       "current_14d_weekly_equivalent": 12.0,
       "baseline_weekly_median": 4.0,
       "anomaly_z": 1.35,
@@ -461,7 +461,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-09-29",
@@ -541,7 +541,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 13
+          "age": 14
         },
         {
           "date": "2026-09-15",
@@ -561,7 +561,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 16
+          "age": 17
         },
         {
           "date": "2026-09-15",
@@ -581,7 +581,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 16
+          "age": 17
         }
       ]
     },
@@ -669,11 +669,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-16T05:06:44.312041+00:00",
-      "score": 18.8,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-16T11:57:21.715979+00:00",
       "score": 18.8,
@@ -966,6 +961,11 @@
     },
     {
       "generated": "2026-10-02T06:03:26.787176+00:00",
+      "score": 24.5,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-02T13:03:25.815388+00:00",
       "score": 24.5,
       "status": "BASELINE"
     }
