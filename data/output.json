@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-01T22:50:52.499057+00:00",
+    "generated": "2026-10-02T06:03:26.787176+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 25.2,
-    "raw_score": 25.2,
+    "score": 24.5,
+    "raw_score": 24.5,
     "concurrence_bonus": 0.0,
-    "status": "WATCH",
-    "headline": "Defense procurement acceleration pressure is watch at 25.2/100.",
+    "status": "BASELINE",
+    "headline": "Defense procurement acceleration pressure is baseline at 24.5/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -26,10 +26,10 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 630,
-      "current_14d_weekly_equivalent": 43.0,
-      "baseline_weekly_median": 44.0,
-      "anomaly_z": -0.22,
+      "coverage": 611,
+      "current_14d_weekly_equivalent": 40.5,
+      "baseline_weekly_median": 43.0,
+      "anomaly_z": -0.84,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
@@ -113,6 +113,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/677096-2026"
         },
         {
+          "id": "676630-2026",
+          "date": "2026-10-01",
+          "title": "Romania – Battle simulators – Achizitie simulator de scenarii reale",
+          "buyer": "Scoala de Pregatire a Agentilor Politiei de Frontiera \"Avram Iancu\" Oradea",
+          "country": "ROU",
+          "cpv": [
+            "35740000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/676630-2026"
+        },
+        {
           "id": "675167-2026",
           "date": "2026-10-01",
           "title": "Estonia – Various chemical products – Õlide, määrdeainete, konserveerimisvahendite kestvushankeleping 2026/2027",
@@ -127,15 +138,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/675167-2026"
         },
         {
-          "id": "676630-2026",
+          "id": "674937-2026",
           "date": "2026-10-01",
-          "title": "Romania – Battle simulators – Achizitie simulator de scenarii reale",
-          "buyer": "Scoala de Pregatire a Agentilor Politiei de Frontiera \"Avram Iancu\" Oradea",
-          "country": "ROU",
+          "title": "Portugal – Command, control, communication systems – Projeto de Sistema de Telegestão de Abastecimento e Saneamento",
+          "buyer": "AgdA - Águas Públicas do Alentejo, SA",
+          "country": "PRT",
           "cpv": [
-            "35740000"
+            "35711000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/676630-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/674937-2026"
         },
         {
           "id": "675036-2026",
@@ -147,17 +158,6 @@
             "35331500"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/675036-2026"
-        },
-        {
-          "id": "674937-2026",
-          "date": "2026-10-01",
-          "title": "Portugal – Command, control, communication systems – Projeto de Sistema de Telegestão de Abastecimento e Saneamento",
-          "buyer": "AgdA - Águas Públicas do Alentejo, SA",
-          "country": "PRT",
-          "cpv": [
-            "35711000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/674937-2026"
         },
         {
           "id": "676934-2026",
@@ -218,16 +218,16 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 5.1,
+      "score": 5.0,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-07-01",
-      "reporting_lag_days": 92,
-      "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 143884011.95,
+      "reporting_lag_days": 93,
+      "freshness_factor": 0.22,
+      "current_14d_weekly_equivalent": 161268189.09,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -236,20 +236,16 @@
           "amount": 103166412.37
         },
         {
+          "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 100975510.39
+        },
+        {
           "name": "LOCKHEED MARTIN CORPORATION",
           "amount": 54640683.9
         },
         {
-          "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 53417952.39
-        },
-        {
           "name": "THE BOEING COMPANY",
-          "amount": 17785327.8
-        },
-        {
-          "name": "NEROS, INC.",
-          "amount": 17452800.03
+          "amount": 17741616.3
         },
         {
           "name": "ROLLS-ROYCE CORPORATION",
@@ -260,8 +256,12 @@
           "amount": 5017630.5
         },
         {
-          "name": "PARKER-HANNIFIN CORPORATION",
-          "amount": 3287103.87
+          "name": "HAMILTON SUNDSTRAND CORPORATION",
+          "amount": 4080811.0
+        },
+        {
+          "name": "SAAB, INC",
+          "amount": 2316019.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -273,6 +273,15 @@
           "amount": 99893845.23,
           "agency": "Department of the Army",
           "description": "COYOTE INTERCEPTORS",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-07-01",
+          "award_id": "FA880726CB001",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 47556208.0,
+          "agency": "Department of the Air Force",
+          "description": "SATCOM SPACE VEHICLE",
           "naics": "336414"
         },
         {
@@ -301,15 +310,6 @@
           "agency": "Department of the Air Force",
           "description": "THE PURPOSE OF THIS EFFORT IS TO BEGIN PHASE 1 ACTIVITIES RELATED TO DEVELOPING THE AGM-158 XR BLOCK 0 AIRFRAME.",
           "naics": "336414"
-        },
-        {
-          "date": "2026-07-01",
-          "award_id": "W91CRB26FA251",
-          "recipient": "NEROS, INC.",
-          "amount": 17452800.03,
-          "agency": "Department of the Army",
-          "description": "DELIVERY ORDER 1 FOR PURPOSE-BUILT ATTRITABLE SYSTEM (PBAS) TO INCLUDE SMALL UNMANNED AIRCRAFT SYSTEMS (SUAS) ARCHER WITH NEROS, INC.",
-          "naics": "336411"
         },
         {
           "date": "2026-07-01",
@@ -376,12 +376,30 @@
         },
         {
           "date": "2026-07-01",
+          "award_id": "SPRHA126F0108",
+          "recipient": "HAMILTON SUNDSTRAND CORPORATION",
+          "amount": 3996000.0,
+          "agency": "Defense Logistics Agency",
+          "description": "BUY GEARBOX, ACCESSORY D FOR THE F-16.",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-01",
           "award_id": "N6660422C0663",
           "recipient": "SAAB, INC",
           "amount": 2316019.0,
           "agency": "Department of the Navy",
           "description": "EXPENDABLE MOBILE ANTISUBMARINE WARFARE (ASW) TRAINING TARGET (EMATT) HARDWARE AND ENGINEERING SERVICES",
           "naics": "332994"
+        },
+        {
+          "date": "2026-07-01",
+          "award_id": "FA855226FB004",
+          "recipient": "ARISTA AVIATION SERVICES, LLC.",
+          "amount": 2314177.86,
+          "agency": "Department of the Air Force",
+          "description": "TO INDUCT ONE EACH TH-1H AIRCRAFT IN PROGRAMMED DEPOT MAINTENANCE",
+          "naics": "336411"
         },
         {
           "date": "2026-07-01",
@@ -409,38 +427,20 @@
           "agency": "Department of the Army",
           "description": "THIS CONTRACT IS FOR PATRIOT ADVANCED CAPABILITIES-3 (PAC-3) MISSILE SUPPORT CENTER (P3MSC) FOR THE UNITED STATES AND FOREIGN MILITARY SALES (FMS) CUSTOMERS.",
           "naics": "336419"
-        },
-        {
-          "date": "2026-07-01",
-          "award_id": "FA861626FB005",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
-          "amount": 1332000.0,
-          "agency": "Department of the Air Force",
-          "description": "ENTERPRISE SUPPORT DELIVERY ORDER PRODUCT SERVICE CODE: R408",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-01",
-          "award_id": "SPRHA126F0065",
-          "recipient": "ES3 PRIME LOGISTICS GROUP INC",
-          "amount": 1034312.88,
-          "agency": "Defense Logistics Agency",
-          "description": "B2 AXELS",
-          "naics": "336413"
         }
       ]
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 43.2,
+      "score": 41.2,
       "status": "WATCH",
       "weight": 0.2,
       "available": true,
       "retained": false,
       "coverage": 96,
-      "current_14d_weekly_equivalent": 13.5,
+      "current_14d_weekly_equivalent": 12.0,
       "baseline_weekly_median": 4.0,
-      "anomaly_z": 1.6,
+      "anomaly_z": 1.35,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -587,15 +587,15 @@
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
-      "score": 28.9,
+      "score": 27.1,
       "status": "WATCH",
       "weight": 0.15,
       "available": true,
       "retained": false,
-      "coverage": 17,
+      "coverage": 15,
       "current_14d_weekly_equivalent": 2.5,
       "baseline_weekly_median": 0.0,
-      "anomaly_z": 1.53,
+      "anomaly_z": 1.3,
       "method": "Defense Acquisition Regulations System publication velocity; rules weighted 1.5.",
       "evidence": [
         {
@@ -669,11 +669,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-15T21:40:13.176888+00:00",
-      "score": 19.4,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-16T05:06:44.312041+00:00",
       "score": 18.8,
@@ -968,6 +963,11 @@
       "generated": "2026-10-01T22:50:52.499057+00:00",
       "score": 25.2,
       "status": "WATCH"
+    },
+    {
+      "generated": "2026-10-02T06:03:26.787176+00:00",
+      "score": 24.5,
+      "status": "BASELINE"
     }
   ],
   "sources": [
