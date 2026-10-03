@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-03T11:56:27.866417+00:00",
+    "generated": "2026-10-03T16:36:41.766803+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -218,7 +218,7 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 3.9,
+      "score": 4.0,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -227,7 +227,7 @@
       "latest_observation": "2026-07-03",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 46686663.27,
+      "current_14d_weekly_equivalent": 48289400.48,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -244,6 +244,10 @@
           "amount": 9033254.48
         },
         {
+          "name": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 6638990.93
+        },
+        {
           "name": "THE BOEING COMPANY",
           "amount": 5133710.34
         },
@@ -254,10 +258,6 @@
         {
           "name": "CYMSTAR LLC",
           "amount": 4062723.67
-        },
-        {
-          "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 3623147.01
         },
         {
           "name": "SHIELD AI INC",
@@ -451,7 +451,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-09-29",
@@ -471,7 +471,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 3
+          "age": 4
         },
         {
           "date": "2026-09-28",
@@ -481,7 +481,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-09-28",
@@ -491,7 +491,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-09-28",
@@ -501,7 +501,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-09-28",
@@ -511,7 +511,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-09-28",
@@ -521,7 +521,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-09-28",
@@ -531,7 +531,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-09-18",
@@ -541,7 +541,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 14
+          "age": 15
         },
         {
           "date": "2026-09-15",
@@ -551,7 +551,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 17
+          "age": 18
         },
         {
           "date": "2026-09-15",
@@ -571,7 +571,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 17
+          "age": 18
         },
         {
           "date": "2026-09-15",
@@ -581,7 +581,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 17
+          "age": 18
         }
       ]
     },
@@ -669,11 +669,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-17T05:11:27.465703+00:00",
-      "score": 19.0,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-17T11:59:25.981487+00:00",
       "score": 19.3,
@@ -966,6 +961,11 @@
     },
     {
       "generated": "2026-10-03T11:56:27.866417+00:00",
+      "score": 24.3,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-03T16:36:41.766803+00:00",
       "score": 24.3,
       "status": "BASELINE"
     }
