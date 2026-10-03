@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-03T16:36:41.766803+00:00",
+    "generated": "2026-10-03T21:40:58.149109+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -218,7 +218,7 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 4.0,
+      "score": 3.9,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -227,7 +227,7 @@
       "latest_observation": "2026-07-03",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 48289400.48,
+      "current_14d_weekly_equivalent": 47400429.86,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -244,10 +244,6 @@
           "amount": 9033254.48
         },
         {
-          "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 6638990.93
-        },
-        {
           "name": "THE BOEING COMPANY",
           "amount": 5133710.34
         },
@@ -258,6 +254,10 @@
         {
           "name": "CYMSTAR LLC",
           "amount": 4062723.67
+        },
+        {
+          "name": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 3623147.01
         },
         {
           "name": "SHIELD AI INC",
@@ -670,11 +670,6 @@
   },
   "history": [
     {
-      "generated": "2026-09-17T11:59:25.981487+00:00",
-      "score": 19.3,
-      "status": "BASELINE"
-    },
-    {
       "generated": "2026-09-17T17:12:54.962510+00:00",
       "score": 19.3,
       "status": "BASELINE"
@@ -966,6 +961,11 @@
     },
     {
       "generated": "2026-10-03T16:36:41.766803+00:00",
+      "score": 24.3,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-03T21:40:58.149109+00:00",
       "score": 24.3,
       "status": "BASELINE"
     }
