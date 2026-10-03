@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-02T22:28:07.022849+00:00",
+    "generated": "2026-10-03T05:37:39.229113+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 24.5,
-    "raw_score": 24.5,
+    "score": 24.3,
+    "raw_score": 24.3,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 24.5/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 24.3/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -26,7 +26,7 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 611,
+      "coverage": 601,
       "current_14d_weekly_equivalent": 40.5,
       "baseline_weekly_median": 43.0,
       "anomaly_z": -0.84,
@@ -113,6 +113,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/677096-2026"
         },
         {
+          "id": "676630-2026",
+          "date": "2026-10-01",
+          "title": "Romania – Battle simulators – Achizitie simulator de scenarii reale",
+          "buyer": "Scoala de Pregatire a Agentilor Politiei de Frontiera \"Avram Iancu\" Oradea",
+          "country": "ROU",
+          "cpv": [
+            "35740000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/676630-2026"
+        },
+        {
           "id": "675167-2026",
           "date": "2026-10-01",
           "title": "Estonia – Various chemical products – Õlide, määrdeainete, konserveerimisvahendite kestvushankeleping 2026/2027",
@@ -127,28 +138,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/675167-2026"
         },
         {
-          "id": "676630-2026",
-          "date": "2026-10-01",
-          "title": "Romania – Battle simulators – Achizitie simulator de scenarii reale",
-          "buyer": "Scoala de Pregatire a Agentilor Politiei de Frontiera \"Avram Iancu\" Oradea",
-          "country": "ROU",
-          "cpv": [
-            "35740000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/676630-2026"
-        },
-        {
-          "id": "675036-2026",
-          "date": "2026-10-01",
-          "title": "Italy – Cartridges – Cartucce Cal. 9x19 da addestramento",
-          "buyer": "Comando Generale della Guardia di Finanza",
-          "country": "ITA",
-          "cpv": [
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/675036-2026"
-        },
-        {
           "id": "674937-2026",
           "date": "2026-10-01",
           "title": "Portugal – Command, control, communication systems – Projeto de Sistema de Telegestão de Abastecimento e Saneamento",
@@ -160,15 +149,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/674937-2026"
         },
         {
-          "id": "676934-2026",
+          "id": "675036-2026",
           "date": "2026-10-01",
-          "title": "Germany – Ammunition – Kauf von Munition der Firma Rheinmetall",
-          "buyer": "Thüringer Polizei, Landespolizeidirektion, Sachgebiet 24",
-          "country": "DEU",
+          "title": "Italy – Cartridges – Cartucce Cal. 9x19 da addestramento",
+          "buyer": "Comando Generale della Guardia di Finanza",
+          "country": "ITA",
           "cpv": [
-            "35330000"
+            "35331500"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/676934-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/675036-2026"
         },
         {
           "id": "676090-2026",
@@ -193,6 +182,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/675339-2026"
         },
         {
+          "id": "676934-2026",
+          "date": "2026-10-01",
+          "title": "Germany – Ammunition – Kauf von Munition der Firma Rheinmetall",
+          "buyer": "Thüringer Polizei, Landespolizeidirektion, Sachgebiet 24",
+          "country": "DEU",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/676934-2026"
+        },
+        {
           "id": "676007-2026",
           "date": "2026-10-01",
           "title": "Germany – Ammunition – Kauf von Munition der Firma MEN",
@@ -204,229 +204,229 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/676007-2026"
         },
         {
-          "id": "673679-2026",
+          "id": "672950-2026",
           "date": "2026-09-30",
-          "title": "Germany – Parts of military vehicles – 6002977963-BAAINBw E2.5F Periskope, gepanzerte Fahrzeuge, WS Leopard 2",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "title": "Germany – Military aircrafts, missiles and spacecrafts – Herstellung von Basishelikoptern nebst Ausrüstung sowie Unterstützungsleistungen für die Polizeifliegerstaffel Hessen und die Polizeihubschrauberstaffel Thüringen",
+          "buyer": "Land Hessen, vertreten durch das Hessische Ministerium des Innern, für Sicherheit und Heimatschutz, dieses vertreten druch das Hessische Polizeipräsidium für Technik",
           "country": "DEU",
           "cpv": [
-            "35420000"
+            "35600000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/673679-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/672950-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 5.0,
+      "score": 3.9,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-07-01",
-      "reporting_lag_days": 93,
-      "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 161341815.75,
+      "latest_observation": "2026-07-03",
+      "reporting_lag_days": 92,
+      "freshness_factor": 0.23,
+      "current_14d_weekly_equivalent": 45288521.51,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
-          "name": "RAYTHEON COMPANY",
-          "amount": 103166412.37
-        },
-        {
-          "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 100975510.39
-        },
-        {
           "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 53952263.9
-        },
-        {
-          "name": "THE BOEING COMPANY",
-          "amount": 17741616.3
+          "amount": 26172773.07
         },
         {
           "name": "ROLLS-ROYCE CORPORATION",
           "amount": 14912656.5
         },
         {
-          "name": "SPIRAL SOLUTIONS & TECHNOLOGIES, INC",
-          "amount": 5017630.5
+          "name": "ALLTHINGSFLYING, LLC",
+          "amount": 9033254.48
         },
         {
-          "name": "HAMILTON SUNDSTRAND CORPORATION",
-          "amount": 4080811.0
+          "name": "THE BOEING COMPANY",
+          "amount": 5133710.34
         },
         {
-          "name": "SAAB, INC",
-          "amount": 2316019.0
+          "name": "L3HARRIS FUZING AND ORDNANCE SYSTEMS, INC.",
+          "amount": 5029680.0
+        },
+        {
+          "name": "CYMSTAR LLC",
+          "amount": 4062723.67
+        },
+        {
+          "name": "SHIELD AI INC",
+          "amount": 2859008.12
+        },
+        {
+          "name": "UNMANNED SYSTEMS INCORPORATED",
+          "amount": 2694838.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
         {
-          "date": "2026-07-01",
-          "award_id": "W31P4Q25F0206",
-          "recipient": "RAYTHEON COMPANY",
-          "amount": 99893845.23,
-          "agency": "Department of the Army",
-          "description": "COYOTE INTERCEPTORS",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-07-01",
-          "award_id": "FA880726CB001",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 47556208.0,
-          "agency": "Department of the Air Force",
-          "description": "SATCOM SPACE VEHICLE",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-07-01",
-          "award_id": "FA880726CB001",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 47556208.0,
-          "agency": "Department of the Air Force",
-          "description": "SATCOM SPACE VEHICLE",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-07-01",
-          "award_id": "N0001926F1104",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 24000000.0,
-          "agency": "Department of the Navy",
-          "description": "THE PURPOSE OF THIS CONTRACTING ACTION IS TO ADDRESS KNOWN AN/ARQ-59 OBSOLESCENCE, PTRS, AND INCORPORATE THE CMDL2 INTO THE DESIGN OF THE SYSTEM.",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-01",
-          "award_id": "FA868226FB013",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 20580000.0,
-          "agency": "Department of the Air Force",
-          "description": "THE PURPOSE OF THIS EFFORT IS TO BEGIN PHASE 1 ACTIVITIES RELATED TO DEVELOPING THE AGM-158 XR BLOCK 0 AIRFRAME.",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-07-01",
-          "award_id": "FA812426FB073",
-          "recipient": "ROLLS-ROYCE CORPORATION",
-          "amount": 14791796.0,
-          "agency": "Department of the Air Force",
-          "description": "MC-130J ROLLS-ROYCE PROPULSION OVER AND ABOVE (QECA)",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-07-01",
-          "award_id": "FA863423F0400",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 6300000.0,
-          "agency": "Department of the Air Force",
-          "description": "CDI OFP",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-01",
-          "award_id": "FA863426CB001",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 6000000.0,
-          "agency": "Department of the Air Force",
-          "description": "F-15 ISRAEL AIRCRAFT PROGRAM",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-01",
-          "award_id": "SPRHA126C0006",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 5500400.0,
+          "date": "2026-07-03",
+          "award_id": "SPE4A226F6743",
+          "recipient": "MARTIN-BAKER AMERICA INC",
+          "amount": 1437.72,
           "agency": "Defense Logistics Agency",
-          "description": "MAGNETIC PICK UP",
+          "description": "8512220266!COVER,SEAT CUSHION,",
           "naics": "336413"
         },
         {
-          "date": "2026-07-01",
-          "award_id": "FA862024CB004",
-          "recipient": "SPIRAL SOLUTIONS & TECHNOLOGIES, INC",
-          "amount": 5017630.5,
-          "agency": "Department of the Air Force",
-          "description": "AFLCMC/WI",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-01",
-          "award_id": "FA861726FB001",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 4250000.0,
-          "agency": "Department of the Air Force",
-          "description": "PRODUCTION LOT 1 AIRCRAFT",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-01",
-          "award_id": "W31P4Q26F0118",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 4078876.56,
-          "agency": "Department of the Army",
-          "description": "THIS CONTRACT IS FOR PATRIOT ADVANCED CAPABILITIES-3 (PAC-3) MISSILE SUPPORT CENTER (P3MSC) FOR THE UNITED STATES AND FOREIGN MILITARY SALES (FMS) CUSTOMERS.",
-          "naics": "336419"
-        },
-        {
-          "date": "2026-07-01",
-          "award_id": "SPRHA126F0108",
-          "recipient": "HAMILTON SUNDSTRAND CORPORATION",
-          "amount": 3996000.0,
+          "date": "2026-07-03",
+          "award_id": "SPE4A226F6741",
+          "recipient": "MARTIN-BAKER AMERICA INC",
+          "amount": 1437.72,
           "agency": "Defense Logistics Agency",
-          "description": "BUY GEARBOX, ACCESSORY D FOR THE F-16.",
+          "description": "8512220264!COVER,SEAT CUSHION,",
           "naics": "336413"
         },
         {
-          "date": "2026-07-01",
-          "award_id": "N6660422C0663",
-          "recipient": "SAAB, INC",
-          "amount": 2316019.0,
-          "agency": "Department of the Navy",
-          "description": "EXPENDABLE MOBILE ANTISUBMARINE WARFARE (ASW) TRAINING TARGET (EMATT) HARDWARE AND ENGINEERING SERVICES",
+          "date": "2026-07-03",
+          "award_id": "SPE4A226F6745",
+          "recipient": "MARTIN-BAKER AMERICA INC",
+          "amount": 1437.72,
+          "agency": "Defense Logistics Agency",
+          "description": "8512220268!COVER,SEAT CUSHION,",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-03",
+          "award_id": "SPE4A226F6744",
+          "recipient": "MARTIN-BAKER AMERICA INC",
+          "amount": 1437.72,
+          "agency": "Defense Logistics Agency",
+          "description": "8512220267!COVER,SEAT CUSHION,",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-03",
+          "award_id": "SPE4A226F6742",
+          "recipient": "MARTIN-BAKER AMERICA INC",
+          "amount": 1437.72,
+          "agency": "Defense Logistics Agency",
+          "description": "8512220265!COVER,SEAT CUSHION,",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-03",
+          "award_id": "SPE4A226F6747",
+          "recipient": "MARTIN-BAKER AMERICA INC",
+          "amount": 1437.72,
+          "agency": "Defense Logistics Agency",
+          "description": "8512220290!COVER,SEAT CUSHION,",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-03",
+          "award_id": "SPE4A226F6746",
+          "recipient": "MARTIN-BAKER AMERICA INC",
+          "amount": 1437.72,
+          "agency": "Defense Logistics Agency",
+          "description": "8512220269!COVER,SEAT CUSHION,",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-03",
+          "award_id": "SPE4A226F6740",
+          "recipient": "MARTIN-BAKER AMERICA INC",
+          "amount": 303.79,
+          "agency": "Defense Logistics Agency",
+          "description": "8512220221!STRAP,WEBBING",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-03",
+          "award_id": "SPE4A626FCHWW",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 197.9,
+          "agency": "Defense Logistics Agency",
+          "description": "4572298010!NITROGEN",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-03",
+          "award_id": "SPE7L126FAR1C",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 21.65,
+          "agency": "Defense Logistics Agency",
+          "description": "4572298034!GASKET",
           "naics": "332994"
         },
         {
-          "date": "2026-07-01",
-          "award_id": "FA855226FB004",
-          "recipient": "ARISTA AVIATION SERVICES, LLC.",
-          "amount": 2314177.86,
-          "agency": "Department of the Air Force",
-          "description": "TO INDUCT ONE EACH TH-1H AIRCRAFT IN PROGRAMMED DEPOT MAINTENANCE",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-01",
-          "award_id": "N0001923F0066",
-          "recipient": "RAYTHEON COMPANY",
-          "amount": 2110277.73,
-          "agency": "Department of the Navy",
-          "description": "ADD ADDITIONAL ILS SUPPORT AND CETS SCOPE.",
+          "date": "2026-07-03",
+          "award_id": "W58RGZ21F0507",
+          "recipient": "ARCTOS MISSION SOLUTIONS, LLC",
+          "amount": -0.4,
+          "agency": "Department of the Army",
+          "description": "DE-OBLIGATION ON CLIN 0002AA",
           "naics": "336413"
         },
         {
-          "date": "2026-07-01",
-          "award_id": "FA861123F0012",
+          "date": "2026-07-02",
+          "award_id": "N0001926F2179",
           "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 2058009.0,
-          "agency": "Department of the Air Force",
-          "description": "LDPT EMD HARDWARE AND FABRICATION",
+          "amount": 14508319.0,
+          "agency": "Department of the Navy",
+          "description": "DMSM CY26-28",
           "naics": "336411"
         },
         {
-          "date": "2026-07-01",
-          "award_id": "W31P4Q26F0118",
+          "date": "2026-07-02",
+          "award_id": "N0001926F2220",
+          "recipient": "ALLTHINGSFLYING, LLC",
+          "amount": 6417210.08,
+          "agency": "Department of the Navy",
+          "description": "H-1 MODERNIZATION TRANSITION-IN REQUIREMENT AND INSTALLS",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-07-02",
+          "award_id": "W31P4Q23C0032",
           "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 1529578.71,
+          "amount": 6016072.06,
           "agency": "Department of the Army",
-          "description": "THIS CONTRACT IS FOR PATRIOT ADVANCED CAPABILITIES-3 (PAC-3) MISSILE SUPPORT CENTER (P3MSC) FOR THE UNITED STATES AND FOREIGN MILITARY SALES (FMS) CUSTOMERS.",
-          "naics": "336419"
+          "description": "MULTIPLE LAUNCH ROCKET SYSTEM RECAPITALIZATION",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-07-02",
+          "award_id": "N0017426C1001",
+          "recipient": "L3HARRIS FUZING AND ORDNANCE SYSTEMS, INC.",
+          "amount": 5029680.0,
+          "agency": "Department of the Navy",
+          "description": "PROXIMITY FUZE C TYPE FOR ORGANIZATION E1 FY: 2024, AMS: N00174-24-RFPREQ-E1-0074",
+          "naics": "332993"
+        },
+        {
+          "date": "2026-07-02",
+          "award_id": "FA821326FB035",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 4066269.0,
+          "agency": "Department of the Air Force",
+          "description": "QUICKSTRIKE LONG RANGE FLIGHT DEMONSTRATION FOR B-2",
+          "naics": "332993"
+        },
+        {
+          "date": "2026-07-02",
+          "award_id": "FA862125FB018",
+          "recipient": "CYMSTAR LLC",
+          "amount": 4062723.67,
+          "agency": "Department of the Air Force",
+          "description": "THE C-5 TRAINING SYSTEM (TS) PROGRAM IS COMPOSED OF TWO ELEMENTS: C-5 AIRCREW TRAINING SYSTEM (ATS) AND THE C-5 MAINTENANCE TRAINING SYSTEM (MTS). THE C-5 TS CONTRACT IS FOR THE DELIVERY OF SUPPLIES AND NONPERSONAL SERVICES SPECIFIED IN THE PWS.",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-02",
+          "award_id": "N0001926F1059",
+          "recipient": "SHIELD AI INC",
+          "amount": 2859008.12,
+          "agency": "Department of the Navy",
+          "description": "SPARE PAYLOADS WITH LASER DESIGNATOR AND PROGRAM SUPPORT FOR FOR THE REPUBLIC OF IRAQ COUNTER TERRORISM SERVICE FMS CASE IQ-P-SBM.",
+          "naics": "332993"
         }
       ]
     },
@@ -437,7 +437,7 @@
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 95,
+      "coverage": 94,
       "current_14d_weekly_equivalent": 12.0,
       "baseline_weekly_median": 4.0,
       "anomaly_z": 1.35,
@@ -669,11 +669,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-16T17:14:09.173151+00:00",
-      "score": 18.8,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-16T21:35:50.752504+00:00",
       "score": 18.8,
@@ -967,6 +962,11 @@
     {
       "generated": "2026-10-02T22:28:07.022849+00:00",
       "score": 24.5,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-03T05:37:39.229113+00:00",
+      "score": 24.3,
       "status": "BASELINE"
     }
   ],
