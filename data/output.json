@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-03T05:37:39.229113+00:00",
+    "generated": "2026-10-03T11:56:27.866417+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -227,7 +227,7 @@
       "latest_observation": "2026-07-03",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 45288521.51,
+      "current_14d_weekly_equivalent": 46686663.27,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -256,61 +256,16 @@
           "amount": 4062723.67
         },
         {
-          "name": "SHIELD AI INC",
-          "amount": 2859008.12
+          "name": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 3623147.01
         },
         {
-          "name": "UNMANNED SYSTEMS INCORPORATED",
-          "amount": 2694838.0
+          "name": "SHIELD AI INC",
+          "amount": 2859008.12
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
-        {
-          "date": "2026-07-03",
-          "award_id": "SPE4A226F6743",
-          "recipient": "MARTIN-BAKER AMERICA INC",
-          "amount": 1437.72,
-          "agency": "Defense Logistics Agency",
-          "description": "8512220266!COVER,SEAT CUSHION,",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-03",
-          "award_id": "SPE4A226F6741",
-          "recipient": "MARTIN-BAKER AMERICA INC",
-          "amount": 1437.72,
-          "agency": "Defense Logistics Agency",
-          "description": "8512220264!COVER,SEAT CUSHION,",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-03",
-          "award_id": "SPE4A226F6745",
-          "recipient": "MARTIN-BAKER AMERICA INC",
-          "amount": 1437.72,
-          "agency": "Defense Logistics Agency",
-          "description": "8512220268!COVER,SEAT CUSHION,",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-03",
-          "award_id": "SPE4A226F6744",
-          "recipient": "MARTIN-BAKER AMERICA INC",
-          "amount": 1437.72,
-          "agency": "Defense Logistics Agency",
-          "description": "8512220267!COVER,SEAT CUSHION,",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-03",
-          "award_id": "SPE4A226F6742",
-          "recipient": "MARTIN-BAKER AMERICA INC",
-          "amount": 1437.72,
-          "agency": "Defense Logistics Agency",
-          "description": "8512220265!COVER,SEAT CUSHION,",
-          "naics": "336413"
-        },
         {
           "date": "2026-07-03",
           "award_id": "SPE4A226F6747",
@@ -327,6 +282,51 @@
           "amount": 1437.72,
           "agency": "Defense Logistics Agency",
           "description": "8512220269!COVER,SEAT CUSHION,",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-03",
+          "award_id": "SPE4A226F6744",
+          "recipient": "MARTIN-BAKER AMERICA INC",
+          "amount": 1437.72,
+          "agency": "Defense Logistics Agency",
+          "description": "8512220267!COVER,SEAT CUSHION,",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-03",
+          "award_id": "SPE4A226F6743",
+          "recipient": "MARTIN-BAKER AMERICA INC",
+          "amount": 1437.72,
+          "agency": "Defense Logistics Agency",
+          "description": "8512220266!COVER,SEAT CUSHION,",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-03",
+          "award_id": "SPE4A226F6745",
+          "recipient": "MARTIN-BAKER AMERICA INC",
+          "amount": 1437.72,
+          "agency": "Defense Logistics Agency",
+          "description": "8512220268!COVER,SEAT CUSHION,",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-03",
+          "award_id": "SPE4A226F6742",
+          "recipient": "MARTIN-BAKER AMERICA INC",
+          "amount": 1437.72,
+          "agency": "Defense Logistics Agency",
+          "description": "8512220265!COVER,SEAT CUSHION,",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-03",
+          "award_id": "SPE4A226F6741",
+          "recipient": "MARTIN-BAKER AMERICA INC",
+          "amount": 1437.72,
+          "agency": "Defense Logistics Agency",
+          "description": "8512220264!COVER,SEAT CUSHION,",
           "naics": "336413"
         },
         {
@@ -461,7 +461,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 3
+          "age": 4
         },
         {
           "date": "2026-09-29",
@@ -561,7 +561,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 17
+          "age": 18
         },
         {
           "date": "2026-09-15",
@@ -669,11 +669,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-16T21:35:50.752504+00:00",
-      "score": 18.8,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-17T05:11:27.465703+00:00",
       "score": 19.0,
@@ -966,6 +961,11 @@
     },
     {
       "generated": "2026-10-03T05:37:39.229113+00:00",
+      "score": 24.3,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-03T11:56:27.866417+00:00",
       "score": 24.3,
       "status": "BASELINE"
     }
