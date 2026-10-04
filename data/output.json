@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-04T12:46:35.547084+00:00",
+    "generated": "2026-10-04T21:50:03.026506+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -227,7 +227,7 @@
       "latest_observation": "2026-07-03",
       "reporting_lag_days": 93,
       "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 47586832.51,
+      "current_14d_weekly_equivalent": 47051413.49,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -257,7 +257,7 @@
         },
         {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 3492611.86
+          "amount": 3623147.01
         },
         {
           "name": "SHIELD AI INC",
@@ -273,6 +273,15 @@
           "amount": 1437.72,
           "agency": "Defense Logistics Agency",
           "description": "8512220266!COVER,SEAT CUSHION,",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-03",
+          "award_id": "SPE4A226F6744",
+          "recipient": "MARTIN-BAKER AMERICA INC",
+          "amount": 1437.72,
+          "agency": "Defense Logistics Agency",
+          "description": "8512220267!COVER,SEAT CUSHION,",
           "naics": "336413"
         },
         {
@@ -295,11 +304,11 @@
         },
         {
           "date": "2026-07-03",
-          "award_id": "SPE4A226F6744",
+          "award_id": "SPE4A226F6742",
           "recipient": "MARTIN-BAKER AMERICA INC",
           "amount": 1437.72,
           "agency": "Defense Logistics Agency",
-          "description": "8512220267!COVER,SEAT CUSHION,",
+          "description": "8512220265!COVER,SEAT CUSHION,",
           "naics": "336413"
         },
         {
@@ -309,15 +318,6 @@
           "amount": 1437.72,
           "agency": "Defense Logistics Agency",
           "description": "8512220264!COVER,SEAT CUSHION,",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-03",
-          "award_id": "SPE4A226F6742",
-          "recipient": "MARTIN-BAKER AMERICA INC",
-          "amount": 1437.72,
-          "agency": "Defense Logistics Agency",
-          "description": "8512220265!COVER,SEAT CUSHION,",
           "naics": "336413"
         },
         {
@@ -451,7 +451,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-09-29",
@@ -471,7 +471,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-09-28",
@@ -481,7 +481,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-09-28",
@@ -491,7 +491,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-09-28",
@@ -501,7 +501,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-09-28",
@@ -511,7 +511,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-09-28",
@@ -521,7 +521,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-09-28",
@@ -531,7 +531,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-09-18",
@@ -541,7 +541,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 15
+          "age": 16
         },
         {
           "date": "2026-09-15",
@@ -551,7 +551,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 18
+          "age": 19
         },
         {
           "date": "2026-09-15",
@@ -571,7 +571,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 18
+          "age": 19
         },
         {
           "date": "2026-09-15",
@@ -669,11 +669,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-18T05:04:11.926615+00:00",
-      "score": 18.9,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-18T11:40:20.071454+00:00",
       "score": 18.9,
@@ -966,6 +961,11 @@
     },
     {
       "generated": "2026-10-04T12:46:35.547084+00:00",
+      "score": 23.6,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-04T21:50:03.026506+00:00",
       "score": 23.6,
       "status": "BASELINE"
     }
