@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-05T06:05:40.426042+00:00",
+    "generated": "2026-10-05T15:10:54.489633+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -68,6 +68,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/679921-2026"
         },
         {
+          "id": "679452-2026",
+          "date": "2026-10-02",
+          "title": "Czechia – Command, control, communication and computer systems – Technické prostředky pro rozvoj RZP",
+          "buyer": "Ministerstvo obrany",
+          "country": "CZE",
+          "cpv": [
+            "35710000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/679452-2026"
+        },
+        {
           "id": "680588-2026",
           "date": "2026-10-02",
           "title": "Finland – Weapons, ammunition and associated parts – Erittäin lyhyen kantaman ilmatorjuntaohjusjärjestelmä",
@@ -102,17 +113,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/680778-2026"
         },
         {
-          "id": "679452-2026",
-          "date": "2026-10-02",
-          "title": "Czechia – Command, control, communication and computer systems – Technické prostředky pro rozvoj RZP",
-          "buyer": "Ministerstvo obrany",
-          "country": "CZE",
-          "cpv": [
-            "35710000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/679452-2026"
-        },
-        {
           "id": "677096-2026",
           "date": "2026-10-01",
           "title": "Netherlands – Military vehicles and associated parts – Delivery and Maintenance of Flatrack tank Containers, water and fuel. Incl. associated, goods and service",
@@ -135,6 +135,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/675136-2026"
         },
         {
+          "id": "676630-2026",
+          "date": "2026-10-01",
+          "title": "Romania – Battle simulators – Achizitie simulator de scenarii reale",
+          "buyer": "Scoala de Pregatire a Agentilor Politiei de Frontiera \"Avram Iancu\" Oradea",
+          "country": "ROU",
+          "cpv": [
+            "35740000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/676630-2026"
+        },
+        {
           "id": "675167-2026",
           "date": "2026-10-01",
           "title": "Estonia – Various chemical products – Õlide, määrdeainete, konserveerimisvahendite kestvushankeleping 2026/2027",
@@ -149,15 +160,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/675167-2026"
         },
         {
-          "id": "676630-2026",
+          "id": "674937-2026",
           "date": "2026-10-01",
-          "title": "Romania – Battle simulators – Achizitie simulator de scenarii reale",
-          "buyer": "Scoala de Pregatire a Agentilor Politiei de Frontiera \"Avram Iancu\" Oradea",
-          "country": "ROU",
+          "title": "Portugal – Command, control, communication systems – Projeto de Sistema de Telegestão de Abastecimento e Saneamento",
+          "buyer": "AgdA - Águas Públicas do Alentejo, SA",
+          "country": "PRT",
           "cpv": [
-            "35740000"
+            "35711000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/676630-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/674937-2026"
         },
         {
           "id": "675036-2026",
@@ -171,26 +182,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/675036-2026"
         },
         {
-          "id": "674937-2026",
+          "id": "676007-2026",
           "date": "2026-10-01",
-          "title": "Portugal – Command, control, communication systems – Projeto de Sistema de Telegestão de Abastecimento e Saneamento",
-          "buyer": "AgdA - Águas Públicas do Alentejo, SA",
-          "country": "PRT",
-          "cpv": [
-            "35711000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/674937-2026"
-        },
-        {
-          "id": "676934-2026",
-          "date": "2026-10-01",
-          "title": "Germany – Ammunition – Kauf von Munition der Firma Rheinmetall",
+          "title": "Germany – Ammunition – Kauf von Munition der Firma MEN",
           "buyer": "Thüringer Polizei, Landespolizeidirektion, Sachgebiet 24",
           "country": "DEU",
           "cpv": [
             "35330000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/676934-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/676007-2026"
         },
         {
           "id": "676090-2026",
@@ -227,7 +227,7 @@
       "latest_observation": "2026-07-05",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 83560256.62,
+      "current_14d_weekly_equivalent": 84597664.18,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -237,7 +237,7 @@
         },
         {
           "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 45934907.9
+          "amount": 46623327.9
         },
         {
           "name": "ROLLS-ROYCE CORPORATION",
@@ -340,20 +340,20 @@
         },
         {
           "date": "2026-07-04",
-          "award_id": "SPE4A226F6749",
-          "recipient": "MARTIN-BAKER AMERICA INC",
-          "amount": 3543.38,
-          "agency": "Defense Logistics Agency",
-          "description": "8512220370!GARTER ASSEMBLY,LEG",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-04",
           "award_id": "SPE4A226F6750",
           "recipient": "MARTIN-BAKER AMERICA INC",
           "amount": 3543.38,
           "agency": "Defense Logistics Agency",
           "description": "8512220371!GARTER ASSEMBLY,LEG",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-04",
+          "award_id": "SPE4A226F6749",
+          "recipient": "MARTIN-BAKER AMERICA INC",
+          "amount": 3543.38,
+          "agency": "Defense Logistics Agency",
+          "description": "8512220370!GARTER ASSEMBLY,LEG",
           "naics": "336413"
         },
         {
@@ -385,6 +385,15 @@
         },
         {
           "date": "2026-07-03",
+          "award_id": "SPE4A226F6746",
+          "recipient": "MARTIN-BAKER AMERICA INC",
+          "amount": 1437.72,
+          "agency": "Defense Logistics Agency",
+          "description": "8512220269!COVER,SEAT CUSHION,",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-03",
           "award_id": "SPE4A226F6745",
           "recipient": "MARTIN-BAKER AMERICA INC",
           "amount": 1437.72,
@@ -403,29 +412,20 @@
         },
         {
           "date": "2026-07-03",
-          "award_id": "SPE4A226F6747",
-          "recipient": "MARTIN-BAKER AMERICA INC",
-          "amount": 1437.72,
-          "agency": "Defense Logistics Agency",
-          "description": "8512220290!COVER,SEAT CUSHION,",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-03",
-          "award_id": "SPE4A226F6746",
-          "recipient": "MARTIN-BAKER AMERICA INC",
-          "amount": 1437.72,
-          "agency": "Defense Logistics Agency",
-          "description": "8512220269!COVER,SEAT CUSHION,",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-03",
           "award_id": "SPE4A226F6744",
           "recipient": "MARTIN-BAKER AMERICA INC",
           "amount": 1437.72,
           "agency": "Defense Logistics Agency",
           "description": "8512220267!COVER,SEAT CUSHION,",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-03",
+          "award_id": "SPE4A226F6747",
+          "recipient": "MARTIN-BAKER AMERICA INC",
+          "amount": 1437.72,
+          "agency": "Defense Logistics Agency",
+          "description": "8512220290!COVER,SEAT CUSHION,",
           "naics": "336413"
         }
       ]
@@ -451,7 +451,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 3
+          "age": 4
         },
         {
           "date": "2026-09-29",
@@ -461,7 +461,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-09-29",
@@ -471,7 +471,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-09-28",
@@ -481,7 +481,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-09-28",
@@ -491,7 +491,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-09-28",
@@ -501,7 +501,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-09-28",
@@ -511,7 +511,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-09-28",
@@ -521,7 +521,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-09-28",
@@ -531,7 +531,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-09-18",
@@ -541,7 +541,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 16
+          "age": 17
         },
         {
           "date": "2026-09-15",
@@ -561,7 +561,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 19
+          "age": 20
         },
         {
           "date": "2026-09-15",
@@ -581,7 +581,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 19
+          "age": 20
         }
       ]
     },
@@ -669,11 +669,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-18T16:39:24.804648+00:00",
-      "score": 18.9,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-18T21:09:28.843407+00:00",
       "score": 18.9,
@@ -966,6 +961,11 @@
     },
     {
       "generated": "2026-10-05T06:05:40.426042+00:00",
+      "score": 23.4,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-05T15:10:54.489633+00:00",
       "score": 23.4,
       "status": "BASELINE"
     }
