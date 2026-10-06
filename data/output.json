@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-06T06:45:35.781498+00:00",
+    "generated": "2026-10-06T18:33:27.389123+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,7 +26,7 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 599,
+      "coverage": 598,
       "current_14d_weekly_equivalent": 39.0,
       "baseline_weekly_median": 42.5,
       "anomaly_z": -0.47,
@@ -230,21 +230,17 @@
       "latest_observation": "2026-07-06",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 31950278.41,
+      "current_14d_weekly_equivalent": 30794163.56,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
-          "name": "ROLLS-ROYCE CORPORATION",
-          "amount": 14912656.5
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "amount": 11445652.95
         },
         {
           "name": "NORTHROP GRUMMAN SYSTEMS CORP",
           "amount": 7106813.0
-        },
-        {
-          "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 5429580.89
         },
         {
           "name": "HAMBLE AEROSTRUCTURES LIMITED",
@@ -255,16 +251,20 @@
           "amount": 4330489.0
         },
         {
+          "name": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 4255564.6
+        },
+        {
           "name": "BELL BOEING JOINT PROJECT OFFICE",
           "amount": 3805289.1
         },
         {
-          "name": "ES3 PRIME LOGISTICS GROUP INC",
-          "amount": 2031507.12
+          "name": "SHIELD AI INC",
+          "amount": 2859008.12
         },
         {
-          "name": "HONEYWELL INTERNATIONAL INC.",
-          "amount": 1732334.86
+          "name": "UNMANNED SYSTEMS INCORPORATED",
+          "amount": 2694838.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -397,15 +397,6 @@
         },
         {
           "date": "2026-07-06",
-          "award_id": "FA873023C0025",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 345770.47,
-          "agency": "Department of the Air Force",
-          "description": "E-7A CLINS 0001, 0014, AND 2010 FUNDING MOD",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-06",
           "award_id": "SPRPA126FE81K",
           "recipient": "HONEYWELL INTERNATIONAL INC.",
           "amount": 306574.5,
@@ -429,6 +420,15 @@
           "amount": 273545.25,
           "agency": "Defense Logistics Agency",
           "description": "8512216790!PLATE,PRESSURE,PUMP",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-06",
+          "award_id": "SPRPA126FE81U",
+          "recipient": "HONEYWELL INTERNATIONAL INC.",
+          "amount": 245259.6,
+          "agency": "Defense Logistics Agency",
+          "description": "STARTER,ENGINE,AIR",
           "naics": "336413"
         }
       ]
@@ -454,7 +454,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-09-29",
@@ -464,7 +464,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-09-29",
@@ -474,7 +474,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-09-28",
@@ -484,7 +484,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-09-28",
@@ -494,7 +494,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-09-28",
@@ -504,7 +504,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-09-28",
@@ -514,7 +514,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-09-28",
@@ -524,7 +524,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-09-28",
@@ -534,7 +534,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-09-18",
@@ -544,7 +544,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 17
+          "age": 18
         },
         {
           "date": "2026-09-15",
@@ -554,7 +554,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 20
+          "age": 21
         },
         {
           "date": "2026-09-15",
@@ -564,7 +564,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 20
+          "age": 21
         },
         {
           "date": "2026-09-15",
@@ -574,7 +574,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 20
+          "age": 21
         },
         {
           "date": "2026-09-15",
@@ -584,7 +584,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 20
+          "age": 21
         }
       ]
     },
@@ -672,11 +672,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-19T11:23:11.098552+00:00",
-      "score": 19.2,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-19T16:00:43.502159+00:00",
       "score": 19.1,
@@ -969,6 +964,11 @@
     },
     {
       "generated": "2026-10-06T06:45:35.781498+00:00",
+      "score": 26.3,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-10-06T18:33:27.389123+00:00",
       "score": 26.3,
       "status": "WATCH"
     }
