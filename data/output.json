@@ -1,21 +1,23 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-05T15:10:54.489633+00:00",
-    "mode": "live",
+    "generated": "2026-10-06T00:15:20.165428+00:00",
+    "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–90 days",
     "classification": "procurement-acceleration-screening-not-conflict-probability-or-contract-forecast",
     "coverage": "5/5",
-    "confidence": "HIGH",
-    "source_notes": []
+    "confidence": "MEDIUM",
+    "source_notes": [
+      "eu_notices: retained (HTTPError)"
+    ]
   },
   "warning": {
-    "score": 23.4,
-    "raw_score": 23.4,
+    "score": 26.5,
+    "raw_score": 26.5,
     "concurrence_bonus": 0.0,
-    "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 23.4/100.",
+    "status": "WATCH",
+    "headline": "Defense procurement acceleration pressure is watch at 26.5/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -25,7 +27,7 @@
       "status": "WATCH",
       "weight": 0.3,
       "available": true,
-      "retained": false,
+      "retained": true,
       "coverage": 603,
       "current_14d_weekly_equivalent": 39.5,
       "baseline_weekly_median": 43.5,
@@ -214,20 +216,21 @@
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/675339-2026"
         }
-      ]
+      ],
+      "retained_reason": "HTTPError"
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 4.5,
+      "score": 4.4,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-07-05",
-      "reporting_lag_days": 92,
-      "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 84597664.18,
+      "reporting_lag_days": 93,
+      "freshness_factor": 0.22,
+      "current_14d_weekly_equivalent": 84120426.85,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -237,7 +240,7 @@
         },
         {
           "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 46623327.9
+          "amount": 45934907.9
         },
         {
           "name": "ROLLS-ROYCE CORPORATION",
@@ -432,15 +435,15 @@
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 34.9,
-      "status": "WATCH",
+      "score": 50.5,
+      "status": "ELEVATED",
       "weight": 0.2,
       "available": true,
       "retained": false,
       "coverage": 94,
       "current_14d_weekly_equivalent": 12.0,
-      "baseline_weekly_median": 6.5,
-      "anomaly_z": 0.57,
+      "baseline_weekly_median": 2.5,
+      "anomaly_z": 2.56,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -551,7 +554,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 19
+          "age": 20
         },
         {
           "date": "2026-09-15",
@@ -571,7 +574,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 19
+          "age": 20
         },
         {
           "date": "2026-09-15",
@@ -669,11 +672,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-18T21:09:28.843407+00:00",
-      "score": 18.9,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-19T04:54:39.061935+00:00",
       "score": 19.2,
@@ -968,6 +966,11 @@
       "generated": "2026-10-05T15:10:54.489633+00:00",
       "score": 23.4,
       "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-06T00:15:20.165428+00:00",
+      "score": 26.5,
+      "status": "WATCH"
     }
   ],
   "sources": [
