@@ -1,14 +1,16 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-07T13:46:05.649486+00:00",
-    "mode": "live",
+    "generated": "2026-10-07T23:15:31.621589+00:00",
+    "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–90 days",
     "classification": "procurement-acceleration-screening-not-conflict-probability-or-contract-forecast",
     "coverage": "5/5",
-    "confidence": "HIGH",
-    "source_notes": []
+    "confidence": "MEDIUM",
+    "source_notes": [
+      "eu_notices: retained (HTTPError)"
+    ]
   },
   "warning": {
     "score": 26.3,
@@ -25,7 +27,7 @@
       "status": "WATCH",
       "weight": 0.3,
       "available": true,
-      "retained": false,
+      "retained": true,
       "coverage": 599,
       "current_14d_weekly_equivalent": 41.0,
       "baseline_weekly_median": 43.5,
@@ -218,7 +220,8 @@
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/679921-2026"
         }
-      ]
+      ],
+      "retained_reason": "HTTPError"
     },
     "us_awards": {
       "key": "us_awards",
@@ -231,7 +234,7 @@
       "latest_observation": "2026-07-06",
       "reporting_lag_days": 93,
       "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 30455120.98,
+      "current_14d_weekly_equivalent": 31199254.39,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -313,6 +316,15 @@
           "amount": 3755263.0,
           "agency": "Department of the Navy",
           "description": "THE PURPOSE OF THIS MODIFICATION IS TO PROVIDE INCREMENTAL FUNDING",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-06",
+          "award_id": "SPRTA126C0105",
+          "recipient": "THOMAS INSTRUMENT, INCORPORATED",
+          "amount": 1598945.0,
+          "agency": "Defense Logistics Agency",
+          "description": "SERVOVALVE, HYDRAULIC SUPPORTING THE B-52 AIRCRAFT.",
           "naics": "336413"
         },
         {
@@ -422,15 +434,6 @@
           "agency": "Defense Logistics Agency",
           "description": "8512216790!PLATE,PRESSURE,PUMP",
           "naics": "336413"
-        },
-        {
-          "date": "2026-07-06",
-          "award_id": "SPRPA126FE81U",
-          "recipient": "HONEYWELL INTERNATIONAL INC.",
-          "amount": 245259.6,
-          "agency": "Defense Logistics Agency",
-          "description": "STARTER,ENGINE,AIR",
-          "naics": "336413"
         }
       ]
     },
@@ -475,7 +478,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-09-28",
@@ -485,7 +488,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 8
+          "age": 9
         },
         {
           "date": "2026-09-28",
@@ -515,7 +518,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 8
+          "age": 9
         },
         {
           "date": "2026-09-28",
@@ -555,7 +558,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 21
+          "age": 22
         },
         {
           "date": "2026-09-15",
@@ -575,7 +578,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 21
+          "age": 22
         },
         {
           "date": "2026-09-15",
@@ -673,11 +676,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-20T05:16:17.938614+00:00",
-      "score": 18.8,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-20T11:44:39.205751+00:00",
       "score": 18.8,
@@ -970,6 +968,11 @@
     },
     {
       "generated": "2026-10-07T13:46:05.649486+00:00",
+      "score": 26.3,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-10-07T23:15:31.621589+00:00",
       "score": 26.3,
       "status": "WATCH"
     }
