@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-07T06:21:01.922545+00:00",
+    "generated": "2026-10-07T13:46:05.649486+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -126,17 +126,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/692568-2026"
         },
         {
-          "id": "686104-2026",
+          "id": "686013-2026",
           "date": "2026-10-06",
-          "title": "Spain – Control, safety or signalling equipment for port installations – Suministro, instalación, puesta en servicio y mantenimiento de un Sistema de Inspección no intrusivo de vehículos y contenedores en diferentes Autoridades Portuarias",
-          "buyer": "Presidencia del Organismo Público Puertos del Estado",
-          "country": "ESP",
+          "title": "Netherlands – Ammunition for aerial warfare – Unmanned Aerial Systems (UAS) Ammunition",
+          "buyer": "Ministerie van Defensie",
+          "country": "NLD",
           "cpv": [
-            "34998000",
-            "35720000",
-            "50610000"
+            "35333000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/686104-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/686013-2026"
         },
         {
           "id": "686847-2026",
@@ -150,15 +148,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/686847-2026"
         },
         {
-          "id": "686013-2026",
+          "id": "686104-2026",
           "date": "2026-10-06",
-          "title": "Netherlands – Ammunition for aerial warfare – Unmanned Aerial Systems (UAS) Ammunition",
-          "buyer": "Ministerie van Defensie",
-          "country": "NLD",
+          "title": "Spain – Control, safety or signalling equipment for port installations – Suministro, instalación, puesta en servicio y mantenimiento de un Sistema de Inspección no intrusivo de vehículos y contenedores en diferentes Autoridades Portuarias",
+          "buyer": "Presidencia del Organismo Público Puertos del Estado",
+          "country": "ESP",
           "cpv": [
-            "35333000"
+            "34998000",
+            "35720000",
+            "50610000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/686013-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/686104-2026"
         },
         {
           "id": "688238-2026",
@@ -231,7 +231,7 @@
       "latest_observation": "2026-07-06",
       "reporting_lag_days": 93,
       "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 29973790.1,
+      "current_14d_weekly_equivalent": 30455120.98,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -248,16 +248,16 @@
           "amount": 4389280.0
         },
         {
+          "name": "GOODRICH CORPORATION",
+          "amount": 4330489.0
+        },
+        {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
           "amount": 4255564.6
         },
         {
           "name": "BELL BOEING JOINT PROJECT OFFICE",
           "amount": 3805289.1
-        },
-        {
-          "name": "THOMAS INSTRUMENT, INCORPORATED",
-          "amount": 3197890.0
         },
         {
           "name": "SHIELD AI INC",
@@ -299,29 +299,20 @@
         },
         {
           "date": "2026-07-06",
+          "award_id": "SPRHA126F0113",
+          "recipient": "GOODRICH CORPORATION",
+          "amount": 4330489.0,
+          "agency": "Defense Logistics Agency",
+          "description": "WHEEL ASSEMBLY,AIRC",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-06",
           "award_id": "N0001921F0327",
           "recipient": "BELL BOEING JOINT PROJECT OFFICE",
           "amount": 3755263.0,
           "agency": "Department of the Navy",
           "description": "THE PURPOSE OF THIS MODIFICATION IS TO PROVIDE INCREMENTAL FUNDING",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-06",
-          "award_id": "SPRTA126C0105",
-          "recipient": "THOMAS INSTRUMENT, INCORPORATED",
-          "amount": 1598945.0,
-          "agency": "Defense Logistics Agency",
-          "description": "SERVOVALVE, HYDRAULIC SUPPORTING THE B-52 AIRCRAFT.",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-06",
-          "award_id": "SPRTA126C0105",
-          "recipient": "THOMAS INSTRUMENT, INCORPORATED",
-          "amount": 1598945.0,
-          "agency": "Defense Logistics Agency",
-          "description": "SERVOVALVE, HYDRAULIC SUPPORTING THE B-52 AIRCRAFT.",
           "naics": "336413"
         },
         {
@@ -431,6 +422,15 @@
           "agency": "Defense Logistics Agency",
           "description": "8512216790!PLATE,PRESSURE,PUMP",
           "naics": "336413"
+        },
+        {
+          "date": "2026-07-06",
+          "award_id": "SPRPA126FE81U",
+          "recipient": "HONEYWELL INTERNATIONAL INC.",
+          "amount": 245259.6,
+          "agency": "Defense Logistics Agency",
+          "description": "STARTER,ENGINE,AIR",
+          "naics": "336413"
         }
       ]
     },
@@ -441,7 +441,7 @@
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 94,
+      "coverage": 93,
       "current_14d_weekly_equivalent": 12.0,
       "baseline_weekly_median": 2.5,
       "anomaly_z": 2.56,
@@ -455,7 +455,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-09-29",
@@ -465,7 +465,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-09-29",
@@ -495,7 +495,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 8
+          "age": 9
         },
         {
           "date": "2026-09-28",
@@ -505,7 +505,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 8
+          "age": 9
         },
         {
           "date": "2026-09-28",
@@ -525,7 +525,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 8
+          "age": 9
         },
         {
           "date": "2026-09-28",
@@ -535,7 +535,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 8
+          "age": 9
         },
         {
           "date": "2026-09-18",
@@ -545,7 +545,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 18
+          "age": 19
         },
         {
           "date": "2026-09-15",
@@ -565,7 +565,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 21
+          "age": 22
         },
         {
           "date": "2026-09-15",
@@ -585,7 +585,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 21
+          "age": 22
         }
       ]
     },
@@ -673,11 +673,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-19T20:55:41.755337+00:00",
-      "score": 19.2,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-20T05:16:17.938614+00:00",
       "score": 18.8,
@@ -970,6 +965,11 @@
     },
     {
       "generated": "2026-10-07T06:21:01.922545+00:00",
+      "score": 26.3,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-10-07T13:46:05.649486+00:00",
       "score": 26.3,
       "status": "WATCH"
     }
