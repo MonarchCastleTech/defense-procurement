@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-08T13:57:09.214176+00:00",
+    "generated": "2026-10-08T23:31:07.024426+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,12 +26,68 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 602,
+      "coverage": 607,
       "current_14d_weekly_equivalent": 38.5,
       "baseline_weekly_median": 43.5,
       "anomaly_z": -0.96,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "699081-2026",
+          "date": "2026-10-09",
+          "title": "Finland – Military electronic systems – KAKSIPUOLISEN TAISTELUN SIMULOINTIJÄRJESTELMÄN (KASI) JA ONO JA LOST TÄYDENNYSHANKINTA",
+          "buyer": "Puolustusvoimat",
+          "country": "FIN",
+          "cpv": [
+            "35700000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/699081-2026"
+        },
+        {
+          "id": "697871-2026",
+          "date": "2026-10-09",
+          "title": "Germany – Firefighting vehicles – Ortsfeuerwehren Linden, Fümmelse, Leinde, Wendessen und Groß Stöckheim - Beschaffung von fünf MTW",
+          "buyer": "Stadt Wolfenbüttel",
+          "country": "DEU",
+          "cpv": [
+            "34144210",
+            "35412200"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/697871-2026"
+        },
+        {
+          "id": "696668-2026",
+          "date": "2026-10-09",
+          "title": "France – Weapons, ammunition and associated parts – Acquisition de munitions pour pistolets à impulsion électrique de type Taser X2",
+          "buyer": "Ville Liévin",
+          "country": "FRA",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/696668-2026"
+        },
+        {
+          "id": "698985-2026",
+          "date": "2026-10-09",
+          "title": "Portugal – Ammunition – Aquisição de Munições para a Polícia de Segurança Pública (2027)",
+          "buyer": "Polícia de Segurança Pública",
+          "country": "PRT",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/698985-2026"
+        },
+        {
+          "id": "699594-2026",
+          "date": "2026-10-09",
+          "title": "Slovenia – Ammunition – Nakup raket zrak-zemlja 2,75''",
+          "buyer": "MINISTRSTVO ZA OBRAMBO",
+          "country": "SVN",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/699594-2026"
+        },
         {
           "id": "695506-2026",
           "date": "2026-10-08",
@@ -164,70 +220,12 @@
             "35613000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/689863-2026"
-        },
-        {
-          "id": "692607-2026",
-          "date": "2026-10-07",
-          "title": "France – Hand guns – Fourniture de pistolets semi-automatiques calibre 9 x 19 mm et équipements associés à destination des ERIS de l'administration pénitentiaire",
-          "buyer": "Direction générale de l'administration pénitentiaire",
-          "country": "FRA",
-          "cpv": [
-            "35321100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/692607-2026"
-        },
-        {
-          "id": "689683-2026",
-          "date": "2026-10-07",
-          "title": "Poland – Vehicles for the emergency services – Samochód dowodzenia i łączności (kompanijne stanowisko dowodzenia) – 9 sztuk",
-          "buyer": "Komenda Wojewódzka Państwowej Straży Pożarnej w Poznaniu",
-          "country": "POL",
-          "cpv": [
-            "34144200",
-            "35110000",
-            "35412500",
-            "34144210"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/689683-2026"
-        },
-        {
-          "id": "692794-2026",
-          "date": "2026-10-07",
-          "title": "Lithuania – Cartridges – 5,56x45 kalibro garsiniai šoviniai (PPR-464)",
-          "buyer": "Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos",
-          "country": "LTU",
-          "cpv": [
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/692794-2026"
-        },
-        {
-          "id": "692568-2026",
-          "date": "2026-10-07",
-          "title": "Germany – Parts of military vehicles – 6003038661-BAAINBw E2.5F Rad, Vollgummireifen, WS Leopard 2",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/692568-2026"
-        },
-        {
-          "id": "691539-2026",
-          "date": "2026-10-07",
-          "title": "Poland – Parts of mortars – Dostawa technicznych środków materiałowych DMO REGINA",
-          "buyer": "2. Regionalna Baza Logistyczna",
-          "country": "POL",
-          "cpv": [
-            "35343000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/691539-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 5.5,
+      "score": 5.6,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -236,7 +234,7 @@
       "latest_observation": "2026-07-08",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 224215926.27,
+      "current_14d_weekly_equivalent": 228684944.51,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -250,15 +248,19 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 55747601.65
+          "amount": 50799881.65
         },
         {
           "name": "LEIDOS, INC.",
           "amount": 27202497.0
         },
         {
+          "name": "DMAERO, LLC",
+          "amount": 13621744.86
+        },
+        {
           "name": "PARKER-HANNIFIN CORPORATION",
-          "amount": 13327852.86
+          "amount": 13316650.26
         },
         {
           "name": "RAYTHEON COMPANY",
@@ -267,10 +269,6 @@
         {
           "name": "SUN TEST SYSTEMS, INC.",
           "amount": 7657638.94
-        },
-        {
-          "name": "SELECTTECH SERVICES CORPORATION",
-          "amount": 7218127.86
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -310,6 +308,15 @@
           "agency": "U.S. Special Operations Command",
           "description": "FOR THE PROCUREMENT OF SMALL CRUISE MISSILE (SCM) LONG-LEAD MATERIAL KITS, WITH AN OPTION FOR THE PRODUCTION OF UP TO 60 ALL-UP-ROUNDS (AURS) AND ASSOCIATED CONTAINER MODIFICATIONS. CONTRACTOR PROPOSAL: SUBMITTED 27 JANUARY 2026",
           "naics": "336415"
+        },
+        {
+          "date": "2026-07-08",
+          "award_id": "FA850926FB024",
+          "recipient": "DMAERO, LLC",
+          "amount": 13621744.86,
+          "agency": "Department of the Air Force",
+          "description": "THIS AWARD IS FOR THE PURCHASE AND DELIVERY OF MATERIALS REQUIRED TO ASSEMBLE, TEST, AND UTILIZE ARKHAM TESTS RACKS IN SUPPORT OF SOF C-130 OPERATIONS. TOTAL VALUE OF CONTRACT AWARD IS $13,621,744.86.",
+          "naics": "336411"
         },
         {
           "date": "2026-07-08",
@@ -355,15 +362,6 @@
           "agency": "Department of the Air Force",
           "description": "SMS SUPER DUPER KITS",
           "naics": "336411"
-        },
-        {
-          "date": "2026-07-08",
-          "award_id": "FA813426FB081",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 4966793.0,
-          "agency": "Department of the Air Force",
-          "description": "AC 0125 PDM 9 STRIP EFFORT",
-          "naics": "336413"
         },
         {
           "date": "2026-07-08",
@@ -480,7 +478,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 8
+          "age": 9
         },
         {
           "date": "2026-09-28",
@@ -490,7 +488,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 9
+          "age": 10
         },
         {
           "date": "2026-09-28",
@@ -520,7 +518,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 9
+          "age": 10
         },
         {
           "date": "2026-09-28",
@@ -560,7 +558,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 22
+          "age": 23
         },
         {
           "date": "2026-09-15",
@@ -580,7 +578,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 22
+          "age": 23
         },
         {
           "date": "2026-09-15",
@@ -678,11 +676,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-20T21:00:12.806661+00:00",
-      "score": 18.8,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-21T05:19:16.930025+00:00",
       "score": 19.0,
@@ -975,6 +968,11 @@
     },
     {
       "generated": "2026-10-08T13:57:09.214176+00:00",
+      "score": 26.8,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-10-08T23:31:07.024426+00:00",
       "score": 26.8,
       "status": "WATCH"
     }
