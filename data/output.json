@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-08T06:32:00.325494+00:00",
+    "generated": "2026-10-08T13:57:09.214176+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -33,20 +33,6 @@
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
-          "id": "693226-2026",
-          "date": "2026-10-08",
-          "title": "Germany – Firefighting vehicles – Drei Mehrzweckfahrzeuge und zwei Mannschaftstransportwagen für die Feuerwehr Offenburg (3 Lose)",
-          "buyer": "Stadt Offenburg, Fachbereich Bauservice, Zentrale Vergabestelle",
-          "country": "DEU",
-          "cpv": [
-            "34144210",
-            "35412200",
-            "34139000",
-            "35110000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/693226-2026"
-        },
-        {
           "id": "695506-2026",
           "date": "2026-10-08",
           "title": "Belgium – Belts – meerjarige raamovereenkomst van leveringen voor de aankoop van gordels en toebehoren & holsters ten voordele van de geïntegreerde politie gestructureerd op 2 niveaus",
@@ -59,15 +45,18 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/695506-2026"
         },
         {
-          "id": "692945-2026",
+          "id": "693226-2026",
           "date": "2026-10-08",
-          "title": "Spain – Machine guns – Adquisición Ametralladoras Pesadas AMP",
-          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
-          "country": "ESP",
+          "title": "Germany – Firefighting vehicles – Drei Mehrzweckfahrzeuge und zwei Mannschaftstransportwagen für die Feuerwehr Offenburg (3 Lose)",
+          "buyer": "Stadt Offenburg, Fachbereich Bauservice, Zentrale Vergabestelle",
+          "country": "DEU",
           "cpv": [
-            "35321300"
+            "34144210",
+            "35412200",
+            "34139000",
+            "35110000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/692945-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/693226-2026"
         },
         {
           "id": "694549-2026",
@@ -107,16 +96,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/695606-2026"
         },
         {
-          "id": "693937-2026",
+          "id": "692945-2026",
           "date": "2026-10-08",
-          "title": "Estonia – Ammunition for firearms and warfare – 40mm, 23mm relvade ning 76mm, 40mm ja 23mm laskemoona ostmine koos elutsükli tagamisega",
-          "buyer": "Riigi Kaitseinvesteeringute Keskus",
-          "country": "EST",
+          "title": "Spain – Machine guns – Adquisición Ametralladoras Pesadas AMP",
+          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+          "country": "ESP",
           "cpv": [
-            "35331000",
-            "35320000"
+            "35321300"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/693937-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/692945-2026"
         },
         {
           "id": "694869-2026",
@@ -131,15 +119,16 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/694869-2026"
         },
         {
-          "id": "689931-2026",
-          "date": "2026-10-07",
-          "title": "Germany – Military vehicles and associated parts – Kaufbedarf EU für den SPz Puma",
-          "buyer": "HIL Heeresinstandsetzungslogistik GmbH",
-          "country": "DEU",
+          "id": "693937-2026",
+          "date": "2026-10-08",
+          "title": "Estonia – Ammunition for firearms and warfare – 40mm, 23mm relvade ning 76mm, 40mm ja 23mm laskemoona ostmine koos elutsükli tagamisega",
+          "buyer": "Riigi Kaitseinvesteeringute Keskus",
+          "country": "EST",
           "cpv": [
-            "35400000"
+            "35331000",
+            "35320000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/689931-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/693937-2026"
         },
         {
           "id": "691267-2026",
@@ -153,6 +142,17 @@
             "90523200"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/691267-2026"
+        },
+        {
+          "id": "689931-2026",
+          "date": "2026-10-07",
+          "title": "Germany – Military vehicles and associated parts – Kaufbedarf EU für den SPz Puma",
+          "buyer": "HIL Heeresinstandsetzungslogistik GmbH",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/689931-2026"
         },
         {
           "id": "689863-2026",
@@ -191,17 +191,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/689683-2026"
         },
         {
-          "id": "691539-2026",
-          "date": "2026-10-07",
-          "title": "Poland – Parts of mortars – Dostawa technicznych środków materiałowych DMO REGINA",
-          "buyer": "2. Regionalna Baza Logistyczna",
-          "country": "POL",
-          "cpv": [
-            "35343000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/691539-2026"
-        },
-        {
           "id": "692794-2026",
           "date": "2026-10-07",
           "title": "Lithuania – Cartridges – 5,56x45 kalibro garsiniai šoviniai (PPR-464)",
@@ -222,6 +211,17 @@
             "35420000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/692568-2026"
+        },
+        {
+          "id": "691539-2026",
+          "date": "2026-10-07",
+          "title": "Poland – Parts of mortars – Dostawa technicznych środków materiałowych DMO REGINA",
+          "buyer": "2. Regionalna Baza Logistyczna",
+          "country": "POL",
+          "cpv": [
+            "35343000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/691539-2026"
         }
       ]
     },
@@ -236,7 +236,7 @@
       "latest_observation": "2026-07-08",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 224609597.14,
+      "current_14d_weekly_equivalent": 224215926.27,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -250,7 +250,7 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 55764135.25
+          "amount": 55747601.65
         },
         {
           "name": "LEIDOS, INC.",
@@ -258,7 +258,7 @@
         },
         {
           "name": "PARKER-HANNIFIN CORPORATION",
-          "amount": 13305447.66
+          "amount": 13327852.86
         },
         {
           "name": "RAYTHEON COMPANY",
@@ -460,7 +460,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-09-29",
@@ -470,7 +470,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 8
+          "age": 9
         },
         {
           "date": "2026-09-29",
@@ -500,7 +500,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 9
+          "age": 10
         },
         {
           "date": "2026-09-28",
@@ -510,7 +510,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 9
+          "age": 10
         },
         {
           "date": "2026-09-28",
@@ -530,7 +530,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 9
+          "age": 10
         },
         {
           "date": "2026-09-28",
@@ -540,7 +540,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 9
+          "age": 10
         },
         {
           "date": "2026-09-18",
@@ -550,7 +550,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 19
+          "age": 20
         },
         {
           "date": "2026-09-15",
@@ -570,7 +570,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 22
+          "age": 23
         },
         {
           "date": "2026-09-15",
@@ -590,7 +590,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 22
+          "age": 23
         }
       ]
     },
@@ -678,11 +678,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-20T16:25:08.648600+00:00",
-      "score": 18.8,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-20T21:00:12.806661+00:00",
       "score": 18.8,
@@ -975,6 +970,11 @@
     },
     {
       "generated": "2026-10-08T06:32:00.325494+00:00",
+      "score": 26.8,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-10-08T13:57:09.214176+00:00",
       "score": 26.8,
       "status": "WATCH"
     }
