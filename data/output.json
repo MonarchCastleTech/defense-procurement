@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-09T06:33:21.623419+00:00",
+    "generated": "2026-10-09T18:28:22.535505+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -129,16 +129,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/694549-2026"
         },
         {
-          "id": "694694-2026",
+          "id": "692945-2026",
           "date": "2026-10-08",
-          "title": "Poland – Military vehicles and associated parts – Dostawa Zestawów Mobilnych Modułów Stanowiska Dowodzenia wraz z okablowaniem.",
-          "buyer": "Agencja Uzbrojenia",
-          "country": "POL",
+          "title": "Spain – Machine guns – Adquisición Ametralladoras Pesadas AMP",
+          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+          "country": "ESP",
           "cpv": [
-            "35400000",
-            "32520000"
+            "35321300"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/694694-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/692945-2026"
         },
         {
           "id": "695606-2026",
@@ -152,27 +151,16 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/695606-2026"
         },
         {
-          "id": "692945-2026",
+          "id": "694694-2026",
           "date": "2026-10-08",
-          "title": "Spain – Machine guns – Adquisición Ametralladoras Pesadas AMP",
-          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
-          "country": "ESP",
+          "title": "Poland – Military vehicles and associated parts – Dostawa Zestawów Mobilnych Modułów Stanowiska Dowodzenia wraz z okablowaniem.",
+          "buyer": "Agencja Uzbrojenia",
+          "country": "POL",
           "cpv": [
-            "35321300"
+            "35400000",
+            "32520000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/692945-2026"
-        },
-        {
-          "id": "694869-2026",
-          "date": "2026-10-08",
-          "title": "Sweden – Unmanned aerial vehicles – UAS, Inspektions-ROV, tillbehör och support",
-          "buyer": "Sjöfartsverket",
-          "country": "SWE",
-          "cpv": [
-            "35613000",
-            "34711200"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/694869-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/694694-2026"
         },
         {
           "id": "693937-2026",
@@ -185,6 +173,18 @@
             "35320000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/693937-2026"
+        },
+        {
+          "id": "694869-2026",
+          "date": "2026-10-08",
+          "title": "Sweden – Unmanned aerial vehicles – UAS, Inspektions-ROV, tillbehör och support",
+          "buyer": "Sjöfartsverket",
+          "country": "SWE",
+          "cpv": [
+            "35613000",
+            "34711200"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/694869-2026"
         },
         {
           "id": "691267-2026",
@@ -234,7 +234,7 @@
       "latest_observation": "2026-07-09",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 89998062.21,
+      "current_14d_weekly_equivalent": 90391030.19,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -267,8 +267,8 @@
           "amount": 1578045.33
         },
         {
-          "name": "DAYTON T. BROWN, INC.",
-          "amount": 1244690.24
+          "name": "THE BOEING COMPANY",
+          "amount": 1544482.87
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -374,6 +374,15 @@
         },
         {
           "date": "2026-07-09",
+          "award_id": "N0001924F0218",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 1047603.0,
+          "agency": "Department of the Navy",
+          "description": "THIS MODIFICATION IS TO EXERCISE OPTIONS AND FULLY FUND OPTION YEAR 2 CLINS 0201-0209, UTILIZING SUBCLINS 020101-020801.",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-07-09",
           "award_id": "W58RGZ26F0182",
           "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
           "amount": 748119.0,
@@ -425,15 +434,6 @@
           "agency": "Department of the Navy",
           "description": "FA-18 SOFTWARE DEVELOPMENT",
           "naics": "336411"
-        },
-        {
-          "date": "2026-07-09",
-          "award_id": "SPE4A726F8672",
-          "recipient": "TEXSTARS LLC",
-          "amount": 228320.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512229557!WINDSHIELD ASSEMBLY",
-          "naics": "336413"
         }
       ]
     },
@@ -444,7 +444,7 @@
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 93,
+      "coverage": 92,
       "current_14d_weekly_equivalent": 12.0,
       "baseline_weekly_median": 1.0,
       "anomaly_z": 7.42,
@@ -458,7 +458,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-09-29",
@@ -468,7 +468,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 9
+          "age": 10
         },
         {
           "date": "2026-09-29",
@@ -478,7 +478,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 9
+          "age": 10
         },
         {
           "date": "2026-09-28",
@@ -488,7 +488,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-09-28",
@@ -498,7 +498,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-09-28",
@@ -508,7 +508,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-09-28",
@@ -518,7 +518,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-09-28",
@@ -528,7 +528,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-09-28",
@@ -538,7 +538,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-09-18",
@@ -548,7 +548,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 20
+          "age": 21
         },
         {
           "date": "2026-09-15",
@@ -558,7 +558,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 23
+          "age": 24
         },
         {
           "date": "2026-09-15",
@@ -568,7 +568,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 23
+          "age": 24
         },
         {
           "date": "2026-09-15",
@@ -578,7 +578,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 23
+          "age": 24
         },
         {
           "date": "2026-09-15",
@@ -588,7 +588,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 23
+          "age": 24
         }
       ]
     },
@@ -676,11 +676,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-21T13:12:57.610773+00:00",
-      "score": 19.0,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-21T22:08:15.831993+00:00",
       "score": 19.1,
@@ -973,6 +968,11 @@
     },
     {
       "generated": "2026-10-09T06:33:21.623419+00:00",
+      "score": 26.3,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-10-09T18:28:22.535505+00:00",
       "score": 26.3,
       "status": "WATCH"
     }
