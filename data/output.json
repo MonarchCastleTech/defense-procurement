@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-09T18:28:22.535505+00:00",
+    "generated": "2026-10-09T22:49:34.735204+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -33,6 +33,17 @@
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
+          "id": "699081-2026",
+          "date": "2026-10-09",
+          "title": "Finland – Military electronic systems – KAKSIPUOLISEN TAISTELUN SIMULOINTIJÄRJESTELMÄN (KASI) JA ONO JA LOST TÄYDENNYSHANKINTA",
+          "buyer": "Puolustusvoimat",
+          "country": "FIN",
+          "cpv": [
+            "35700000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/699081-2026"
+        },
+        {
           "id": "697871-2026",
           "date": "2026-10-09",
           "title": "Germany – Firefighting vehicles – Ortsfeuerwehren Linden, Fümmelse, Leinde, Wendessen und Groß Stöckheim - Beschaffung von fünf MTW",
@@ -43,17 +54,6 @@
             "35412200"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/697871-2026"
-        },
-        {
-          "id": "699081-2026",
-          "date": "2026-10-09",
-          "title": "Finland – Military electronic systems – KAKSIPUOLISEN TAISTELUN SIMULOINTIJÄRJESTELMÄN (KASI) JA ONO JA LOST TÄYDENNYSHANKINTA",
-          "buyer": "Puolustusvoimat",
-          "country": "FIN",
-          "cpv": [
-            "35700000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/699081-2026"
         },
         {
           "id": "696668-2026",
@@ -89,6 +89,18 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/699594-2026"
         },
         {
+          "id": "695506-2026",
+          "date": "2026-10-08",
+          "title": "Belgium – Belts – meerjarige raamovereenkomst van leveringen voor de aankoop van gordels en toebehoren & holsters ten voordele van de geïntegreerde politie gestructureerd op 2 niveaus",
+          "buyer": "Police Fédérale",
+          "country": "BEL",
+          "cpv": [
+            "18425000",
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/695506-2026"
+        },
+        {
           "id": "693226-2026",
           "date": "2026-10-08",
           "title": "Germany – Firefighting vehicles – Drei Mehrzweckfahrzeuge und zwei Mannschaftstransportwagen für die Feuerwehr Offenburg (3 Lose)",
@@ -101,18 +113,6 @@
             "35110000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/693226-2026"
-        },
-        {
-          "id": "695506-2026",
-          "date": "2026-10-08",
-          "title": "Belgium – Belts – meerjarige raamovereenkomst van leveringen voor de aankoop van gordels en toebehoren & holsters ten voordele van de geïntegreerde politie gestructureerd op 2 niveaus",
-          "buyer": "Police Fédérale",
-          "country": "BEL",
-          "cpv": [
-            "18425000",
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/695506-2026"
         },
         {
           "id": "694549-2026",
@@ -129,15 +129,16 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/694549-2026"
         },
         {
-          "id": "692945-2026",
+          "id": "694694-2026",
           "date": "2026-10-08",
-          "title": "Spain – Machine guns – Adquisición Ametralladoras Pesadas AMP",
-          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
-          "country": "ESP",
+          "title": "Poland – Military vehicles and associated parts – Dostawa Zestawów Mobilnych Modułów Stanowiska Dowodzenia wraz z okablowaniem.",
+          "buyer": "Agencja Uzbrojenia",
+          "country": "POL",
           "cpv": [
-            "35321300"
+            "35400000",
+            "32520000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/692945-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/694694-2026"
         },
         {
           "id": "695606-2026",
@@ -151,28 +152,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/695606-2026"
         },
         {
-          "id": "694694-2026",
+          "id": "692945-2026",
           "date": "2026-10-08",
-          "title": "Poland – Military vehicles and associated parts – Dostawa Zestawów Mobilnych Modułów Stanowiska Dowodzenia wraz z okablowaniem.",
-          "buyer": "Agencja Uzbrojenia",
-          "country": "POL",
+          "title": "Spain – Machine guns – Adquisición Ametralladoras Pesadas AMP",
+          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+          "country": "ESP",
           "cpv": [
-            "35400000",
-            "32520000"
+            "35321300"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/694694-2026"
-        },
-        {
-          "id": "693937-2026",
-          "date": "2026-10-08",
-          "title": "Estonia – Ammunition for firearms and warfare – 40mm, 23mm relvade ning 76mm, 40mm ja 23mm laskemoona ostmine koos elutsükli tagamisega",
-          "buyer": "Riigi Kaitseinvesteeringute Keskus",
-          "country": "EST",
-          "cpv": [
-            "35331000",
-            "35320000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/693937-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/692945-2026"
         },
         {
           "id": "694869-2026",
@@ -185,6 +173,18 @@
             "34711200"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/694869-2026"
+        },
+        {
+          "id": "693937-2026",
+          "date": "2026-10-08",
+          "title": "Estonia – Ammunition for firearms and warfare – 40mm, 23mm relvade ning 76mm, 40mm ja 23mm laskemoona ostmine koos elutsükli tagamisega",
+          "buyer": "Riigi Kaitseinvesteeringute Keskus",
+          "country": "EST",
+          "cpv": [
+            "35331000",
+            "35320000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/693937-2026"
         },
         {
           "id": "691267-2026",
@@ -234,7 +234,7 @@
       "latest_observation": "2026-07-09",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 90391030.19,
+      "current_14d_weekly_equivalent": 90791080.33,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -259,12 +259,12 @@
           "amount": 3184396.0
         },
         {
-          "name": "NORTHROP GRUMMAN SYSTEMS CORP",
-          "amount": 1583780.0
+          "name": "EATON AEROSPACE, LLC",
+          "amount": 2577301.0
         },
         {
-          "name": "CAE USA INC.",
-          "amount": 1578045.33
+          "name": "NORTHROP GRUMMAN SYSTEMS CORP",
+          "amount": 1583780.0
         },
         {
           "name": "THE BOEING COMPANY",
@@ -320,6 +320,15 @@
         },
         {
           "date": "2026-07-09",
+          "award_id": "SPRTA126C0099",
+          "recipient": "EATON AEROSPACE, LLC",
+          "amount": 2577301.0,
+          "agency": "Defense Logistics Agency",
+          "description": "PUMP UNIT, AXIAL PISTON IN SUPPORT OF THE C-130 PLATFORM.",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-09",
           "award_id": "N0016426FJ033",
           "recipient": "PLATFORM SYSTEMS, INCORPORATED",
           "amount": 2049930.0,
@@ -344,15 +353,6 @@
           "agency": "Department of the Air Force",
           "description": "ENTERPRISE SUPPORT DELIVERY ORDER PRODUCT SERVICE CODE: R408",
           "naics": "336411"
-        },
-        {
-          "date": "2026-07-09",
-          "award_id": "FA862121F6253",
-          "recipient": "CAE USA INC.",
-          "amount": 1578045.33,
-          "agency": "Department of the Air Force",
-          "description": "KC-135 TS - BOWST SURGE (TSSC #1 / TRAVEL FUNDING) CHANGE IN OBLIGATION: $1,578,045.33  CHANGE IN PRICE: $1,567,281.51  PCO EMAIL: VANESSA.POTTINGER.3@US.AF.MIL",
-          "naics": "336413"
         },
         {
           "date": "2026-07-09",
@@ -677,11 +677,6 @@
   },
   "history": [
     {
-      "generated": "2026-09-21T22:08:15.831993+00:00",
-      "score": 19.1,
-      "status": "BASELINE"
-    },
-    {
       "generated": "2026-09-22T05:17:09.144775+00:00",
       "score": 22.1,
       "status": "BASELINE"
@@ -973,6 +968,11 @@
     },
     {
       "generated": "2026-10-09T18:28:22.535505+00:00",
+      "score": 26.3,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-10-09T22:49:34.735204+00:00",
       "score": 26.3,
       "status": "WATCH"
     }
