@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-08T23:31:07.024426+00:00",
+    "generated": "2026-10-09T06:33:21.623419+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 26.8,
-    "raw_score": 26.8,
+    "score": 26.3,
+    "raw_score": 26.3,
     "concurrence_bonus": 0.0,
     "status": "WATCH",
-    "headline": "Defense procurement acceleration pressure is watch at 26.8/100.",
+    "headline": "Defense procurement acceleration pressure is watch at 26.3/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -26,23 +26,12 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 607,
-      "current_14d_weekly_equivalent": 38.5,
-      "baseline_weekly_median": 43.5,
-      "anomaly_z": -0.96,
+      "coverage": 594,
+      "current_14d_weekly_equivalent": 36.0,
+      "baseline_weekly_median": 43.0,
+      "anomaly_z": -2.36,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
-        {
-          "id": "699081-2026",
-          "date": "2026-10-09",
-          "title": "Finland – Military electronic systems – KAKSIPUOLISEN TAISTELUN SIMULOINTIJÄRJESTELMÄN (KASI) JA ONO JA LOST TÄYDENNYSHANKINTA",
-          "buyer": "Puolustusvoimat",
-          "country": "FIN",
-          "cpv": [
-            "35700000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/699081-2026"
-        },
         {
           "id": "697871-2026",
           "date": "2026-10-09",
@@ -54,6 +43,17 @@
             "35412200"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/697871-2026"
+        },
+        {
+          "id": "699081-2026",
+          "date": "2026-10-09",
+          "title": "Finland – Military electronic systems – KAKSIPUOLISEN TAISTELUN SIMULOINTIJÄRJESTELMÄN (KASI) JA ONO JA LOST TÄYDENNYSHANKINTA",
+          "buyer": "Puolustusvoimat",
+          "country": "FIN",
+          "cpv": [
+            "35700000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/699081-2026"
         },
         {
           "id": "696668-2026",
@@ -89,18 +89,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/699594-2026"
         },
         {
-          "id": "695506-2026",
-          "date": "2026-10-08",
-          "title": "Belgium – Belts – meerjarige raamovereenkomst van leveringen voor de aankoop van gordels en toebehoren & holsters ten voordele van de geïntegreerde politie gestructureerd op 2 niveaus",
-          "buyer": "Police Fédérale",
-          "country": "BEL",
-          "cpv": [
-            "18425000",
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/695506-2026"
-        },
-        {
           "id": "693226-2026",
           "date": "2026-10-08",
           "title": "Germany – Firefighting vehicles – Drei Mehrzweckfahrzeuge und zwei Mannschaftstransportwagen für die Feuerwehr Offenburg (3 Lose)",
@@ -113,6 +101,18 @@
             "35110000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/693226-2026"
+        },
+        {
+          "id": "695506-2026",
+          "date": "2026-10-08",
+          "title": "Belgium – Belts – meerjarige raamovereenkomst van leveringen voor de aankoop van gordels en toebehoren & holsters ten voordele van de geïntegreerde politie gestructureerd op 2 niveaus",
+          "buyer": "Police Fédérale",
+          "country": "BEL",
+          "cpv": [
+            "18425000",
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/695506-2026"
         },
         {
           "id": "694549-2026",
@@ -225,214 +225,214 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 5.6,
+      "score": 4.6,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-07-08",
+      "latest_observation": "2026-07-09",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 228684944.51,
+      "current_14d_weekly_equivalent": 89998062.21,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
-          "name": "RTX CORPORATION",
-          "amount": 234178981.0
-        },
-        {
-          "name": "ANDURIL INDUSTRIES, INC.",
-          "amount": 57241190.98
-        },
-        {
-          "name": "THE BOEING COMPANY",
-          "amount": 50799881.65
-        },
-        {
-          "name": "LEIDOS, INC.",
-          "amount": 27202497.0
-        },
-        {
-          "name": "DMAERO, LLC",
-          "amount": 13621744.86
-        },
-        {
-          "name": "PARKER-HANNIFIN CORPORATION",
-          "amount": 13316650.26
-        },
-        {
           "name": "RAYTHEON COMPANY",
-          "amount": 8624012.84
+          "amount": 145325978.34
         },
         {
-          "name": "SUN TEST SYSTEMS, INC.",
-          "amount": 7657638.94
+          "name": "MEGGITT AIRCRAFT BRAKING SYSTEMS CORPORATION",
+          "amount": 8453217.5
+        },
+        {
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "amount": 5322166.0
+        },
+        {
+          "name": "PLATFORM SYSTEMS, INCORPORATED",
+          "amount": 3838919.0
+        },
+        {
+          "name": "FAXON MACHINING, LLC",
+          "amount": 3184396.0
+        },
+        {
+          "name": "NORTHROP GRUMMAN SYSTEMS CORP",
+          "amount": 1583780.0
+        },
+        {
+          "name": "CAE USA INC.",
+          "amount": 1578045.33
+        },
+        {
+          "name": "DAYTON T. BROWN, INC.",
+          "amount": 1244690.24
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
         {
-          "date": "2026-07-08",
-          "award_id": "FA812426F0004",
-          "recipient": "RTX CORPORATION",
-          "amount": 234178981.0,
-          "agency": "Department of the Air Force",
-          "description": "F117 ESS FY26 TASK ORDER",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-08",
-          "award_id": "M6785426F0051",
-          "recipient": "ANDURIL INDUSTRIES, INC.",
-          "amount": 45404438.98,
-          "agency": "Department of the Navy",
-          "description": "THIS DELIVERY ORDER PROCURES HARDWARE REQUIRED FOR THE HOME ALONE PM GBAD PROGRAM.",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-07-08",
-          "award_id": "FA810726FB001",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 33627596.61,
-          "agency": "Department of the Air Force",
-          "description": "MODIFICATION OF TWO (2) B-52 MTC-CERTIFIED AIRCRAFT WITH THE CERP MODIFICATION, ALONG WITH SUBSYSTEM MODELING UPDATES.",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-08",
-          "award_id": "H9240826CE001",
-          "recipient": "LEIDOS, INC.",
-          "amount": 27202497.0,
-          "agency": "U.S. Special Operations Command",
-          "description": "FOR THE PROCUREMENT OF SMALL CRUISE MISSILE (SCM) LONG-LEAD MATERIAL KITS, WITH AN OPTION FOR THE PRODUCTION OF UP TO 60 ALL-UP-ROUNDS (AURS) AND ASSOCIATED CONTAINER MODIFICATIONS. CONTRACTOR PROPOSAL: SUBMITTED 27 JANUARY 2026",
-          "naics": "336415"
-        },
-        {
-          "date": "2026-07-08",
-          "award_id": "FA850926FB024",
-          "recipient": "DMAERO, LLC",
-          "amount": 13621744.86,
-          "agency": "Department of the Air Force",
-          "description": "THIS AWARD IS FOR THE PURCHASE AND DELIVERY OF MATERIALS REQUIRED TO ASSEMBLE, TEST, AND UTILIZE ARKHAM TESTS RACKS IN SUPPORT OF SOF C-130 OPERATIONS. TOTAL VALUE OF CONTRACT AWARD IS $13,621,744.86.",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-08",
-          "award_id": "FA852626CB001",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 13601055.48,
-          "agency": "Department of the Air Force",
-          "description": "RESOLVE FLIGHT DECK REPLACEMENT OBSOLESCENCE AND UPDATE AFFECTED SYSTEM LABS",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-08",
-          "award_id": "FA853826F0051",
-          "recipient": "PARKER-HANNIFIN CORPORATION",
-          "amount": 12852378.36,
-          "agency": "Department of the Air Force",
-          "description": "REPAIR OF THE C-5 MANIFOLD ASSY, INBOARD ELEVATOR",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-08",
-          "award_id": "FA862926FB057",
-          "recipient": "ANDURIL INDUSTRIES, INC.",
-          "amount": 11836752.0,
-          "agency": "Department of the Air Force",
-          "description": "THE CONTRACTOR MUST EXECUTE ALL REQUIREMENTS OF THIS DELIVERY ORDER IN ACCORDANCE WITH THE SOW ATTACHED TO BASIC CONTRACT FA8629-26-D-B002.",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-08",
-          "award_id": "W58RGZ26F0360",
-          "recipient": "SUN TEST SYSTEMS, INC.",
-          "amount": 7657638.94,
-          "agency": "Department of the Army",
-          "description": "THE PURPOSE OF THIS DELIVERY ORDER IS TO PURCHASE AIR GROUND POWER UNITS, FIELD SUPPORT PACKAGES, NEW EQUIPMENT TRAINING, SUPPORTING TEST EQUIPMENT, AND TRAVEL.",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-08",
-          "award_id": "FA850926FB018",
-          "recipient": "SELECTTECH SERVICES CORPORATION",
-          "amount": 7218127.86,
-          "agency": "Department of the Air Force",
-          "description": "SMS SUPER DUPER KITS",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-08",
-          "award_id": "FA867226FB002",
+          "date": "2026-07-09",
+          "award_id": "W31P4Q26C0002",
           "recipient": "RAYTHEON COMPANY",
-          "amount": 4071953.62,
-          "agency": "Department of the Air Force",
-          "description": "JETTISON TEST VEHICLE X (JTV-X)",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-07-08",
-          "award_id": "N0002423C2301",
-          "recipient": "MBDA INCORPORATED",
-          "amount": 3662218.0,
-          "agency": "Department of the Navy",
-          "description": "COST ONLY FUNDING",
+          "amount": 94337978.34,
+          "agency": "Department of the Army",
+          "description": "TAIWAN NASAMS 3 LOT",
           "naics": "336414"
         },
         {
-          "date": "2026-07-08",
-          "award_id": "FA867210C0002",
+          "date": "2026-07-09",
+          "award_id": "N0001926F0259",
           "recipient": "RAYTHEON COMPANY",
-          "amount": 3546740.75,
-          "agency": "Department of the Air Force",
-          "description": "SMALL DIAMETER BOMB INCREMENT II",
+          "amount": 50988000.0,
+          "agency": "Department of the Navy",
+          "description": "NON-RECURRING ENGINEERING (NRE) CLS PHASE II RESTART",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-09",
+          "award_id": "SPRHA126F0116",
+          "recipient": "MEGGITT AIRCRAFT BRAKING SYSTEMS CORPORATION",
+          "amount": 8453217.5,
+          "agency": "Defense Logistics Agency",
+          "description": "WHEEL,LANDING GEAR",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-09",
+          "award_id": "N0001925F2572",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 5275000.0,
+          "agency": "Department of the Navy",
+          "description": "INCREASE SCOPE OF BASE CONTRACT, INCREMENTALLY FUNDS CLIN 0001, UPDATES SECTIONS 3 AND 4 IN SOW",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-09",
+          "award_id": "W519TC26F0017",
+          "recipient": "FAXON MACHINING, LLC",
+          "amount": 3184396.0,
+          "agency": "Department of the Army",
+          "description": "THIS PROCUREMENT IS FOR THE BLU-136/B BOMB BODY AND THE CNU-417/E CONTAINER.",
           "naics": "332993"
         },
         {
-          "date": "2026-07-08",
-          "award_id": "SPE4A726F8479",
-          "recipient": "SIMMONDS PRECISION PRODUCTS INC",
-          "amount": 3470268.16,
-          "agency": "Defense Logistics Agency",
-          "description": "8512210897!INDICATOR,LIQUID QU",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-08",
-          "award_id": "SPRTA126C0095",
-          "recipient": "DAVIS THORPE CO. LLC",
-          "amount": 3254807.0,
-          "agency": "Defense Logistics Agency",
-          "description": "AIRCRAFT DOOR",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-08",
-          "award_id": "SPRTA126C0093",
-          "recipient": "DAVIS THORPE CO. LLC",
-          "amount": 3254807.0,
-          "agency": "Defense Logistics Agency",
-          "description": "AIRCRAFT DOOR",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-08",
-          "award_id": "N6134022F7003",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 2777256.0,
+          "date": "2026-07-09",
+          "award_id": "N0016426FJ033",
+          "recipient": "PLATFORM SYSTEMS, INCORPORATED",
+          "amount": 2049930.0,
           "agency": "Department of the Navy",
-          "description": "EXERCISE OPTION CLIN 0010",
-          "naics": "336412"
+          "description": "PDSS SITE SURVEY",
+          "naics": "336411"
         },
         {
-          "date": "2026-07-08",
-          "award_id": "FA862126FB004",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 2000000.0,
+          "date": "2026-07-09",
+          "award_id": "W58RGZ26F0347",
+          "recipient": "PLATFORM SYSTEMS, INCORPORATED",
+          "amount": 1788989.0,
+          "agency": "Department of the Army",
+          "description": "RDT&E ORDER AGAINST VANILLA BOA.",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-07-09",
+          "award_id": "FA861626FB005",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
+          "amount": 1583780.0,
           "agency": "Department of the Air Force",
-          "description": "THIS ACQUISITION PROVIDES THE USMC WITH A NEW KCFUT #7 TRAINER, UPGRADES FOR THE KCWST #4 TRAINER, AND MODERNIZATION FOR THE KCFUT #1 TRAINER, ALONG WITH NECESSARY SPARES, SUPPORT, AND OPTIONAL COURSEWARE AND HOUSING STRUCTURES.",
+          "description": "ENTERPRISE SUPPORT DELIVERY ORDER PRODUCT SERVICE CODE: R408",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-07-09",
+          "award_id": "FA862121F6253",
+          "recipient": "CAE USA INC.",
+          "amount": 1578045.33,
+          "agency": "Department of the Air Force",
+          "description": "KC-135 TS - BOWST SURGE (TSSC #1 / TRAVEL FUNDING) CHANGE IN OBLIGATION: $1,578,045.33  CHANGE IN PRICE: $1,567,281.51  PCO EMAIL: VANESSA.POTTINGER.3@US.AF.MIL",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-09",
+          "award_id": "N0042124F0184",
+          "recipient": "DAYTON T. BROWN, INC.",
+          "amount": 1244690.24,
+          "agency": "Department of the Navy",
+          "description": "DESCRIPTIONS AND SPECIFICATIONS C",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-09",
+          "award_id": "W519TC26F0148",
+          "recipient": "ELLWOOD NATIONAL FORGE COMPANY",
+          "amount": 1085400.0,
+          "agency": "Department of the Army",
+          "description": "THE PURPOSE OF THIS DELIVERY ORDER IS TO AWARD THE BLU-109 BOMB CASE ASSEMBLY AND THE MHU-212B/E PALLET. BLU-109 BOMB CASE - NSN: 1325-01-368-3474 MHU-212B/E PALLET NSN: 8140-01-590-4731",
+          "naics": "332993"
+        },
+        {
+          "date": "2026-07-09",
+          "award_id": "W58RGZ26F0182",
+          "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 748119.0,
+          "agency": "Department of the Army",
+          "description": "KC-130J MOBILE USER OBJECTIVE SYSTEM GEN6 (MUOS) A-KIT MANUFACTURE AND INSTALL.",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-09",
+          "award_id": "SPE4A626F237P",
+          "recipient": "ROSEMOUNT AEROSPACE INC",
+          "amount": 735029.9,
+          "agency": "Defense Logistics Agency",
+          "description": "8512229498!PITOT-STATIC TUBE",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-09",
+          "award_id": "W900KK25FA150",
+          "recipient": "KBR WYLE SERVICES, LLC",
+          "amount": 647999.7,
+          "agency": "Department of the Army",
+          "description": "PROVIDE TOW TARGET FLIGHT SUPPORT SERVICES FOR VARIOUS DEPARTMENT OF DEFENSE USERS.",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-07-09",
+          "award_id": "SPE4A626F235Y",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 635429.2,
+          "agency": "Defense Logistics Agency",
+          "description": "8512226488!ADAPTER,SPLINE",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-09",
+          "award_id": "N0016426FG069",
+          "recipient": "DUCOMMUN LABARGE TECHNOLOGIES, INC.",
+          "amount": 375153.0,
+          "agency": "Department of the Navy",
+          "description": "CABLE ASSEMBLIES",
+          "naics": "336419"
+        },
+        {
+          "date": "2026-07-09",
+          "award_id": "N6893623F0702",
+          "recipient": "ADVANCED SYSTEMS & SOFTWARE ENGINEERING TECHNOLOGIES LLC",
+          "amount": 233780.69,
+          "agency": "Department of the Navy",
+          "description": "FA-18 SOFTWARE DEVELOPMENT",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-07-09",
+          "award_id": "SPE4A726F8672",
+          "recipient": "TEXSTARS LLC",
+          "amount": 228320.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8512229557!WINDSHIELD ASSEMBLY",
           "naics": "336413"
         }
       ]
@@ -446,8 +446,8 @@
       "retained": false,
       "coverage": 93,
       "current_14d_weekly_equivalent": 12.0,
-      "baseline_weekly_median": 2.5,
-      "anomaly_z": 2.56,
+      "baseline_weekly_median": 1.0,
+      "anomaly_z": 7.42,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -594,15 +594,15 @@
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
-      "score": 28.9,
+      "score": 27.0,
       "status": "WATCH",
       "weight": 0.15,
       "available": true,
       "retained": false,
-      "coverage": 15,
+      "coverage": 14,
       "current_14d_weekly_equivalent": 2.5,
       "baseline_weekly_median": 0.0,
-      "anomaly_z": 1.52,
+      "anomaly_z": 1.3,
       "method": "Defense Acquisition Regulations System publication velocity; rules weighted 1.5.",
       "evidence": [
         {
@@ -676,11 +676,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-21T05:19:16.930025+00:00",
-      "score": 19.0,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-21T13:12:57.610773+00:00",
       "score": 19.0,
@@ -974,6 +969,11 @@
     {
       "generated": "2026-10-08T23:31:07.024426+00:00",
       "score": 26.8,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-10-09T06:33:21.623419+00:00",
+      "score": 26.3,
       "status": "WATCH"
     }
   ],
