@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-10T06:16:41.161199+00:00",
+    "generated": "2026-10-10T12:56:58.759640+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -234,7 +234,7 @@
       "latest_observation": "2026-07-10",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 79140098.11,
+      "current_14d_weekly_equivalent": 79493528.25,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -468,7 +468,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-09-29",
@@ -548,7 +548,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 21
+          "age": 22
         },
         {
           "date": "2026-09-15",
@@ -568,7 +568,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 24
+          "age": 25
         },
         {
           "date": "2026-09-15",
@@ -588,7 +588,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 24
+          "age": 25
         }
       ]
     },
@@ -676,11 +676,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-22T11:59:34.833824+00:00",
-      "score": 22.2,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-22T17:11:29.535482+00:00",
       "score": 22.2,
@@ -973,6 +968,11 @@
     },
     {
       "generated": "2026-10-10T06:16:41.161199+00:00",
+      "score": 26.3,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-10-10T12:56:58.759640+00:00",
       "score": 26.3,
       "status": "WATCH"
     }
