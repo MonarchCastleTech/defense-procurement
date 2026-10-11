@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-10T21:56:43.559689+00:00",
+    "generated": "2026-10-11T06:16:22.108748+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -129,6 +129,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/694549-2026"
         },
         {
+          "id": "695606-2026",
+          "date": "2026-10-08",
+          "title": "Spain – Ammunition – Adquisición de munición ACA de 155 mm",
+          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+          "country": "ESP",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/695606-2026"
+        },
+        {
           "id": "694694-2026",
           "date": "2026-10-08",
           "title": "Poland – Military vehicles and associated parts – Dostawa Zestawów Mobilnych Modułów Stanowiska Dowodzenia wraz z okablowaniem.",
@@ -139,17 +150,6 @@
             "32520000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/694694-2026"
-        },
-        {
-          "id": "695606-2026",
-          "date": "2026-10-08",
-          "title": "Spain – Ammunition – Adquisición de munición ACA de 155 mm",
-          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
-          "country": "ESP",
-          "cpv": [
-            "35330000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/695606-2026"
         },
         {
           "id": "692945-2026",
@@ -163,18 +163,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/692945-2026"
         },
         {
-          "id": "694869-2026",
-          "date": "2026-10-08",
-          "title": "Sweden – Unmanned aerial vehicles – UAS, Inspektions-ROV, tillbehör och support",
-          "buyer": "Sjöfartsverket",
-          "country": "SWE",
-          "cpv": [
-            "35613000",
-            "34711200"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/694869-2026"
-        },
-        {
           "id": "693937-2026",
           "date": "2026-10-08",
           "title": "Estonia – Ammunition for firearms and warfare – 40mm, 23mm relvade ning 76mm, 40mm ja 23mm laskemoona ostmine koos elutsükli tagamisega",
@@ -185,6 +173,18 @@
             "35320000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/693937-2026"
+        },
+        {
+          "id": "694869-2026",
+          "date": "2026-10-08",
+          "title": "Sweden – Unmanned aerial vehicles – UAS, Inspektions-ROV, tillbehör och support",
+          "buyer": "Sjöfartsverket",
+          "country": "SWE",
+          "cpv": [
+            "35613000",
+            "34711200"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/694869-2026"
         },
         {
           "id": "691267-2026",
@@ -225,26 +225,22 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 4.4,
+      "score": 4.2,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-07-10",
+      "latest_observation": "2026-07-11",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 75541783.28,
+      "current_14d_weekly_equivalent": 61573613.59,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
           "name": "RTX CORPORATION",
           "amount": 48732155.0
-        },
-        {
-          "name": "GRIFFON AEROSPACE, INC.",
-          "amount": 37004023.84
         },
         {
           "name": "ANDURIL INDUSTRIES, INC.",
@@ -255,8 +251,12 @@
           "amount": 12656177.0
         },
         {
+          "name": "MEGGITT AIRCRAFT BRAKING SYSTEMS CORPORATION",
+          "amount": 8453217.5
+        },
+        {
           "name": "GENERAL ELECTRIC COMPANY",
-          "amount": 6375804.61
+          "amount": 6460956.67
         },
         {
           "name": "LOCKHEED MARTIN CORPORATION",
@@ -273,6 +273,42 @@
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
+        {
+          "date": "2026-07-11",
+          "award_id": "SPE7L126FAS5U",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 551.36,
+          "agency": "Defense Logistics Agency",
+          "description": "4572356386!PUMP,COOLING SYSTEM",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-07-11",
+          "award_id": "SPE4A626FCPAJ",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 102.98,
+          "agency": "Defense Logistics Agency",
+          "description": "4572355777!ADAPTER,COMPRESSED GAS CYLINDER VALVE CO",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-11",
+          "award_id": "SPE4A524P2098",
+          "recipient": "AEROMETALS, INC.",
+          "amount": 0.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8510299570!GOVERNMENT FIRST ARTICLE TEST",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-11",
+          "award_id": "SPE4A723PC909",
+          "recipient": "AEROMETALS, INC.",
+          "amount": 0.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8510025378!GOVERNMENT FIRST ARTICLE TEST",
+          "naics": "336413"
+        },
         {
           "date": "2026-07-10",
           "award_id": "FA812426F0004",
@@ -397,42 +433,6 @@
           "amount": 123760.0,
           "agency": "Department of the Navy",
           "description": "VALVE, PRESSURE REG",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-10",
-          "award_id": "N0016426FJ044",
-          "recipient": "AMERICAN RHEINMETALL MUNITION INC",
-          "amount": 106920.0,
-          "agency": "Department of the Navy",
-          "description": "MK 1 MOD 0 FUZE",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-07-10",
-          "award_id": "SPE7MC26P3092",
-          "recipient": "JA MOODY LLC",
-          "amount": 106477.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512232952!ACTUATOR,ELECTROMEC",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-10",
-          "award_id": "FA811824F0179",
-          "recipient": "LINEAR MOTION LLC",
-          "amount": 103936.22,
-          "agency": "Department of the Air Force",
-          "description": "REMANUFACTURE OF B52 BALLSCREW ASSEMBLIES",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-10",
-          "award_id": "FA853226F0271",
-          "recipient": "CIQIMA FEDERAL SERVICES LLC",
-          "amount": 81932.0,
-          "agency": "Department of the Air Force",
-          "description": "THIRD PARTY EQUIPMENT PURCHASING (3PEP) SERVICES REQUIREMENT TO SOURCE, ACQUIRE, AND DELIVER A BROAD RANGE OF SUPPORT EQUIPMENT OF NATIONAL STOCK NUMBERS (NSNS).",
           "naics": "336413"
         }
       ]
@@ -676,11 +676,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-22T21:35:52.330895+00:00",
-      "score": 22.2,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-23T05:02:45.542206+00:00",
       "score": 20.5,
@@ -973,6 +968,11 @@
     },
     {
       "generated": "2026-10-10T21:56:43.559689+00:00",
+      "score": 26.2,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-10-11T06:16:22.108748+00:00",
       "score": 26.2,
       "status": "WATCH"
     }
