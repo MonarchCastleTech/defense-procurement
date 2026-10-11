@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-11T06:16:22.108748+00:00",
+    "generated": "2026-10-11T13:21:03.377849+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -234,7 +234,7 @@
       "latest_observation": "2026-07-11",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 61573613.59,
+      "current_14d_weekly_equivalent": 61664527.29,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -256,7 +256,7 @@
         },
         {
           "name": "GENERAL ELECTRIC COMPANY",
-          "amount": 6460956.67
+          "amount": 6375804.61
         },
         {
           "name": "LOCKHEED MARTIN CORPORATION",
@@ -444,7 +444,7 @@
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 92,
+      "coverage": 88,
       "current_14d_weekly_equivalent": 12.0,
       "baseline_weekly_median": 1.0,
       "anomaly_z": 7.42,
@@ -458,7 +458,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 9
+          "age": 10
         },
         {
           "date": "2026-09-29",
@@ -468,7 +468,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 11
+          "age": 12
         },
         {
           "date": "2026-09-29",
@@ -548,7 +548,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 22
+          "age": 23
         },
         {
           "date": "2026-09-15",
@@ -568,7 +568,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 25
+          "age": 26
         },
         {
           "date": "2026-09-15",
@@ -588,7 +588,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 25
+          "age": 26
         }
       ]
     },
@@ -676,11 +676,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-23T05:02:45.542206+00:00",
-      "score": 20.5,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-23T12:00:55.608777+00:00",
       "score": 20.5,
@@ -973,6 +968,11 @@
     },
     {
       "generated": "2026-10-11T06:16:22.108748+00:00",
+      "score": 26.2,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-10-11T13:21:03.377849+00:00",
       "score": 26.2,
       "status": "WATCH"
     }
