@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-11T13:21:03.377849+00:00",
+    "generated": "2026-10-11T22:20:57.223940+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,12 +26,134 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 590,
+      "coverage": 599,
       "current_14d_weekly_equivalent": 36.0,
       "baseline_weekly_median": 43.0,
       "anomaly_z": -2.36,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "701292-2026",
+          "date": "2026-10-12",
+          "title": "Sweden – Radio transmission apparatus with reception apparatus – HF2000 HP HF Transmitter",
+          "buyer": "FMV",
+          "country": "SWE",
+          "cpv": [
+            "32230000",
+            "35712000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/701292-2026"
+        },
+        {
+          "id": "701766-2026",
+          "date": "2026-10-12",
+          "title": "Latvia – Weapons, ammunition and associated parts – Granātmetēju munīcijas un rokas granātu iegāde uz 3 gadiem",
+          "buyer": "Nodrošinājuma valsts aģentūra",
+          "country": "LVA",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/701766-2026"
+        },
+        {
+          "id": "701805-2026",
+          "date": "2026-10-12",
+          "title": "Czechia – Navigation satellites – Procurement of Galileo satellites batch 3.",
+          "buyer": "European Union Agency for the Space Programme",
+          "country": "CZE",
+          "cpv": [
+            "35631300"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/701805-2026"
+        },
+        {
+          "id": "702779-2026",
+          "date": "2026-10-12",
+          "title": "Sweden – Military aircrafts, missiles and spacecrafts – Dynamiskt inköpssystem - Målspel",
+          "buyer": "FMV",
+          "country": "SWE",
+          "cpv": [
+            "35600000",
+            "34740000",
+            "35210000",
+            "35512400"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/702779-2026"
+        },
+        {
+          "id": "702120-2026",
+          "date": "2026-10-12",
+          "title": "Estonia – Various chemical products – Rehvide ostmine ja rehvitööd 2026/2027",
+          "buyer": "Riigi Kaitseinvesteeringute Keskus",
+          "country": "EST",
+          "cpv": [
+            "24960000",
+            "34352000",
+            "22450000",
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/702120-2026"
+        },
+        {
+          "id": "702655-2026",
+          "date": "2026-10-12",
+          "title": "Poland – Command and liaison vehicles – Samochód dowodzenia i łączności (kompanijne stanowisko dowodzenia) – 3 sztuki",
+          "buyer": "Komenda Wojewódzka Państwowej Straży Pożarnej w Poznaniu",
+          "country": "POL",
+          "cpv": [
+            "35412500",
+            "35110000",
+            "34144210",
+            "34144200"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/702655-2026"
+        },
+        {
+          "id": "701268-2026",
+          "date": "2026-10-12",
+          "title": "Netherlands – Aerial and related services – Raamovereenkomst services Amsterdam",
+          "buyer": "Ministerie van Defensie",
+          "country": "NLD",
+          "cpv": [
+            "60440000",
+            "35610000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/701268-2026"
+        },
+        {
+          "id": "701177-2026",
+          "date": "2026-10-12",
+          "title": "Slovakia – Simulators – Akvizícia JTAC / Multi-Role Simulation System",
+          "buyer": "Ministerstvo obrany Slovenskej republiky",
+          "country": "SVK",
+          "cpv": [
+            "34150000",
+            "35740000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/701177-2026"
+        },
+        {
+          "id": "702041-2026",
+          "date": "2026-10-12",
+          "title": "Czechia – Weapons, ammunition and associated parts – Výzva č. 26221000090",
+          "buyer": "Ministerstvo obrany",
+          "country": "CZE",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/702041-2026"
+        },
+        {
+          "id": "702786-2026",
+          "date": "2026-10-12",
+          "title": "Czechia – Weapons, ammunition and associated parts – Výzva č. 24221000000254",
+          "buyer": "Ministerstvo obrany",
+          "country": "CZE",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/702786-2026"
+        },
         {
           "id": "699081-2026",
           "date": "2026-10-09",
@@ -99,127 +221,6 @@
             "35300000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/695506-2026"
-        },
-        {
-          "id": "693226-2026",
-          "date": "2026-10-08",
-          "title": "Germany – Firefighting vehicles – Drei Mehrzweckfahrzeuge und zwei Mannschaftstransportwagen für die Feuerwehr Offenburg (3 Lose)",
-          "buyer": "Stadt Offenburg, Fachbereich Bauservice, Zentrale Vergabestelle",
-          "country": "DEU",
-          "cpv": [
-            "34144210",
-            "35412200",
-            "34139000",
-            "35110000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/693226-2026"
-        },
-        {
-          "id": "694549-2026",
-          "date": "2026-10-08",
-          "title": "Ireland – Parts for aircraft engines – CL3353F - Multi Supplier Framework Agreement for the Supply of Aviation Training Equipment - LCETB",
-          "buyer": "Education Procurement Service (EPS)",
-          "country": "IRL",
-          "cpv": [
-            "34731500",
-            "34741100",
-            "34741000",
-            "34731000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/694549-2026"
-        },
-        {
-          "id": "695606-2026",
-          "date": "2026-10-08",
-          "title": "Spain – Ammunition – Adquisición de munición ACA de 155 mm",
-          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
-          "country": "ESP",
-          "cpv": [
-            "35330000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/695606-2026"
-        },
-        {
-          "id": "694694-2026",
-          "date": "2026-10-08",
-          "title": "Poland – Military vehicles and associated parts – Dostawa Zestawów Mobilnych Modułów Stanowiska Dowodzenia wraz z okablowaniem.",
-          "buyer": "Agencja Uzbrojenia",
-          "country": "POL",
-          "cpv": [
-            "35400000",
-            "32520000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/694694-2026"
-        },
-        {
-          "id": "692945-2026",
-          "date": "2026-10-08",
-          "title": "Spain – Machine guns – Adquisición Ametralladoras Pesadas AMP",
-          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
-          "country": "ESP",
-          "cpv": [
-            "35321300"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/692945-2026"
-        },
-        {
-          "id": "693937-2026",
-          "date": "2026-10-08",
-          "title": "Estonia – Ammunition for firearms and warfare – 40mm, 23mm relvade ning 76mm, 40mm ja 23mm laskemoona ostmine koos elutsükli tagamisega",
-          "buyer": "Riigi Kaitseinvesteeringute Keskus",
-          "country": "EST",
-          "cpv": [
-            "35331000",
-            "35320000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/693937-2026"
-        },
-        {
-          "id": "694869-2026",
-          "date": "2026-10-08",
-          "title": "Sweden – Unmanned aerial vehicles – UAS, Inspektions-ROV, tillbehör och support",
-          "buyer": "Sjöfartsverket",
-          "country": "SWE",
-          "cpv": [
-            "35613000",
-            "34711200"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/694869-2026"
-        },
-        {
-          "id": "691267-2026",
-          "date": "2026-10-07",
-          "title": "Sweden – Weapons, ammunition and associated parts – Framework Agreement Rocket Wrench",
-          "buyer": "FMV",
-          "country": "SWE",
-          "cpv": [
-            "35300000",
-            "90523100",
-            "90523200"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/691267-2026"
-        },
-        {
-          "id": "689931-2026",
-          "date": "2026-10-07",
-          "title": "Germany – Military vehicles and associated parts – Kaufbedarf EU für den SPz Puma",
-          "buyer": "HIL Heeresinstandsetzungslogistik GmbH",
-          "country": "DEU",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/689931-2026"
-        },
-        {
-          "id": "689863-2026",
-          "date": "2026-10-07",
-          "title": "Cyprus – Unmanned aerial vehicles – F.D 77/2026 The Acquisition and Operational Deployment of Two Unmanned Aircraft Systems (UAS) for Border Surveillance",
-          "buyer": "Cyprus Police",
-          "country": "CYP",
-          "cpv": [
-            "35613000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/689863-2026"
         }
       ]
     },
@@ -234,7 +235,7 @@
       "latest_observation": "2026-07-11",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 61664527.29,
+      "current_14d_weekly_equivalent": 61142062.88,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -293,20 +294,20 @@
         },
         {
           "date": "2026-07-11",
-          "award_id": "SPE4A524P2098",
-          "recipient": "AEROMETALS, INC.",
-          "amount": 0.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8510299570!GOVERNMENT FIRST ARTICLE TEST",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-11",
           "award_id": "SPE4A723PC909",
           "recipient": "AEROMETALS, INC.",
           "amount": 0.0,
           "agency": "Defense Logistics Agency",
           "description": "8510025378!GOVERNMENT FIRST ARTICLE TEST",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-11",
+          "award_id": "SPE4A524P2098",
+          "recipient": "AEROMETALS, INC.",
+          "amount": 0.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8510299570!GOVERNMENT FIRST ARTICLE TEST",
           "naics": "336413"
         },
         {
@@ -478,7 +479,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 11
+          "age": 12
         },
         {
           "date": "2026-09-28",
@@ -488,7 +489,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 12
+          "age": 13
         },
         {
           "date": "2026-09-28",
@@ -498,7 +499,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 12
+          "age": 13
         },
         {
           "date": "2026-09-28",
@@ -508,7 +509,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 12
+          "age": 13
         },
         {
           "date": "2026-09-28",
@@ -518,7 +519,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 12
+          "age": 13
         },
         {
           "date": "2026-09-28",
@@ -528,7 +529,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 12
+          "age": 13
         },
         {
           "date": "2026-09-28",
@@ -538,7 +539,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 12
+          "age": 13
         },
         {
           "date": "2026-09-18",
@@ -558,7 +559,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 25
+          "age": 26
         },
         {
           "date": "2026-09-15",
@@ -578,7 +579,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 25
+          "age": 26
         },
         {
           "date": "2026-09-15",
@@ -676,11 +677,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-23T12:00:55.608777+00:00",
-      "score": 20.5,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-23T17:24:12.291990+00:00",
       "score": 20.5,
@@ -973,6 +969,11 @@
     },
     {
       "generated": "2026-10-11T13:21:03.377849+00:00",
+      "score": 26.2,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-10-11T22:20:57.223940+00:00",
       "score": 26.2,
       "status": "WATCH"
     }
