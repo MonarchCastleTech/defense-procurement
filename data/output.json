@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-11T22:20:57.223940+00:00",
+    "generated": "2026-10-12T06:22:45.852906+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 26.2,
-    "raw_score": 26.2,
+    "score": 19.8,
+    "raw_score": 19.8,
     "concurrence_bonus": 0.0,
-    "status": "WATCH",
-    "headline": "Defense procurement acceleration pressure is watch at 26.2/100.",
+    "status": "BASELINE",
+    "headline": "Defense procurement acceleration pressure is baseline at 19.8/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -27,11 +27,25 @@
       "available": true,
       "retained": false,
       "coverage": 599,
-      "current_14d_weekly_equivalent": 36.0,
+      "current_14d_weekly_equivalent": 38.5,
       "baseline_weekly_median": 43.0,
-      "anomaly_z": -2.36,
+      "anomaly_z": -0.76,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "702779-2026",
+          "date": "2026-10-12",
+          "title": "Sweden – Military aircrafts, missiles and spacecrafts – Dynamiskt inköpssystem - Målspel",
+          "buyer": "FMV",
+          "country": "SWE",
+          "cpv": [
+            "35600000",
+            "34740000",
+            "35210000",
+            "35512400"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/702779-2026"
+        },
         {
           "id": "701292-2026",
           "date": "2026-10-12",
@@ -65,20 +79,6 @@
             "35631300"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/701805-2026"
-        },
-        {
-          "id": "702779-2026",
-          "date": "2026-10-12",
-          "title": "Sweden – Military aircrafts, missiles and spacecrafts – Dynamiskt inköpssystem - Målspel",
-          "buyer": "FMV",
-          "country": "SWE",
-          "cpv": [
-            "35600000",
-            "34740000",
-            "35210000",
-            "35512400"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/702779-2026"
         },
         {
           "id": "702120-2026",
@@ -232,10 +232,10 @@
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-07-11",
+      "latest_observation": "2026-07-12",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 61142062.88,
+      "current_14d_weekly_equivalent": 60120815.13,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -249,7 +249,7 @@
         },
         {
           "name": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 12656177.0
+          "amount": 13258669.0
         },
         {
           "name": "MEGGITT AIRCRAFT BRAKING SYSTEMS CORPORATION",
@@ -265,7 +265,7 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 5347652.44
+          "amount": 5336288.73
         },
         {
           "name": "PLATFORM SYSTEMS, INCORPORATED",
@@ -274,6 +274,87 @@
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
+        {
+          "date": "2026-07-12",
+          "award_id": "SPE7L126FAS6J",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 606.45,
+          "agency": "Defense Logistics Agency",
+          "description": "4572358140!FILTER ELEMENT,FLUI",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-07-12",
+          "award_id": "SPE7L126FAS5X",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 551.36,
+          "agency": "Defense Logistics Agency",
+          "description": "4572357806!PUMP,COOLING SYSTEM",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-07-12",
+          "award_id": "SPE4AX26F277P",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 183.87,
+          "agency": "Defense Logistics Agency",
+          "description": "8512234927!LEAF,BUTT HINGE",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-07-12",
+          "award_id": "SPE7L126FAS6G",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 146.94,
+          "agency": "Defense Logistics Agency",
+          "description": "4572358138!PARTS KIT,ENGINE WA",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-07-12",
+          "award_id": "SPE7L126FAS6H",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 23.15,
+          "agency": "Defense Logistics Agency",
+          "description": "4572358139!THERMOSTAT,FLOW CONTROL",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-07-12",
+          "award_id": "SPE7L126FAS5V",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 1.11,
+          "agency": "Defense Logistics Agency",
+          "description": "4572357766!O-RING",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-07-12",
+          "award_id": "SPE7L126FAS5W",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 1.11,
+          "agency": "Defense Logistics Agency",
+          "description": "4572357767!O-RING",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-07-12",
+          "award_id": "H9224125F0064",
+          "recipient": "RAYTHEON COMPANY",
+          "amount": 0.0,
+          "agency": "U.S. Special Operations Command",
+          "description": "NO-COST MODIFICATION TO EXTEND THE POP",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-12",
+          "award_id": "SPE4A726V1901",
+          "recipient": "ALEK INDUSTRIES INC",
+          "amount": -11372.34,
+          "agency": "Defense Logistics Agency",
+          "description": "8511864714!",
+          "naics": "336413"
+        },
         {
           "date": "2026-07-11",
           "award_id": "SPE7L126FAS5U",
@@ -354,101 +435,20 @@
           "agency": "Department of the Navy",
           "description": "THE PURPOSE OF THIS MODIFICATION IS TO UPDATE: 1. UPDATE SECTION A, UPDATE INCREMENTAL FUNDING INFORMATION 2. UPDATE SECTION B, UPDATE FUNDING INFORMATION 3. UPDATE SECTION G, OBLIGATE FUNDING AND 4. UPDATE SECTION I, ADD CLAUSE 52.222-90.",
           "naics": "336411"
-        },
-        {
-          "date": "2026-07-10",
-          "award_id": "N0001924F1018",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 5236245.0,
-          "agency": "Department of the Navy",
-          "description": "THE PURPOSE OF THIS MODIFICATION IS TO FUND OVERRUN ON CLIN 0502",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-10",
-          "award_id": "FA855320F0005",
-          "recipient": "ROLLS-ROYCE CORPORATION",
-          "amount": 940347.17,
-          "agency": "Department of the Air Force",
-          "description": "C-130 FMS MC FOR FRANCE/GERMANY",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-07-10",
-          "award_id": "N0017826P6782",
-          "recipient": "BLUE AEROSPACE LLC",
-          "amount": 300000.0,
-          "agency": "Department of the Navy",
-          "description": "PASS II KITS",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-10",
-          "award_id": "FA868225FB004",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 225615.0,
-          "agency": "Department of the Air Force",
-          "description": "REPAIRS OF AUR, MAJOR AND MINOR CONTAINER AND FIELD REPAIRS. IN ADDITION, THIS EFFORT INCLUDES GOVERNMENT FURNISHED MATERIAL (GFM) MANAGEMENT OF SPARES CONSISTING OF MANAGEMENT, CONTROL, FORECASTING REQUIREMENTS, PROCUREMENT AND REPAIR/DISPOSAL.",
-          "naics": "336419"
-        },
-        {
-          "date": "2026-07-10",
-          "award_id": "FA853226F0263",
-          "recipient": "HYDRAULICS INTERNATIONAL, INC.",
-          "amount": 168014.0,
-          "agency": "Department of the Air Force",
-          "description": "CONSOLIDATED HYDRAULIC TEST STANDS FPR SUPPORT EQUIPMENT AND VEHICLES",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-10",
-          "award_id": "N0001924F0009",
-          "recipient": "ROLLS-ROYCE CORPORATION",
-          "amount": 158902.0,
-          "agency": "Department of the Navy",
-          "description": "FRANCE E-2C ENGINE SUSTAINMENT",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-07-10",
-          "award_id": "FA811726F0196",
-          "recipient": "PARKER-HANNIFIN CORPORATION",
-          "amount": 139278.3,
-          "agency": "Department of the Air Force",
-          "description": "MANUFACTURING AND REMANUFACTURING OF VALVES, PUMPS, NOZZLES, INDICATORS, AND MANIFOLDS TO SUPPORT MULTIPLE AIRCRAFT PLATFORMS.",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-10",
-          "award_id": "SPRTA126F0305",
-          "recipient": "UNISON INDUSTRIES LLC",
-          "amount": 139005.0,
-          "agency": "Defense Logistics Agency",
-          "description": "STATOR, ENGINE GENER IN SUPPORT OF THE F108 ENGINE",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-10",
-          "award_id": "N0038325CD003",
-          "recipient": "GA TELESIS COMPONENT REPAIR GROUP SOUTHEAST, LLC",
-          "amount": 123760.0,
-          "agency": "Department of the Navy",
-          "description": "VALVE, PRESSURE REG",
-          "naics": "336413"
         }
       ]
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 50.5,
-      "status": "ELEVATED",
+      "score": 17.3,
+      "status": "BASELINE",
       "weight": 0.2,
       "available": true,
       "retained": false,
       "coverage": 88,
-      "current_14d_weekly_equivalent": 12.0,
-      "baseline_weekly_median": 1.0,
-      "anomaly_z": 7.42,
+      "current_14d_weekly_equivalent": 4.5,
+      "baseline_weekly_median": 6.5,
+      "anomaly_z": -0.21,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -595,7 +595,7 @@
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
-      "score": 27.0,
+      "score": 28.9,
       "status": "WATCH",
       "weight": 0.15,
       "available": true,
@@ -603,7 +603,7 @@
       "coverage": 14,
       "current_14d_weekly_equivalent": 2.5,
       "baseline_weekly_median": 0.0,
-      "anomaly_z": 1.3,
+      "anomaly_z": 1.52,
       "method": "Defense Acquisition Regulations System publication velocity; rules weighted 1.5.",
       "evidence": [
         {
@@ -677,11 +677,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-23T17:24:12.291990+00:00",
-      "score": 20.5,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-23T21:41:45.757850+00:00",
       "score": 20.5,
@@ -976,6 +971,11 @@
       "generated": "2026-10-11T22:20:57.223940+00:00",
       "score": 26.2,
       "status": "WATCH"
+    },
+    {
+      "generated": "2026-10-12T06:22:45.852906+00:00",
+      "score": 19.8,
+      "status": "BASELINE"
     }
   ],
   "sources": [
