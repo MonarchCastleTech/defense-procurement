@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-12T06:22:45.852906+00:00",
+    "generated": "2026-10-12T15:56:51.072476+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,26 +26,12 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 599,
+      "coverage": 600,
       "current_14d_weekly_equivalent": 38.5,
       "baseline_weekly_median": 43.0,
       "anomaly_z": -0.76,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
-        {
-          "id": "702779-2026",
-          "date": "2026-10-12",
-          "title": "Sweden – Military aircrafts, missiles and spacecrafts – Dynamiskt inköpssystem - Målspel",
-          "buyer": "FMV",
-          "country": "SWE",
-          "cpv": [
-            "35600000",
-            "34740000",
-            "35210000",
-            "35512400"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/702779-2026"
-        },
         {
           "id": "701292-2026",
           "date": "2026-10-12",
@@ -81,6 +67,20 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/701805-2026"
         },
         {
+          "id": "702779-2026",
+          "date": "2026-10-12",
+          "title": "Sweden – Military aircrafts, missiles and spacecrafts – Dynamiskt inköpssystem - Målspel",
+          "buyer": "FMV",
+          "country": "SWE",
+          "cpv": [
+            "35600000",
+            "34740000",
+            "35210000",
+            "35512400"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/702779-2026"
+        },
+        {
           "id": "702120-2026",
           "date": "2026-10-12",
           "title": "Estonia – Various chemical products – Rehvide ostmine ja rehvitööd 2026/2027",
@@ -95,6 +95,18 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/702120-2026"
         },
         {
+          "id": "701268-2026",
+          "date": "2026-10-12",
+          "title": "Netherlands – Aerial and related services – Raamovereenkomst services Amsterdam",
+          "buyer": "Ministerie van Defensie",
+          "country": "NLD",
+          "cpv": [
+            "60440000",
+            "35610000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/701268-2026"
+        },
+        {
           "id": "702655-2026",
           "date": "2026-10-12",
           "title": "Poland – Command and liaison vehicles – Samochód dowodzenia i łączności (kompanijne stanowisko dowodzenia) – 3 sztuki",
@@ -107,18 +119,6 @@
             "34144200"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/702655-2026"
-        },
-        {
-          "id": "701268-2026",
-          "date": "2026-10-12",
-          "title": "Netherlands – Aerial and related services – Raamovereenkomst services Amsterdam",
-          "buyer": "Ministerie van Defensie",
-          "country": "NLD",
-          "cpv": [
-            "60440000",
-            "35610000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/701268-2026"
         },
         {
           "id": "701177-2026",
@@ -235,7 +235,7 @@
       "latest_observation": "2026-07-12",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 60120815.13,
+      "current_14d_weekly_equivalent": 60141564.98,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -265,7 +265,7 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 5336288.73
+          "amount": 5472684.93
         },
         {
           "name": "PLATFORM SYSTEMS, INCORPORATED",
@@ -445,7 +445,7 @@
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 88,
+      "coverage": 83,
       "current_14d_weekly_equivalent": 4.5,
       "baseline_weekly_median": 6.5,
       "anomaly_z": -0.21,
@@ -459,7 +459,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-09-29",
@@ -469,7 +469,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 12
+          "age": 13
         },
         {
           "date": "2026-09-29",
@@ -479,7 +479,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 12
+          "age": 13
         },
         {
           "date": "2026-09-28",
@@ -489,7 +489,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 13
+          "age": 14
         },
         {
           "date": "2026-09-28",
@@ -499,7 +499,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 13
+          "age": 14
         },
         {
           "date": "2026-09-28",
@@ -509,7 +509,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 13
+          "age": 14
         },
         {
           "date": "2026-09-28",
@@ -519,7 +519,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 13
+          "age": 14
         },
         {
           "date": "2026-09-28",
@@ -529,7 +529,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 13
+          "age": 14
         },
         {
           "date": "2026-09-28",
@@ -539,7 +539,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 13
+          "age": 14
         },
         {
           "date": "2026-09-18",
@@ -549,7 +549,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 23
+          "age": 24
         },
         {
           "date": "2026-09-15",
@@ -569,7 +569,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 26
+          "age": 27
         },
         {
           "date": "2026-09-15",
@@ -589,7 +589,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 26
+          "age": 27
         }
       ]
     },
@@ -677,11 +677,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-23T21:41:45.757850+00:00",
-      "score": 20.5,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-24T05:13:44.747283+00:00",
       "score": 20.5,
@@ -974,6 +969,11 @@
     },
     {
       "generated": "2026-10-12T06:22:45.852906+00:00",
+      "score": 19.8,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-12T15:56:51.072476+00:00",
       "score": 19.8,
       "status": "BASELINE"
     }
