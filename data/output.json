@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-13T14:30:10.294875+00:00",
+    "generated": "2026-10-13T23:01:53.268544+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,22 +26,71 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 596,
+      "coverage": 601,
       "current_14d_weekly_equivalent": 38.0,
       "baseline_weekly_median": 42.0,
       "anomaly_z": -0.77,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
-          "id": "707087-2026",
-          "date": "2026-10-13",
-          "title": "Germany – Military vehicles and associated parts – Kaufbedarf EU Kamerasysteme für den SPz Puma",
-          "buyer": "HIL Heeresinstandsetzungslogistik GmbH",
+          "id": "709150-2026",
+          "date": "2026-10-14",
+          "title": "Lithuania – Firearms – 5,56 mm automatinio šautuvo sistema Hk 416",
+          "buyer": "GYNYBOS RESURSŲ AGENTŪRA PRIE KAM",
+          "country": "LTU",
+          "cpv": [
+            "35320000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/709150-2026"
+        },
+        {
+          "id": "710524-2026",
+          "date": "2026-10-14",
+          "title": "Hungary – Command, control, communication and computer systems – HM Válságreagáló Rendszer (HM VRR)",
+          "buyer": "Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság",
+          "country": "HUN",
+          "cpv": [
+            "35710000",
+            "71300000",
+            "48000000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/710524-2026"
+        },
+        {
+          "id": "707446-2026",
+          "date": "2026-10-14",
+          "title": "Germany – Parts of military vehicles – 6003090082-BAAINBw E2.5F Achsantrieb, Fahrzeug, WS Leopard 2",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
           "country": "DEU",
           "cpv": [
-            "35400000"
+            "35420000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/707087-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/707446-2026"
+        },
+        {
+          "id": "708262-2026",
+          "date": "2026-10-14",
+          "title": "Romania – Battle simulators – Achizitie simulator de scenarii reale",
+          "buyer": "Scoala de Pregatire a Agentilor Politiei de Frontiera \"Avram Iancu\" Oradea",
+          "country": "ROU",
+          "cpv": [
+            "35740000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/708262-2026"
+        },
+        {
+          "id": "711151-2026",
+          "date": "2026-10-14",
+          "title": "Romania – Motor vehicles – Achiziție de mijloace de mobilitate terestră",
+          "buyer": "Unitatea Militara 0251 Bucuresti",
+          "country": "ROU",
+          "cpv": [
+            "34100000",
+            "35412000",
+            "34115200",
+            "34114400"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/711151-2026"
         },
         {
           "id": "706010-2026",
@@ -54,6 +103,42 @@
             "35200000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/706010-2026"
+        },
+        {
+          "id": "707087-2026",
+          "date": "2026-10-13",
+          "title": "Germany – Military vehicles and associated parts – Kaufbedarf EU Kamerasysteme für den SPz Puma",
+          "buyer": "HIL Heeresinstandsetzungslogistik GmbH",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/707087-2026"
+        },
+        {
+          "id": "704346-2026",
+          "date": "2026-10-13",
+          "title": "Finland – Command, control, communication and computer systems – TIETOPYYNTÖ; Viestiasema- ja komentopaikkamateriaali",
+          "buyer": "Puolustusvoimien logistiikkalaitos",
+          "country": "FIN",
+          "cpv": [
+            "35710000",
+            "35711000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/704346-2026"
+        },
+        {
+          "id": "705309-2026",
+          "date": "2026-10-13",
+          "title": "Poland – Military vehicles and associated parts – Dostawa zestawów obsługowych do KTO Rosomak",
+          "buyer": "1 REGIONALNA BAZA LOGISTYCZNA",
+          "country": "POL",
+          "cpv": [
+            "35400000",
+            "35421000",
+            "35421100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/705309-2026"
         },
         {
           "id": "706519-2026",
@@ -81,31 +166,6 @@
             "32260000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/705605-2026"
-        },
-        {
-          "id": "704346-2026",
-          "date": "2026-10-13",
-          "title": "Finland – Command, control, communication and computer systems – TIETOPYYNTÖ; Viestiasema- ja komentopaikkamateriaali",
-          "buyer": "Puolustusvoimien logistiikkalaitos",
-          "country": "FIN",
-          "cpv": [
-            "35710000",
-            "35711000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/704346-2026"
-        },
-        {
-          "id": "705309-2026",
-          "date": "2026-10-13",
-          "title": "Poland – Military vehicles and associated parts – Dostawa zestawów obsługowych do KTO Rosomak",
-          "buyer": "1 REGIONALNA BAZA LOGISTYCZNA",
-          "country": "POL",
-          "cpv": [
-            "35400000",
-            "35421000",
-            "35421100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/705309-2026"
         },
         {
           "id": "704185-2026",
@@ -147,40 +207,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/707084-2026"
         },
         {
-          "id": "701292-2026",
-          "date": "2026-10-12",
-          "title": "Sweden – Radio transmission apparatus with reception apparatus – HF2000 HP HF Transmitter",
-          "buyer": "FMV",
-          "country": "SWE",
-          "cpv": [
-            "32230000",
-            "35712000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/701292-2026"
-        },
-        {
-          "id": "701766-2026",
-          "date": "2026-10-12",
-          "title": "Latvia – Weapons, ammunition and associated parts – Granātmetēju munīcijas un rokas granātu iegāde uz 3 gadiem",
-          "buyer": "Nodrošinājuma valsts aģentūra",
-          "country": "LVA",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/701766-2026"
-        },
-        {
-          "id": "701805-2026",
-          "date": "2026-10-12",
-          "title": "Czechia – Navigation satellites – Procurement of Galileo satellites batch 3.",
-          "buyer": "European Union Agency for the Space Programme",
-          "country": "CZE",
-          "cpv": [
-            "35631300"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/701805-2026"
-        },
-        {
           "id": "702779-2026",
           "date": "2026-10-12",
           "title": "Sweden – Military aircrafts, missiles and spacecrafts – Dynamiskt inköpssystem - Målspel",
@@ -195,44 +221,16 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/702779-2026"
         },
         {
-          "id": "702120-2026",
+          "id": "701292-2026",
           "date": "2026-10-12",
-          "title": "Estonia – Various chemical products – Rehvide ostmine ja rehvitööd 2026/2027",
-          "buyer": "Riigi Kaitseinvesteeringute Keskus",
-          "country": "EST",
+          "title": "Sweden – Radio transmission apparatus with reception apparatus – HF2000 HP HF Transmitter",
+          "buyer": "FMV",
+          "country": "SWE",
           "cpv": [
-            "24960000",
-            "34352000",
-            "22450000",
-            "35420000"
+            "32230000",
+            "35712000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/702120-2026"
-        },
-        {
-          "id": "701268-2026",
-          "date": "2026-10-12",
-          "title": "Netherlands – Aerial and related services – Raamovereenkomst services Amsterdam",
-          "buyer": "Ministerie van Defensie",
-          "country": "NLD",
-          "cpv": [
-            "60440000",
-            "35610000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/701268-2026"
-        },
-        {
-          "id": "702655-2026",
-          "date": "2026-10-12",
-          "title": "Poland – Command and liaison vehicles – Samochód dowodzenia i łączności (kompanijne stanowisko dowodzenia) – 3 sztuki",
-          "buyer": "Komenda Wojewódzka Państwowej Straży Pożarnej w Poznaniu",
-          "country": "POL",
-          "cpv": [
-            "35412500",
-            "35110000",
-            "34144210",
-            "34144200"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/702655-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/701292-2026"
         }
       ]
     },
@@ -247,13 +245,13 @@
       "latest_observation": "2026-07-13",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 86314663.54,
+      "current_14d_weekly_equivalent": 86501277.93,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
           "name": "THE BOEING COMPANY",
-          "amount": 79945282.83
+          "amount": 79851092.03
         },
         {
           "name": "ROLLS-ROYCE CORPORATION",
@@ -273,15 +271,15 @@
         },
         {
           "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 1854849.66
+          "amount": 2213277.02
         },
         {
           "name": "BONEAL, INCORPORATED",
           "amount": 1592409.0
         },
         {
-          "name": "BELL TEXTRON INC",
-          "amount": 1298423.46
+          "name": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 1272608.04
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -571,7 +569,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 27
+          "age": 28
         },
         {
           "date": "2026-09-15",
@@ -591,7 +589,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 27
+          "age": 28
         },
         {
           "date": "2026-09-15",
@@ -689,11 +687,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-24T17:29:06.751907+00:00",
-      "score": 22.6,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-24T21:43:20.223512+00:00",
       "score": 20.9,
@@ -986,6 +979,11 @@
     },
     {
       "generated": "2026-10-13T14:30:10.294875+00:00",
+      "score": 17.6,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-13T23:01:53.268544+00:00",
       "score": 17.6,
       "status": "BASELINE"
     }
