@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-12T15:56:51.072476+00:00",
+    "generated": "2026-10-13T00:55:16.382116+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 19.8,
-    "raw_score": 19.8,
+    "score": 17.5,
+    "raw_score": 17.5,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 19.8/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 17.5/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -26,12 +26,126 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 600,
-      "current_14d_weekly_equivalent": 38.5,
-      "baseline_weekly_median": 43.0,
-      "anomaly_z": -0.76,
+      "coverage": 596,
+      "current_14d_weekly_equivalent": 38.0,
+      "baseline_weekly_median": 42.0,
+      "anomaly_z": -0.77,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "706010-2026",
+          "date": "2026-10-13",
+          "title": "France – Weapons, ammunition and associated parts – 2026AVN0053 - Acquisition de caméras piétons et de pistolets à impulsion électrique (PIE) pour les besoins de la Police Municipale de la Ville d'Avignon",
+          "buyer": "Ville d'Avignon",
+          "country": "FRA",
+          "cpv": [
+            "35300000",
+            "35200000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/706010-2026"
+        },
+        {
+          "id": "707087-2026",
+          "date": "2026-10-13",
+          "title": "Germany – Military vehicles and associated parts – Kaufbedarf EU Kamerasysteme für den SPz Puma",
+          "buyer": "HIL Heeresinstandsetzungslogistik GmbH",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/707087-2026"
+        },
+        {
+          "id": "704346-2026",
+          "date": "2026-10-13",
+          "title": "Finland – Command, control, communication and computer systems – TIETOPYYNTÖ; Viestiasema- ja komentopaikkamateriaali",
+          "buyer": "Puolustusvoimien logistiikkalaitos",
+          "country": "FIN",
+          "cpv": [
+            "35710000",
+            "35711000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/704346-2026"
+        },
+        {
+          "id": "705309-2026",
+          "date": "2026-10-13",
+          "title": "Poland – Military vehicles and associated parts – Dostawa zestawów obsługowych do KTO Rosomak",
+          "buyer": "1 REGIONALNA BAZA LOGISTYCZNA",
+          "country": "POL",
+          "cpv": [
+            "35400000",
+            "35421000",
+            "35421100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/705309-2026"
+        },
+        {
+          "id": "706519-2026",
+          "date": "2026-10-13",
+          "title": "Sweden – Command, control, communication and computer systems – Systemstöd för färdtjänsthandläggning",
+          "buyer": "Umeå kommun",
+          "country": "SWE",
+          "cpv": [
+            "35710000",
+            "48219300",
+            "48900000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/706519-2026"
+        },
+        {
+          "id": "705605-2026",
+          "date": "2026-10-13",
+          "title": "Netherlands – Military electronic systems – Market Consultation NLD MoD Assured Positioning, Navigation, and Timing",
+          "buyer": "Ministerie van Defensie",
+          "country": "NLD",
+          "cpv": [
+            "35700000",
+            "31710000",
+            "32221000",
+            "32260000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/705605-2026"
+        },
+        {
+          "id": "704185-2026",
+          "date": "2026-10-13",
+          "title": "France – Military vehicles and associated parts – Extension de qualification de l’EFA à la classe de franchissement MLC 80C",
+          "buyer": "Direction Générale de l'Armement / DOMN / Service des Achats d'Armement",
+          "country": "FRA",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/704185-2026"
+        },
+        {
+          "id": "706579-2026",
+          "date": "2026-10-13",
+          "title": "Germany – Weapons, ammunition and associated parts – Kampfmesser inkl. Ersatzteile, Rahmenvereinbarung",
+          "buyer": "Bw Bekleidungsmanagement GmbH",
+          "country": "DEU",
+          "cpv": [
+            "35300000",
+            "35311000",
+            "35311200",
+            "35311300"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/706579-2026"
+        },
+        {
+          "id": "707084-2026",
+          "date": "2026-10-13",
+          "title": "Norway – Data services – GIS Framework Agreement",
+          "buyer": "Miljødirektoratet",
+          "country": "NOR",
+          "cpv": [
+            "72300000",
+            "35631200",
+            "71000000",
+            "72000000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/707084-2026"
+        },
         {
           "id": "701292-2026",
           "date": "2026-10-12",
@@ -119,123 +233,21 @@
             "34144200"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/702655-2026"
-        },
-        {
-          "id": "701177-2026",
-          "date": "2026-10-12",
-          "title": "Slovakia – Simulators – Akvizícia JTAC / Multi-Role Simulation System",
-          "buyer": "Ministerstvo obrany Slovenskej republiky",
-          "country": "SVK",
-          "cpv": [
-            "34150000",
-            "35740000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/701177-2026"
-        },
-        {
-          "id": "702041-2026",
-          "date": "2026-10-12",
-          "title": "Czechia – Weapons, ammunition and associated parts – Výzva č. 26221000090",
-          "buyer": "Ministerstvo obrany",
-          "country": "CZE",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/702041-2026"
-        },
-        {
-          "id": "702786-2026",
-          "date": "2026-10-12",
-          "title": "Czechia – Weapons, ammunition and associated parts – Výzva č. 24221000000254",
-          "buyer": "Ministerstvo obrany",
-          "country": "CZE",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/702786-2026"
-        },
-        {
-          "id": "699081-2026",
-          "date": "2026-10-09",
-          "title": "Finland – Military electronic systems – KAKSIPUOLISEN TAISTELUN SIMULOINTIJÄRJESTELMÄN (KASI) JA ONO JA LOST TÄYDENNYSHANKINTA",
-          "buyer": "Puolustusvoimat",
-          "country": "FIN",
-          "cpv": [
-            "35700000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/699081-2026"
-        },
-        {
-          "id": "697871-2026",
-          "date": "2026-10-09",
-          "title": "Germany – Firefighting vehicles – Ortsfeuerwehren Linden, Fümmelse, Leinde, Wendessen und Groß Stöckheim - Beschaffung von fünf MTW",
-          "buyer": "Stadt Wolfenbüttel",
-          "country": "DEU",
-          "cpv": [
-            "34144210",
-            "35412200"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/697871-2026"
-        },
-        {
-          "id": "696668-2026",
-          "date": "2026-10-09",
-          "title": "France – Weapons, ammunition and associated parts – Acquisition de munitions pour pistolets à impulsion électrique de type Taser X2",
-          "buyer": "Ville Liévin",
-          "country": "FRA",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/696668-2026"
-        },
-        {
-          "id": "698985-2026",
-          "date": "2026-10-09",
-          "title": "Portugal – Ammunition – Aquisição de Munições para a Polícia de Segurança Pública (2027)",
-          "buyer": "Polícia de Segurança Pública",
-          "country": "PRT",
-          "cpv": [
-            "35330000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/698985-2026"
-        },
-        {
-          "id": "699594-2026",
-          "date": "2026-10-09",
-          "title": "Slovenia – Ammunition – Nakup raket zrak-zemlja 2,75''",
-          "buyer": "MINISTRSTVO ZA OBRAMBO",
-          "country": "SVN",
-          "cpv": [
-            "35330000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/699594-2026"
-        },
-        {
-          "id": "695506-2026",
-          "date": "2026-10-08",
-          "title": "Belgium – Belts – meerjarige raamovereenkomst van leveringen voor de aankoop van gordels en toebehoren & holsters ten voordele van de geïntegreerde politie gestructureerd op 2 niveaus",
-          "buyer": "Police Fédérale",
-          "country": "BEL",
-          "cpv": [
-            "18425000",
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/695506-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 4.2,
+      "score": 4.0,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-07-12",
-      "reporting_lag_days": 92,
-      "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 60141564.98,
+      "reporting_lag_days": 93,
+      "freshness_factor": 0.22,
+      "current_14d_weekly_equivalent": 60121540.2,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -265,7 +277,7 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 5472684.93
+          "amount": 5351421.95
         },
         {
           "name": "PLATFORM SYSTEMS, INCORPORATED",
@@ -375,20 +387,20 @@
         },
         {
           "date": "2026-07-11",
-          "award_id": "SPE4A723PC909",
-          "recipient": "AEROMETALS, INC.",
-          "amount": 0.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8510025378!GOVERNMENT FIRST ARTICLE TEST",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-11",
           "award_id": "SPE4A524P2098",
           "recipient": "AEROMETALS, INC.",
           "amount": 0.0,
           "agency": "Defense Logistics Agency",
           "description": "8510299570!GOVERNMENT FIRST ARTICLE TEST",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-11",
+          "award_id": "SPE4A723PC909",
+          "recipient": "AEROMETALS, INC.",
+          "amount": 0.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8510025378!GOVERNMENT FIRST ARTICLE TEST",
           "naics": "336413"
         },
         {
@@ -440,15 +452,15 @@
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 17.3,
+      "score": 5.8,
       "status": "BASELINE",
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 83,
-      "current_14d_weekly_equivalent": 4.5,
-      "baseline_weekly_median": 6.5,
-      "anomaly_z": -0.21,
+      "coverage": 69,
+      "current_14d_weekly_equivalent": 1.5,
+      "baseline_weekly_median": 2.5,
+      "anomaly_z": -0.27,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -559,7 +571,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 26
+          "age": 27
         },
         {
           "date": "2026-09-15",
@@ -579,7 +591,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 26
+          "age": 27
         },
         {
           "date": "2026-09-15",
@@ -677,11 +689,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-24T05:13:44.747283+00:00",
-      "score": 20.5,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-24T12:06:15.508477+00:00",
       "score": 20.5,
@@ -975,6 +982,11 @@
     {
       "generated": "2026-10-12T15:56:51.072476+00:00",
       "score": 19.8,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-13T00:55:16.382116+00:00",
+      "score": 17.5,
       "status": "BASELINE"
     }
   ],
