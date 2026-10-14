@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-14T17:33:29.993570+00:00",
+    "generated": "2026-10-14T21:53:28.576816+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 17.6,
-    "raw_score": 17.6,
+    "score": 17.7,
+    "raw_score": 17.7,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 17.6/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 17.7/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -33,17 +33,6 @@
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
-          "id": "709150-2026",
-          "date": "2026-10-14",
-          "title": "Lithuania – Firearms – 5,56 mm automatinio šautuvo sistema Hk 416",
-          "buyer": "GYNYBOS RESURSŲ AGENTŪRA PRIE KAM",
-          "country": "LTU",
-          "cpv": [
-            "35320000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/709150-2026"
-        },
-        {
           "id": "710524-2026",
           "date": "2026-10-14",
           "title": "Hungary – Command, control, communication and computer systems – HM Válságreagáló Rendszer (HM VRR)",
@@ -55,6 +44,17 @@
             "48000000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/710524-2026"
+        },
+        {
+          "id": "709150-2026",
+          "date": "2026-10-14",
+          "title": "Lithuania – Firearms – 5,56 mm automatinio šautuvo sistema Hk 416",
+          "buyer": "GYNYBOS RESURSŲ AGENTŪRA PRIE KAM",
+          "country": "LTU",
+          "cpv": [
+            "35320000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/709150-2026"
         },
         {
           "id": "711151-2026",
@@ -71,17 +71,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/711151-2026"
         },
         {
-          "id": "708262-2026",
-          "date": "2026-10-14",
-          "title": "Romania – Battle simulators – Achizitie simulator de scenarii reale",
-          "buyer": "Scoala de Pregatire a Agentilor Politiei de Frontiera \"Avram Iancu\" Oradea",
-          "country": "ROU",
-          "cpv": [
-            "35740000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/708262-2026"
-        },
-        {
           "id": "707446-2026",
           "date": "2026-10-14",
           "title": "Germany – Parts of military vehicles – 6003090082-BAAINBw E2.5F Achsantrieb, Fahrzeug, WS Leopard 2",
@@ -91,6 +80,17 @@
             "35420000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/707446-2026"
+        },
+        {
+          "id": "708262-2026",
+          "date": "2026-10-14",
+          "title": "Romania – Battle simulators – Achizitie simulator de scenarii reale",
+          "buyer": "Scoala de Pregatire a Agentilor Politiei de Frontiera \"Avram Iancu\" Oradea",
+          "country": "ROU",
+          "cpv": [
+            "35740000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/708262-2026"
         },
         {
           "id": "707087-2026",
@@ -114,31 +114,6 @@
             "35200000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/706010-2026"
-        },
-        {
-          "id": "704346-2026",
-          "date": "2026-10-13",
-          "title": "Finland – Command, control, communication and computer systems – TIETOPYYNTÖ; Viestiasema- ja komentopaikkamateriaali",
-          "buyer": "Puolustusvoimien logistiikkalaitos",
-          "country": "FIN",
-          "cpv": [
-            "35710000",
-            "35711000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/704346-2026"
-        },
-        {
-          "id": "705309-2026",
-          "date": "2026-10-13",
-          "title": "Poland – Military vehicles and associated parts – Dostawa zestawów obsługowych do KTO Rosomak",
-          "buyer": "1 REGIONALNA BAZA LOGISTYCZNA",
-          "country": "POL",
-          "cpv": [
-            "35400000",
-            "35421000",
-            "35421100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/705309-2026"
         },
         {
           "id": "706519-2026",
@@ -166,6 +141,42 @@
             "32260000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/705605-2026"
+        },
+        {
+          "id": "704346-2026",
+          "date": "2026-10-13",
+          "title": "Finland – Command, control, communication and computer systems – TIETOPYYNTÖ; Viestiasema- ja komentopaikkamateriaali",
+          "buyer": "Puolustusvoimien logistiikkalaitos",
+          "country": "FIN",
+          "cpv": [
+            "35710000",
+            "35711000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/704346-2026"
+        },
+        {
+          "id": "705309-2026",
+          "date": "2026-10-13",
+          "title": "Poland – Military vehicles and associated parts – Dostawa zestawów obsługowych do KTO Rosomak",
+          "buyer": "1 REGIONALNA BAZA LOGISTYCZNA",
+          "country": "POL",
+          "cpv": [
+            "35400000",
+            "35421000",
+            "35421100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/705309-2026"
+        },
+        {
+          "id": "704185-2026",
+          "date": "2026-10-13",
+          "title": "France – Military vehicles and associated parts – Extension de qualification de l’EFA à la classe de franchissement MLC 80C",
+          "buyer": "Direction Générale de l'Armement / DOMN / Service des Achats d'Armement",
+          "country": "FRA",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/704185-2026"
         },
         {
           "id": "706579-2026",
@@ -196,17 +207,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/707084-2026"
         },
         {
-          "id": "704185-2026",
-          "date": "2026-10-13",
-          "title": "France – Military vehicles and associated parts – Extension de qualification de l’EFA à la classe de franchissement MLC 80C",
-          "buyer": "Direction Générale de l'Armement / DOMN / Service des Achats d'Armement",
-          "country": "FRA",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/704185-2026"
-        },
-        {
           "id": "701292-2026",
           "date": "2026-10-12",
           "title": "Sweden – Radio transmission apparatus with reception apparatus – HF2000 HP HF Transmitter",
@@ -233,7 +233,7 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 4.6,
+      "score": 4.7,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -242,7 +242,7 @@
       "latest_observation": "2026-07-14",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 94430755.43,
+      "current_14d_weekly_equivalent": 95716844.71,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -252,15 +252,15 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 43747477.07
-        },
-        {
-          "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 21594957.85
+          "amount": 43719579.97
         },
         {
           "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 18348153.4
+          "amount": 23209411.4
+        },
+        {
+          "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 19392325.35
         },
         {
           "name": "SIERRA NEVADA COMPANY, LLC",
@@ -337,6 +337,15 @@
         },
         {
           "date": "2026-07-14",
+          "award_id": "SPRPA126FF50C",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 4861258.0,
+          "agency": "Defense Logistics Agency",
+          "description": "ACOUSTIC PROCESSOR",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-14",
           "award_id": "N0001923F0458",
           "recipient": "THE BOEING COMPANY",
           "amount": 4830809.0,
@@ -396,15 +405,6 @@
           "amount": 2236447.2,
           "agency": "Defense Logistics Agency",
           "description": "8512238658!FILTER-COUPLER,AIRC",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-14",
-          "award_id": "N0038326FS50T",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 2227018.5,
-          "agency": "Department of the Navy",
-          "description": "STINGER,AIRCRAFT,MA",
           "naics": "336413"
         },
         {
@@ -684,11 +684,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-25T17:28:37.714704+00:00",
-      "score": 21.7,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-25T21:45:48.590072+00:00",
       "score": 21.7,
@@ -982,6 +977,11 @@
     {
       "generated": "2026-10-14T17:33:29.993570+00:00",
       "score": 17.6,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-14T21:53:28.576816+00:00",
+      "score": 17.7,
       "status": "BASELINE"
     }
   ],
