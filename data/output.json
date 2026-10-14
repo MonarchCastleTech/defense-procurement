@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-14T12:16:14.729208+00:00",
+    "generated": "2026-10-14T17:33:29.993570+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -57,28 +57,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/710524-2026"
         },
         {
-          "id": "707446-2026",
-          "date": "2026-10-14",
-          "title": "Germany – Parts of military vehicles – 6003090082-BAAINBw E2.5F Achsantrieb, Fahrzeug, WS Leopard 2",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/707446-2026"
-        },
-        {
-          "id": "708262-2026",
-          "date": "2026-10-14",
-          "title": "Romania – Battle simulators – Achizitie simulator de scenarii reale",
-          "buyer": "Scoala de Pregatire a Agentilor Politiei de Frontiera \"Avram Iancu\" Oradea",
-          "country": "ROU",
-          "cpv": [
-            "35740000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/708262-2026"
-        },
-        {
           "id": "711151-2026",
           "date": "2026-10-14",
           "title": "Romania – Motor vehicles – Achiziție de mijloace de mobilitate terestră",
@@ -93,16 +71,26 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/711151-2026"
         },
         {
-          "id": "706010-2026",
-          "date": "2026-10-13",
-          "title": "France – Weapons, ammunition and associated parts – 2026AVN0053 - Acquisition de caméras piétons et de pistolets à impulsion électrique (PIE) pour les besoins de la Police Municipale de la Ville d'Avignon",
-          "buyer": "Ville d'Avignon",
-          "country": "FRA",
+          "id": "708262-2026",
+          "date": "2026-10-14",
+          "title": "Romania – Battle simulators – Achizitie simulator de scenarii reale",
+          "buyer": "Scoala de Pregatire a Agentilor Politiei de Frontiera \"Avram Iancu\" Oradea",
+          "country": "ROU",
           "cpv": [
-            "35300000",
-            "35200000"
+            "35740000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/706010-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/708262-2026"
+        },
+        {
+          "id": "707446-2026",
+          "date": "2026-10-14",
+          "title": "Germany – Parts of military vehicles – 6003090082-BAAINBw E2.5F Achsantrieb, Fahrzeug, WS Leopard 2",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/707446-2026"
         },
         {
           "id": "707087-2026",
@@ -114,6 +102,18 @@
             "35400000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/707087-2026"
+        },
+        {
+          "id": "706010-2026",
+          "date": "2026-10-13",
+          "title": "France – Weapons, ammunition and associated parts – 2026AVN0053 - Acquisition de caméras piétons et de pistolets à impulsion électrique (PIE) pour les besoins de la Police Municipale de la Ville d'Avignon",
+          "buyer": "Ville d'Avignon",
+          "country": "FRA",
+          "cpv": [
+            "35300000",
+            "35200000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/706010-2026"
         },
         {
           "id": "704346-2026",
@@ -168,17 +168,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/705605-2026"
         },
         {
-          "id": "704185-2026",
-          "date": "2026-10-13",
-          "title": "France – Military vehicles and associated parts – Extension de qualification de l’EFA à la classe de franchissement MLC 80C",
-          "buyer": "Direction Générale de l'Armement / DOMN / Service des Achats d'Armement",
-          "country": "FRA",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/704185-2026"
-        },
-        {
           "id": "706579-2026",
           "date": "2026-10-13",
           "title": "Germany – Weapons, ammunition and associated parts – Kampfmesser inkl. Ersatzteile, Rahmenvereinbarung",
@@ -207,18 +196,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/707084-2026"
         },
         {
-          "id": "702779-2026",
-          "date": "2026-10-12",
-          "title": "Sweden – Military aircrafts, missiles and spacecrafts – Dynamiskt inköpssystem - Målspel",
-          "buyer": "FMV",
-          "country": "SWE",
+          "id": "704185-2026",
+          "date": "2026-10-13",
+          "title": "France – Military vehicles and associated parts – Extension de qualification de l’EFA à la classe de franchissement MLC 80C",
+          "buyer": "Direction Générale de l'Armement / DOMN / Service des Achats d'Armement",
+          "country": "FRA",
           "cpv": [
-            "35600000",
-            "34740000",
-            "35210000",
-            "35512400"
+            "35400000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/702779-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/704185-2026"
         },
         {
           "id": "701292-2026",
@@ -231,6 +217,17 @@
             "35712000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/701292-2026"
+        },
+        {
+          "id": "701766-2026",
+          "date": "2026-10-12",
+          "title": "Latvia – Weapons, ammunition and associated parts – Granātmetēju munīcijas un rokas granātu iegāde uz 3 gadiem",
+          "buyer": "Nodrošinājuma valsts aģentūra",
+          "country": "LVA",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/701766-2026"
         }
       ]
     },
@@ -455,7 +452,7 @@
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 67,
+      "coverage": 65,
       "current_14d_weekly_equivalent": 1.5,
       "baseline_weekly_median": 2.5,
       "anomaly_z": -0.27,
@@ -469,7 +466,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 12
+          "age": 13
         },
         {
           "date": "2026-09-29",
@@ -489,7 +486,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 14
+          "age": 15
         },
         {
           "date": "2026-09-28",
@@ -499,7 +496,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 15
+          "age": 16
         },
         {
           "date": "2026-09-28",
@@ -509,7 +506,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 15
+          "age": 16
         },
         {
           "date": "2026-09-28",
@@ -519,7 +516,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 15
+          "age": 16
         },
         {
           "date": "2026-09-28",
@@ -529,7 +526,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 15
+          "age": 16
         },
         {
           "date": "2026-09-28",
@@ -539,7 +536,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 15
+          "age": 16
         },
         {
           "date": "2026-09-28",
@@ -549,7 +546,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 15
+          "age": 16
         },
         {
           "date": "2026-09-18",
@@ -559,7 +556,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 25
+          "age": 26
         },
         {
           "date": "2026-09-15",
@@ -569,7 +566,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 28
+          "age": 29
         },
         {
           "date": "2026-09-15",
@@ -589,7 +586,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 28
+          "age": 29
         },
         {
           "date": "2026-09-15",
@@ -687,11 +684,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-25T12:06:35.232472+00:00",
-      "score": 22.2,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-25T17:28:37.714704+00:00",
       "score": 21.7,
@@ -984,6 +976,11 @@
     },
     {
       "generated": "2026-10-14T12:16:14.729208+00:00",
+      "score": 17.6,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-14T17:33:29.993570+00:00",
       "score": 17.6,
       "status": "BASELINE"
     }
