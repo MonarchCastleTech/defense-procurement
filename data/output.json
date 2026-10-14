@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-13T23:01:53.268544+00:00",
+    "generated": "2026-10-14T05:15:53.792788+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,23 +26,12 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 601,
-      "current_14d_weekly_equivalent": 38.0,
-      "baseline_weekly_median": 42.0,
-      "anomaly_z": -0.77,
+      "coverage": 586,
+      "current_14d_weekly_equivalent": 33.5,
+      "baseline_weekly_median": 43.5,
+      "anomaly_z": -1.5,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
-        {
-          "id": "709150-2026",
-          "date": "2026-10-14",
-          "title": "Lithuania – Firearms – 5,56 mm automatinio šautuvo sistema Hk 416",
-          "buyer": "GYNYBOS RESURSŲ AGENTŪRA PRIE KAM",
-          "country": "LTU",
-          "cpv": [
-            "35320000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/709150-2026"
-        },
         {
           "id": "710524-2026",
           "date": "2026-10-14",
@@ -55,6 +44,17 @@
             "48000000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/710524-2026"
+        },
+        {
+          "id": "709150-2026",
+          "date": "2026-10-14",
+          "title": "Lithuania – Firearms – 5,56 mm automatinio šautuvo sistema Hk 416",
+          "buyer": "GYNYBOS RESURSŲ AGENTŪRA PRIE KAM",
+          "country": "LTU",
+          "cpv": [
+            "35320000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/709150-2026"
         },
         {
           "id": "707446-2026",
@@ -93,18 +93,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/711151-2026"
         },
         {
-          "id": "706010-2026",
-          "date": "2026-10-13",
-          "title": "France – Weapons, ammunition and associated parts – 2026AVN0053 - Acquisition de caméras piétons et de pistolets à impulsion électrique (PIE) pour les besoins de la Police Municipale de la Ville d'Avignon",
-          "buyer": "Ville d'Avignon",
-          "country": "FRA",
-          "cpv": [
-            "35300000",
-            "35200000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/706010-2026"
-        },
-        {
           "id": "707087-2026",
           "date": "2026-10-13",
           "title": "Germany – Military vehicles and associated parts – Kaufbedarf EU Kamerasysteme für den SPz Puma",
@@ -116,29 +104,16 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/707087-2026"
         },
         {
-          "id": "704346-2026",
+          "id": "706010-2026",
           "date": "2026-10-13",
-          "title": "Finland – Command, control, communication and computer systems – TIETOPYYNTÖ; Viestiasema- ja komentopaikkamateriaali",
-          "buyer": "Puolustusvoimien logistiikkalaitos",
-          "country": "FIN",
+          "title": "France – Weapons, ammunition and associated parts – 2026AVN0053 - Acquisition de caméras piétons et de pistolets à impulsion électrique (PIE) pour les besoins de la Police Municipale de la Ville d'Avignon",
+          "buyer": "Ville d'Avignon",
+          "country": "FRA",
           "cpv": [
-            "35710000",
-            "35711000"
+            "35300000",
+            "35200000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/704346-2026"
-        },
-        {
-          "id": "705309-2026",
-          "date": "2026-10-13",
-          "title": "Poland – Military vehicles and associated parts – Dostawa zestawów obsługowych do KTO Rosomak",
-          "buyer": "1 REGIONALNA BAZA LOGISTYCZNA",
-          "country": "POL",
-          "cpv": [
-            "35400000",
-            "35421000",
-            "35421100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/705309-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/706010-2026"
         },
         {
           "id": "706519-2026",
@@ -166,6 +141,31 @@
             "32260000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/705605-2026"
+        },
+        {
+          "id": "704346-2026",
+          "date": "2026-10-13",
+          "title": "Finland – Command, control, communication and computer systems – TIETOPYYNTÖ; Viestiasema- ja komentopaikkamateriaali",
+          "buyer": "Puolustusvoimien logistiikkalaitos",
+          "country": "FIN",
+          "cpv": [
+            "35710000",
+            "35711000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/704346-2026"
+        },
+        {
+          "id": "705309-2026",
+          "date": "2026-10-13",
+          "title": "Poland – Military vehicles and associated parts – Dostawa zestawów obsługowych do KTO Rosomak",
+          "buyer": "1 REGIONALNA BAZA LOGISTYCZNA",
+          "country": "POL",
+          "cpv": [
+            "35400000",
+            "35421000",
+            "35421100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/705309-2026"
         },
         {
           "id": "704185-2026",
@@ -207,20 +207,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/707084-2026"
         },
         {
-          "id": "702779-2026",
-          "date": "2026-10-12",
-          "title": "Sweden – Military aircrafts, missiles and spacecrafts – Dynamiskt inköpssystem - Målspel",
-          "buyer": "FMV",
-          "country": "SWE",
-          "cpv": [
-            "35600000",
-            "34740000",
-            "35210000",
-            "35512400"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/702779-2026"
-        },
-        {
           "id": "701292-2026",
           "date": "2026-10-12",
           "title": "Sweden – Radio transmission apparatus with reception apparatus – HF2000 HP HF Transmitter",
@@ -231,21 +217,32 @@
             "35712000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/701292-2026"
+        },
+        {
+          "id": "701766-2026",
+          "date": "2026-10-12",
+          "title": "Latvia – Weapons, ammunition and associated parts – Granātmetēju munīcijas un rokas granātu iegāde uz 3 gadiem",
+          "buyer": "Nodrošinājuma valsts aģentūra",
+          "country": "LVA",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/701766-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 4.6,
+      "score": 4.4,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-07-13",
-      "reporting_lag_days": 92,
-      "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 86501277.93,
+      "reporting_lag_days": 93,
+      "freshness_factor": 0.22,
+      "current_14d_weekly_equivalent": 86376546.45,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -271,15 +268,15 @@
         },
         {
           "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 2213277.02
+          "amount": 2021824.51
         },
         {
           "name": "BONEAL, INCORPORATED",
           "amount": 1592409.0
         },
         {
-          "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 1272608.04
+          "name": "BELL TEXTRON INC",
+          "amount": 1281634.71
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -688,11 +685,6 @@
   },
   "history": [
     {
-      "generated": "2026-09-24T21:43:20.223512+00:00",
-      "score": 20.9,
-      "status": "BASELINE"
-    },
-    {
       "generated": "2026-09-25T05:15:25.757442+00:00",
       "score": 22.2,
       "status": "BASELINE"
@@ -984,6 +976,11 @@
     },
     {
       "generated": "2026-10-13T23:01:53.268544+00:00",
+      "score": 17.6,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-14T05:15:53.792788+00:00",
       "score": 17.6,
       "status": "BASELINE"
     }
