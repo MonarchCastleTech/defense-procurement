@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-14T21:53:28.576816+00:00",
+    "generated": "2026-10-15T05:02:38.722725+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 17.7,
-    "raw_score": 17.7,
+    "score": 12.1,
+    "raw_score": 12.1,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 17.7/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 12.1/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -26,12 +26,142 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 586,
+      "coverage": 590,
       "current_14d_weekly_equivalent": 33.5,
-      "baseline_weekly_median": 43.5,
-      "anomaly_z": -1.5,
+      "baseline_weekly_median": 44.0,
+      "anomaly_z": -1.77,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "712377-2026",
+          "date": "2026-10-15",
+          "title": "Poland – Explosives – Dostawa materiałów wybuchowych, środków inicjujących wybuch, środków pozoracji oraz materiałów eksploatacyjnych na potrzeby realizacji szkoleń przez CSSG w Kętrzynie oraz na potrzeby W-MOSG",
+          "buyer": "WARMIŃSKO-MAZURSKI ODDZIAŁ STRAŻY GRANICZNEJ im. gen. bryg. Stefana Pasławskiego",
+          "country": "POL",
+          "cpv": [
+            "24600000",
+            "24615000",
+            "24612200",
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/712377-2026"
+        },
+        {
+          "id": "713724-2026",
+          "date": "2026-10-15",
+          "title": "Italy – Radar – acquisizione di n 3 sistemi RADAR Signal Simulator per la stimolazione degli apparati Radar Warning Receveir RWR ed Electronic Support Measure ESM della linea C 130J Sessione di training garanzia a norma di legge e Supporto Logistico Iniziale che prevede help desk e on site HW/SW support on call per 24 mesi eventuale opzione per l estensione di 12 mesi del periodo di garanzia e del servizio di hel",
+          "buyer": "DIREZIONE DEGLI ARMAMENTI AERONAUTICI E PER L’AERONAVIGABILITÀ",
+          "country": "ITA",
+          "cpv": [
+            "35722000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/713724-2026"
+        },
+        {
+          "id": "714915-2026",
+          "date": "2026-10-15",
+          "title": "Netherlands – Weapons, ammunition and associated parts – RFI - Practice Anti-Personnel (AP) Mines",
+          "buyer": "Ministerie van Defensie",
+          "country": "NLD",
+          "cpv": [
+            "35300000",
+            "35331400"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/714915-2026"
+        },
+        {
+          "id": "711523-2026",
+          "date": "2026-10-15",
+          "title": "Romania – Cartridges – Acord cadru furnizare muniții de antrenament 5,56 mm",
+          "buyer": "Unitatea Militara 02655",
+          "country": "ROU",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/711523-2026"
+        },
+        {
+          "id": "712602-2026",
+          "date": "2026-10-15",
+          "title": "Lithuania – Parts of firearms and ammunition – Kolimatorinis taikiklis su priartintoju automatiniam ginklui (PPR-583)",
+          "buyer": "Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos",
+          "country": "LTU",
+          "cpv": [
+            "35340000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/712602-2026"
+        },
+        {
+          "id": "713840-2026",
+          "date": "2026-10-15",
+          "title": "Spain – Machine guns – Adquisición de Repuestos y Herramientas AMP 12,70 mm.",
+          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+          "country": "ESP",
+          "cpv": [
+            "35321300"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/713840-2026"
+        },
+        {
+          "id": "713296-2026",
+          "date": "2026-10-15",
+          "title": "Poland – Explosives – Dostawa materiałów wybuchowych, środków inicjujących wybuch, środków pozoracji oraz materiałów eksploatacyjnych na potrzeby realizacji szkoleń przez CSSG w Kętrzynie oraz na potrzeby W-MOSG",
+          "buyer": "WARMIŃSKO-MAZURSKI ODDZIAŁ STRAŻY GRANICZNEJ im. gen. bryg. Stefana Pasławskiego",
+          "country": "POL",
+          "cpv": [
+            "24600000",
+            "24615000",
+            "24612200",
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/713296-2026"
+        },
+        {
+          "id": "712456-2026",
+          "date": "2026-10-15",
+          "title": "Romania – Cartridges – Acord cadru furnizare muniții de antrenament SIMMUNITION",
+          "buyer": "Unitatea Militara 02655",
+          "country": "ROU",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/712456-2026"
+        },
+        {
+          "id": "714663-2026",
+          "date": "2026-10-15",
+          "title": "Spain – Electronic intelligence system – Adquisición de UN (1) sistema de registro y despliegue rápido para la realización de registros remotos informáticos de dispositivos móviles dentro de la LECrim, con capacidad de alojar software en terminales con sistemas operativos Android e iOS, que permitan el acceso transparente a los contenidos de los dispositivos, así como de comunicaciones de los mismos.",
+          "buyer": "Jefatura de Asuntos Económicos de la Guardia Civil",
+          "country": "ESP",
+          "cpv": [
+            "35721000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/714663-2026"
+        },
+        {
+          "id": "713421-2026",
+          "date": "2026-10-15",
+          "title": "Denmark – Weapons, ammunition and associated parts – Anskaffelse af Remote Weapon Stations",
+          "buyer": "Danish Ministry of Defence Acquisition and Logistics Organisation",
+          "country": "DNK",
+          "cpv": [
+            "35300000",
+            "35320000",
+            "35321300"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/713421-2026"
+        },
+        {
+          "id": "709150-2026",
+          "date": "2026-10-14",
+          "title": "Lithuania – Firearms – 5,56 mm automatinio šautuvo sistema Hk 416",
+          "buyer": "GYNYBOS RESURSŲ AGENTŪRA PRIE KAM",
+          "country": "LTU",
+          "cpv": [
+            "35320000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/709150-2026"
+        },
         {
           "id": "710524-2026",
           "date": "2026-10-14",
@@ -44,17 +174,6 @@
             "48000000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/710524-2026"
-        },
-        {
-          "id": "709150-2026",
-          "date": "2026-10-14",
-          "title": "Lithuania – Firearms – 5,56 mm automatinio šautuvo sistema Hk 416",
-          "buyer": "GYNYBOS RESURSŲ AGENTŪRA PRIE KAM",
-          "country": "LTU",
-          "cpv": [
-            "35320000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/709150-2026"
         },
         {
           "id": "711151-2026",
@@ -71,17 +190,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/711151-2026"
         },
         {
-          "id": "707446-2026",
-          "date": "2026-10-14",
-          "title": "Germany – Parts of military vehicles – 6003090082-BAAINBw E2.5F Achsantrieb, Fahrzeug, WS Leopard 2",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/707446-2026"
-        },
-        {
           "id": "708262-2026",
           "date": "2026-10-14",
           "title": "Romania – Battle simulators – Achizitie simulator de scenarii reale",
@@ -93,15 +201,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/708262-2026"
         },
         {
-          "id": "707087-2026",
-          "date": "2026-10-13",
-          "title": "Germany – Military vehicles and associated parts – Kaufbedarf EU Kamerasysteme für den SPz Puma",
-          "buyer": "HIL Heeresinstandsetzungslogistik GmbH",
+          "id": "707446-2026",
+          "date": "2026-10-14",
+          "title": "Germany – Parts of military vehicles – 6003090082-BAAINBw E2.5F Achsantrieb, Fahrzeug, WS Leopard 2",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
           "country": "DEU",
           "cpv": [
-            "35400000"
+            "35420000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/707087-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/707446-2026"
         },
         {
           "id": "706010-2026",
@@ -114,135 +222,21 @@
             "35200000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/706010-2026"
-        },
-        {
-          "id": "706519-2026",
-          "date": "2026-10-13",
-          "title": "Sweden – Command, control, communication and computer systems – Systemstöd för färdtjänsthandläggning",
-          "buyer": "Umeå kommun",
-          "country": "SWE",
-          "cpv": [
-            "35710000",
-            "48219300",
-            "48900000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/706519-2026"
-        },
-        {
-          "id": "705605-2026",
-          "date": "2026-10-13",
-          "title": "Netherlands – Military electronic systems – Market Consultation NLD MoD Assured Positioning, Navigation, and Timing",
-          "buyer": "Ministerie van Defensie",
-          "country": "NLD",
-          "cpv": [
-            "35700000",
-            "31710000",
-            "32221000",
-            "32260000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/705605-2026"
-        },
-        {
-          "id": "704346-2026",
-          "date": "2026-10-13",
-          "title": "Finland – Command, control, communication and computer systems – TIETOPYYNTÖ; Viestiasema- ja komentopaikkamateriaali",
-          "buyer": "Puolustusvoimien logistiikkalaitos",
-          "country": "FIN",
-          "cpv": [
-            "35710000",
-            "35711000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/704346-2026"
-        },
-        {
-          "id": "705309-2026",
-          "date": "2026-10-13",
-          "title": "Poland – Military vehicles and associated parts – Dostawa zestawów obsługowych do KTO Rosomak",
-          "buyer": "1 REGIONALNA BAZA LOGISTYCZNA",
-          "country": "POL",
-          "cpv": [
-            "35400000",
-            "35421000",
-            "35421100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/705309-2026"
-        },
-        {
-          "id": "704185-2026",
-          "date": "2026-10-13",
-          "title": "France – Military vehicles and associated parts – Extension de qualification de l’EFA à la classe de franchissement MLC 80C",
-          "buyer": "Direction Générale de l'Armement / DOMN / Service des Achats d'Armement",
-          "country": "FRA",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/704185-2026"
-        },
-        {
-          "id": "706579-2026",
-          "date": "2026-10-13",
-          "title": "Germany – Weapons, ammunition and associated parts – Kampfmesser inkl. Ersatzteile, Rahmenvereinbarung",
-          "buyer": "Bw Bekleidungsmanagement GmbH",
-          "country": "DEU",
-          "cpv": [
-            "35300000",
-            "35311000",
-            "35311200",
-            "35311300"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/706579-2026"
-        },
-        {
-          "id": "707084-2026",
-          "date": "2026-10-13",
-          "title": "Norway – Data services – GIS Framework Agreement",
-          "buyer": "Miljødirektoratet",
-          "country": "NOR",
-          "cpv": [
-            "72300000",
-            "35631200",
-            "71000000",
-            "72000000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/707084-2026"
-        },
-        {
-          "id": "701292-2026",
-          "date": "2026-10-12",
-          "title": "Sweden – Radio transmission apparatus with reception apparatus – HF2000 HP HF Transmitter",
-          "buyer": "FMV",
-          "country": "SWE",
-          "cpv": [
-            "32230000",
-            "35712000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/701292-2026"
-        },
-        {
-          "id": "701766-2026",
-          "date": "2026-10-12",
-          "title": "Latvia – Weapons, ammunition and associated parts – Granātmetēju munīcijas un rokas granātu iegāde uz 3 gadiem",
-          "buyer": "Nodrošinājuma valsts aģentūra",
-          "country": "LVA",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/701766-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 4.7,
+      "score": 4.4,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-07-14",
-      "reporting_lag_days": 92,
-      "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 95716844.71,
+      "reporting_lag_days": 93,
+      "freshness_factor": 0.22,
+      "current_14d_weekly_equivalent": 90946936.5,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -252,19 +246,19 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 43719579.97
-        },
-        {
-          "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 23209411.4
+          "amount": 43793144.79
         },
         {
           "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 19392325.35
+          "amount": 19380132.35
         },
         {
           "name": "SIERRA NEVADA COMPANY, LLC",
           "amount": 16978506.0
+        },
+        {
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "amount": 13486895.4
         },
         {
           "name": "RTX CORPORATION",
@@ -325,24 +319,6 @@
           "agency": "Department of the Air Force",
           "description": "FY26 C-17 GLOBEMASTER III DEPOT MAINTENANCE",
           "naics": "336411"
-        },
-        {
-          "date": "2026-07-14",
-          "award_id": "SPRPA126FF50C",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 4861258.0,
-          "agency": "Defense Logistics Agency",
-          "description": "ACOUSTIC PROCESSOR",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-14",
-          "award_id": "SPRPA126FF50C",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 4861258.0,
-          "agency": "Defense Logistics Agency",
-          "description": "ACOUSTIC PROCESSOR",
-          "naics": "336413"
         },
         {
           "date": "2026-07-14",
@@ -442,20 +418,38 @@
           "agency": "Department of the Air Force",
           "description": "B-2 INTERFACE TEST ADAPTERS IAW SOW",
           "naics": "336413"
+        },
+        {
+          "date": "2026-07-14",
+          "award_id": "SPE4AX26F281W",
+          "recipient": "KIT PACK, LLC",
+          "amount": 1320014.27,
+          "agency": "Defense Logistics Agency",
+          "description": "8512238740!GRIP ASSEMBLY,CONTR",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-14",
+          "award_id": "SPRTA126C0109",
+          "recipient": "AMETEK THERMAL SYSTEMS INC",
+          "amount": 1057938.0,
+          "agency": "Defense Logistics Agency",
+          "description": "COOLER, LUBRICATING",
+          "naics": "336413"
         }
       ]
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 5.8,
+      "score": 0.0,
       "status": "BASELINE",
       "weight": 0.2,
       "available": true,
       "retained": false,
       "coverage": 65,
-      "current_14d_weekly_equivalent": 1.5,
+      "current_14d_weekly_equivalent": 0.0,
       "baseline_weekly_median": 2.5,
-      "anomaly_z": -0.27,
+      "anomaly_z": -0.67,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -602,15 +596,15 @@
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
-      "score": 28.9,
-      "status": "WATCH",
+      "score": 0.0,
+      "status": "BASELINE",
       "weight": 0.15,
       "available": true,
       "retained": false,
       "coverage": 14,
-      "current_14d_weekly_equivalent": 2.5,
+      "current_14d_weekly_equivalent": 0.0,
       "baseline_weekly_median": 0.0,
-      "anomaly_z": 1.52,
+      "anomaly_z": 0.0,
       "method": "Defense Acquisition Regulations System publication velocity; rules weighted 1.5.",
       "evidence": [
         {
@@ -684,11 +678,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-25T21:45:48.590072+00:00",
-      "score": 21.7,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-26T05:20:37.717728+00:00",
       "score": 21.7,
@@ -982,6 +971,11 @@
     {
       "generated": "2026-10-14T21:53:28.576816+00:00",
       "score": 17.7,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-15T05:02:38.722725+00:00",
+      "score": 12.1,
       "status": "BASELINE"
     }
   ],
