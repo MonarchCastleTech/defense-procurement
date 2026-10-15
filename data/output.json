@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-15T05:02:38.722725+00:00",
+    "generated": "2026-10-15T11:57:34.190716+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 12.1,
-    "raw_score": 12.1,
+    "score": 12.5,
+    "raw_score": 12.5,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 12.1/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 12.5/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -26,7 +26,7 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 590,
+      "coverage": 589,
       "current_14d_weekly_equivalent": 33.5,
       "baseline_weekly_median": 44.0,
       "anomaly_z": -1.77,
@@ -227,214 +227,214 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 4.4,
+      "score": 6.1,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-07-14",
-      "reporting_lag_days": 93,
-      "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 90946936.5,
+      "latest_observation": "2026-07-15",
+      "reporting_lag_days": 92,
+      "freshness_factor": 0.23,
+      "current_14d_weekly_equivalent": 402295002.76,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
-          "name": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.",
-          "amount": 56806769.11
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "amount": 486661626.78
+        },
+        {
+          "name": "KONGSBERG DEFENCE & AEROSPACE AS",
+          "amount": 98412399.5
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 43793144.79
+          "amount": 97103808.82
         },
         {
-          "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 19380132.35
+          "name": "L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P.",
+          "amount": 44183785.0
         },
         {
-          "name": "SIERRA NEVADA COMPANY, LLC",
-          "amount": 16978506.0
+          "name": "GENERAL DYNAMICS-OTS, INC.",
+          "amount": 26540859.0
         },
         {
-          "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 13486895.4
+          "name": "ROCKWELL COLLINS, INC.",
+          "amount": 10344193.56
         },
         {
-          "name": "RTX CORPORATION",
-          "amount": 3878284.0
+          "name": "INTEGRATED SOLUTIONS FOR SYSTEMS, INC.",
+          "amount": 8342613.0
         },
         {
-          "name": "GENERAL ATOMICS",
-          "amount": 3796256.0
-        },
-        {
-          "name": "KIT PACK, LLC",
-          "amount": 3558525.35
+          "name": "RAYTHEON COMPANY",
+          "amount": 7237065.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
         {
-          "date": "2026-07-14",
-          "award_id": "W58RGZ24C0021",
-          "recipient": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.",
-          "amount": 56530178.0,
+          "date": "2026-07-15",
+          "award_id": "W31P4Q26C0019",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 439387261.04,
           "agency": "Department of the Army",
-          "description": "PRODUCTION READINESS TEST ASSETS (PRTA) OP 2 DEFINITIZATION",
-          "naics": "336411"
+          "description": "ARMY TACTICAL MISSILE SYSTEM (ATACMS) LOT 7",
+          "naics": "336414"
         },
         {
-          "date": "2026-07-14",
-          "award_id": "FA852626FB003",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 28891500.0,
+          "date": "2026-07-15",
+          "award_id": "FA868126CB002",
+          "recipient": "KONGSBERG DEFENCE & AEROSPACE AS",
+          "amount": 98412399.5,
           "agency": "Department of the Air Force",
-          "description": "FY26 C-17 GLOBEMASTER III DEPOT MAINTENANCE",
-          "naics": "336411"
+          "description": "JOINT STRIKE MISSILE LOT 2 AND OPTION LOT 3",
+          "naics": "336415"
         },
         {
-          "date": "2026-07-14",
-          "award_id": "W519TC24F0194",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 18432038.4,
-          "agency": "Department of the Army",
-          "description": "20MM M940 JOINT URGENT OPERATIONAL NEEDS STATEMENT (JUONS) MULTIPURPOSE TRACER-SELF DESTRUCT (MPT-SD) CARTRIDGES, DEPARTMENT OF DEFENSE IDENTIFICATION CODE (DODIC): AC34, NATIONAL STOCK NUMBER (NSN): 1305-01-668-9908.",
-          "naics": "332993"
+          "date": "2026-07-15",
+          "award_id": "SPRPA126F0020",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 94481298.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8512227360!PBL MATERIAL BOEING",
+          "naics": "336413"
         },
         {
-          "date": "2026-07-14",
-          "award_id": "FA862026FB119",
-          "recipient": "SIERRA NEVADA COMPANY, LLC",
-          "amount": 16978506.0,
+          "date": "2026-07-15",
+          "award_id": "FA862026FB003",
+          "recipient": "L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P.",
+          "amount": 44183785.0,
           "agency": "Department of the Air Force",
           "description": "AFLCMC/WI",
           "naics": "336413"
         },
         {
-          "date": "2026-07-14",
-          "award_id": "FA852626FB003",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 8895761.0,
-          "agency": "Department of the Air Force",
-          "description": "FY26 C-17 GLOBEMASTER III DEPOT MAINTENANCE",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-14",
-          "award_id": "N0001923F0458",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 4830809.0,
-          "agency": "Department of the Navy",
-          "description": "THE PURPOSE OF THIS MODIFICATION IS TO ADD MUOS LOT 13 AND SDD A/C NRE.",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-07-14",
-          "award_id": "SPRHA126F0118",
-          "recipient": "RTX CORPORATION",
-          "amount": 3878284.0,
+          "date": "2026-07-15",
+          "award_id": "SPRRA226F0105",
+          "recipient": "GENERAL DYNAMICS-OTS, INC.",
+          "amount": 26540859.0,
           "agency": "Defense Logistics Agency",
-          "description": "F100 ENGINES",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-07-14",
-          "award_id": "N0001925F0170",
-          "recipient": "GENERAL ATOMICS",
-          "amount": 3796256.0,
-          "agency": "Department of the Navy",
-          "description": "ECP-0104 DEOB_INCREM FUNDING",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-14",
-          "award_id": "N0001925F0137",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 3000000.0,
-          "agency": "Department of the Navy",
-          "description": "THE PURPOSE OF THIS MODIFICATION IS TO ATTACH MIPR FUNDING TO CLIN 0002.  ADDITIONALLY, THERE IS ALSO A DEOB-REOB ON CLIN 0001 TO FIX AN LOA ERROR THAT WAS EXECUTED UNDER P00003 OF DFTI.",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-14",
-          "award_id": "W31P4Q26F0152",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 2853982.12,
-          "agency": "Department of the Army",
-          "description": "THIS CONTRACT IS FOR PATRIOT ADVANCED CAPABILITIES-3 (PAC-3) MISSILE SUPPORT CENTER (P3MSC) FOR THE UNITED STATES AND FOREIGN MILITARY SALES (FMS) CUSTOMERS.",
+          "description": "THIS DELIVERY ORDER IS FOR THE COUNTERMEASURE MUNITIONS FOR THE B-KIT.",
           "naics": "336419"
         },
         {
-          "date": "2026-07-14",
-          "award_id": "HQ085426FE024",
+          "date": "2026-07-15",
+          "award_id": "W58RGZ24F0451",
           "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 2500000.0,
-          "agency": "Missile Defense Agency",
-          "description": "MODELING AND SIMULATION VISTAS - FRAMEWORK (MSV-FWK)",
+          "amount": 18873000.0,
+          "agency": "Department of the Army",
+          "description": "THIS REQUIREMENT IS FOR THE PROCUREMENT OF THE GEN 2/3 RADAR FREQUENCY INTERFEROMETER (RFI), FOR PRODUCTION, SUSTAINMENT HARDWARE, TECHNICAL, LOGISTICAL, TEST, AND ENGINEERING SUPPORT FOR THE APACHE ATTACK HELICOPTER.",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-15",
+          "award_id": "N0003025C0100",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 18564101.0,
+          "agency": "Department of the Navy",
+          "description": "THIS MODIFICATION INCLUDES FUNDING ACTIONS FOR THE TRIDENT D5 II EFFORTS FOR INCREMENTAL FUNDING ACTIONS FOR CONTRACT LINE ITEM NUMBER (CLIN) 0083, ILOE CLINS 0091, 0002 (0051), COST OVERRUN CLIN 0068.",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-07-15",
+          "award_id": "H9224126FE044",
+          "recipient": "ROCKWELL COLLINS, INC.",
+          "amount": 10336693.56,
+          "agency": "U.S. Special Operations Command",
+          "description": "FUNDING FOR THE NEW ORDERING PERIOD OF 1 AUGUST 2026 TO 31 JULY 2027.",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-15",
+          "award_id": "FA210322F1001",
+          "recipient": "INTEGRATED SOLUTIONS FOR SYSTEMS, INC.",
+          "amount": 8342613.0,
+          "agency": "Department of the Air Force",
+          "description": "B-52H CARRIAGE EQUIP PRE-PROD AND PROD REPRESENTATIVE ASSETS",
           "naics": "332993"
         },
         {
-          "date": "2026-07-14",
-          "award_id": "SPE4AX26F281X",
-          "recipient": "KIT PACK, LLC",
-          "amount": 2236447.2,
-          "agency": "Defense Logistics Agency",
-          "description": "8512238658!FILTER-COUPLER,AIRC",
+          "date": "2026-07-15",
+          "award_id": "HQ085126FE039",
+          "recipient": "RAYTHEON COMPANY",
+          "amount": 6875065.0,
+          "agency": "Missile Defense Agency",
+          "description": "SPECIALIZED TOOLING AND ESSENTIAL EQUIPMENT FOR LOGISTICS (STEEL)",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-07-15",
+          "award_id": "W31P4Q25F0082",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 5369791.0,
+          "agency": "Department of the Army",
+          "description": "PRECISION STRIKE MISSILE (PRSM) FOR FISCAL YEAR 2025-2029 INDEFINITE DELIVERY, INDEFINITE QUANTITY (IDIQ) DELIVERY ORDERS E0C5.",
           "naics": "336413"
         },
         {
-          "date": "2026-07-14",
-          "award_id": "N6893623F0702",
-          "recipient": "ADVANCED SYSTEMS & SOFTWARE ENGINEERING TECHNOLOGIES LLC",
-          "amount": 1995225.05,
-          "agency": "Department of the Navy",
-          "description": "FA-18 SOFTWARE DEVELOPMENT",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-14",
-          "award_id": "FA811025F0001",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
-          "amount": 1768955.0,
-          "agency": "Department of the Air Force",
-          "description": "B-2 CY25-27 PROGRAMMED DEPOT MAINTENANCE (PDM)",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-14",
-          "award_id": "W31P4Q26F0152",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 1590597.84,
+          "date": "2026-07-15",
+          "award_id": "W31P4Q26P0019",
+          "recipient": "DRS NETWORK & IMAGING SYSTEMS LLC",
+          "amount": 4474400.0,
           "agency": "Department of the Army",
-          "description": "THIS CONTRACT IS FOR PATRIOT ADVANCED CAPABILITIES-3 (PAC-3) MISSILE SUPPORT CENTER (P3MSC) FOR THE UNITED STATES AND FOREIGN MILITARY SALES (FMS) CUSTOMERS.",
+          "description": "TO PROCURE DATA-DISTRIBUTOR UNIT-EXPANDABLE SYSTEM HARDWARE KITS.",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-07-15",
+          "award_id": "W900KK24F0045",
+          "recipient": "VERUS RESEARCH, LLC",
+          "amount": 4010000.0,
+          "agency": "Department of the Army",
+          "description": "AIRBORNE NON-KINETIC SYSTEMS FOR TEST (ANKST)",
           "naics": "336419"
         },
         {
-          "date": "2026-07-14",
-          "award_id": "FA813926P0024",
-          "recipient": "WESTEST ENGINEERING CORPORATION",
-          "amount": 1342942.0,
+          "date": "2026-07-15",
+          "award_id": "W58RGZ22F0359",
+          "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 2882020.0,
+          "agency": "Department of the Army",
+          "description": "C-130 IMPROVED MODULAR AIRBORNE FIRE FIGHTING SYSTEM (IMAFFS) PHASE IV.",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-15",
+          "award_id": "W31P4Q23F0024",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 2700000.0,
+          "agency": "Department of the Army",
+          "description": "GUIDED MULTIPLE LAUNCH ROCKET SYSTEM (GMLRS) AND LOW COST REDUCED RANGE PRACTICE ROCKET (LCRRPR) FY24 FULL RATE PRODUCTION LOT 19 DELIVERY ORDER - UKRAINE",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-07-15",
+          "award_id": "FA863418C2701",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 2200000.0,
           "agency": "Department of the Air Force",
-          "description": "B-2 INTERFACE TEST ADAPTERS IAW SOW",
+          "description": "F-15, FOREIGN MILITARY SALES, QATAR PROGRAM",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-07-15",
+          "award_id": "W58RGZ24F0015",
+          "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 1598406.0,
+          "agency": "Department of the Army",
+          "description": "C-130 IMPROVED MODULAR AIRBORNE FIRE FIGHTING SYSTEM (IMAFFS) PHASE V",
           "naics": "336413"
         },
         {
-          "date": "2026-07-14",
-          "award_id": "SPE4AX26F281W",
-          "recipient": "KIT PACK, LLC",
-          "amount": 1320014.27,
-          "agency": "Defense Logistics Agency",
-          "description": "8512238740!GRIP ASSEMBLY,CONTR",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-14",
-          "award_id": "SPRTA126C0109",
-          "recipient": "AMETEK THERMAL SYSTEMS INC",
-          "amount": 1057938.0,
-          "agency": "Defense Logistics Agency",
-          "description": "COOLER, LUBRICATING",
+          "date": "2026-07-15",
+          "award_id": "N0038326F0205",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 1592204.0,
+          "agency": "Department of the Navy",
+          "description": "NSN: 7R5841016691341 NOMEN: RECEIVER-TRANSMITTER,RADARPN: 349-2000-003",
           "naics": "336413"
         }
       ]
@@ -446,7 +446,7 @@
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 65,
+      "coverage": 64,
       "current_14d_weekly_equivalent": 0.0,
       "baseline_weekly_median": 2.5,
       "anomaly_z": -0.67,
@@ -470,7 +470,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 15
+          "age": 16
         },
         {
           "date": "2026-09-29",
@@ -570,7 +570,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 29
+          "age": 30
         },
         {
           "date": "2026-09-15",
@@ -678,11 +678,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-26T05:20:37.717728+00:00",
-      "score": 21.7,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-26T11:42:27.213025+00:00",
       "score": 21.9,
@@ -976,6 +971,11 @@
     {
       "generated": "2026-10-15T05:02:38.722725+00:00",
       "score": 12.1,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-15T11:57:34.190716+00:00",
+      "score": 12.5,
       "status": "BASELINE"
     }
   ],
