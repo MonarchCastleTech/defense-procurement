@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-16T16:52:26.123076+00:00",
+    "generated": "2026-10-16T21:35:28.784129+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 11.9,
-    "raw_score": 11.9,
+    "score": 12.0,
+    "raw_score": 12.0,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 11.9/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 12.0/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -32,6 +32,20 @@
       "anomaly_z": -4.72,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "717548-2026",
+          "date": "2026-10-16",
+          "title": "Estonia – Various chemical products – Akude ja tarvikute ostmise kestvushankeleping 2026/2027",
+          "buyer": "Riigi Kaitseinvesteeringute Keskus",
+          "country": "EST",
+          "cpv": [
+            "24960000",
+            "34352000",
+            "22450000",
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/717548-2026"
+        },
         {
           "id": "716030-2026",
           "date": "2026-10-16",
@@ -54,20 +68,6 @@
             "35300000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/717348-2026"
-        },
-        {
-          "id": "717548-2026",
-          "date": "2026-10-16",
-          "title": "Estonia – Various chemical products – Akude ja tarvikute ostmise kestvushankeleping 2026/2027",
-          "buyer": "Riigi Kaitseinvesteeringute Keskus",
-          "country": "EST",
-          "cpv": [
-            "24960000",
-            "34352000",
-            "22450000",
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/717548-2026"
         },
         {
           "id": "717957-2026",
@@ -228,7 +228,7 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 3.6,
+      "score": 4.0,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -237,10 +237,14 @@
       "latest_observation": "2026-07-16",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 33918008.55,
+      "current_14d_weekly_equivalent": 48994078.64,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
+        {
+          "name": "THE BOEING COMPANY",
+          "amount": 29694578.18
+        },
         {
           "name": "DAY & ZIMMERMANN LONE STAR LLC",
           "amount": 13571885.08
@@ -250,12 +254,16 @@
           "amount": 12153511.0
         },
         {
-          "name": "THE BOEING COMPANY",
-          "amount": 9561170.18
+          "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 5930665.16
         },
         {
           "name": "SYSTEMS APPLICATION & TECHNOLOGIES INC",
           "amount": 5882700.0
+        },
+        {
+          "name": "GLOBAL AIR LOGISTICS AND TRAINING, INC.",
+          "amount": 3998464.0
         },
         {
           "name": "BAE SYSTEMS INFORMATION AND ELECTRONIC SYSTEMS INTEGRATION INC.",
@@ -264,14 +272,6 @@
         {
           "name": "GOODRICH CORPORATION",
           "amount": 2448344.3
-        },
-        {
-          "name": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 2284644.0
-        },
-        {
-          "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 2028404.21
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -284,6 +284,24 @@
           "agency": "Department of the Army",
           "description": "120MM M830A1 AND M908 RECAP",
           "naics": "332993"
+        },
+        {
+          "date": "2026-07-16",
+          "award_id": "N0001925F0085",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 10066704.0,
+          "agency": "Department of the Navy",
+          "description": "THE PURPOSE OF THIS MODIFICATION IS TO DEFINITIZE THE A-KIT FLIGHT TEST INTEGRATION (FTI) FOR THE FINAL DESIGN, FABRICATION, DELIVERY, AND INSTALLATION OF THE A-KIT DESIGN TO BE ABLE TO REACH AND COMPLETE CHAMBER/FLIGHT TEST.",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-07-16",
+          "award_id": "N0001925F0085",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 10066704.0,
+          "agency": "Department of the Navy",
+          "description": "THE PURPOSE OF THIS MODIFICATION IS TO DEFINITIZE THE A-KIT FLIGHT TEST INTEGRATION (FTI) FOR THE FINAL DESIGN, FABRICATION, DELIVERY, AND INSTALLATION OF THE A-KIT DESIGN TO BE ABLE TO REACH AND COMPLETE CHAMBER/FLIGHT TEST.",
+          "naics": "336412"
         },
         {
           "date": "2026-07-16",
@@ -314,12 +332,39 @@
         },
         {
           "date": "2026-07-16",
+          "award_id": "N0001926F2228",
+          "recipient": "GLOBAL AIR LOGISTICS AND TRAINING, INC.",
+          "amount": 3998464.0,
+          "agency": "Department of the Navy",
+          "description": "STII ANE AIR VEHICLE KITS (A-KITS) DO",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-07-16",
           "award_id": "FA811025F0001",
           "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
           "amount": 2938097.0,
           "agency": "Department of the Air Force",
           "description": "B-2 CY25-27 PROGRAMMED DEPOT MAINTENANCE (PDM)",
           "naics": "336411"
+        },
+        {
+          "date": "2026-07-16",
+          "award_id": "N0001922F2308",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 2935489.63,
+          "agency": "Department of the Navy",
+          "description": "P00015 - THE PURPOSE OF THIS MODIFICATION IS TO PROVIDE ADDITIONAL FUNDING TO CLIN 0001 AS A RESULT OF A COST OVERRUN. THIS MODIFICATION ALSO CAPTURES THE SYSTEM MIGRATION CLEAN-UP AFTER A RECENT MIGRATION TO A NEW CONTRACT WRITING SYSTEM.",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-16",
+          "award_id": "N0001922F2308",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 2935489.63,
+          "agency": "Department of the Navy",
+          "description": "P00015 - THE PURPOSE OF THIS MODIFICATION IS TO PROVIDE ADDITIONAL FUNDING TO CLIN 0001 AS A RESULT OF A COST OVERRUN. THIS MODIFICATION ALSO CAPTURES THE SYSTEM MIGRATION CLEAN-UP AFTER A RECENT MIGRATION TO A NEW CONTRACT WRITING SYSTEM.",
+          "naics": "336413"
         },
         {
           "date": "2026-07-16",
@@ -391,51 +436,6 @@
           "amount": 1040768.0,
           "agency": "Defense Logistics Agency",
           "description": "F-16WS",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-16",
-          "award_id": "SPE4A726C0099",
-          "recipient": "CEF INDUSTRIES, LLC",
-          "amount": 1001600.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512213727!BALLSCREW ASSEMBLY",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-16",
-          "award_id": "SPE4A726F8471",
-          "recipient": "GENERAL ELECTRIC COMPANY",
-          "amount": 910205.96,
-          "agency": "Defense Logistics Agency",
-          "description": "8512209939!NOZZLE,TURBINE,AIRC",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-16",
-          "award_id": "SPE4A526P6679",
-          "recipient": "ONTIC ENGINEERING & MANUFACTURING, INC",
-          "amount": 880386.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512230808!PARTS KIT,ELECTRO-M",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-16",
-          "award_id": "FA863426FB017",
-          "recipient": "GRAHAM TECHNOLOGIES LLC",
-          "amount": 785257.0,
-          "agency": "Department of the Air Force",
-          "description": "F-15, FOREIGN MILITARY SALES, QATAR PROGRAM",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-07-16",
-          "award_id": "N0038326FS50W",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 734200.0,
-          "agency": "Department of the Navy",
-          "description": "CONTACTOR ASSY MPDB",
           "naics": "336413"
         }
       ]
@@ -679,11 +679,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-27T17:12:10.729372+00:00",
-      "score": 20.9,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-27T21:31:32.889110+00:00",
       "score": 20.9,
@@ -977,6 +972,11 @@
     {
       "generated": "2026-10-16T16:52:26.123076+00:00",
       "score": 11.9,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-16T21:35:28.784129+00:00",
+      "score": 12.0,
       "status": "BASELINE"
     }
   ],
