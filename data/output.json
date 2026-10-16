@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-15T21:39:43.957279+00:00",
+    "generated": "2026-10-16T04:52:02.315041+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,12 +26,131 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 589,
-      "current_14d_weekly_equivalent": 33.5,
-      "baseline_weekly_median": 44.0,
-      "anomaly_z": -1.77,
+      "coverage": 594,
+      "current_14d_weekly_equivalent": 36.0,
+      "baseline_weekly_median": 43.0,
+      "anomaly_z": -4.72,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "716030-2026",
+          "date": "2026-10-16",
+          "title": "Spain – Radar – Suministro de cinemómetros compactos portátiles láser (SCT-2027-4)",
+          "buyer": "Servei Català de Trànsit",
+          "country": "ESP",
+          "cpv": [
+            "35722000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/716030-2026"
+        },
+        {
+          "id": "717348-2026",
+          "date": "2026-10-16",
+          "title": "France – Individual equipment – FOURNITURE ET LIVRAISON DE VETEMENTS ET EQUIPEMENTS POUR LA POLICE MUNICIPALE",
+          "buyer": "VILLE DE LORIENT",
+          "country": "FRA",
+          "cpv": [
+            "35810000",
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/717348-2026"
+        },
+        {
+          "id": "717548-2026",
+          "date": "2026-10-16",
+          "title": "Estonia – Various chemical products – Akude ja tarvikute ostmise kestvushankeleping 2026/2027",
+          "buyer": "Riigi Kaitseinvesteeringute Keskus",
+          "country": "EST",
+          "cpv": [
+            "24960000",
+            "34352000",
+            "22450000",
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/717548-2026"
+        },
+        {
+          "id": "717957-2026",
+          "date": "2026-10-16",
+          "title": "Greece – Parts for aircraft – Δ. 11/24 ΠΡΟΜΗΘΕΙΑ 5 ΤΜΧ BRAKE HOUSING",
+          "buyer": "ΥΠΗΡΕΣΙΑ ΠΡΟΜΗΘΕΙΩΝ ΠΟΛΕΜΙΚΗΣ ΑΕΡΟΠΟΡΙΑΣ (ΥΠ/ΠΑ)",
+          "country": "GRC",
+          "cpv": [
+            "34731000",
+            "35311100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/717957-2026"
+        },
+        {
+          "id": "718143-2026",
+          "date": "2026-10-16",
+          "title": "Spain – Software package and information systems – Adquisición y sostenimiento de software de análisis para la complementación de los subsistemas de captación y localización terrestre perteneciente al Sistema Conjunto Santiago (EMAD)",
+          "buyer": "Jefatura de Asuntos Económicos del Estado Mayor de la Defensa",
+          "country": "ESP",
+          "cpv": [
+            "48000000",
+            "35721000",
+            "51000000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/718143-2026"
+        },
+        {
+          "id": "717297-2026",
+          "date": "2026-10-16",
+          "title": "Germany – Military electronic systems – Kauf: Abwehr von weitreichenden One-Way-Effectors mit Hubschraubern (VA965)",
+          "buyer": "Planungsamt der Bundeswehr Referat I 1 (4)",
+          "country": "DEU",
+          "cpv": [
+            "35700000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/717297-2026"
+        },
+        {
+          "id": "718011-2026",
+          "date": "2026-10-16",
+          "title": "Slovenia – Machine guns – Nakup mitraljezov M3M Mk3",
+          "buyer": "MINISTRSTVO ZA OBRAMBO",
+          "country": "SVN",
+          "cpv": [
+            "35321300"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/718011-2026"
+        },
+        {
+          "id": "718649-2026",
+          "date": "2026-10-16",
+          "title": "France – Hand guns – Fourniture de pistolets semi-automatiques calibre 9 x 19 mm et équipements associés à destination des ERIS de l'administration pénitentiaire",
+          "buyer": "Direction générale de l'administration pénitentiaire",
+          "country": "FRA",
+          "cpv": [
+            "35321100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/718649-2026"
+        },
+        {
+          "id": "715365-2026",
+          "date": "2026-10-16",
+          "title": "Portugal – Armoured military vehicles – 3026008982 / Fornecimento de Viatura Táticas Ultraligeiras (VTUL)",
+          "buyer": "Ministério da Defesa Nacional - Marinha",
+          "country": "PRT",
+          "cpv": [
+            "35410000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/715365-2026"
+        },
+        {
+          "id": "717336-2026",
+          "date": "2026-10-16",
+          "title": "Greece – Aviation kerosene – ΠΡΟΜΗΘΕΙΑ ΑΕΡΟΠΟΡΙΚΟΥ ΚΑΥΣΙΜΟΤΥ",
+          "buyer": "ΥΠΗΡΕΣΙΑ ΠΡΟΜΗΘΕΙΩΝ ΠΟΛΕΜΙΚΗΣ ΑΕΡΟΠΟΡΙΑΣ (ΥΠ/ΠΑ)",
+          "country": "GRC",
+          "cpv": [
+            "09131000",
+            "09131100",
+            "35311100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/717336-2026"
+        },
         {
           "id": "714915-2026",
           "date": "2026-10-15",
@@ -104,139 +223,21 @@
             "35331500"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/711523-2026"
-        },
-        {
-          "id": "712602-2026",
-          "date": "2026-10-15",
-          "title": "Lithuania – Parts of firearms and ammunition – Kolimatorinis taikiklis su priartintoju automatiniam ginklui (PPR-583)",
-          "buyer": "Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos",
-          "country": "LTU",
-          "cpv": [
-            "35340000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/712602-2026"
-        },
-        {
-          "id": "714663-2026",
-          "date": "2026-10-15",
-          "title": "Spain – Electronic intelligence system – Adquisición de UN (1) sistema de registro y despliegue rápido para la realización de registros remotos informáticos de dispositivos móviles dentro de la LECrim, con capacidad de alojar software en terminales con sistemas operativos Android e iOS, que permitan el acceso transparente a los contenidos de los dispositivos, así como de comunicaciones de los mismos.",
-          "buyer": "Jefatura de Asuntos Económicos de la Guardia Civil",
-          "country": "ESP",
-          "cpv": [
-            "35721000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/714663-2026"
-        },
-        {
-          "id": "712456-2026",
-          "date": "2026-10-15",
-          "title": "Romania – Cartridges – Acord cadru furnizare muniții de antrenament SIMMUNITION",
-          "buyer": "Unitatea Militara 02655",
-          "country": "ROU",
-          "cpv": [
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/712456-2026"
-        },
-        {
-          "id": "713421-2026",
-          "date": "2026-10-15",
-          "title": "Denmark – Weapons, ammunition and associated parts – Anskaffelse af Remote Weapon Stations",
-          "buyer": "Danish Ministry of Defence Acquisition and Logistics Organisation",
-          "country": "DNK",
-          "cpv": [
-            "35300000",
-            "35320000",
-            "35321300"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/713421-2026"
-        },
-        {
-          "id": "709150-2026",
-          "date": "2026-10-14",
-          "title": "Lithuania – Firearms – 5,56 mm automatinio šautuvo sistema Hk 416",
-          "buyer": "GYNYBOS RESURSŲ AGENTŪRA PRIE KAM",
-          "country": "LTU",
-          "cpv": [
-            "35320000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/709150-2026"
-        },
-        {
-          "id": "710524-2026",
-          "date": "2026-10-14",
-          "title": "Hungary – Command, control, communication and computer systems – HM Válságreagáló Rendszer (HM VRR)",
-          "buyer": "Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság",
-          "country": "HUN",
-          "cpv": [
-            "35710000",
-            "71300000",
-            "48000000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/710524-2026"
-        },
-        {
-          "id": "711151-2026",
-          "date": "2026-10-14",
-          "title": "Romania – Motor vehicles – Achiziție de mijloace de mobilitate terestră",
-          "buyer": "Unitatea Militara 0251 Bucuresti",
-          "country": "ROU",
-          "cpv": [
-            "34100000",
-            "35412000",
-            "34115200",
-            "34114400"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/711151-2026"
-        },
-        {
-          "id": "707446-2026",
-          "date": "2026-10-14",
-          "title": "Germany – Parts of military vehicles – 6003090082-BAAINBw E2.5F Achsantrieb, Fahrzeug, WS Leopard 2",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/707446-2026"
-        },
-        {
-          "id": "708262-2026",
-          "date": "2026-10-14",
-          "title": "Romania – Battle simulators – Achizitie simulator de scenarii reale",
-          "buyer": "Scoala de Pregatire a Agentilor Politiei de Frontiera \"Avram Iancu\" Oradea",
-          "country": "ROU",
-          "cpv": [
-            "35740000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/708262-2026"
-        },
-        {
-          "id": "706010-2026",
-          "date": "2026-10-13",
-          "title": "France – Weapons, ammunition and associated parts – 2026AVN0053 - Acquisition de caméras piétons et de pistolets à impulsion électrique (PIE) pour les besoins de la Police Municipale de la Ville d'Avignon",
-          "buyer": "Ville d'Avignon",
-          "country": "FRA",
-          "cpv": [
-            "35300000",
-            "35200000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/706010-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 6.1,
+      "score": 5.9,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-07-15",
-      "reporting_lag_days": 92,
-      "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 398323560.96,
+      "reporting_lag_days": 93,
+      "freshness_factor": 0.22,
+      "current_14d_weekly_equivalent": 398449321.07,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -448,7 +449,7 @@
       "retained": false,
       "coverage": 63,
       "current_14d_weekly_equivalent": 0.0,
-      "baseline_weekly_median": 2.5,
+      "baseline_weekly_median": 1.0,
       "anomaly_z": -0.67,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
@@ -678,11 +679,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-26T21:24:41.827894+00:00",
-      "score": 21.9,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-27T05:37:20.376367+00:00",
       "score": 20.9,
@@ -975,6 +971,11 @@
     },
     {
       "generated": "2026-10-15T21:39:43.957279+00:00",
+      "score": 12.5,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-16T04:52:02.315041+00:00",
       "score": 12.5,
       "status": "BASELINE"
     }
