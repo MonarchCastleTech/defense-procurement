@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-17T15:50:52.221451+00:00",
+    "generated": "2026-10-17T20:51:44.734025+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,7 +26,7 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 582,
+      "coverage": 583,
       "current_14d_weekly_equivalent": 36.0,
       "baseline_weekly_median": 43.0,
       "anomaly_z": -4.72,
@@ -128,17 +128,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/718649-2026"
         },
         {
-          "id": "715365-2026",
-          "date": "2026-10-16",
-          "title": "Portugal – Armoured military vehicles – 3026008982 / Fornecimento de Viatura Táticas Ultraligeiras (VTUL)",
-          "buyer": "Ministério da Defesa Nacional - Marinha",
-          "country": "PRT",
-          "cpv": [
-            "35410000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/715365-2026"
-        },
-        {
           "id": "717336-2026",
           "date": "2026-10-16",
           "title": "Greece – Aviation kerosene – ΠΡΟΜΗΘΕΙΑ ΑΕΡΟΠΟΡΙΚΟΥ ΚΑΥΣΙΜΟΤΥ",
@@ -150,6 +139,17 @@
             "35311100"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/717336-2026"
+        },
+        {
+          "id": "715365-2026",
+          "date": "2026-10-16",
+          "title": "Portugal – Armoured military vehicles – 3026008982 / Fornecimento de Viatura Táticas Ultraligeiras (VTUL)",
+          "buyer": "Ministério da Defesa Nacional - Marinha",
+          "country": "PRT",
+          "cpv": [
+            "35410000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/715365-2026"
         },
         {
           "id": "714915-2026",
@@ -237,7 +237,7 @@
       "latest_observation": "2026-07-17",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 195640985.27,
+      "current_14d_weekly_equivalent": 195637422.64,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -247,7 +247,7 @@
         },
         {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 2473454.26
+          "amount": 2466329.0
         },
         {
           "name": "BROWN HELICOPTER, INC.",
@@ -561,7 +561,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 31
+          "age": 32
         },
         {
           "date": "2026-09-15",
@@ -581,7 +581,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 31
+          "age": 32
         },
         {
           "date": "2026-09-15",
@@ -700,11 +700,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-28T23:27:01.616242+00:00",
-      "score": 20.1,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-29T06:02:21.726826+00:00",
       "score": 21.1,
@@ -997,6 +992,11 @@
     },
     {
       "generated": "2026-10-17T15:50:52.221451+00:00",
+      "score": 12.3,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-17T20:51:44.734025+00:00",
       "score": 12.3,
       "status": "BASELINE"
     }
