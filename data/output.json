@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-17T11:04:53.272262+00:00",
+    "generated": "2026-10-17T15:50:52.221451+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,7 +26,7 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 583,
+      "coverage": 582,
       "current_14d_weekly_equivalent": 36.0,
       "baseline_weekly_median": 43.0,
       "anomaly_z": -4.72,
@@ -237,7 +237,7 @@
       "latest_observation": "2026-07-17",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 195902686.44,
+      "current_14d_weekly_equivalent": 195640985.27,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -247,7 +247,7 @@
         },
         {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 2466329.0
+          "amount": 2473454.26
         },
         {
           "name": "BROWN HELICOPTER, INC.",
@@ -262,16 +262,16 @@
           "amount": 1542032.26
         },
         {
+          "name": "THE BOEING COMPANY",
+          "amount": 882130.4
+        },
+        {
           "name": "BAE SYSTEMS LAND & ARMAMENTS L.P.",
           "amount": 874007.97
         },
         {
-          "name": "THE BOEING COMPANY",
-          "amount": 872278.34
-        },
-        {
-          "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 540379.65
+          "name": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 234948.07
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -386,15 +386,6 @@
         },
         {
           "date": "2026-07-17",
-          "award_id": "SPE4AX26F005B",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 540379.65,
-          "agency": "Defense Logistics Agency",
-          "description": "8512023461!PBL MATERIAL SUPPORT NORTHRUP",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-17",
           "award_id": "SPRTA126P0135",
           "recipient": "INTERTRADE LIMITED",
           "amount": 224084.0,
@@ -437,6 +428,15 @@
           "agency": "Defense Logistics Agency",
           "description": "8512214041!TUBE AND FITTINGS,M",
           "naics": "336411"
+        },
+        {
+          "date": "2026-07-17",
+          "award_id": "SPE4A526F7596",
+          "recipient": "GENERAL ELECTRIC COMPANY",
+          "amount": 67584.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8512214041!TUBE AND FITTINGS,M",
+          "naics": "336411"
         }
       ]
     },
@@ -461,7 +461,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 15
+          "age": 16
         },
         {
           "date": "2026-09-29",
@@ -471,7 +471,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 17
+          "age": 18
         },
         {
           "date": "2026-09-29",
@@ -481,7 +481,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 17
+          "age": 18
         },
         {
           "date": "2026-09-28",
@@ -491,7 +491,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 18
+          "age": 19
         },
         {
           "date": "2026-09-28",
@@ -501,7 +501,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 18
+          "age": 19
         },
         {
           "date": "2026-09-28",
@@ -511,7 +511,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 18
+          "age": 19
         },
         {
           "date": "2026-09-28",
@@ -521,7 +521,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 18
+          "age": 19
         },
         {
           "date": "2026-09-28",
@@ -531,7 +531,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 18
+          "age": 19
         },
         {
           "date": "2026-09-28",
@@ -541,7 +541,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 18
+          "age": 19
         },
         {
           "date": "2026-09-18",
@@ -551,7 +551,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 28
+          "age": 29
         },
         {
           "date": "2026-09-15",
@@ -591,7 +591,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 31
+          "age": 32
         }
       ]
     },
@@ -700,11 +700,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-28T14:21:51.508067+00:00",
-      "score": 20.4,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-28T23:27:01.616242+00:00",
       "score": 20.1,
@@ -997,6 +992,11 @@
     },
     {
       "generated": "2026-10-17T11:04:53.272262+00:00",
+      "score": 12.3,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-17T15:50:52.221451+00:00",
       "score": 12.3,
       "status": "BASELINE"
     }
