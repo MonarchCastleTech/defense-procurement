@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-17T04:53:17.621121+00:00",
+    "generated": "2026-10-17T11:04:53.272262+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 11.9,
-    "raw_score": 11.9,
+    "score": 12.3,
+    "raw_score": 12.3,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 11.9/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 12.3/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -26,26 +26,12 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 582,
+      "coverage": 583,
       "current_14d_weekly_equivalent": 36.0,
       "baseline_weekly_median": 43.0,
       "anomaly_z": -4.72,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
-        {
-          "id": "717548-2026",
-          "date": "2026-10-16",
-          "title": "Estonia – Various chemical products – Akude ja tarvikute ostmise kestvushankeleping 2026/2027",
-          "buyer": "Riigi Kaitseinvesteeringute Keskus",
-          "country": "EST",
-          "cpv": [
-            "24960000",
-            "34352000",
-            "22450000",
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/717548-2026"
-        },
         {
           "id": "716030-2026",
           "date": "2026-10-16",
@@ -68,6 +54,20 @@
             "35300000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/717348-2026"
+        },
+        {
+          "id": "717548-2026",
+          "date": "2026-10-16",
+          "title": "Estonia – Various chemical products – Akude ja tarvikute ostmise kestvushankeleping 2026/2027",
+          "buyer": "Riigi Kaitseinvesteeringute Keskus",
+          "country": "EST",
+          "cpv": [
+            "24960000",
+            "34352000",
+            "22450000",
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/717548-2026"
         },
         {
           "id": "717957-2026",
@@ -128,6 +128,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/718649-2026"
         },
         {
+          "id": "715365-2026",
+          "date": "2026-10-16",
+          "title": "Portugal – Armoured military vehicles – 3026008982 / Fornecimento de Viatura Táticas Ultraligeiras (VTUL)",
+          "buyer": "Ministério da Defesa Nacional - Marinha",
+          "country": "PRT",
+          "cpv": [
+            "35410000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/715365-2026"
+        },
+        {
           "id": "717336-2026",
           "date": "2026-10-16",
           "title": "Greece – Aviation kerosene – ΠΡΟΜΗΘΕΙΑ ΑΕΡΟΠΟΡΙΚΟΥ ΚΑΥΣΙΜΟΤΥ",
@@ -141,26 +152,16 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/717336-2026"
         },
         {
-          "id": "715365-2026",
-          "date": "2026-10-16",
-          "title": "Portugal – Armoured military vehicles – 3026008982 / Fornecimento de Viatura Táticas Ultraligeiras (VTUL)",
-          "buyer": "Ministério da Defesa Nacional - Marinha",
-          "country": "PRT",
-          "cpv": [
-            "35410000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/715365-2026"
-        },
-        {
-          "id": "713724-2026",
+          "id": "714915-2026",
           "date": "2026-10-15",
-          "title": "Italy – Radar – acquisizione di n 3 sistemi RADAR Signal Simulator per la stimolazione degli apparati Radar Warning Receveir RWR ed Electronic Support Measure ESM della linea C 130J Sessione di training garanzia a norma di legge e Supporto Logistico Iniziale che prevede help desk e on site HW/SW support on call per 24 mesi eventuale opzione per l estensione di 12 mesi del periodo di garanzia e del servizio di hel",
-          "buyer": "DIREZIONE DEGLI ARMAMENTI AERONAUTICI E PER L’AERONAVIGABILITÀ",
-          "country": "ITA",
+          "title": "Netherlands – Weapons, ammunition and associated parts – RFI - Practice Anti-Personnel (AP) Mines",
+          "buyer": "Ministerie van Defensie",
+          "country": "NLD",
           "cpv": [
-            "35722000"
+            "35300000",
+            "35331400"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/713724-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/714915-2026"
         },
         {
           "id": "712377-2026",
@@ -177,16 +178,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/712377-2026"
         },
         {
-          "id": "714915-2026",
+          "id": "713724-2026",
           "date": "2026-10-15",
-          "title": "Netherlands – Weapons, ammunition and associated parts – RFI - Practice Anti-Personnel (AP) Mines",
-          "buyer": "Ministerie van Defensie",
-          "country": "NLD",
+          "title": "Italy – Radar – acquisizione di n 3 sistemi RADAR Signal Simulator per la stimolazione degli apparati Radar Warning Receveir RWR ed Electronic Support Measure ESM della linea C 130J Sessione di training garanzia a norma di legge e Supporto Logistico Iniziale che prevede help desk e on site HW/SW support on call per 24 mesi eventuale opzione per l estensione di 12 mesi del periodo di garanzia e del servizio di hel",
+          "buyer": "DIREZIONE DEGLI ARMAMENTI AERONAUTICI E PER L’AERONAVIGABILITÀ",
+          "country": "ITA",
           "cpv": [
-            "35300000",
-            "35331400"
+            "35722000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/714915-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/713724-2026"
         },
         {
           "id": "711523-2026",
@@ -228,215 +228,215 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 3.5,
+      "score": 5.4,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-07-16",
-      "reporting_lag_days": 93,
-      "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 35206710.47,
+      "latest_observation": "2026-07-17",
+      "reporting_lag_days": 92,
+      "freshness_factor": 0.23,
+      "current_14d_weekly_equivalent": 195902686.44,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
-          "name": "DAY & ZIMMERMANN LONE STAR LLC",
-          "amount": 13571885.08
-        },
-        {
-          "name": "NORTHROP GRUMMAN SYSTEMS CORP",
-          "amount": 12153511.0
-        },
-        {
-          "name": "THE BOEING COMPANY",
-          "amount": 9440643.6
-        },
-        {
-          "name": "SYSTEMS APPLICATION & TECHNOLOGIES INC",
-          "amount": 5882700.0
-        },
-        {
-          "name": "GLOBAL AIR LOGISTICS AND TRAINING, INC.",
-          "amount": 3998464.0
-        },
-        {
-          "name": "BAE SYSTEMS INFORMATION AND ELECTRONIC SYSTEMS INTEGRATION INC.",
-          "amount": 2453880.04
-        },
-        {
-          "name": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 2284644.0
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "amount": 380608852.35
         },
         {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 1708165.22
+          "amount": 2466329.0
+        },
+        {
+          "name": "BROWN HELICOPTER, INC.",
+          "amount": 1970586.0
+        },
+        {
+          "name": "S & K AEROSPACE, LLC",
+          "amount": 1790010.0
+        },
+        {
+          "name": "HYDRO SYSTEMS USA INC",
+          "amount": 1542032.26
+        },
+        {
+          "name": "BAE SYSTEMS LAND & ARMAMENTS L.P.",
+          "amount": 874007.97
+        },
+        {
+          "name": "THE BOEING COMPANY",
+          "amount": 872278.34
+        },
+        {
+          "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 540379.65
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
         {
-          "date": "2026-07-16",
-          "award_id": "W519TC26F0086",
-          "recipient": "DAY & ZIMMERMANN LONE STAR LLC",
-          "amount": 13571885.08,
-          "agency": "Department of the Army",
-          "description": "120MM M830A1 AND M908 RECAP",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-07-16",
-          "award_id": "FA811026FB019",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
-          "amount": 9215414.0,
-          "agency": "Department of the Air Force",
-          "description": "B-2 SPECIAL TEST EQUIPMENT (STE) INERTIAL SENSOR ASSEMBLY (ISA)",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-16",
-          "award_id": "SPRPA126F0002",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 9032183.68,
-          "agency": "Defense Logistics Agency",
-          "description": "AH CH GLOBAL SUPPORT 4 MONTH FUNDING DELIVERY ORDER",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-16",
-          "award_id": "N6893624C0006",
-          "recipient": "SYSTEMS APPLICATION & TECHNOLOGIES INC",
-          "amount": 5882700.0,
-          "agency": "Department of the Navy",
-          "description": "TARGET OPERATIONS AND MAINTENANCE",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-16",
-          "award_id": "N0001926F2228",
-          "recipient": "GLOBAL AIR LOGISTICS AND TRAINING, INC.",
-          "amount": 3998464.0,
-          "agency": "Department of the Navy",
-          "description": "STII ANE AIR VEHICLE KITS (A-KITS) DO",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-16",
-          "award_id": "FA811025F0001",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORP",
-          "amount": 2938097.0,
-          "agency": "Department of the Air Force",
-          "description": "B-2 CY25-27 PROGRAMMED DEPOT MAINTENANCE (PDM)",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-16",
-          "award_id": "FA823226FB236",
-          "recipient": "BAE SYSTEMS INFORMATION AND ELECTRONIC SYSTEMS INTEGRATION INC.",
-          "amount": 2417719.0,
-          "agency": "Department of the Air Force",
-          "description": "THIS ORDER PROVIDES F-16 AIRCRAFT SUPPORT EQUIPMENT FOR THE COUNTRY OF POLAND.",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-16",
-          "award_id": "W58RGZ26F0320",
-          "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 2284644.0,
-          "agency": "Department of the Army",
-          "description": "CV-22 RIVER JACK INTEGRATION",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-16",
-          "award_id": "FA862119F6251",
-          "recipient": "CAE USA INC.",
-          "amount": 1352021.11,
-          "agency": "Department of the Air Force",
-          "description": "F16 STP",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-16",
-          "award_id": "N0001925F1022",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 1309291.72,
-          "agency": "Department of the Navy",
-          "description": "CH-53K",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-16",
-          "award_id": "N0001925F0225",
+          "date": "2026-07-17",
+          "award_id": "W31P4Q25C0007",
           "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 1101685.08,
+          "amount": 219222018.08,
+          "agency": "Department of the Army",
+          "description": "DEFINITIZATION OF FY25 M270A2 LAUNCHERS AND INTERNATIONAL SPARES.",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-07-17",
+          "award_id": "W31P4Q24C0022",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 128933590.0,
+          "agency": "Department of the Army",
+          "description": "EXECUTE PHASED ARRAY TRACKING RADAR TO INTERCEPT ON TARGET (PATRIOT) ADVANCED CAPABILITY-3 (PAC-3) MISSILE PRODUCTION BY PROVIDING INCIDENTAL SERVICES, HARDWARE, FACILITIES, EQUIPMENT, AND TECHNICAL, PLANNING, MANAGEMENT, AND MANUFACTURING EFFORTS.",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-07-17",
+          "award_id": "W31P4Q20C0023",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 13389604.53,
+          "agency": "Department of the Army",
+          "description": "EXECUTE PHASED ARRAY TRACKING RADAR TO INTERCEPT ON TARGET (PATRIOT) ADVANCED CAPABILITY-3 (PAC-3) MISSILE PRODUCTION BY PROVIDING INCIDENTAL SERVICES, HARDWARE, FACILITIES, EQUIPMENT, AND TECHNICAL, PLANNING, MANAGEMENT, AND MANUFACTURING EFFORTS.\"",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-07-17",
+          "award_id": "W31P4Q20C0023",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 10021822.74,
+          "agency": "Department of the Army",
+          "description": "EXECUTE PHASED ARRAY TRACKING RADAR TO INTERCEPT ON TARGET (PATRIOT) ADVANCED CAPABILITY-3 (PAC-3) MISSILE PRODUCTION BY PROVIDING INCIDENTAL SERVICES, HARDWARE, FACILITIES, EQUIPMENT, AND TECHNICAL, PLANNING, MANAGEMENT, AND MANUFACTURING EFFORTS.",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-07-17",
+          "award_id": "W31P4Q26F0036",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 9041817.0,
+          "agency": "Department of the Army",
+          "description": "PURCHASE OF HIGH MOBILITY ARTILLERY ROCKET SYSTEM (HIMARS) FOR THE US ARMY, MARINES AND FOREIGN MILITARY SALES (FMS) PARTNERS.",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-07-17",
+          "award_id": "SPRTA126C0125",
+          "recipient": "BROWN HELICOPTER, INC.",
+          "amount": 1970000.0,
+          "agency": "Defense Logistics Agency",
+          "description": "GEARBOX ACCESSORY",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-07-17",
+          "award_id": "FA853226F0276",
+          "recipient": "S & K AEROSPACE, LLC",
+          "amount": 1790010.0,
+          "agency": "Department of the Air Force",
+          "description": "SOURCING AND ACQUIRING COMMON STOCK EQUIPMENT",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-17",
+          "award_id": "FA812626P0051",
+          "recipient": "HYDRO SYSTEMS USA INC",
+          "amount": 1542032.26,
+          "agency": "Department of the Air Force",
+          "description": "TWO (2) KC-46 ENGINE CHANGE SYSTEMS IN ACCORDANCE WITH THE STATEMENT OF WORK AND APPENDIX A.",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-07-17",
+          "award_id": "N0001926F0185",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 1199422.04,
           "agency": "Department of the Navy",
-          "description": "THE PURPOSE OF THIS MODIFICATION IS TO INCREASE FUNDING ON CLIN 0001 IN SUPPORT OF THE MH-60S SERVICE LIFE EXTENSION PROGRAM. THIS MODIFICATION ALSO UPDATES THE DELIVERY SCHEDULE FOR CLIN 0002 AS WELL AS REPLACING ATTACHMENT 1, SOW.",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-16",
-          "award_id": "N0038326FSX08",
-          "recipient": "GENERAL ATOMICS",
-          "amount": 1099721.0,
-          "agency": "Department of the Navy",
-          "description": "NRP,CAPACITOR,4500U",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-16",
-          "award_id": "SPRHA126C0012",
-          "recipient": "EATON AEROSPACE LLC",
-          "amount": 1040768.0,
-          "agency": "Defense Logistics Agency",
-          "description": "F-16WS",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-16",
-          "award_id": "SPE4A726C0099",
-          "recipient": "CEF INDUSTRIES, LLC",
-          "amount": 1001600.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512213727!BALLSCREW ASSEMBLY",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-16",
-          "award_id": "SPE4A726F8471",
-          "recipient": "GENERAL ELECTRIC COMPANY",
-          "amount": 910205.96,
-          "agency": "Defense Logistics Agency",
-          "description": "8512209939!NOZZLE,TURBINE,AIRC",
+          "description": "PROVIDE INCREMENTAL FUNDING FOR CLIN 0007 AND CLIN 0027",
           "naics": "336411"
         },
         {
-          "date": "2026-07-16",
-          "award_id": "SPE4A526P6679",
-          "recipient": "ONTIC ENGINEERING & MANUFACTURING, INC",
-          "amount": 880386.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512230808!PARTS KIT,ELECTRO-M",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-16",
-          "award_id": "FA863426FB017",
-          "recipient": "GRAHAM TECHNOLOGIES LLC",
-          "amount": 785257.0,
-          "agency": "Department of the Air Force",
-          "description": "F-15, FOREIGN MILITARY SALES, QATAR PROGRAM",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-07-16",
-          "award_id": "N0038326FS50W",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 734200.0,
+          "date": "2026-07-17",
+          "award_id": "N0001926F0185",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 1199422.04,
           "agency": "Department of the Navy",
-          "description": "CONTACTOR ASSY MPDB",
+          "description": "PROVIDE INCREMENTAL FUNDING FOR CLIN 0007 AND CLIN 0027",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-07-17",
+          "award_id": "N0002423C5300",
+          "recipient": "BAE SYSTEMS LAND & ARMAMENTS L.P.",
+          "amount": 874007.97,
+          "agency": "Department of the Navy",
+          "description": "MK45 GUN MOUNT",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-07-17",
+          "award_id": "N0001926F1123",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 853987.52,
+          "agency": "Department of the Navy",
+          "description": "WEAPON SYSTEM TECHNICAL SUPPORT (FMS)",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-07-17",
+          "award_id": "SPE4AX26F005B",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 540379.65,
+          "agency": "Defense Logistics Agency",
+          "description": "8512023461!PBL MATERIAL SUPPORT NORTHRUP",
           "naics": "336413"
+        },
+        {
+          "date": "2026-07-17",
+          "award_id": "SPRTA126P0135",
+          "recipient": "INTERTRADE LIMITED",
+          "amount": 224084.0,
+          "agency": "Defense Logistics Agency",
+          "description": "RH PORT PLATE TO CONTROL CHARGE PRSSURE IN PUMP AND MOTOR.",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-17",
+          "award_id": "SPE4A626FZY26",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 195833.33,
+          "agency": "Defense Logistics Agency",
+          "description": "!",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-17",
+          "award_id": "SPE8E926V1996",
+          "recipient": "CAP 360 LLC",
+          "amount": 96624.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8512248243!ADAPTER,QUICK DISCO",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-17",
+          "award_id": "SPE4AX26F290C",
+          "recipient": "UNISON INDUSTRIES LLC",
+          "amount": 74973.6,
+          "agency": "Defense Logistics Agency",
+          "description": "8512245710!CABLE ASSEMBLY,POWER,ELECTRIC",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-07-17",
+          "award_id": "SPE4A526F7596",
+          "recipient": "GENERAL ELECTRIC COMPANY",
+          "amount": 67584.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8512214041!TUBE AND FITTINGS,M",
+          "naics": "336411"
         }
       ]
     },
@@ -571,7 +571,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 31
+          "age": 32
         },
         {
           "date": "2026-09-15",
@@ -602,12 +602,33 @@
       "weight": 0.15,
       "available": true,
       "retained": false,
-      "coverage": 14,
+      "coverage": 17,
       "current_14d_weekly_equivalent": 0.0,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "method": "Defense Acquisition Regulations System publication velocity; rules weighted 1.5.",
       "evidence": [
+        {
+          "date": "2026-10-19",
+          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Parts 223 and 226, Occupational Safety and Drug-Free Work Force",
+          "type": "Notice",
+          "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21330/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-parts-223",
+          "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0272 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
+        },
+        {
+          "date": "2026-10-19",
+          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS); Inspection and Receiving Report",
+          "type": "Notice",
+          "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21329/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars",
+          "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0248 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
+        },
+        {
+          "date": "2026-10-19",
+          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 215 Negotiation",
+          "type": "Notice",
+          "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21327/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-215",
+          "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0497 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
+        },
         {
           "date": "2026-10-01",
           "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement; Covered Defense Telecommunications Equipment or Services",
@@ -679,11 +700,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-28T05:44:52.846858+00:00",
-      "score": 20.1,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-28T14:21:51.508067+00:00",
       "score": 20.4,
@@ -977,6 +993,11 @@
     {
       "generated": "2026-10-17T04:53:17.621121+00:00",
       "score": 11.9,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-17T11:04:53.272262+00:00",
+      "score": 12.3,
       "status": "BASELINE"
     }
   ],
