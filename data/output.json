@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-17T20:51:44.734025+00:00",
+    "generated": "2026-10-18T04:59:39.909723+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,7 +26,7 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 583,
+      "coverage": 582,
       "current_14d_weekly_equivalent": 36.0,
       "baseline_weekly_median": 43.0,
       "anomaly_z": -4.72,
@@ -82,6 +82,19 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/717957-2026"
         },
         {
+          "id": "718143-2026",
+          "date": "2026-10-16",
+          "title": "Spain – Software package and information systems – Adquisición y sostenimiento de software de análisis para la complementación de los subsistemas de captación y localización terrestre perteneciente al Sistema Conjunto Santiago (EMAD)",
+          "buyer": "Jefatura de Asuntos Económicos del Estado Mayor de la Defensa",
+          "country": "ESP",
+          "cpv": [
+            "48000000",
+            "35721000",
+            "51000000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/718143-2026"
+        },
+        {
           "id": "717297-2026",
           "date": "2026-10-16",
           "title": "Germany – Military electronic systems – Kauf: Abwehr von weitreichenden One-Way-Effectors mit Hubschraubern (VA965)",
@@ -104,19 +117,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/718011-2026"
         },
         {
-          "id": "718143-2026",
-          "date": "2026-10-16",
-          "title": "Spain – Software package and information systems – Adquisición y sostenimiento de software de análisis para la complementación de los subsistemas de captación y localización terrestre perteneciente al Sistema Conjunto Santiago (EMAD)",
-          "buyer": "Jefatura de Asuntos Económicos del Estado Mayor de la Defensa",
-          "country": "ESP",
-          "cpv": [
-            "48000000",
-            "35721000",
-            "51000000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/718143-2026"
-        },
-        {
           "id": "718649-2026",
           "date": "2026-10-16",
           "title": "France – Hand guns – Fourniture de pistolets semi-automatiques calibre 9 x 19 mm et équipements associés à destination des ERIS de l'administration pénitentiaire",
@@ -126,6 +126,17 @@
             "35321100"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/718649-2026"
+        },
+        {
+          "id": "715365-2026",
+          "date": "2026-10-16",
+          "title": "Portugal – Armoured military vehicles – 3026008982 / Fornecimento de Viatura Táticas Ultraligeiras (VTUL)",
+          "buyer": "Ministério da Defesa Nacional - Marinha",
+          "country": "PRT",
+          "cpv": [
+            "35410000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/715365-2026"
         },
         {
           "id": "717336-2026",
@@ -139,17 +150,6 @@
             "35311100"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/717336-2026"
-        },
-        {
-          "id": "715365-2026",
-          "date": "2026-10-16",
-          "title": "Portugal – Armoured military vehicles – 3026008982 / Fornecimento de Viatura Táticas Ultraligeiras (VTUL)",
-          "buyer": "Ministério da Defesa Nacional - Marinha",
-          "country": "PRT",
-          "cpv": [
-            "35410000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/715365-2026"
         },
         {
           "id": "714915-2026",
@@ -200,20 +200,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/711523-2026"
         },
         {
-          "id": "713296-2026",
-          "date": "2026-10-15",
-          "title": "Poland – Explosives – Dostawa materiałów wybuchowych, środków inicjujących wybuch, środków pozoracji oraz materiałów eksploatacyjnych na potrzeby realizacji szkoleń przez CSSG w Kętrzynie oraz na potrzeby W-MOSG",
-          "buyer": "WARMIŃSKO-MAZURSKI ODDZIAŁ STRAŻY GRANICZNEJ im. gen. bryg. Stefana Pasławskiego",
-          "country": "POL",
-          "cpv": [
-            "24600000",
-            "24615000",
-            "24612200",
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/713296-2026"
-        },
-        {
           "id": "712602-2026",
           "date": "2026-10-15",
           "title": "Lithuania – Parts of firearms and ammunition – Kolimatorinis taikiklis su priartintoju automatiniam ginklui (PPR-583)",
@@ -223,21 +209,32 @@
             "35340000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/712602-2026"
+        },
+        {
+          "id": "713840-2026",
+          "date": "2026-10-15",
+          "title": "Spain – Machine guns – Adquisición de Repuestos y Herramientas AMP 12,70 mm.",
+          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+          "country": "ESP",
+          "cpv": [
+            "35321300"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/713840-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 5.4,
+      "score": 5.2,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-07-17",
-      "reporting_lag_days": 92,
-      "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 195637422.64,
+      "reporting_lag_days": 93,
+      "freshness_factor": 0.22,
+      "current_14d_weekly_equivalent": 195906249.07,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -247,7 +244,7 @@
         },
         {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 2466329.0
+          "amount": 2473454.26
         },
         {
           "name": "BROWN HELICOPTER, INC.",
@@ -262,16 +259,16 @@
           "amount": 1542032.26
         },
         {
-          "name": "THE BOEING COMPANY",
-          "amount": 882130.4
-        },
-        {
           "name": "BAE SYSTEMS LAND & ARMAMENTS L.P.",
           "amount": 874007.97
         },
         {
-          "name": "HUDSON TECHNOLOGIES COMPANY",
-          "amount": 234948.07
+          "name": "THE BOEING COMPANY",
+          "amount": 872278.34
+        },
+        {
+          "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 540379.65
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -386,6 +383,15 @@
         },
         {
           "date": "2026-07-17",
+          "award_id": "SPE4AX26F005B",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 540379.65,
+          "agency": "Defense Logistics Agency",
+          "description": "8512023461!PBL MATERIAL SUPPORT NORTHRUP",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-17",
           "award_id": "SPRTA126P0135",
           "recipient": "INTERTRADE LIMITED",
           "amount": 224084.0,
@@ -419,15 +425,6 @@
           "agency": "Defense Logistics Agency",
           "description": "8512245710!CABLE ASSEMBLY,POWER,ELECTRIC",
           "naics": "336412"
-        },
-        {
-          "date": "2026-07-17",
-          "award_id": "SPE4A526F7596",
-          "recipient": "GENERAL ELECTRIC COMPANY",
-          "amount": 67584.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512214041!TUBE AND FITTINGS,M",
-          "naics": "336411"
         },
         {
           "date": "2026-07-17",
@@ -700,11 +697,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-29T06:02:21.726826+00:00",
-      "score": 21.1,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-29T13:15:00.563677+00:00",
       "score": 21.1,
@@ -997,6 +989,11 @@
     },
     {
       "generated": "2026-10-17T20:51:44.734025+00:00",
+      "score": 12.3,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-18T04:59:39.909723+00:00",
       "score": 12.3,
       "status": "BASELINE"
     }
