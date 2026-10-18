@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-18T04:59:39.909723+00:00",
+    "generated": "2026-10-18T11:35:48.684168+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -234,17 +234,13 @@
       "latest_observation": "2026-07-17",
       "reporting_lag_days": 93,
       "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 195906249.07,
+      "current_14d_weekly_equivalent": 194755020.24,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
           "name": "LOCKHEED MARTIN CORPORATION",
           "amount": 380608852.35
-        },
-        {
-          "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 2473454.26
         },
         {
           "name": "BROWN HELICOPTER, INC.",
@@ -259,16 +255,20 @@
           "amount": 1542032.26
         },
         {
+          "name": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 1236775.94
+        },
+        {
           "name": "BAE SYSTEMS LAND & ARMAMENTS L.P.",
           "amount": 874007.97
         },
         {
-          "name": "THE BOEING COMPANY",
-          "amount": 872278.34
-        },
-        {
           "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
           "amount": 540379.65
+        },
+        {
+          "name": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 234948.07
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -356,30 +356,12 @@
         },
         {
           "date": "2026-07-17",
-          "award_id": "N0001926F0185",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 1199422.04,
-          "agency": "Department of the Navy",
-          "description": "PROVIDE INCREMENTAL FUNDING FOR CLIN 0007 AND CLIN 0027",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-17",
           "award_id": "N0002423C5300",
           "recipient": "BAE SYSTEMS LAND & ARMAMENTS L.P.",
           "amount": 874007.97,
           "agency": "Department of the Navy",
           "description": "MK45 GUN MOUNT",
           "naics": "332994"
-        },
-        {
-          "date": "2026-07-17",
-          "award_id": "N0001926F1123",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 853987.52,
-          "agency": "Department of the Navy",
-          "description": "WEAPON SYSTEM TECHNICAL SUPPORT (FMS)",
-          "naics": "336414"
         },
         {
           "date": "2026-07-17",
@@ -434,6 +416,24 @@
           "agency": "Defense Logistics Agency",
           "description": "8512214041!TUBE AND FITTINGS,M",
           "naics": "336411"
+        },
+        {
+          "date": "2026-07-17",
+          "award_id": "SPMYM426P1250",
+          "recipient": "ATLANTIC DIVING SUPPLY, INC.",
+          "amount": 59203.72,
+          "agency": "Defense Logistics Agency",
+          "description": "SKYDIO DRONES",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-17",
+          "award_id": "FA441926P0033",
+          "recipient": "ATLANTIC DIVING SUPPLY, INC.",
+          "amount": 33743.69,
+          "agency": "Department of the Air Force",
+          "description": "FY26 97 OG/OSS DRONE HARDWARE AND PERPETUAL SOFTWARE",
+          "naics": "336411"
         }
       ]
     },
@@ -468,7 +468,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 18
+          "age": 19
         },
         {
           "date": "2026-09-29",
@@ -568,7 +568,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 32
+          "age": 33
         },
         {
           "date": "2026-09-15",
@@ -697,11 +697,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-29T13:15:00.563677+00:00",
-      "score": 21.1,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-29T22:31:44.720616+00:00",
       "score": 22.3,
@@ -994,6 +989,11 @@
     },
     {
       "generated": "2026-10-18T04:59:39.909723+00:00",
+      "score": 12.3,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-18T11:35:48.684168+00:00",
       "score": 12.3,
       "status": "BASELINE"
     }
