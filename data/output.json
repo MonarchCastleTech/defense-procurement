@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-18T11:35:48.684168+00:00",
+    "generated": "2026-10-18T16:04:46.609190+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -234,7 +234,7 @@
       "latest_observation": "2026-07-17",
       "reporting_lag_days": 93,
       "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 194755020.24,
+      "current_14d_weekly_equivalent": 195256304.82,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -256,7 +256,11 @@
         },
         {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 1236775.94
+          "amount": 1238185.95
+        },
+        {
+          "name": "THE BOEING COMPANY",
+          "amount": 1021566.34
         },
         {
           "name": "BAE SYSTEMS LAND & ARMAMENTS L.P.",
@@ -265,10 +269,6 @@
         {
           "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
           "amount": 540379.65
-        },
-        {
-          "name": "HUDSON TECHNOLOGIES COMPANY",
-          "amount": 234948.07
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -365,6 +365,15 @@
         },
         {
           "date": "2026-07-17",
+          "award_id": "N0001926F1123",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 853987.52,
+          "agency": "Department of the Navy",
+          "description": "WEAPON SYSTEM TECHNICAL SUPPORT (FMS)",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-07-17",
           "award_id": "SPE4AX26F005B",
           "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
           "amount": 540379.65,
@@ -392,6 +401,15 @@
         },
         {
           "date": "2026-07-17",
+          "award_id": "N0001919F4078",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 149288.0,
+          "agency": "Department of the Navy",
+          "description": "COST OVERRUN",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-07-17",
           "award_id": "SPE8E926V1996",
           "recipient": "CAP 360 LLC",
           "amount": 96624.0,
@@ -410,30 +428,12 @@
         },
         {
           "date": "2026-07-17",
-          "award_id": "SPE4A526F7596",
-          "recipient": "GENERAL ELECTRIC COMPANY",
-          "amount": 67584.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512214041!TUBE AND FITTINGS,M",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-17",
-          "award_id": "SPMYM426P1250",
-          "recipient": "ATLANTIC DIVING SUPPLY, INC.",
-          "amount": 59203.72,
-          "agency": "Defense Logistics Agency",
-          "description": "SKYDIO DRONES",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-17",
-          "award_id": "FA441926P0033",
-          "recipient": "ATLANTIC DIVING SUPPLY, INC.",
-          "amount": 33743.69,
+          "award_id": "FA855426FB001",
+          "recipient": "L3HARRIS TECHNOLOGIES, INC.",
+          "amount": 65493.97,
           "agency": "Department of the Air Force",
-          "description": "FY26 97 OG/OSS DRONE HARDWARE AND PERPETUAL SOFTWARE",
-          "naics": "336411"
+          "description": "BASIC YEAR WITH 4 ADDITIONAL ONE-YEAR ORDERING PERIODS FOR BRU-57S, CIRCUIT CARD ASSEMBLIES, MICRO CONTROL ASSEMBLIES, POWER SUPPLIES, HIGH BANDWIDTH ASSEMBLIES, BUFFER BUS ASSEMBLIES",
+          "naics": "336413"
         }
       ]
     },
@@ -458,7 +458,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 16
+          "age": 17
         },
         {
           "date": "2026-09-29",
@@ -478,7 +478,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 18
+          "age": 19
         },
         {
           "date": "2026-09-28",
@@ -488,7 +488,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 19
+          "age": 20
         },
         {
           "date": "2026-09-28",
@@ -498,7 +498,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 19
+          "age": 20
         },
         {
           "date": "2026-09-28",
@@ -508,7 +508,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 19
+          "age": 20
         },
         {
           "date": "2026-09-28",
@@ -518,7 +518,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 19
+          "age": 20
         },
         {
           "date": "2026-09-28",
@@ -528,7 +528,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 19
+          "age": 20
         },
         {
           "date": "2026-09-28",
@@ -538,7 +538,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 19
+          "age": 20
         },
         {
           "date": "2026-09-18",
@@ -548,7 +548,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 29
+          "age": 30
         },
         {
           "date": "2026-09-15",
@@ -558,7 +558,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 32
+          "age": 33
         },
         {
           "date": "2026-09-15",
@@ -578,7 +578,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 32
+          "age": 33
         },
         {
           "date": "2026-09-15",
@@ -588,7 +588,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 32
+          "age": 33
         }
       ]
     },
@@ -697,11 +697,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-29T22:31:44.720616+00:00",
-      "score": 22.3,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-30T05:51:19.047965+00:00",
       "score": 20.4,
@@ -994,6 +989,11 @@
     },
     {
       "generated": "2026-10-18T11:35:48.684168+00:00",
+      "score": 12.3,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-18T16:04:46.609190+00:00",
       "score": 12.3,
       "status": "BASELINE"
     }
