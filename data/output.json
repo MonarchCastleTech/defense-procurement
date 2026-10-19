@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-19T13:49:44.026006+00:00",
+    "generated": "2026-10-19T22:34:24.936513+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 14.7,
-    "raw_score": 14.7,
+    "score": 18.2,
+    "raw_score": 18.2,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 14.7/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 18.2/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -26,12 +26,120 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 590,
+      "coverage": 599,
       "current_14d_weekly_equivalent": 38.5,
       "baseline_weekly_median": 41.5,
       "anomaly_z": -0.58,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "725937-2026",
+          "date": "2026-10-20",
+          "title": "Germany – Military vehicles and associated parts – Kaufbedarf EU 123631303 JUSTIERAUSSTATTUNG, ROHRWAFFE für PzH 2000",
+          "buyer": "HIL Heeresinstandsetzungslogistik GmbH",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/725937-2026"
+        },
+        {
+          "id": "724201-2026",
+          "date": "2026-10-20",
+          "title": "Romania – Motor vehicles – Achiziție de mijloace de mobilitate terestră",
+          "buyer": "Unitatea Militara 0251 Bucuresti",
+          "country": "ROU",
+          "cpv": [
+            "34100000",
+            "35412000",
+            "34115200",
+            "34114400"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/724201-2026"
+        },
+        {
+          "id": "723644-2026",
+          "date": "2026-10-20",
+          "title": "Germany – Military vehicles and associated parts – 6003110460-BAAINBw E2.5F",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/723644-2026"
+        },
+        {
+          "id": "723020-2026",
+          "date": "2026-10-20",
+          "title": "Poland – Radar – Śledzący radarowy system pomiarowy",
+          "buyer": "Wojskowy Instytut Techniczny Uzbrojenia",
+          "country": "POL",
+          "cpv": [
+            "35722000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/723020-2026"
+        },
+        {
+          "id": "725112-2026",
+          "date": "2026-10-20",
+          "title": "Romania – Cartridges – Lotul 1 - Cartuș 7,62x39 mm de manevră Lotul 2 - Cartuș 7,62x54 mm de manevră Lotul 3 - Cartuș 7,62x39 mm cu glonț miez oțel Lotul 4 - Cartuș 7,62x54 mm cu glonț miez oțel Lotul 5 - Cartuș 7,62x54 mm cu glonț trasor Lotul 6 - Cartuș 7,62x39 mm cu glonț trasor",
+          "buyer": "Ministerul Apararii - Unitatea Militara 02550 Bucuresti",
+          "country": "ROU",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/725112-2026"
+        },
+        {
+          "id": "725853-2026",
+          "date": "2026-10-20",
+          "title": "Sweden – Information technology services – Förmånsportal",
+          "buyer": "Region Dalarna",
+          "country": "SWE",
+          "cpv": [
+            "72222300",
+            "48000000",
+            "48517000",
+            "72250000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/725853-2026"
+        },
+        {
+          "id": "726219-2026",
+          "date": "2026-10-20",
+          "title": "Czechia – Ammunition for firearms and warfare – Dodávka munice pro Celní správu České republiky",
+          "buyer": "Generální ředitelství cel",
+          "country": "CZE",
+          "cpv": [
+            "35331000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/726219-2026"
+        },
+        {
+          "id": "723449-2026",
+          "date": "2026-10-20",
+          "title": "Germany – Radar sets – Lieferung und Einrüstung Radar Sea Giraffe auf Tender MOSEL",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "34932000",
+            "35722000",
+            "35723000",
+            "38115000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/723449-2026"
+        },
+        {
+          "id": "723771-2026",
+          "date": "2026-10-20",
+          "title": "Spain – Command, control, communication and computer systems – Suministro en estado operativo de sistemas para los puestos de supervisión integrados - fase 2",
+          "buyer": "Dirección Económico-Financiera de ENAIRE",
+          "country": "ESP",
+          "cpv": [
+            "35710000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/723771-2026"
+        },
         {
           "id": "722083-2026",
           "date": "2026-10-19",
@@ -58,17 +166,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/720700-2026"
         },
         {
-          "id": "721424-2026",
-          "date": "2026-10-19",
-          "title": "Romania – Cartridges – Acord cadru furnizare muniții de antrenament SIMMUNITION",
-          "buyer": "Unitatea Militara 02655",
-          "country": "ROU",
-          "cpv": [
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/721424-2026"
-        },
-        {
           "id": "720852-2026",
           "date": "2026-10-19",
           "title": "Poland – Ammunition for firearms and warfare – Dostawa amunicji 9 nb. pist. z poc. pełnopłaszczowym WS",
@@ -89,6 +186,17 @@
             "35330000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/719421-2026"
+        },
+        {
+          "id": "721424-2026",
+          "date": "2026-10-19",
+          "title": "Romania – Cartridges – Acord cadru furnizare muniții de antrenament SIMMUNITION",
+          "buyer": "Unitatea Militara 02655",
+          "country": "ROU",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/721424-2026"
         },
         {
           "id": "720518-2026",
@@ -112,114 +220,6 @@
             "35300000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/721475-2026"
-        },
-        {
-          "id": "717548-2026",
-          "date": "2026-10-16",
-          "title": "Estonia – Various chemical products – Akude ja tarvikute ostmise kestvushankeleping 2026/2027",
-          "buyer": "Riigi Kaitseinvesteeringute Keskus",
-          "country": "EST",
-          "cpv": [
-            "24960000",
-            "34352000",
-            "22450000",
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/717548-2026"
-        },
-        {
-          "id": "716030-2026",
-          "date": "2026-10-16",
-          "title": "Spain – Radar – Suministro de cinemómetros compactos portátiles láser (SCT-2027-4)",
-          "buyer": "Servei Català de Trànsit",
-          "country": "ESP",
-          "cpv": [
-            "35722000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/716030-2026"
-        },
-        {
-          "id": "717348-2026",
-          "date": "2026-10-16",
-          "title": "France – Individual equipment – FOURNITURE ET LIVRAISON DE VETEMENTS ET EQUIPEMENTS POUR LA POLICE MUNICIPALE",
-          "buyer": "VILLE DE LORIENT",
-          "country": "FRA",
-          "cpv": [
-            "35810000",
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/717348-2026"
-        },
-        {
-          "id": "717957-2026",
-          "date": "2026-10-16",
-          "title": "Greece – Parts for aircraft – Δ. 11/24 ΠΡΟΜΗΘΕΙΑ 5 ΤΜΧ BRAKE HOUSING",
-          "buyer": "ΥΠΗΡΕΣΙΑ ΠΡΟΜΗΘΕΙΩΝ ΠΟΛΕΜΙΚΗΣ ΑΕΡΟΠΟΡΙΑΣ (ΥΠ/ΠΑ)",
-          "country": "GRC",
-          "cpv": [
-            "34731000",
-            "35311100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/717957-2026"
-        },
-        {
-          "id": "717297-2026",
-          "date": "2026-10-16",
-          "title": "Germany – Military electronic systems – Kauf: Abwehr von weitreichenden One-Way-Effectors mit Hubschraubern (VA965)",
-          "buyer": "Planungsamt der Bundeswehr Referat I 1 (4)",
-          "country": "DEU",
-          "cpv": [
-            "35700000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/717297-2026"
-        },
-        {
-          "id": "718011-2026",
-          "date": "2026-10-16",
-          "title": "Slovenia – Machine guns – Nakup mitraljezov M3M Mk3",
-          "buyer": "MINISTRSTVO ZA OBRAMBO",
-          "country": "SVN",
-          "cpv": [
-            "35321300"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/718011-2026"
-        },
-        {
-          "id": "718143-2026",
-          "date": "2026-10-16",
-          "title": "Spain – Software package and information systems – Adquisición y sostenimiento de software de análisis para la complementación de los subsistemas de captación y localización terrestre perteneciente al Sistema Conjunto Santiago (EMAD)",
-          "buyer": "Jefatura de Asuntos Económicos del Estado Mayor de la Defensa",
-          "country": "ESP",
-          "cpv": [
-            "48000000",
-            "35721000",
-            "51000000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/718143-2026"
-        },
-        {
-          "id": "718649-2026",
-          "date": "2026-10-16",
-          "title": "France – Hand guns – Fourniture de pistolets semi-automatiques calibre 9 x 19 mm et équipements associés à destination des ERIS de l'administration pénitentiaire",
-          "buyer": "Direction générale de l'administration pénitentiaire",
-          "country": "FRA",
-          "cpv": [
-            "35321100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/718649-2026"
-        },
-        {
-          "id": "717336-2026",
-          "date": "2026-10-16",
-          "title": "Greece – Aviation kerosene – ΠΡΟΜΗΘΕΙΑ ΑΕΡΟΠΟΡΙΚΟΥ ΚΑΥΣΙΜΟΤΥ",
-          "buyer": "ΥΠΗΡΕΣΙΑ ΠΡΟΜΗΘΕΙΩΝ ΠΟΛΕΜΙΚΗΣ ΑΕΡΟΠΟΡΙΑΣ (ΥΠ/ΠΑ)",
-          "country": "GRC",
-          "cpv": [
-            "09131000",
-            "09131100",
-            "35311100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/717336-2026"
         }
       ]
     },
@@ -234,13 +234,17 @@
       "latest_observation": "2026-07-19",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 194297339.94,
+      "current_14d_weekly_equivalent": 195490719.68,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
           "name": "LOCKHEED MARTIN CORPORATION",
           "amount": 380608852.35
+        },
+        {
+          "name": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 2456213.37
         },
         {
           "name": "BROWN HELICOPTER, INC.",
@@ -265,10 +269,6 @@
         {
           "name": "HUDSON TECHNOLOGIES COMPANY",
           "amount": 239487.56
-        },
-        {
-          "name": "INTERTRADE LIMITED",
-          "amount": 224084.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -439,17 +439,47 @@
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 0.0,
+      "score": 17.3,
       "status": "BASELINE",
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 61,
-      "current_14d_weekly_equivalent": 0.0,
+      "coverage": 64,
+      "current_14d_weekly_equivalent": 4.5,
       "baseline_weekly_median": 6.5,
-      "anomaly_z": -0.67,
+      "anomaly_z": -0.21,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
+        {
+          "date": "2026-10-19",
+          "title": "Drone Footage Of Nato Hq",
+          "url": "https://www.nato.int/en/multimedia/multimedia/videos/general/drone-footage-of-nato-hq",
+          "terms": [
+            "drone"
+          ],
+          "weight": 3,
+          "age": 0
+        },
+        {
+          "date": "2026-10-15",
+          "title": "Signing Ceremony Multinational Cooperation For The Provision Of Maritime Battle Decisive Munitions",
+          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2018/07/11/signing-ceremony-multinational-cooperation-for-the-provision-of-maritime-battle-decisive-munitions",
+          "terms": [
+            "munition"
+          ],
+          "weight": 3,
+          "age": 4
+        },
+        {
+          "date": "2026-10-15",
+          "title": "Signing Ceremony Memorandum Of Understanding On Multinational Cooperation For The Provision Of Land Battle Decisive Munitions Lbdm",
+          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2018/07/12/signing-ceremony-memorandum-of-understanding-on-multinational-cooperation-for-the-provision-of-land-battle-decisive-munitions-lbdm",
+          "terms": [
+            "munition"
+          ],
+          "weight": 3,
+          "age": 4
+        },
         {
           "date": "2026-10-01",
           "title": "Nato Allies Test Drone Defences At Sea",
@@ -478,7 +508,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 19
+          "age": 20
         },
         {
           "date": "2026-09-28",
@@ -488,7 +518,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 20
+          "age": 21
         },
         {
           "date": "2026-09-28",
@@ -518,7 +548,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 20
+          "age": 21
         },
         {
           "date": "2026-09-28",
@@ -558,36 +588,6 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 33
-        },
-        {
-          "date": "2026-09-15",
-          "title": "Signing Ceremony At The Nato Summit Defence Industry Forum",
-          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2025/06/24/signing-ceremony-at-the-nato-summit-defence-industry-forum",
-          "terms": [
-            "industry"
-          ],
-          "weight": 2.5,
-          "age": 34
-        },
-        {
-          "date": "2026-09-15",
-          "title": "Plenary Session Of The Nato Summit Defence Industry Forum",
-          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2025/06/24/plenary-session-of-the-nato-summit-defence-industry-forum",
-          "terms": [
-            "industry"
-          ],
-          "weight": 2.5,
-          "age": 33
-        },
-        {
-          "date": "2026-09-15",
-          "title": "The Hunters Natos Anti Submarine Capability",
-          "url": "https://www.nato.int/en/multimedia/multimedia/videos/2026/09/15/the-hunters-natos-anti-submarine-capability",
-          "terms": [
-            "capability"
-          ],
-          "weight": 2,
           "age": 34
         }
       ]
@@ -697,11 +697,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-10-01T06:25:04.190553+00:00",
-      "score": 20.5,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-01T13:46:55.431105+00:00",
       "score": 24.8,
@@ -995,6 +990,11 @@
     {
       "generated": "2026-10-19T13:49:44.026006+00:00",
       "score": 14.7,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-19T22:34:24.936513+00:00",
+      "score": 18.2,
       "status": "BASELINE"
     }
   ],
