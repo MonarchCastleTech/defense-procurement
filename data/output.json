@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-19T05:08:32.699485+00:00",
+    "generated": "2026-10-19T13:49:44.026006+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 14.6,
-    "raw_score": 14.6,
+    "score": 14.7,
+    "raw_score": 14.7,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 14.6/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 14.7/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -58,6 +58,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/720700-2026"
         },
         {
+          "id": "721424-2026",
+          "date": "2026-10-19",
+          "title": "Romania – Cartridges – Acord cadru furnizare muniții de antrenament SIMMUNITION",
+          "buyer": "Unitatea Militara 02655",
+          "country": "ROU",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/721424-2026"
+        },
+        {
           "id": "720852-2026",
           "date": "2026-10-19",
           "title": "Poland – Ammunition for firearms and warfare – Dostawa amunicji 9 nb. pist. z poc. pełnopłaszczowym WS",
@@ -78,17 +89,6 @@
             "35330000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/719421-2026"
-        },
-        {
-          "id": "721424-2026",
-          "date": "2026-10-19",
-          "title": "Romania – Cartridges – Acord cadru furnizare muniții de antrenament SIMMUNITION",
-          "buyer": "Unitatea Militara 02655",
-          "country": "ROU",
-          "cpv": [
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/721424-2026"
         },
         {
           "id": "720518-2026",
@@ -114,6 +114,20 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/721475-2026"
         },
         {
+          "id": "717548-2026",
+          "date": "2026-10-16",
+          "title": "Estonia – Various chemical products – Akude ja tarvikute ostmise kestvushankeleping 2026/2027",
+          "buyer": "Riigi Kaitseinvesteeringute Keskus",
+          "country": "EST",
+          "cpv": [
+            "24960000",
+            "34352000",
+            "22450000",
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/717548-2026"
+        },
+        {
           "id": "716030-2026",
           "date": "2026-10-16",
           "title": "Spain – Radar – Suministro de cinemómetros compactos portátiles láser (SCT-2027-4)",
@@ -137,20 +151,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/717348-2026"
         },
         {
-          "id": "717548-2026",
-          "date": "2026-10-16",
-          "title": "Estonia – Various chemical products – Akude ja tarvikute ostmise kestvushankeleping 2026/2027",
-          "buyer": "Riigi Kaitseinvesteeringute Keskus",
-          "country": "EST",
-          "cpv": [
-            "24960000",
-            "34352000",
-            "22450000",
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/717548-2026"
-        },
-        {
           "id": "717957-2026",
           "date": "2026-10-16",
           "title": "Greece – Parts for aircraft – Δ. 11/24 ΠΡΟΜΗΘΕΙΑ 5 ΤΜΧ BRAKE HOUSING",
@@ -161,19 +161,6 @@
             "35311100"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/717957-2026"
-        },
-        {
-          "id": "718143-2026",
-          "date": "2026-10-16",
-          "title": "Spain – Software package and information systems – Adquisición y sostenimiento de software de análisis para la complementación de los subsistemas de captación y localización terrestre perteneciente al Sistema Conjunto Santiago (EMAD)",
-          "buyer": "Jefatura de Asuntos Económicos del Estado Mayor de la Defensa",
-          "country": "ESP",
-          "cpv": [
-            "48000000",
-            "35721000",
-            "51000000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/718143-2026"
         },
         {
           "id": "717297-2026",
@@ -196,6 +183,19 @@
             "35321300"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/718011-2026"
+        },
+        {
+          "id": "718143-2026",
+          "date": "2026-10-16",
+          "title": "Spain – Software package and information systems – Adquisición y sostenimiento de software de análisis para la complementación de los subsistemas de captación y localización terrestre perteneciente al Sistema Conjunto Santiago (EMAD)",
+          "buyer": "Jefatura de Asuntos Económicos del Estado Mayor de la Defensa",
+          "country": "ESP",
+          "cpv": [
+            "48000000",
+            "35721000",
+            "51000000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/718143-2026"
         },
         {
           "id": "718649-2026",
@@ -225,16 +225,16 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 5.0,
+      "score": 5.4,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-07-17",
-      "reporting_lag_days": 94,
-      "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 195583434.49,
+      "latest_observation": "2026-07-19",
+      "reporting_lag_days": 92,
+      "freshness_factor": 0.23,
+      "current_14d_weekly_equivalent": 194297339.94,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -255,24 +255,150 @@
           "amount": 1542032.26
         },
         {
-          "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 1255114.61
+          "name": "BAE SYSTEMS LAND & ARMAMENTS L.P.",
+          "amount": 874007.97
         },
         {
           "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 1080759.3
+          "amount": 540379.65
         },
         {
-          "name": "THE BOEING COMPANY",
-          "amount": 1021566.34
+          "name": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 239487.56
         },
         {
-          "name": "BAE SYSTEMS LAND & ARMAMENTS L.P.",
-          "amount": 874007.97
+          "name": "INTERTRADE LIMITED",
+          "amount": 224084.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
+        {
+          "date": "2026-07-19",
+          "award_id": "SPE4AX26F292Q",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 4101.06,
+          "agency": "Defense Logistics Agency",
+          "description": "8512248813!PARTS KIT,AIRCRAFT ENGINE BUI",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-07-19",
+          "award_id": "SPE4A626FCVHF",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 3001.21,
+          "agency": "Defense Logistics Agency",
+          "description": "4572424420!COMPRESSED AIR,BREA",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-19",
+          "award_id": "SPE7L126FAU8K",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 1686.08,
+          "agency": "Defense Logistics Agency",
+          "description": "4572424080!FILTER BODY,FLUID",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-07-19",
+          "award_id": "SPE4A626FCVGT",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 1538.28,
+          "agency": "Defense Logistics Agency",
+          "description": "4572424133!TETRAFLUOROETHANE",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-19",
+          "award_id": "SPE7L126FAU9F",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 23.15,
+          "agency": "Defense Logistics Agency",
+          "description": "4572424389!THERMOSTAT,FLOW CONTROL",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-07-19",
+          "award_id": "SPE7L126FAU9B",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 23.15,
+          "agency": "Defense Logistics Agency",
+          "description": "4572424385!THERMOSTAT,FLOW CONTROL",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-07-19",
+          "award_id": "SPE7L126FAU9C",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 23.15,
+          "agency": "Defense Logistics Agency",
+          "description": "4572424386!THERMOSTAT,FLOW CONTROL",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-07-19",
+          "award_id": "SPE7L126FAU9E",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 23.15,
+          "agency": "Defense Logistics Agency",
+          "description": "4572424388!THERMOSTAT,FLOW CONTROL",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-07-19",
+          "award_id": "SPE7L126FAU9D",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 23.15,
+          "agency": "Defense Logistics Agency",
+          "description": "4572424387!THERMOSTAT,FLOW CONTROL",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-07-19",
+          "award_id": "SPRTA126F0225",
+          "recipient": "TOP FLIGHT AEROSTRUCTURES, INC.",
+          "amount": 0.0,
+          "agency": "Defense Logistics Agency",
+          "description": "MANUFACTURE OF THE AIRCRAFT TIP FOR THE B1 AIRCRAFT.",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-18",
+          "award_id": "SPRTA126F0188",
+          "recipient": "TOP FLIGHT AEROSTRUCTURES, INC.",
+          "amount": 0.0,
+          "agency": "Defense Logistics Agency",
+          "description": "MANUFACTURE OF THE TRAILING EDGE FOR THE B1 AIRCRAFT.",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-18",
+          "award_id": "SPRTA126F0190",
+          "recipient": "TOP FLIGHT AEROSTRUCTURES, INC.",
+          "amount": 0.0,
+          "agency": "Defense Logistics Agency",
+          "description": "MANUFACTURE OF THE TRAILING EDGE FOR THE B1 AIRCRAFT.",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-18",
+          "award_id": "S0305A24F0022",
+          "recipient": "RAYTHEON COMPANY",
+          "amount": 0.0,
+          "agency": "Defense Contract Management Agency",
+          "description": "SUPPLY CONTRACTS AND PRICED ORDERS",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-07-18",
+          "award_id": "S0305A24F0011",
+          "recipient": "RAYTHEON COMPANY",
+          "amount": 0.0,
+          "agency": "Defense Contract Management Agency",
+          "description": "SUPPLY CONTRACTS AND PRICED ORDERS",
+          "naics": "336414"
+        },
         {
           "date": "2026-07-17",
           "award_id": "W31P4Q25C0007",
@@ -308,132 +434,6 @@
           "agency": "Department of the Army",
           "description": "EXECUTE PHASED ARRAY TRACKING RADAR TO INTERCEPT ON TARGET (PATRIOT) ADVANCED CAPABILITY-3 (PAC-3) MISSILE PRODUCTION BY PROVIDING INCIDENTAL SERVICES, HARDWARE, FACILITIES, EQUIPMENT, AND TECHNICAL, PLANNING, MANAGEMENT, AND MANUFACTURING EFFORTS.",
           "naics": "336414"
-        },
-        {
-          "date": "2026-07-17",
-          "award_id": "W31P4Q26F0036",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 9041817.0,
-          "agency": "Department of the Army",
-          "description": "PURCHASE OF HIGH MOBILITY ARTILLERY ROCKET SYSTEM (HIMARS) FOR THE US ARMY, MARINES AND FOREIGN MILITARY SALES (FMS) PARTNERS.",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-07-17",
-          "award_id": "SPRTA126C0125",
-          "recipient": "BROWN HELICOPTER, INC.",
-          "amount": 1970000.0,
-          "agency": "Defense Logistics Agency",
-          "description": "GEARBOX ACCESSORY",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-07-17",
-          "award_id": "FA853226F0276",
-          "recipient": "S & K AEROSPACE, LLC",
-          "amount": 1790010.0,
-          "agency": "Department of the Air Force",
-          "description": "SOURCING AND ACQUIRING COMMON STOCK EQUIPMENT",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-17",
-          "award_id": "FA812626P0051",
-          "recipient": "HYDRO SYSTEMS USA INC",
-          "amount": 1542032.26,
-          "agency": "Department of the Air Force",
-          "description": "TWO (2) KC-46 ENGINE CHANGE SYSTEMS IN ACCORDANCE WITH THE STATEMENT OF WORK AND APPENDIX A.",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-07-17",
-          "award_id": "N0001926F0185",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 1199422.04,
-          "agency": "Department of the Navy",
-          "description": "PROVIDE INCREMENTAL FUNDING FOR CLIN 0007 AND CLIN 0027",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-17",
-          "award_id": "N0002423C5300",
-          "recipient": "BAE SYSTEMS LAND & ARMAMENTS L.P.",
-          "amount": 874007.97,
-          "agency": "Department of the Navy",
-          "description": "MK45 GUN MOUNT",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-07-17",
-          "award_id": "N0001926F1123",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 853987.52,
-          "agency": "Department of the Navy",
-          "description": "WEAPON SYSTEM TECHNICAL SUPPORT (FMS)",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-07-17",
-          "award_id": "SPE4AX26F005B",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 540379.65,
-          "agency": "Defense Logistics Agency",
-          "description": "8512023461!PBL MATERIAL SUPPORT NORTHRUP",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-17",
-          "award_id": "SPE4AX26F005B",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 540379.65,
-          "agency": "Defense Logistics Agency",
-          "description": "8512023461!PBL MATERIAL SUPPORT NORTHRUP",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-17",
-          "award_id": "SPRTA126P0135",
-          "recipient": "INTERTRADE LIMITED",
-          "amount": 224084.0,
-          "agency": "Defense Logistics Agency",
-          "description": "RH PORT PLATE TO CONTROL CHARGE PRSSURE IN PUMP AND MOTOR.",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-17",
-          "award_id": "SPE4A626FZY26",
-          "recipient": "HUDSON TECHNOLOGIES COMPANY",
-          "amount": 195833.33,
-          "agency": "Defense Logistics Agency",
-          "description": "!",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-17",
-          "award_id": "N0001919F4078",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 149288.0,
-          "agency": "Department of the Navy",
-          "description": "COST OVERRUN",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-17",
-          "award_id": "SPE8E926V1996",
-          "recipient": "CAP 360 LLC",
-          "amount": 96624.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512248243!ADAPTER,QUICK DISCO",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-17",
-          "award_id": "SPE4AX26F290C",
-          "recipient": "UNISON INDUSTRIES LLC",
-          "amount": 74973.6,
-          "agency": "Defense Logistics Agency",
-          "description": "8512245710!CABLE ASSEMBLY,POWER,ELECTRIC",
-          "naics": "336412"
         }
       ]
     },
@@ -458,7 +458,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 17
+          "age": 18
         },
         {
           "date": "2026-09-29",
@@ -468,7 +468,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 19
+          "age": 20
         },
         {
           "date": "2026-09-29",
@@ -498,7 +498,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 20
+          "age": 21
         },
         {
           "date": "2026-09-28",
@@ -508,7 +508,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 20
+          "age": 21
         },
         {
           "date": "2026-09-28",
@@ -528,7 +528,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 20
+          "age": 21
         },
         {
           "date": "2026-09-28",
@@ -538,7 +538,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 20
+          "age": 21
         },
         {
           "date": "2026-09-18",
@@ -548,7 +548,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 30
+          "age": 31
         },
         {
           "date": "2026-09-15",
@@ -568,7 +568,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 33
+          "age": 34
         },
         {
           "date": "2026-09-15",
@@ -588,7 +588,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 33
+          "age": 34
         }
       ]
     },
@@ -697,11 +697,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-30T22:30:45.799600+00:00",
-      "score": 20.8,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-01T06:25:04.190553+00:00",
       "score": 20.5,
@@ -995,6 +990,11 @@
     {
       "generated": "2026-10-19T05:08:32.699485+00:00",
       "score": 14.6,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-19T13:49:44.026006+00:00",
+      "score": 14.7,
       "status": "BASELINE"
     }
   ],
