@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-18T20:58:26.938306+00:00",
+    "generated": "2026-10-19T05:08:32.699485+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 12.3,
-    "raw_score": 12.3,
+    "score": 14.6,
+    "raw_score": 14.6,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 12.3/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 14.6/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -26,12 +26,93 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 583,
-      "current_14d_weekly_equivalent": 36.0,
-      "baseline_weekly_median": 43.0,
-      "anomaly_z": -4.72,
+      "coverage": 590,
+      "current_14d_weekly_equivalent": 38.5,
+      "baseline_weekly_median": 41.5,
+      "anomaly_z": -0.58,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "722083-2026",
+          "date": "2026-10-19",
+          "title": "Greece – Aviation kerosene – ΠΡΟΜΗΘΕΙΑ ΑΕΡΟΠΟΡΙΚΟΥ ΚΑΥΣΙΜΟΤΥ",
+          "buyer": "ΥΠΗΡΕΣΙΑ ΠΡΟΜΗΘΕΙΩΝ ΠΟΛΕΜΙΚΗΣ ΑΕΡΟΠΟΡΙΑΣ (ΥΠ/ΠΑ)",
+          "country": "GRC",
+          "cpv": [
+            "09131000",
+            "09131100",
+            "35311100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/722083-2026"
+        },
+        {
+          "id": "720700-2026",
+          "date": "2026-10-19",
+          "title": "Latvia – Police equipment – Šaujamieroču piegāde Jelgavas pašvaldības policijas vajadzībām",
+          "buyer": "Jelgavas valstspilsētas pašvaldība",
+          "country": "LVA",
+          "cpv": [
+            "35200000",
+            "35320000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/720700-2026"
+        },
+        {
+          "id": "720852-2026",
+          "date": "2026-10-19",
+          "title": "Poland – Ammunition for firearms and warfare – Dostawa amunicji 9 nb. pist. z poc. pełnopłaszczowym WS",
+          "buyer": "Skarb Państwa - Jednostka Wojskowa Nr 2305",
+          "country": "POL",
+          "cpv": [
+            "35331000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/720852-2026"
+        },
+        {
+          "id": "719421-2026",
+          "date": "2026-10-19",
+          "title": "Spain – Ammunition – Adquisición de munición ACA de 155 mm",
+          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+          "country": "ESP",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/719421-2026"
+        },
+        {
+          "id": "721424-2026",
+          "date": "2026-10-19",
+          "title": "Romania – Cartridges – Acord cadru furnizare muniții de antrenament SIMMUNITION",
+          "buyer": "Unitatea Militara 02655",
+          "country": "ROU",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/721424-2026"
+        },
+        {
+          "id": "720518-2026",
+          "date": "2026-10-19",
+          "title": "Poland – Electronic intelligence system – Dostawa dwóch mobilnych systemów do wykrywania i lokalizacji obiektów latających na małych wysokościach z użyciem techniki wizyjnej i detekcji radiowej RF",
+          "buyer": "Nadbużański Oddział Straży Granicznej w Chełmie",
+          "country": "POL",
+          "cpv": [
+            "35721000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/720518-2026"
+        },
+        {
+          "id": "721475-2026",
+          "date": "2026-10-19",
+          "title": "Slovenia – Security, fire-fighting, police and defence equipment – Sistem za elektronsko zaščito sil - Skyner",
+          "buyer": "MINISTRSTVO ZA OBRAMBO",
+          "country": "SVN",
+          "cpv": [
+            "35000000",
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/721475-2026"
+        },
         {
           "id": "716030-2026",
           "date": "2026-10-16",
@@ -128,17 +209,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/718649-2026"
         },
         {
-          "id": "715365-2026",
-          "date": "2026-10-16",
-          "title": "Portugal – Armoured military vehicles – 3026008982 / Fornecimento de Viatura Táticas Ultraligeiras (VTUL)",
-          "buyer": "Ministério da Defesa Nacional - Marinha",
-          "country": "PRT",
-          "cpv": [
-            "35410000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/715365-2026"
-        },
-        {
           "id": "717336-2026",
           "date": "2026-10-16",
           "title": "Greece – Aviation kerosene – ΠΡΟΜΗΘΕΙΑ ΑΕΡΟΠΟΡΙΚΟΥ ΚΑΥΣΙΜΟΤΥ",
@@ -150,91 +220,21 @@
             "35311100"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/717336-2026"
-        },
-        {
-          "id": "714915-2026",
-          "date": "2026-10-15",
-          "title": "Netherlands – Weapons, ammunition and associated parts – RFI - Practice Anti-Personnel (AP) Mines",
-          "buyer": "Ministerie van Defensie",
-          "country": "NLD",
-          "cpv": [
-            "35300000",
-            "35331400"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/714915-2026"
-        },
-        {
-          "id": "712377-2026",
-          "date": "2026-10-15",
-          "title": "Poland – Explosives – Dostawa materiałów wybuchowych, środków inicjujących wybuch, środków pozoracji oraz materiałów eksploatacyjnych na potrzeby realizacji szkoleń przez CSSG w Kętrzynie oraz na potrzeby W-MOSG",
-          "buyer": "WARMIŃSKO-MAZURSKI ODDZIAŁ STRAŻY GRANICZNEJ im. gen. bryg. Stefana Pasławskiego",
-          "country": "POL",
-          "cpv": [
-            "24600000",
-            "24615000",
-            "24612200",
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/712377-2026"
-        },
-        {
-          "id": "713724-2026",
-          "date": "2026-10-15",
-          "title": "Italy – Radar – acquisizione di n 3 sistemi RADAR Signal Simulator per la stimolazione degli apparati Radar Warning Receveir RWR ed Electronic Support Measure ESM della linea C 130J Sessione di training garanzia a norma di legge e Supporto Logistico Iniziale che prevede help desk e on site HW/SW support on call per 24 mesi eventuale opzione per l estensione di 12 mesi del periodo di garanzia e del servizio di hel",
-          "buyer": "DIREZIONE DEGLI ARMAMENTI AERONAUTICI E PER L’AERONAVIGABILITÀ",
-          "country": "ITA",
-          "cpv": [
-            "35722000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/713724-2026"
-        },
-        {
-          "id": "711523-2026",
-          "date": "2026-10-15",
-          "title": "Romania – Cartridges – Acord cadru furnizare muniții de antrenament 5,56 mm",
-          "buyer": "Unitatea Militara 02655",
-          "country": "ROU",
-          "cpv": [
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/711523-2026"
-        },
-        {
-          "id": "712602-2026",
-          "date": "2026-10-15",
-          "title": "Lithuania – Parts of firearms and ammunition – Kolimatorinis taikiklis su priartintoju automatiniam ginklui (PPR-583)",
-          "buyer": "Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos",
-          "country": "LTU",
-          "cpv": [
-            "35340000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/712602-2026"
-        },
-        {
-          "id": "713840-2026",
-          "date": "2026-10-15",
-          "title": "Spain – Machine guns – Adquisición de Repuestos y Herramientas AMP 12,70 mm.",
-          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
-          "country": "ESP",
-          "cpv": [
-            "35321300"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/713840-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 5.2,
+      "score": 5.0,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-07-17",
-      "reporting_lag_days": 93,
+      "reporting_lag_days": 94,
       "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 195257706.67,
+      "current_14d_weekly_equivalent": 195583434.49,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -256,7 +256,11 @@
         },
         {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 1238185.95
+          "amount": 1255114.61
+        },
+        {
+          "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 1080759.3
         },
         {
           "name": "THE BOEING COMPANY",
@@ -265,10 +269,6 @@
         {
           "name": "BAE SYSTEMS LAND & ARMAMENTS L.P.",
           "amount": 874007.97
-        },
-        {
-          "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 540379.65
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -383,6 +383,15 @@
         },
         {
           "date": "2026-07-17",
+          "award_id": "SPE4AX26F005B",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 540379.65,
+          "agency": "Defense Logistics Agency",
+          "description": "8512023461!PBL MATERIAL SUPPORT NORTHRUP",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-17",
           "award_id": "SPRTA126P0135",
           "recipient": "INTERTRADE LIMITED",
           "amount": 224084.0,
@@ -425,15 +434,6 @@
           "agency": "Defense Logistics Agency",
           "description": "8512245710!CABLE ASSEMBLY,POWER,ELECTRIC",
           "naics": "336412"
-        },
-        {
-          "date": "2026-07-17",
-          "award_id": "FA855426FB001",
-          "recipient": "L3HARRIS TECHNOLOGIES, INC.",
-          "amount": 65493.97,
-          "agency": "Department of the Air Force",
-          "description": "BASIC YEAR WITH 4 ADDITIONAL ONE-YEAR ORDERING PERIODS FOR BRU-57S, CIRCUIT CARD ASSEMBLIES, MICRO CONTROL ASSEMBLIES, POWER SUPPLIES, HIGH BANDWIDTH ASSEMBLIES, BUFFER BUS ASSEMBLIES",
-          "naics": "336413"
         }
       ]
     },
@@ -446,7 +446,7 @@
       "retained": false,
       "coverage": 61,
       "current_14d_weekly_equivalent": 0.0,
-      "baseline_weekly_median": 1.0,
+      "baseline_weekly_median": 6.5,
       "anomaly_z": -0.67,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
@@ -594,15 +594,15 @@
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
-      "score": 0.0,
+      "score": 16.0,
       "status": "BASELINE",
       "weight": 0.15,
       "available": true,
       "retained": false,
       "coverage": 17,
-      "current_14d_weekly_equivalent": 0.0,
+      "current_14d_weekly_equivalent": 1.5,
       "baseline_weekly_median": 0.0,
-      "anomaly_z": 0.0,
+      "anomaly_z": 0.75,
       "method": "Defense Acquisition Regulations System publication velocity; rules weighted 1.5.",
       "evidence": [
         {
@@ -697,11 +697,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-09-30T12:55:22.630326+00:00",
-      "score": 20.8,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-30T22:30:45.799600+00:00",
       "score": 20.8,
@@ -995,6 +990,11 @@
     {
       "generated": "2026-10-18T20:58:26.938306+00:00",
       "score": 12.3,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-19T05:08:32.699485+00:00",
+      "score": 14.6,
       "status": "BASELINE"
     }
   ],
