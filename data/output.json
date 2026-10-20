@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-19T22:34:24.936513+00:00",
+    "generated": "2026-10-20T05:08:57.633364+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 18.2,
-    "raw_score": 18.2,
+    "score": 19.0,
+    "raw_score": 19.0,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 18.2/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 19.0/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -26,10 +26,10 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 599,
-      "current_14d_weekly_equivalent": 38.5,
-      "baseline_weekly_median": 41.5,
-      "anomaly_z": -0.58,
+      "coverage": 589,
+      "current_14d_weekly_equivalent": 40.5,
+      "baseline_weekly_median": 42.0,
+      "anomaly_z": -0.18,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
@@ -225,26 +225,22 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 5.4,
+      "score": 5.2,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-07-19",
-      "reporting_lag_days": 92,
-      "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 195490719.68,
+      "reporting_lag_days": 93,
+      "freshness_factor": 0.22,
+      "current_14d_weekly_equivalent": 194884690.09,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
           "name": "LOCKHEED MARTIN CORPORATION",
           "amount": 380608852.35
-        },
-        {
-          "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 2456213.37
         },
         {
           "name": "BROWN HELICOPTER, INC.",
@@ -259,6 +255,10 @@
           "amount": 1542032.26
         },
         {
+          "name": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 1247632.57
+        },
+        {
           "name": "BAE SYSTEMS LAND & ARMAMENTS L.P.",
           "amount": 874007.97
         },
@@ -268,7 +268,7 @@
         },
         {
           "name": "HUDSON TECHNOLOGIES COMPANY",
-          "amount": 239487.56
+          "amount": 236243.47
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -311,11 +311,11 @@
         },
         {
           "date": "2026-07-19",
-          "award_id": "SPE7L126FAU9F",
+          "award_id": "SPE7L126FAU9E",
           "recipient": "RDO AGRICULTURE EQUIPMENT CO",
           "amount": 23.15,
           "agency": "Defense Logistics Agency",
-          "description": "4572424389!THERMOSTAT,FLOW CONTROL",
+          "description": "4572424388!THERMOSTAT,FLOW CONTROL",
           "naics": "332994"
         },
         {
@@ -329,6 +329,15 @@
         },
         {
           "date": "2026-07-19",
+          "award_id": "SPE7L126FAU9D",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 23.15,
+          "agency": "Defense Logistics Agency",
+          "description": "4572424387!THERMOSTAT,FLOW CONTROL",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-07-19",
           "award_id": "SPE7L126FAU9C",
           "recipient": "RDO AGRICULTURE EQUIPMENT CO",
           "amount": 23.15,
@@ -338,20 +347,11 @@
         },
         {
           "date": "2026-07-19",
-          "award_id": "SPE7L126FAU9E",
+          "award_id": "SPE7L126FAU9F",
           "recipient": "RDO AGRICULTURE EQUIPMENT CO",
           "amount": 23.15,
           "agency": "Defense Logistics Agency",
-          "description": "4572424388!THERMOSTAT,FLOW CONTROL",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-07-19",
-          "award_id": "SPE7L126FAU9D",
-          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
-          "amount": 23.15,
-          "agency": "Defense Logistics Agency",
-          "description": "4572424387!THERMOSTAT,FLOW CONTROL",
+          "description": "4572424389!THERMOSTAT,FLOW CONTROL",
           "naics": "332994"
         },
         {
@@ -365,7 +365,7 @@
         },
         {
           "date": "2026-07-18",
-          "award_id": "SPRTA126F0188",
+          "award_id": "SPRTA126F0190",
           "recipient": "TOP FLIGHT AEROSTRUCTURES, INC.",
           "amount": 0.0,
           "agency": "Defense Logistics Agency",
@@ -374,7 +374,7 @@
         },
         {
           "date": "2026-07-18",
-          "award_id": "SPRTA126F0190",
+          "award_id": "SPRTA126F0188",
           "recipient": "TOP FLIGHT AEROSTRUCTURES, INC.",
           "amount": 0.0,
           "agency": "Defense Logistics Agency",
@@ -439,15 +439,15 @@
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 17.3,
+      "score": 21.7,
       "status": "BASELINE",
       "weight": 0.2,
       "available": true,
       "retained": false,
       "coverage": 64,
       "current_14d_weekly_equivalent": 4.5,
-      "baseline_weekly_median": 6.5,
-      "anomaly_z": -0.21,
+      "baseline_weekly_median": 2.5,
+      "anomaly_z": 0.54,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -697,11 +697,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-10-01T13:46:55.431105+00:00",
-      "score": 24.8,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-01T22:50:52.499057+00:00",
       "score": 25.2,
@@ -995,6 +990,11 @@
     {
       "generated": "2026-10-19T22:34:24.936513+00:00",
       "score": 18.2,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-20T05:08:57.633364+00:00",
+      "score": 19.0,
       "status": "BASELINE"
     }
   ],
