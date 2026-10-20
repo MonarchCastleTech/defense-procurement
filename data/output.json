@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-20T17:26:23.608550+00:00",
+    "generated": "2026-10-20T21:48:20.471946+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -69,28 +69,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/723020-2026"
         },
         {
-          "id": "723644-2026",
-          "date": "2026-10-20",
-          "title": "Germany – Military vehicles and associated parts – 6003110460-BAAINBw E2.5F",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
-          "country": "DEU",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/723644-2026"
-        },
-        {
-          "id": "725112-2026",
-          "date": "2026-10-20",
-          "title": "Romania – Cartridges – Lotul 1 - Cartuș 7,62x39 mm de manevră Lotul 2 - Cartuș 7,62x54 mm de manevră Lotul 3 - Cartuș 7,62x39 mm cu glonț miez oțel Lotul 4 - Cartuș 7,62x54 mm cu glonț miez oțel Lotul 5 - Cartuș 7,62x54 mm cu glonț trasor Lotul 6 - Cartuș 7,62x39 mm cu glonț trasor",
-          "buyer": "Ministerul Apararii - Unitatea Militara 02550 Bucuresti",
-          "country": "ROU",
-          "cpv": [
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/725112-2026"
-        },
-        {
           "id": "725853-2026",
           "date": "2026-10-20",
           "title": "Sweden – Information technology services – Förmånsportal",
@@ -114,6 +92,28 @@
             "35331000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/726219-2026"
+        },
+        {
+          "id": "723644-2026",
+          "date": "2026-10-20",
+          "title": "Germany – Military vehicles and associated parts – 6003110460-BAAINBw E2.5F",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/723644-2026"
+        },
+        {
+          "id": "725112-2026",
+          "date": "2026-10-20",
+          "title": "Romania – Cartridges – Lotul 1 - Cartuș 7,62x39 mm de manevră Lotul 2 - Cartuș 7,62x54 mm de manevră Lotul 3 - Cartuș 7,62x39 mm cu glonț miez oțel Lotul 4 - Cartuș 7,62x54 mm cu glonț miez oțel Lotul 5 - Cartuș 7,62x54 mm cu glonț trasor Lotul 6 - Cartuș 7,62x39 mm cu glonț trasor",
+          "buyer": "Ministerul Apararii - Unitatea Militara 02550 Bucuresti",
+          "country": "ROU",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/725112-2026"
         },
         {
           "id": "723449-2026",
@@ -234,7 +234,7 @@
       "latest_observation": "2026-07-20",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 924904988.42,
+      "current_14d_weekly_equivalent": 926846528.37,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -252,23 +252,23 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 8893645.64
+          "amount": 8990924.82
         },
         {
           "name": "GOODRICH CORPORATION",
-          "amount": 2888530.6
+          "amount": 5777061.2
         },
         {
           "name": "L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P.",
           "amount": 2532392.0
         },
         {
-          "name": "GUL",
-          "amount": 1290800.0
+          "name": "GENERAL ELECTRIC COMPANY",
+          "amount": 1434772.48
         },
         {
-          "name": "BAE SYSTEMS LAND & ARMAMENTS L.P.",
-          "amount": 874007.97
+          "name": "GUL",
+          "amount": 1290800.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -308,6 +308,15 @@
           "agency": "Department of the Air Force",
           "description": "F-15 -- RAPID RESPONSE DELIVERY ORDER",
           "naics": "336411"
+        },
+        {
+          "date": "2026-07-20",
+          "award_id": "SPRHA126F0123",
+          "recipient": "GOODRICH CORPORATION",
+          "amount": 2888530.6,
+          "agency": "Defense Logistics Agency",
+          "description": "NSN: 1630013916571  NOUN: WHEEL,LANDING GEAR  QTY: 89",
+          "naics": "336413"
         },
         {
           "date": "2026-07-20",
@@ -374,6 +383,15 @@
         },
         {
           "date": "2026-07-20",
+          "award_id": "SPE4A526F7827",
+          "recipient": "GENERAL ELECTRIC COMPANY",
+          "amount": 729203.64,
+          "agency": "Defense Logistics Agency",
+          "description": "8512235148!BLADE,TURBINE ROTOR",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-07-20",
           "award_id": "SPE4A626PY141",
           "recipient": "HYDRO-AIRE AEROSPACE CORP",
           "amount": 560014.0,
@@ -392,6 +410,15 @@
         },
         {
           "date": "2026-07-20",
+          "award_id": "SPE7L126F0007",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 515152.7,
+          "agency": "Defense Logistics Agency",
+          "description": "8511677956!MISCELLANEOUS",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-20",
           "award_id": "FA861726FB001",
           "recipient": "THE BOEING COMPANY",
           "amount": 500000.0,
@@ -406,33 +433,6 @@
           "amount": 483975.0,
           "agency": "Defense Logistics Agency",
           "description": "8512166764!ADAPTER SET,GROUND",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-20",
-          "award_id": "H9224126FE043",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 458264.0,
-          "agency": "U.S. Special Operations Command",
-          "description": "RECOIL ADAPTORS",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-07-20",
-          "award_id": "FA853226F0273",
-          "recipient": "BONEAL, INCORPORATED",
-          "amount": 453128.0,
-          "agency": "Department of the Air Force",
-          "description": "THIRD PARTY EQUIPMENT PURCHASING TO SOURCE, ACQUIRE, AND MANAGE DELIVERY OF A BROAD RANGE OF SUPPORT EQUIPMENT NATIONAL STOCK NUMBERS.",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-20",
-          "award_id": "SPRTA126F0324",
-          "recipient": "GENERAL ELECTRIC COMPANY",
-          "amount": 444492.8,
-          "agency": "Defense Logistics Agency",
-          "description": "BLADE,COMPRESSOR,AI",
           "naics": "336413"
         }
       ]
@@ -687,11 +687,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-10-02T13:03:25.815388+00:00",
-      "score": 24.5,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-02T22:28:07.022849+00:00",
       "score": 24.5,
@@ -984,6 +979,11 @@
     },
     {
       "generated": "2026-10-20T17:26:23.608550+00:00",
+      "score": 19.5,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-20T21:48:20.471946+00:00",
       "score": 19.5,
       "status": "BASELINE"
     }
