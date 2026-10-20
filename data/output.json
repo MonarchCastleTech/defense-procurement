@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-20T11:59:02.049991+00:00",
+    "generated": "2026-10-20T17:26:23.608550+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -234,7 +234,7 @@
       "latest_observation": "2026-07-20",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 928623249.74,
+      "current_14d_weekly_equivalent": 924904988.42,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -252,7 +252,7 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 16524299.68
+          "amount": 8893645.64
         },
         {
           "name": "GOODRICH CORPORATION",
@@ -299,15 +299,6 @@
           "agency": "Department of the Army",
           "description": "PROVIDE SHOP SET SUPPORT IN SUPPORT OF AVIATION MISSION SYSTEMS AND ARCHITECTURE (AMSA) FY 2026 FOREIGN MILITARY SALES (FMS).",
           "naics": "336413"
-        },
-        {
-          "date": "2026-07-20",
-          "award_id": "FA863422F0044",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 7797884.32,
-          "agency": "Department of the Air Force",
-          "description": "F-15 -- RAPID RESPONSE DELIVERY ORDER",
-          "naics": "336411"
         },
         {
           "date": "2026-07-20",
@@ -434,6 +425,15 @@
           "agency": "Department of the Air Force",
           "description": "THIRD PARTY EQUIPMENT PURCHASING TO SOURCE, ACQUIRE, AND MANAGE DELIVERY OF A BROAD RANGE OF SUPPORT EQUIPMENT NATIONAL STOCK NUMBERS.",
           "naics": "336413"
+        },
+        {
+          "date": "2026-07-20",
+          "award_id": "SPRTA126F0324",
+          "recipient": "GENERAL ELECTRIC COMPANY",
+          "amount": 444492.8,
+          "agency": "Defense Logistics Agency",
+          "description": "BLADE,COMPRESSOR,AI",
+          "naics": "336413"
         }
       ]
     },
@@ -444,7 +444,7 @@
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 47,
+      "coverage": 30,
       "current_14d_weekly_equivalent": 4.5,
       "baseline_weekly_median": 2.5,
       "anomaly_z": 0.54,
@@ -478,7 +478,7 @@
             "munition"
           ],
           "weight": 3,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-10-01",
@@ -488,7 +488,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 18
+          "age": 19
         },
         {
           "date": "2026-09-29",
@@ -508,7 +508,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 20
+          "age": 21
         },
         {
           "date": "2026-09-28",
@@ -518,7 +518,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 21
+          "age": 22
         },
         {
           "date": "2026-09-28",
@@ -528,7 +528,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 21
+          "age": 22
         },
         {
           "date": "2026-09-28",
@@ -538,7 +538,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 21
+          "age": 22
         },
         {
           "date": "2026-09-28",
@@ -548,7 +548,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 21
+          "age": 22
         },
         {
           "date": "2026-09-28",
@@ -558,7 +558,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 21
+          "age": 22
         },
         {
           "date": "2026-09-28",
@@ -568,7 +568,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 21
+          "age": 22
         },
         {
           "date": "2026-09-18",
@@ -578,17 +578,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 31
-        },
-        {
-          "date": "2026-09-15",
-          "title": "Plenary Session Of The Nato Summit Defence Industry Forum",
-          "url": "https://www.nato.int/en/multimedia/multimedia/audios/2025/06/24/plenary-session-of-the-nato-summit-defence-industry-forum",
-          "terms": [
-            "industry"
-          ],
-          "weight": 2.5,
-          "age": 34
+          "age": 32
         }
       ]
     },
@@ -697,11 +687,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-10-02T06:03:26.787176+00:00",
-      "score": 24.5,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-02T13:03:25.815388+00:00",
       "score": 24.5,
@@ -994,6 +979,11 @@
     },
     {
       "generated": "2026-10-20T11:59:02.049991+00:00",
+      "score": 19.5,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-20T17:26:23.608550+00:00",
       "score": 19.5,
       "status": "BASELINE"
     }
