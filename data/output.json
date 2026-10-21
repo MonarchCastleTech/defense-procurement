@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-21T17:34:40.511504+00:00",
+    "generated": "2026-10-21T21:55:17.705217+00:00",
     "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -231,7 +231,7 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 2.2,
+      "score": 2.1,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -240,7 +240,7 @@
       "latest_observation": "2026-07-21",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 8301258.61,
+      "current_14d_weekly_equivalent": 8013913.47,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -254,19 +254,15 @@
         },
         {
           "name": "ADVANCED SYSTEMS & SOFTWARE ENGINEERING TECHNOLOGIES LLC",
-          "amount": 1920468.26
+          "amount": 1826386.06
         },
         {
           "name": "INTERTRADE LIMITED",
-          "amount": 1137600.0
+          "amount": 1113225.0
         },
         {
           "name": "LOCKHEED MARTIN CORP",
           "amount": 1073635.63
-        },
-        {
-          "name": "RTI TECHNOLOGIES, LLC",
-          "amount": 699899.84
         },
         {
           "name": "UNITED CAPITAL INVESTMENTS GROUP, INC.",
@@ -274,7 +270,11 @@
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 507780.52
+          "amount": 462335.16
+        },
+        {
+          "name": "RTI TECHNOLOGIES, LLC",
+          "amount": 349949.92
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -353,15 +353,6 @@
         },
         {
           "date": "2026-07-21",
-          "award_id": "N0016426PJ077",
-          "recipient": "RTI TECHNOLOGIES, LLC",
-          "amount": 349949.92,
-          "agency": "Department of the Navy",
-          "description": "MK 1 MOD 0 DEMOLITION CHARGE CONTAINER",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-07-21",
           "award_id": "SPE4A626PX902",
           "recipient": "RBC BEARINGS INCORPORATED",
           "amount": 279882.06,
@@ -416,15 +407,6 @@
         },
         {
           "date": "2026-07-21",
-          "award_id": "N6893624F0008",
-          "recipient": "ADVANCED SYSTEMS & SOFTWARE ENGINEERING TECHNOLOGIES LLC",
-          "amount": 94082.2,
-          "agency": "Department of the Navy",
-          "description": "COMBAT AVIONICS",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-21",
           "award_id": "FA823225FB171",
           "recipient": "LEIDOS, INC.",
           "amount": 57341.11,
@@ -434,12 +416,30 @@
         },
         {
           "date": "2026-07-21",
-          "award_id": "SPE4A626F5098",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 54551.36,
+          "award_id": "SPE7L126P8925",
+          "recipient": "TRI-TECHNOLOGIES INC.",
+          "amount": 45630.0,
           "agency": "Defense Logistics Agency",
-          "description": "8511867875 SUPPORT,STRUCTURAL",
-          "naics": "336413"
+          "description": "8512232349!ROD SECTION,CLEANIN",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-07-21",
+          "award_id": "SPE7L126P9168",
+          "recipient": "GENERAL DYNAMICS-OTS, INC.",
+          "amount": 37097.28,
+          "agency": "Defense Logistics Agency",
+          "description": "8512246939!CONVEYOR ELEMENT,AM",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-07-21",
+          "award_id": "FA822626P0726",
+          "recipient": "PRODUCTION TOOL & TECHNOLOGY, INC.",
+          "amount": 28470.0,
+          "agency": "Department of the Air Force",
+          "description": "ATTAINING SCREW CAPS THAT HAVE A MICAP AND SINGLE SOURCE",
+          "naics": "336412"
         }
       ]
     },
@@ -694,11 +694,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-10-03T16:36:41.766803+00:00",
-      "score": 24.3,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-03T21:40:58.149109+00:00",
       "score": 24.3,
@@ -991,6 +986,11 @@
     },
     {
       "generated": "2026-10-21T17:34:40.511504+00:00",
+      "score": 18.3,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-21T21:55:17.705217+00:00",
       "score": 18.3,
       "status": "BASELINE"
     }
