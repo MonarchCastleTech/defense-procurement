@@ -1,14 +1,16 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-21T12:13:52.234335+00:00",
-    "mode": "live",
+    "generated": "2026-10-21T17:34:40.511504+00:00",
+    "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–90 days",
     "classification": "procurement-acceleration-screening-not-conflict-probability-or-contract-forecast",
     "coverage": "5/5",
-    "confidence": "HIGH",
-    "source_notes": []
+    "confidence": "MEDIUM",
+    "source_notes": [
+      "critical_materials: retained (RuntimeError)"
+    ]
   },
   "warning": {
     "score": 18.3,
@@ -238,7 +240,7 @@
       "latest_observation": "2026-07-21",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 8686469.71,
+      "current_14d_weekly_equivalent": 8301258.61,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -247,32 +249,32 @@
           "amount": 7612934.0
         },
         {
-          "name": "GENERAL ELECTRIC COMPANY",
-          "amount": 2440923.2
+          "name": "AERO SIMULATION, INC.",
+          "amount": 1999999.98
         },
         {
           "name": "ADVANCED SYSTEMS & SOFTWARE ENGINEERING TECHNOLOGIES LLC",
-          "amount": 1826386.06
+          "amount": 1920468.26
         },
         {
           "name": "INTERTRADE LIMITED",
-          "amount": 1113225.0
+          "amount": 1137600.0
         },
         {
           "name": "LOCKHEED MARTIN CORP",
           "amount": 1073635.63
         },
         {
-          "name": "AERO SIMULATION, INC.",
-          "amount": 999999.99
+          "name": "RTI TECHNOLOGIES, LLC",
+          "amount": 699899.84
         },
         {
           "name": "UNITED CAPITAL INVESTMENTS GROUP, INC.",
           "amount": 552402.44
         },
         {
-          "name": "RTI TECHNOLOGIES, LLC",
-          "amount": 349949.92
+          "name": "THE BOEING COMPANY",
+          "amount": 507780.52
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -285,15 +287,6 @@
           "agency": "Missile Defense Agency",
           "description": "THE PURPOSE OF THIS MODIFICATION IS RELATED TO THE AWARD OF IMS 9.1 AND KSA THAAD UNIQUE COSTS.",
           "naics": "336413"
-        },
-        {
-          "date": "2026-07-21",
-          "award_id": "SPRMM126FR90M",
-          "recipient": "GENERAL ELECTRIC COMPANY",
-          "amount": 2377600.0,
-          "agency": "Defense Logistics Agency",
-          "description": "NOZZLE,TURBINE,TURB",
-          "naics": "336411"
         },
         {
           "date": "2026-07-21",
@@ -333,11 +326,29 @@
         },
         {
           "date": "2026-07-21",
+          "award_id": "FA002126F0007",
+          "recipient": "AERO SIMULATION, INC.",
+          "amount": 999999.99,
+          "agency": "Department of the Air Force",
+          "description": "ZERO FLIGHT HOUR SIM TRAINING FOR THE FALCON 900.",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-21",
           "award_id": "FA520526P0078",
           "recipient": "UNITED CAPITAL INVESTMENTS GROUP, INC.",
           "amount": 552402.44,
           "agency": "Department of the Air Force",
           "description": "INFLATABLE DECOYS",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-07-21",
+          "award_id": "N0016426PJ077",
+          "recipient": "RTI TECHNOLOGIES, LLC",
+          "amount": 349949.92,
+          "agency": "Department of the Navy",
+          "description": "MK 1 MOD 0 DEMOLITION CHARGE CONTAINER",
           "naics": "332994"
         },
         {
@@ -378,12 +389,30 @@
         },
         {
           "date": "2026-07-21",
+          "award_id": "SPE4A526F7860",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 199817.48,
+          "agency": "Defense Logistics Agency",
+          "description": "8512236658!GUARD,FAN IMPELLER",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-21",
           "award_id": "SPRPA126PVA67",
           "recipient": "PROJECTS UNLIMITED INC",
           "amount": 130858.14,
           "agency": "Defense Logistics Agency",
           "description": "PWA AXIS",
           "naics": "336413"
+        },
+        {
+          "date": "2026-07-21",
+          "award_id": "N6893624F0008",
+          "recipient": "ADVANCED SYSTEMS & SOFTWARE ENGINEERING TECHNOLOGIES LLC",
+          "amount": 94082.2,
+          "agency": "Department of the Navy",
+          "description": "COMBAT AVIONICS",
+          "naics": "336411"
         },
         {
           "date": "2026-07-21",
@@ -410,33 +439,6 @@
           "amount": 54551.36,
           "agency": "Defense Logistics Agency",
           "description": "8511867875 SUPPORT,STRUCTURAL",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-21",
-          "award_id": "SPE7L126P8925",
-          "recipient": "TRI-TECHNOLOGIES INC.",
-          "amount": 45630.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512232349!ROD SECTION,CLEANIN",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-07-21",
-          "award_id": "SPE7MC26F0064",
-          "recipient": "JAMAICA BEARINGS CO., INC.",
-          "amount": 38795.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512238577!VALVE,LINEAR,DIRECT",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-21",
-          "award_id": "SPE7MC26F0064",
-          "recipient": "JAMAICA BEARINGS CO., INC.",
-          "amount": 38795.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512238577!VALVE,LINEAR,DIRECT",
           "naics": "336413"
         }
       ]
@@ -482,7 +484,7 @@
             "munition"
           ],
           "weight": 3,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-10-01",
@@ -492,7 +494,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 19
+          "age": 20
         },
         {
           "date": "2026-09-29",
@@ -512,7 +514,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 21
+          "age": 22
         },
         {
           "date": "2026-09-28",
@@ -522,7 +524,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 22
+          "age": 23
         },
         {
           "date": "2026-09-28",
@@ -532,7 +534,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 22
+          "age": 23
         },
         {
           "date": "2026-09-28",
@@ -542,7 +544,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 22
+          "age": 23
         },
         {
           "date": "2026-09-28",
@@ -552,7 +554,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 22
+          "age": 23
         },
         {
           "date": "2026-09-28",
@@ -562,7 +564,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 22
+          "age": 23
         },
         {
           "date": "2026-09-28",
@@ -572,7 +574,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 22
+          "age": 23
         },
         {
           "date": "2026-09-18",
@@ -582,7 +584,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 32
+          "age": 33
         }
       ]
     },
@@ -663,7 +665,7 @@
       "status": "BASELINE",
       "weight": 0.1,
       "available": true,
-      "retained": false,
+      "retained": true,
       "coverage": 2,
       "method": "Absolute robust-z of one-month copper and nickel returns.",
       "evidence": [
@@ -687,15 +689,11 @@
           "score": 42.3,
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
-      ]
+      ],
+      "retained_reason": "RuntimeError"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-03T11:56:27.866417+00:00",
-      "score": 24.3,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-03T16:36:41.766803+00:00",
       "score": 24.3,
@@ -988,6 +986,11 @@
     },
     {
       "generated": "2026-10-21T12:13:52.234335+00:00",
+      "score": 18.3,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-21T17:34:40.511504+00:00",
       "score": 18.3,
       "status": "BASELINE"
     }
