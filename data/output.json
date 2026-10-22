@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-22T05:14:46.668045+00:00",
+    "generated": "2026-10-22T12:16:28.568162+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 22.9,
-    "raw_score": 22.9,
+    "score": 23.5,
+    "raw_score": 23.5,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 22.9/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 23.5/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -33,17 +33,6 @@
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
-          "id": "732200-2026",
-          "date": "2026-10-22",
-          "title": "Latvia – Weapons, ammunition and associated parts – Ieroču iegāde uz 3 gadiem",
-          "buyer": "Nodrošinājuma valsts aģentūra",
-          "country": "LVA",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/732200-2026"
-        },
-        {
           "id": "730681-2026",
           "date": "2026-10-22",
           "title": "Czechia – Parts of military vehicles – Náhradní díly T-810",
@@ -55,17 +44,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/730681-2026"
         },
         {
-          "id": "731324-2026",
+          "id": "732200-2026",
           "date": "2026-10-22",
-          "title": "Czechia – Repair and maintenance services of military vehicles – Toyota Hilux - komplexní zabezpečení AOT II",
-          "buyer": "Česká republika - Ministerstvo obrany",
-          "country": "CZE",
+          "title": "Latvia – Weapons, ammunition and associated parts – Ieroču iegāde uz 3 gadiem",
+          "buyer": "Nodrošinājuma valsts aģentūra",
+          "country": "LVA",
           "cpv": [
-            "50630000",
-            "80630000",
-            "35420000"
+            "35300000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/731324-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/732200-2026"
         },
         {
           "id": "730921-2026",
@@ -93,18 +80,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/732460-2026"
         },
         {
-          "id": "733400-2026",
-          "date": "2026-10-22",
-          "title": "Czechia – Ammunition – Nákup munice 2028/VI - Termitový granát",
-          "buyer": "Česká republika - Ministerstvo obrany",
-          "country": "CZE",
-          "cpv": [
-            "35330000",
-            "24610000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/733400-2026"
-        },
-        {
           "id": "733158-2026",
           "date": "2026-10-22",
           "title": "Poland – Miscellaneous repair and maintenance services – Włączenie urządzeń systemu ogólnozakładowej łączności telefonicznej oraz systemów dyspozytora ruchu zakładu pompowni „Makoszowy” do systemów Oddziału CZOK dla Spółki Restrukturyzacji Kopalń S.A. Oddział Centralny Zakład Odwadniania Kopalń”",
@@ -116,6 +91,18 @@
             "35711000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/733158-2026"
+        },
+        {
+          "id": "733400-2026",
+          "date": "2026-10-22",
+          "title": "Czechia – Ammunition – Nákup munice 2028/VI - Termitový granát",
+          "buyer": "Česká republika - Ministerstvo obrany",
+          "country": "CZE",
+          "cpv": [
+            "35330000",
+            "24610000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/733400-2026"
         },
         {
           "id": "732735-2026",
@@ -143,6 +130,41 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/733002-2026"
         },
         {
+          "id": "731324-2026",
+          "date": "2026-10-22",
+          "title": "Czechia – Repair and maintenance services of military vehicles – Toyota Hilux - komplexní zabezpečení AOT II",
+          "buyer": "Česká republika - Ministerstvo obrany",
+          "country": "CZE",
+          "cpv": [
+            "50630000",
+            "80630000",
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/731324-2026"
+        },
+        {
+          "id": "730020-2026",
+          "date": "2026-10-22",
+          "title": "Czechia – Parts of military vehicles – Náhradní díly na T-815",
+          "buyer": "Ministerstvo obrany",
+          "country": "CZE",
+          "cpv": [
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/730020-2026"
+        },
+        {
+          "id": "730122-2026",
+          "date": "2026-10-22",
+          "title": "Finland – Unmanned aerial vehicles – Micro-UAS Procurement",
+          "buyer": "The Finnish Border Guard",
+          "country": "FIN",
+          "cpv": [
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/730122-2026"
+        },
+        {
           "id": "731131-2026",
           "date": "2026-10-22",
           "title": "Czechia – Weapons, ammunition and associated parts – Výzva č. 26221000444 - PDW",
@@ -152,18 +174,6 @@
             "35300000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/731131-2026"
-        },
-        {
-          "id": "732105-2026",
-          "date": "2026-10-22",
-          "title": "Netherlands – Electronic and electrical spare parts for military vehicles – MILSPEC Cables for Defence Applications",
-          "buyer": "Ministerie van Defensie",
-          "country": "NLD",
-          "cpv": [
-            "35422000",
-            "35412500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/732105-2026"
         },
         {
           "id": "731527-2026",
@@ -192,6 +202,18 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/732209-2026"
         },
         {
+          "id": "732105-2026",
+          "date": "2026-10-22",
+          "title": "Netherlands – Electronic and electrical spare parts for military vehicles – MILSPEC Cables for Defence Applications",
+          "buyer": "Ministerie van Defensie",
+          "country": "NLD",
+          "cpv": [
+            "35422000",
+            "35412500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/732105-2026"
+        },
+        {
           "id": "732301-2026",
           "date": "2026-10-22",
           "title": "Spain – Electrical machinery, apparatus, equipment and consumables; lighting – Sistema Dinámico de Adquisición de suministro materiales diversos y productos de uso habitual para los diferentes departamentos del Ayuntamiento de Bétera",
@@ -204,241 +226,219 @@
             "03450000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/732301-2026"
-        },
-        {
-          "id": "730122-2026",
-          "date": "2026-10-22",
-          "title": "Finland – Unmanned aerial vehicles – Micro-UAS Procurement",
-          "buyer": "The Finnish Border Guard",
-          "country": "FIN",
-          "cpv": [
-            "35613000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/730122-2026"
-        },
-        {
-          "id": "730020-2026",
-          "date": "2026-10-22",
-          "title": "Czechia – Parts of military vehicles – Náhradní díly na T-815",
-          "buyer": "Ministerstvo obrany",
-          "country": "CZE",
-          "cpv": [
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/730020-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 1.8,
+      "score": 4.2,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-07-21",
-      "reporting_lag_days": 93,
-      "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 6225659.16,
+      "latest_observation": "2026-07-22",
+      "reporting_lag_days": 92,
+      "freshness_factor": 0.23,
+      "current_14d_weekly_equivalent": 58793801.46,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
+          "name": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 63662182.5
+        },
+        {
           "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 7612934.0
+          "amount": 20326923.0
         },
         {
-          "name": "INTERTRADE LIMITED",
-          "amount": 1137600.0
+          "name": "CORVID TECHNOLOGIES, LLC",
+          "amount": 9371445.0
         },
         {
-          "name": "LOCKHEED MARTIN CORP",
-          "amount": 1073635.63
+          "name": "GENERAL DYNAMICS ORDNANCE AND TACTICAL SYSTEMS, INC.",
+          "amount": 4228491.3
         },
         {
-          "name": "RTI TECHNOLOGIES, LLC",
-          "amount": 699899.84
+          "name": "GLOBAL LOGISTICS SUPPORT SERVICES INC",
+          "amount": 3438611.84
         },
         {
-          "name": "UNITED CAPITAL INVESTMENTS GROUP, INC.",
-          "amount": 552402.44
+          "name": "HONEYWELL INTERNATIONAL INC.",
+          "amount": 2927184.34
         },
         {
-          "name": "RBC BEARINGS INCORPORATED",
-          "amount": 279882.06
+          "name": "LINMARR ASSOCIATES, INC.",
+          "amount": 2025000.0
         },
         {
-          "name": "ROSEMOUNT AEROSPACE INC",
-          "amount": 244150.37
-        },
-        {
-          "name": "THE BOEING COMPANY",
-          "amount": 235720.58
+          "name": "ADVANCED SYSTEMS & SOFTWARE ENGINEERING TECHNOLOGIES LLC",
+          "amount": 1701310.9
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
         {
-          "date": "2026-07-21",
-          "award_id": "HQ085321C0002",
+          "date": "2026-07-22",
+          "award_id": "W58RGZ26F0343",
+          "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 34142370.5,
+          "agency": "Department of the Army",
+          "description": "PROVIDE SHOP SET SUPPORT IN SUPPORT OF AVIATION MISSION SYSTEMS AND ARCHITECTURE (AMSA) FY 2026 FOREIGN MILITARY SALES (FMS).",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-22",
+          "award_id": "W58RGZ26F0026",
+          "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 29519812.0,
+          "agency": "Department of the Army",
+          "description": "CH-47 ROK FIELD SUPPORT PACKAGE: OPTION EXERCISE",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-22",
+          "award_id": "N0003024C0100",
           "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 7612934.0,
-          "agency": "Missile Defense Agency",
-          "description": "THE PURPOSE OF THIS MODIFICATION IS RELATED TO THE AWARD OF IMS 9.1 AND KSA THAAD UNIQUE COSTS.",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-21",
-          "award_id": "SPRTA126C0094",
-          "recipient": "INTERTRADE LIMITED",
-          "amount": 1088850.0,
-          "agency": "Defense Logistics Agency",
-          "description": "GOVERNOR, CONSTANT S SUPPORTING THE F-15/F-16 AIRCRAFT.",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-21",
-          "award_id": "FA882321C0001",
-          "recipient": "LOCKHEED MARTIN CORP",
-          "amount": 1073635.63,
-          "agency": "Department of the Air Force",
-          "description": "INCREMENTAL FUNDING ON CONTRACT LINE ITEM NUMBERS 6010 AND 7500, CONTRACT LINE ITEM NUMBER 6005 PERIOD OF PERFORMANCE EXTENSION, UPDATE ATTACHMENT 4, AND CORRECT MATH ERROR ON MODIFICATION P00141.",
+          "amount": 20326923.0,
+          "agency": "Department of the Navy",
+          "description": "THIS MODIFICATION INCLUDES TOTAL FUNDING ACTIONS OF $20,326,923 FOR THE TRIDENT D5 II LE2 PROGRAM UNDER CLIN 0051 VARIANCE FOR WEAPONS PROCUREMENT, NAVY (WPN) AND CLIN 0052 INCREMENTAL FUNDS FOR RESEARCH, DEVELOPMENT, TEST, AND EVALUATION (RDT&E).",
           "naics": "336414"
         },
         {
-          "date": "2026-07-21",
-          "award_id": "FA520526P0078",
-          "recipient": "UNITED CAPITAL INVESTMENTS GROUP, INC.",
-          "amount": 552402.44,
+          "date": "2026-07-22",
+          "award_id": "N6339425C0003",
+          "recipient": "CORVID TECHNOLOGIES, LLC",
+          "amount": 9371445.0,
+          "agency": "Department of the Navy",
+          "description": "MANUFACTURING, FLIGHT ACTIVITY, AND LIMITED DESIGN SUPPORT OF SHORT AND MEDIUM RANGE SUB-ORBITAL AND LAUNCH SUPPORT SERVICES.",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-07-22",
+          "award_id": "W519TC26FA429",
+          "recipient": "GENERAL DYNAMICS ORDNANCE AND TACTICAL SYSTEMS, INC.",
+          "amount": 4228491.3,
+          "agency": "Department of the Army",
+          "description": "SEE BASE IDIQ CONTRACT.",
+          "naics": "332993"
+        },
+        {
+          "date": "2026-07-22",
+          "award_id": "FA810824FB005",
+          "recipient": "GLOBAL LOGISTICS SUPPORT SERVICES INC",
+          "amount": 3438611.84,
           "agency": "Department of the Air Force",
-          "description": "INFLATABLE DECOYS",
-          "naics": "332994"
+          "description": "CONTRACT FIELD TEAM (CFT) SUPPORT FOR HSC-2, NORFOLK, VA.",
+          "naics": "336411"
         },
         {
-          "date": "2026-07-21",
-          "award_id": "N0016426PJ077",
-          "recipient": "RTI TECHNOLOGIES, LLC",
-          "amount": 349949.92,
-          "agency": "Department of the Navy",
-          "description": "MK 1 MOD 0 DEMOLITION CHARGE CONTAINER",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-07-21",
-          "award_id": "N0016426PJ077",
-          "recipient": "RTI TECHNOLOGIES, LLC",
-          "amount": 349949.92,
-          "agency": "Department of the Navy",
-          "description": "MK 1 MOD 0 DEMOLITION CHARGE CONTAINER",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-07-21",
-          "award_id": "SPE4A626PX902",
-          "recipient": "RBC BEARINGS INCORPORATED",
-          "amount": 279882.06,
+          "date": "2026-07-22",
+          "award_id": "SPE4A726C0102",
+          "recipient": "LINMARR ASSOCIATES, INC.",
+          "amount": 2025000.0,
           "agency": "Defense Logistics Agency",
-          "description": "8512236625!BEARING, ROLLER, CYLINDRICAL",
+          "description": "8512238122!COMPENSATOR-PLUG",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-22",
+          "award_id": "SPE4A526F7495",
+          "recipient": "HONEYWELL INTERNATIONAL INC.",
+          "amount": 1916607.54,
+          "agency": "Defense Logistics Agency",
+          "description": "8512207579!AIR CONDITIONER",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-22",
+          "award_id": "N6893623F0727",
+          "recipient": "ADVANCED SYSTEMS & SOFTWARE ENGINEERING TECHNOLOGIES LLC",
+          "amount": 1701310.9,
+          "agency": "Department of the Navy",
+          "description": "WSISS V 22D0038 23F0727 (12) AV8-B",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-07-22",
+          "award_id": "FA812126F0142",
+          "recipient": "FLIGHT SUPPORT, INC.",
+          "amount": 1667213.3,
+          "agency": "Department of the Air Force",
+          "description": "TF--33 BLADE SET, TURBINE, A",
           "naics": "336412"
         },
         {
-          "date": "2026-07-21",
-          "award_id": "SPE4A626F256W",
+          "date": "2026-07-22",
+          "award_id": "SPE4A226F6821",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 1271742.72,
+          "agency": "Defense Logistics Agency",
+          "description": "8512255087!INSTALLATION KIT,TA",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-22",
+          "award_id": "SPRTA126C0130",
+          "recipient": "EMPIRE AVIONICS CORP.",
+          "amount": 959980.0,
+          "agency": "Defense Logistics Agency",
+          "description": "RECEIVER-TRANSMITTER",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-22",
+          "award_id": "SPRPA126FE702",
           "recipient": "ROSEMOUNT AEROSPACE INC",
-          "amount": 215604.27,
+          "amount": 650000.0,
           "agency": "Defense Logistics Agency",
-          "description": "8512249683!MOTOR,ALTERNATING C",
+          "description": "MOTOR,WINDSHIELD WI",
           "naics": "336413"
         },
         {
-          "date": "2026-07-21",
-          "award_id": "SPE4A526F7860",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 199817.48,
+          "date": "2026-07-22",
+          "award_id": "SPRHA426F0019",
+          "recipient": "HONEYWELL INTERNATIONAL INC.",
+          "amount": 578913.93,
           "agency": "Defense Logistics Agency",
-          "description": "8512236658!GUARD,FAN IMPELLER",
+          "description": "F-16 WS",
           "naics": "336413"
         },
         {
-          "date": "2026-07-21",
-          "award_id": "SPRPA126PVA67",
-          "recipient": "PROJECTS UNLIMITED INC",
-          "amount": 130858.14,
-          "agency": "Defense Logistics Agency",
-          "description": "PWA AXIS",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-21",
-          "award_id": "N6893624F0008",
-          "recipient": "ADVANCED SYSTEMS & SOFTWARE ENGINEERING TECHNOLOGIES LLC",
-          "amount": 94082.2,
-          "agency": "Department of the Navy",
-          "description": "COMBAT AVIONICS",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-21",
-          "award_id": "FA823225FB171",
-          "recipient": "LEIDOS, INC.",
-          "amount": 57341.11,
+          "date": "2026-07-22",
+          "award_id": "FA852426F0036",
+          "recipient": "ONTIC ENGINEERING & MANUFACTURING, INC",
+          "amount": 425829.44,
           "agency": "Department of the Air Force",
-          "description": "THIS ORDER IS FOR THE REPAIR AND RETURN OF ASSETS FOR THE COUNTRY OF POLAND IN ACCORDANCE WITH THE TERMS AND CONDITIONS OF THE BASIC PSI CONTRACT. NAICS: 336413 LOA: PL-D-QBC LINE: 002",
+          "description": "UH-1N FUEL QUANTITY INDICATOR SYSTEM COMPONENT REPAIR",
           "naics": "336413"
         },
         {
-          "date": "2026-07-21",
-          "award_id": "SPE7L126P8925",
-          "recipient": "TRI-TECHNOLOGIES INC.",
-          "amount": 45630.0,
+          "date": "2026-07-22",
+          "award_id": "SPE4A526F8073",
+          "recipient": "HONEYWELL INTERNATIONAL INC.",
+          "amount": 340798.64,
           "agency": "Defense Logistics Agency",
-          "description": "8512232349!ROD SECTION,CLEANIN",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-07-21",
-          "award_id": "SPE7L126P9168",
-          "recipient": "GENERAL DYNAMICS-OTS, INC.",
-          "amount": 37097.28,
-          "agency": "Defense Logistics Agency",
-          "description": "8512246939!CONVEYOR ELEMENT,AM",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-07-21",
-          "award_id": "SPE4A126F1343",
-          "recipient": "GENERAL ELECTRIC COMPANY",
-          "amount": 31661.6,
-          "agency": "Defense Logistics Agency",
-          "description": "8512244205!INSULATION BLANKET,",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-21",
-          "award_id": "SPE4A626F221S",
-          "recipient": "THE BOEING COMPANY",
-          "amount": 26797.1,
-          "agency": "Defense Logistics Agency",
-          "description": "8512211894!CHAIN,CABLE",
+          "description": "8512252332!MOTOR,DIRECT CURREN",
           "naics": "336413"
         },
         {
-          "date": "2026-07-21",
-          "award_id": "SPRTA126P0732",
-          "recipient": "INTERTRADE LIMITED",
-          "amount": 24375.0,
+          "date": "2026-07-22",
+          "award_id": "SPE4AX26F303N",
+          "recipient": "A. J. ASSOCIATES MANUFACTURING & ENGINEERING CO. INC.",
+          "amount": 330000.0,
           "agency": "Defense Logistics Agency",
-          "description": "IN SUPPORT OF HOUSING, MECHANICAL FOR F16",
+          "description": "8512255048!SLEEVE AND SHAFT AS",
           "naics": "336413"
         },
         {
-          "date": "2026-07-21",
-          "award_id": "SPRTA126P0732",
-          "recipient": "INTERTRADE LIMITED",
-          "amount": 24375.0,
+          "date": "2026-07-22",
+          "award_id": "SPE4AX26F303M",
+          "recipient": "A. J. ASSOCIATES MANUFACTURING & ENGINEERING CO. INC.",
+          "amount": 272265.1,
           "agency": "Defense Logistics Agency",
-          "description": "IN SUPPORT OF HOUSING, MECHANICAL FOR F16",
+          "description": "8512255135!DUCT,FLOOR HEAT,FUS",
           "naics": "336413"
         }
       ]
@@ -464,7 +464,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-10-15",
@@ -474,7 +474,7 @@
             "munition"
           ],
           "weight": 3,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-10-15",
@@ -504,7 +504,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 22
+          "age": 23
         },
         {
           "date": "2026-09-29",
@@ -693,11 +693,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-10-04T06:13:10.554713+00:00",
-      "score": 23.6,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-04T12:46:35.547084+00:00",
       "score": 23.6,
@@ -991,6 +986,11 @@
     {
       "generated": "2026-10-22T05:14:46.668045+00:00",
       "score": 22.9,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-22T12:16:28.568162+00:00",
+      "score": 23.5,
       "status": "BASELINE"
     }
   ],
