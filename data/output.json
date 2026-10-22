@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-22T12:16:28.568162+00:00",
+    "generated": "2026-10-22T17:31:15.156148+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 23.5,
-    "raw_score": 23.5,
+    "score": 23.6,
+    "raw_score": 23.6,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 23.5/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 23.6/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -33,17 +33,6 @@
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
-          "id": "730681-2026",
-          "date": "2026-10-22",
-          "title": "Czechia – Parts of military vehicles – Náhradní díly T-810",
-          "buyer": "Česká republika - Ministerstvo obrany",
-          "country": "CZE",
-          "cpv": [
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/730681-2026"
-        },
-        {
           "id": "732200-2026",
           "date": "2026-10-22",
           "title": "Latvia – Weapons, ammunition and associated parts – Ieroču iegāde uz 3 gadiem",
@@ -55,29 +44,40 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/732200-2026"
         },
         {
-          "id": "730921-2026",
+          "id": "730681-2026",
           "date": "2026-10-22",
-          "title": "France – Ammunition – Achat de munitions pour l’unité de tir de l’école nationale d’administration pénitentiaire (ÉNAP).",
-          "buyer": "ENAP",
-          "country": "FRA",
+          "title": "Czechia – Parts of military vehicles – Náhradní díly T-810",
+          "buyer": "Česká republika - Ministerstvo obrany",
+          "country": "CZE",
           "cpv": [
-            "35330000"
+            "35420000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/730921-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/730681-2026"
         },
         {
-          "id": "732460-2026",
+          "id": "731324-2026",
           "date": "2026-10-22",
-          "title": "Sweden – IT services: consulting, software development, Internet and support – Ledningssystem för informationssäkerhet",
-          "buyer": "ettUpphandling",
-          "country": "SWE",
+          "title": "Czechia – Repair and maintenance services of military vehicles – Toyota Hilux - komplexní zabezpečení AOT II",
+          "buyer": "Česká republika - Ministerstvo obrany",
+          "country": "CZE",
           "cpv": [
-            "72000000",
-            "48000000",
-            "48517000",
-            "35710000"
+            "50630000",
+            "80630000",
+            "35420000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/732460-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/731324-2026"
+        },
+        {
+          "id": "733400-2026",
+          "date": "2026-10-22",
+          "title": "Czechia – Ammunition – Nákup munice 2028/VI - Termitový granát",
+          "buyer": "Česká republika - Ministerstvo obrany",
+          "country": "CZE",
+          "cpv": [
+            "35330000",
+            "24610000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/733400-2026"
         },
         {
           "id": "733158-2026",
@@ -91,18 +91,6 @@
             "35711000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/733158-2026"
-        },
-        {
-          "id": "733400-2026",
-          "date": "2026-10-22",
-          "title": "Czechia – Ammunition – Nákup munice 2028/VI - Termitový granát",
-          "buyer": "Česká republika - Ministerstvo obrany",
-          "country": "CZE",
-          "cpv": [
-            "35330000",
-            "24610000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/733400-2026"
         },
         {
           "id": "732735-2026",
@@ -130,39 +118,29 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/733002-2026"
         },
         {
-          "id": "731324-2026",
+          "id": "730921-2026",
           "date": "2026-10-22",
-          "title": "Czechia – Repair and maintenance services of military vehicles – Toyota Hilux - komplexní zabezpečení AOT II",
-          "buyer": "Česká republika - Ministerstvo obrany",
-          "country": "CZE",
+          "title": "France – Ammunition – Achat de munitions pour l’unité de tir de l’école nationale d’administration pénitentiaire (ÉNAP).",
+          "buyer": "ENAP",
+          "country": "FRA",
           "cpv": [
-            "50630000",
-            "80630000",
-            "35420000"
+            "35330000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/731324-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/730921-2026"
         },
         {
-          "id": "730020-2026",
+          "id": "732460-2026",
           "date": "2026-10-22",
-          "title": "Czechia – Parts of military vehicles – Náhradní díly na T-815",
-          "buyer": "Ministerstvo obrany",
-          "country": "CZE",
+          "title": "Sweden – IT services: consulting, software development, Internet and support – Ledningssystem för informationssäkerhet",
+          "buyer": "ettUpphandling",
+          "country": "SWE",
           "cpv": [
-            "35420000"
+            "72000000",
+            "48000000",
+            "48517000",
+            "35710000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/730020-2026"
-        },
-        {
-          "id": "730122-2026",
-          "date": "2026-10-22",
-          "title": "Finland – Unmanned aerial vehicles – Micro-UAS Procurement",
-          "buyer": "The Finnish Border Guard",
-          "country": "FIN",
-          "cpv": [
-            "35613000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/730122-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/732460-2026"
         },
         {
           "id": "731131-2026",
@@ -174,6 +152,18 @@
             "35300000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/731131-2026"
+        },
+        {
+          "id": "732105-2026",
+          "date": "2026-10-22",
+          "title": "Netherlands – Electronic and electrical spare parts for military vehicles – MILSPEC Cables for Defence Applications",
+          "buyer": "Ministerie van Defensie",
+          "country": "NLD",
+          "cpv": [
+            "35422000",
+            "35412500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/732105-2026"
         },
         {
           "id": "731527-2026",
@@ -202,18 +192,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/732209-2026"
         },
         {
-          "id": "732105-2026",
-          "date": "2026-10-22",
-          "title": "Netherlands – Electronic and electrical spare parts for military vehicles – MILSPEC Cables for Defence Applications",
-          "buyer": "Ministerie van Defensie",
-          "country": "NLD",
-          "cpv": [
-            "35422000",
-            "35412500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/732105-2026"
-        },
-        {
           "id": "732301-2026",
           "date": "2026-10-22",
           "title": "Spain – Electrical machinery, apparatus, equipment and consumables; lighting – Sistema Dinámico de Adquisición de suministro materiales diversos y productos de uso habitual para los diferentes departamentos del Ayuntamiento de Bétera",
@@ -226,12 +204,34 @@
             "03450000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/732301-2026"
+        },
+        {
+          "id": "730122-2026",
+          "date": "2026-10-22",
+          "title": "Finland – Unmanned aerial vehicles – Micro-UAS Procurement",
+          "buyer": "The Finnish Border Guard",
+          "country": "FIN",
+          "cpv": [
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/730122-2026"
+        },
+        {
+          "id": "730020-2026",
+          "date": "2026-10-22",
+          "title": "Czechia – Parts of military vehicles – Náhradní díly na T-815",
+          "buyer": "Ministerstvo obrany",
+          "country": "CZE",
+          "cpv": [
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/730020-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 4.2,
+      "score": 4.4,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -240,13 +240,13 @@
       "latest_observation": "2026-07-22",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 58793801.46,
+      "current_14d_weekly_equivalent": 77830285.07,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
           "name": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 63662182.5
+          "amount": 101578790.5
         },
         {
           "name": "LOCKHEED MARTIN CORPORATION",
@@ -266,7 +266,7 @@
         },
         {
           "name": "HONEYWELL INTERNATIONAL INC.",
-          "amount": 2927184.34
+          "amount": 3047359.4
         },
         {
           "name": "LINMARR ASSOCIATES, INC.",
@@ -279,6 +279,15 @@
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
+        {
+          "date": "2026-07-22",
+          "award_id": "W58RGZ26F0351",
+          "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 37916608.0,
+          "agency": "Department of the Army",
+          "description": "PROVIDE SHOP SET SUPPORT IN SUPPORT OF AVIATION MISSION SYSTEMS AND ARCHITECTURE",
+          "naics": "336413"
+        },
         {
           "date": "2026-07-22",
           "award_id": "W58RGZ26F0343",
@@ -431,15 +440,6 @@
           "agency": "Defense Logistics Agency",
           "description": "8512255048!SLEEVE AND SHAFT AS",
           "naics": "336413"
-        },
-        {
-          "date": "2026-07-22",
-          "award_id": "SPE4AX26F303M",
-          "recipient": "A. J. ASSOCIATES MANUFACTURING & ENGINEERING CO. INC.",
-          "amount": 272265.1,
-          "agency": "Defense Logistics Agency",
-          "description": "8512255135!DUCT,FLOOR HEAT,FUS",
-          "naics": "336413"
         }
       ]
     },
@@ -484,7 +484,7 @@
             "munition"
           ],
           "weight": 3,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-10-01",
@@ -494,7 +494,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 20
+          "age": 21
         },
         {
           "date": "2026-09-29",
@@ -514,7 +514,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 22
+          "age": 23
         },
         {
           "date": "2026-09-28",
@@ -524,7 +524,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 23
+          "age": 24
         },
         {
           "date": "2026-09-28",
@@ -534,7 +534,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 23
+          "age": 24
         },
         {
           "date": "2026-09-28",
@@ -544,7 +544,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 23
+          "age": 24
         },
         {
           "date": "2026-09-28",
@@ -554,7 +554,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 23
+          "age": 24
         },
         {
           "date": "2026-09-28",
@@ -564,7 +564,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 23
+          "age": 24
         },
         {
           "date": "2026-09-28",
@@ -574,7 +574,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 23
+          "age": 24
         },
         {
           "date": "2026-09-18",
@@ -584,7 +584,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 33
+          "age": 34
         }
       ]
     },
@@ -693,11 +693,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-10-04T12:46:35.547084+00:00",
-      "score": 23.6,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-04T21:50:03.026506+00:00",
       "score": 23.6,
@@ -991,6 +986,11 @@
     {
       "generated": "2026-10-22T12:16:28.568162+00:00",
       "score": 23.5,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-22T17:31:15.156148+00:00",
+      "score": 23.6,
       "status": "BASELINE"
     }
   ],
