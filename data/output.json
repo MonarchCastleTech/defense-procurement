@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-22T17:31:15.156148+00:00",
+    "generated": "2026-10-22T21:51:48.645774+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 23.6,
-    "raw_score": 23.6,
+    "score": 21.8,
+    "raw_score": 21.8,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 23.6/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 21.8/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -231,7 +231,7 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 4.4,
+      "score": 4.2,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -240,13 +240,13 @@
       "latest_observation": "2026-07-22",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 77830285.07,
+      "current_14d_weekly_equivalent": 58979259.24,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
           "name": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 101578790.5
+          "amount": 63662182.5
         },
         {
           "name": "LOCKHEED MARTIN CORPORATION",
@@ -266,7 +266,7 @@
         },
         {
           "name": "HONEYWELL INTERNATIONAL INC.",
-          "amount": 3047359.4
+          "amount": 2927184.34
         },
         {
           "name": "LINMARR ASSOCIATES, INC.",
@@ -279,15 +279,6 @@
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
-        {
-          "date": "2026-07-22",
-          "award_id": "W58RGZ26F0351",
-          "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 37916608.0,
-          "agency": "Department of the Army",
-          "description": "PROVIDE SHOP SET SUPPORT IN SUPPORT OF AVIATION MISSION SYSTEMS AND ARCHITECTURE",
-          "naics": "336413"
-        },
         {
           "date": "2026-07-22",
           "award_id": "W58RGZ26F0343",
@@ -440,6 +431,15 @@
           "agency": "Defense Logistics Agency",
           "description": "8512255048!SLEEVE AND SHAFT AS",
           "naics": "336413"
+        },
+        {
+          "date": "2026-07-22",
+          "award_id": "SPE4AX26F183V",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 308975.75,
+          "agency": "Defense Logistics Agency",
+          "description": "8512157304!LUMP SUM SETTLEMENT - INCREAS",
+          "naics": "336412"
         }
       ]
     },
@@ -661,7 +661,7 @@
     },
     "critical_materials": {
       "key": "critical_materials",
-      "score": 19.0,
+      "score": 1.4,
       "status": "BASELINE",
       "weight": 0.1,
       "available": true,
@@ -672,32 +672,27 @@
         {
           "id": "PCOPPUSDM",
           "label": "Global copper",
-          "latest_date": "2026-07-01",
-          "latest_value": 13542.82,
-          "change_pct": -0.07,
-          "robust_z": -0.48,
+          "latest_date": "2026-09-01",
+          "latest_value": 14473.06,
+          "change_pct": 0.99,
+          "robust_z": -0.42,
           "score": 0,
           "url": "https://fred.stlouisfed.org/series/PCOPPUSDM"
         },
         {
           "id": "PNICKUSDM",
           "label": "Global nickel",
-          "latest_date": "2026-07-01",
-          "latest_value": 16632.36,
-          "change_pct": -5.44,
-          "robust_z": -1.56,
-          "score": 42.3,
+          "latest_date": "2026-09-01",
+          "latest_value": 16323.82,
+          "change_pct": -2.53,
+          "robust_z": -0.58,
+          "score": 3.0,
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ]
     }
   },
   "history": [
-    {
-      "generated": "2026-10-04T21:50:03.026506+00:00",
-      "score": 23.6,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-05T06:05:40.426042+00:00",
       "score": 23.4,
@@ -991,6 +986,11 @@
     {
       "generated": "2026-10-22T17:31:15.156148+00:00",
       "score": 23.6,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-22T21:51:48.645774+00:00",
+      "score": 21.8,
       "status": "BASELINE"
     }
   ],
