@@ -1,16 +1,14 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-24T04:55:48.108620+00:00",
-    "mode": "partial",
+    "generated": "2026-10-24T11:27:48.894747+00:00",
+    "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
     "classification": "procurement-acceleration-screening-not-conflict-probability-or-contract-forecast",
     "coverage": "5/5",
-    "confidence": "MEDIUM",
-    "source_notes": [
-      "eu_notices: retained (HTTPError)"
-    ]
+    "confidence": "HIGH",
+    "source_notes": []
   },
   "warning": {
     "score": 20.4,
@@ -27,24 +25,13 @@
       "status": "WATCH",
       "weight": 0.3,
       "available": true,
-      "retained": true,
-      "coverage": 600,
+      "retained": false,
+      "coverage": 592,
       "current_14d_weekly_equivalent": 48.5,
       "baseline_weekly_median": 42.5,
       "anomaly_z": 1.62,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
-        {
-          "id": "736327-2026",
-          "date": "2026-10-23",
-          "title": "Romania – Cartridges – Cartușe cal. 9x19 mm pentru antrenament cu efect de marcare",
-          "buyer": "Directia Generala de Politie a Municipiului Bucuresti",
-          "country": "ROU",
-          "cpv": [
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/736327-2026"
-        },
         {
           "id": "734698-2026",
           "date": "2026-10-23",
@@ -60,6 +47,28 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/734698-2026"
         },
         {
+          "id": "736327-2026",
+          "date": "2026-10-23",
+          "title": "Romania – Cartridges – Cartușe cal. 9x19 mm pentru antrenament cu efect de marcare",
+          "buyer": "Directia Generala de Politie a Municipiului Bucuresti",
+          "country": "ROU",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/736327-2026"
+        },
+        {
+          "id": "734861-2026",
+          "date": "2026-10-23",
+          "title": "Czechia – Cartridges – Nákup munice 2026/VIII - Munice FX",
+          "buyer": "Ministerstvo obrany",
+          "country": "CZE",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/734861-2026"
+        },
+        {
           "id": "735266-2026",
           "date": "2026-10-23",
           "title": "Estonia – Various chemical products – Registreerimismärgid III",
@@ -72,17 +81,6 @@
             "35420000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/735266-2026"
-        },
-        {
-          "id": "734861-2026",
-          "date": "2026-10-23",
-          "title": "Czechia – Cartridges – Nákup munice 2026/VIII - Munice FX",
-          "buyer": "Ministerstvo obrany",
-          "country": "CZE",
-          "cpv": [
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/734861-2026"
         },
         {
           "id": "736919-2026",
@@ -118,51 +116,29 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/736511-2026"
         },
         {
-          "id": "732200-2026",
+          "id": "730921-2026",
           "date": "2026-10-22",
-          "title": "Latvia – Weapons, ammunition and associated parts – Ieroču iegāde uz 3 gadiem",
-          "buyer": "Nodrošinājuma valsts aģentūra",
-          "country": "LVA",
+          "title": "France – Ammunition – Achat de munitions pour l’unité de tir de l’école nationale d’administration pénitentiaire (ÉNAP).",
+          "buyer": "ENAP",
+          "country": "FRA",
           "cpv": [
-            "35300000"
+            "35330000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/732200-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/730921-2026"
         },
         {
-          "id": "730681-2026",
+          "id": "732460-2026",
           "date": "2026-10-22",
-          "title": "Czechia – Parts of military vehicles – Náhradní díly T-810",
-          "buyer": "Česká republika - Ministerstvo obrany",
-          "country": "CZE",
+          "title": "Sweden – IT services: consulting, software development, Internet and support – Ledningssystem för informationssäkerhet",
+          "buyer": "ettUpphandling",
+          "country": "SWE",
           "cpv": [
-            "35420000"
+            "72000000",
+            "48000000",
+            "48517000",
+            "35710000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/730681-2026"
-        },
-        {
-          "id": "731324-2026",
-          "date": "2026-10-22",
-          "title": "Czechia – Repair and maintenance services of military vehicles – Toyota Hilux - komplexní zabezpečení AOT II",
-          "buyer": "Česká republika - Ministerstvo obrany",
-          "country": "CZE",
-          "cpv": [
-            "50630000",
-            "80630000",
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/731324-2026"
-        },
-        {
-          "id": "733400-2026",
-          "date": "2026-10-22",
-          "title": "Czechia – Ammunition – Nákup munice 2028/VI - Termitový granát",
-          "buyer": "Česká republika - Ministerstvo obrany",
-          "country": "CZE",
-          "cpv": [
-            "35330000",
-            "24610000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/733400-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/732460-2026"
         },
         {
           "id": "733158-2026",
@@ -176,6 +152,18 @@
             "35711000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/733158-2026"
+        },
+        {
+          "id": "733400-2026",
+          "date": "2026-10-22",
+          "title": "Czechia – Ammunition – Nákup munice 2028/VI - Termitový granát",
+          "buyer": "Česká republika - Ministerstvo obrany",
+          "country": "CZE",
+          "cpv": [
+            "35330000",
+            "24610000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/733400-2026"
         },
         {
           "id": "732735-2026",
@@ -203,45 +191,54 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/733002-2026"
         },
         {
-          "id": "730921-2026",
+          "id": "730681-2026",
           "date": "2026-10-22",
-          "title": "France – Ammunition – Achat de munitions pour l’unité de tir de l’école nationale d’administration pénitentiaire (ÉNAP).",
-          "buyer": "ENAP",
-          "country": "FRA",
+          "title": "Czechia – Parts of military vehicles – Náhradní díly T-810",
+          "buyer": "Česká republika - Ministerstvo obrany",
+          "country": "CZE",
           "cpv": [
-            "35330000"
+            "35420000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/730921-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/730681-2026"
         },
         {
-          "id": "732460-2026",
+          "id": "732200-2026",
           "date": "2026-10-22",
-          "title": "Sweden – IT services: consulting, software development, Internet and support – Ledningssystem för informationssäkerhet",
-          "buyer": "ettUpphandling",
-          "country": "SWE",
+          "title": "Latvia – Weapons, ammunition and associated parts – Ieroču iegāde uz 3 gadiem",
+          "buyer": "Nodrošinājuma valsts aģentūra",
+          "country": "LVA",
           "cpv": [
-            "72000000",
-            "48000000",
-            "48517000",
-            "35710000"
+            "35300000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/732460-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/732200-2026"
+        },
+        {
+          "id": "731324-2026",
+          "date": "2026-10-22",
+          "title": "Czechia – Repair and maintenance services of military vehicles – Toyota Hilux - komplexní zabezpečení AOT II",
+          "buyer": "Česká republika - Ministerstvo obrany",
+          "country": "CZE",
+          "cpv": [
+            "50630000",
+            "80630000",
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/731324-2026"
         }
-      ],
-      "retained_reason": "HTTPError"
+      ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 2.6,
+      "score": 2.7,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-07-23",
-      "reporting_lag_days": 93,
-      "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 14163617.58,
+      "latest_observation": "2026-07-24",
+      "reporting_lag_days": 92,
+      "freshness_factor": 0.23,
+      "current_14d_weekly_equivalent": 14201984.75,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -262,24 +259,42 @@
           "amount": 195200.4
         },
         {
-          "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 186993.12
-        },
-        {
           "name": "SCIENCE AND ENGINEERING SERVICES, LLC",
           "amount": 179371.83
         },
         {
-          "name": "GE AVIATION SYSTEMS LLC",
-          "amount": 67212.0
+          "name": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 139948.92
         },
         {
-          "name": "KV ENGINEERING LLC",
-          "amount": 54000.0
+          "name": "CHEROKEE NATION ARMORED SOLUTIONS, LLC",
+          "amount": 123778.54
+        },
+        {
+          "name": "GE AVIATION SYSTEMS LLC",
+          "amount": 67212.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
+        {
+          "date": "2026-07-24",
+          "award_id": "0014",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": -5071.0,
+          "agency": "Department of the Air Force",
+          "description": "JOINT AIR TO SURFACE STANDOFF MISSILE (JASSM) ELECTRONIC SAFE AND ARM FUZE (ESAF)",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-07-24",
+          "award_id": "FA868219F1016",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": -5279.0,
+          "agency": "Department of the Air Force",
+          "description": "JOINT AIR TO SURFACE STANDOFF MISSILE",
+          "naics": "336414"
+        },
         {
           "date": "2026-07-23",
           "award_id": "W31P4Q25F0031",
@@ -336,21 +351,39 @@
         },
         {
           "date": "2026-07-23",
-          "award_id": "N0038326FY62L",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 115073.12,
-          "agency": "Department of the Navy",
-          "description": "WALKING BEAM ASSEMB",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-23",
           "award_id": "SPE4A526F1392",
           "recipient": "GE AVIATION SYSTEMS LLC",
           "amount": 67212.0,
           "agency": "Defense Logistics Agency",
           "description": "8511742673!ROTOR,GENERATOR",
           "naics": "336413"
+        },
+        {
+          "date": "2026-07-23",
+          "award_id": "SPRRA226F0113",
+          "recipient": "CHEROKEE NATION ARMORED SOLUTIONS, LLC",
+          "amount": 61889.27,
+          "agency": "Defense Logistics Agency",
+          "description": "THIS DELIVERY ORDER IS FOR INVENTORY MANAGEMENT AND MATERIAL SUPPORT FOR THAILAND CASE.",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-07-23",
+          "award_id": "SPRRA226F0113",
+          "recipient": "CHEROKEE NATION ARMORED SOLUTIONS, LLC",
+          "amount": 61889.27,
+          "agency": "Defense Logistics Agency",
+          "description": "THIS DELIVERY ORDER IS FOR INVENTORY MANAGEMENT AND MATERIAL SUPPORT FOR THAILAND CASE.",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-07-23",
+          "award_id": "SPE4AX26F307C",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 56386.8,
+          "agency": "Defense Logistics Agency",
+          "description": "8512258861!WIRING HARNESS,BRANCHED",
+          "naics": "336412"
         },
         {
           "date": "2026-07-23",
@@ -405,42 +438,6 @@
           "agency": "Defense Logistics Agency",
           "description": "8512256061!DUCT,VALVE ASSEMBLY",
           "naics": "336413"
-        },
-        {
-          "date": "2026-07-23",
-          "award_id": "SPE4A026P2240",
-          "recipient": "AVIATRIX INC",
-          "amount": 19499.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512256061!DUCT,VALVE ASSEMBLY",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-23",
-          "award_id": "SPE4A626F269T",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 12515.82,
-          "agency": "Defense Logistics Agency",
-          "description": "8512259169!SUPPORT,STRUCTURAL",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-23",
-          "award_id": "SPE4AX26F306X",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 10230.3,
-          "agency": "Defense Logistics Agency",
-          "description": "8512258712!BEARING ASSY,SPINDLE",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-07-23",
-          "award_id": "SPE4AX26F308F",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 6590.31,
-          "agency": "Defense Logistics Agency",
-          "description": "8512260025!CONNECTING LINK,RIG",
-          "naics": "336412"
         }
       ]
     },
@@ -465,7 +462,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-10-15",
@@ -684,11 +681,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-10-07T06:21:01.922545+00:00",
-      "score": 26.3,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-10-07T13:46:05.649486+00:00",
       "score": 26.3,
@@ -981,6 +973,11 @@
     },
     {
       "generated": "2026-10-24T04:55:48.108620+00:00",
+      "score": 20.4,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-24T11:27:48.894747+00:00",
       "score": 20.4,
       "status": "BASELINE"
     }
