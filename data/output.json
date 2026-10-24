@@ -1,14 +1,16 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-23T21:34:59.082444+00:00",
-    "mode": "live",
+    "generated": "2026-10-24T04:55:48.108620+00:00",
+    "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–90 days",
     "classification": "procurement-acceleration-screening-not-conflict-probability-or-contract-forecast",
     "coverage": "5/5",
-    "confidence": "HIGH",
-    "source_notes": []
+    "confidence": "MEDIUM",
+    "source_notes": [
+      "eu_notices: retained (HTTPError)"
+    ]
   },
   "warning": {
     "score": 20.4,
@@ -25,7 +27,7 @@
       "status": "WATCH",
       "weight": 0.3,
       "available": true,
-      "retained": false,
+      "retained": true,
       "coverage": 600,
       "current_14d_weekly_equivalent": 48.5,
       "baseline_weekly_median": 42.5,
@@ -225,20 +227,21 @@
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/732460-2026"
         }
-      ]
+      ],
+      "retained_reason": "HTTPError"
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 2.7,
+      "score": 2.6,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-07-23",
-      "reporting_lag_days": 92,
-      "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 14216661.47,
+      "reporting_lag_days": 93,
+      "freshness_factor": 0.22,
+      "current_14d_weekly_equivalent": 14163617.58,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -255,12 +258,12 @@
           "amount": 1049941.83
         },
         {
-          "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 250690.63
-        },
-        {
           "name": "DRS NETWORK & IMAGING SYSTEMS LLC",
           "amount": 195200.4
+        },
+        {
+          "name": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 186993.12
         },
         {
           "name": "SCIENCE AND ENGINEERING SERVICES, LLC",
@@ -271,8 +274,8 @@
           "amount": 67212.0
         },
         {
-          "name": "CHEROKEE NATION ARMORED SOLUTIONS, LLC",
-          "amount": 61889.27
+          "name": "KV ENGINEERING LLC",
+          "amount": 54000.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -351,24 +354,6 @@
         },
         {
           "date": "2026-07-23",
-          "award_id": "SPRRA226F0113",
-          "recipient": "CHEROKEE NATION ARMORED SOLUTIONS, LLC",
-          "amount": 61889.27,
-          "agency": "Defense Logistics Agency",
-          "description": "THIS DELIVERY ORDER IS FOR INVENTORY MANAGEMENT AND MATERIAL SUPPORT FOR THAILAND CASE.",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-07-23",
-          "award_id": "SPE4AX26F307C",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 56386.8,
-          "agency": "Defense Logistics Agency",
-          "description": "8512258861!WIRING HARNESS,BRANCHED",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-07-23",
           "award_id": "SPE4A726P2001",
           "recipient": "KV ENGINEERING LLC",
           "amount": 54000.0,
@@ -423,6 +408,15 @@
         },
         {
           "date": "2026-07-23",
+          "award_id": "SPE4A026P2240",
+          "recipient": "AVIATRIX INC",
+          "amount": 19499.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8512256061!DUCT,VALVE ASSEMBLY",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-23",
           "award_id": "SPE4A626F269T",
           "recipient": "SIKORSKY AIRCRAFT CORPORATION",
           "amount": 12515.82,
@@ -437,6 +431,15 @@
           "amount": 10230.3,
           "agency": "Defense Logistics Agency",
           "description": "8512258712!BEARING ASSY,SPINDLE",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-07-23",
+          "award_id": "SPE4AX26F308F",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 6590.31,
+          "agency": "Defense Logistics Agency",
+          "description": "8512260025!CONNECTING LINK,RIG",
           "naics": "336412"
         }
       ]
@@ -681,11 +684,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-10-06T18:33:27.389123+00:00",
-      "score": 26.3,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-10-07T06:21:01.922545+00:00",
       "score": 26.3,
@@ -978,6 +976,11 @@
     },
     {
       "generated": "2026-10-23T21:34:59.082444+00:00",
+      "score": 20.4,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-24T04:55:48.108620+00:00",
       "score": 20.4,
       "status": "BASELINE"
     }
