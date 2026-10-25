@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-25T16:42:30.098806+00:00",
+    "generated": "2026-10-25T21:08:30.510683+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -238,7 +238,7 @@
       "latest_observation": "2026-07-24",
       "reporting_lag_days": 93,
       "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 14204422.95,
+      "current_14d_weekly_equivalent": 13684356.0,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -251,12 +251,8 @@
           "amount": 5667952.0
         },
         {
-          "name": "ADVANCED SYSTEMS & SOFTWARE ENGINEERING TECHNOLOGIES LLC",
-          "amount": 1049941.83
-        },
-        {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 226213.6
+          "amount": 236021.52
         },
         {
           "name": "DRS NETWORK & IMAGING SYSTEMS LLC",
@@ -273,6 +269,10 @@
         {
           "name": "CHEROKEE NATION ARMORED SOLUTIONS, LLC",
           "amount": 61889.27
+        },
+        {
+          "name": "KV ENGINEERING LLC",
+          "amount": 54000.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -321,15 +321,6 @@
           "agency": "Department of the Army",
           "description": "HIGH MOBILITY ARTILLERY ROCKET SYSTEM (HIMARS) FULL RATE PRODUCTION LOT 16 FOR US AND FMS CUSTOMERS",
           "naics": "336414"
-        },
-        {
-          "date": "2026-07-23",
-          "award_id": "N6893623F0706",
-          "recipient": "ADVANCED SYSTEMS & SOFTWARE ENGINEERING TECHNOLOGIES LLC",
-          "amount": 1049941.83,
-          "agency": "Department of the Navy",
-          "description": "WSISS V 22D0038 23F0706 (11) WSDI SUPPORT",
-          "naics": "336411"
         },
         {
           "date": "2026-07-23",
@@ -437,6 +428,15 @@
           "amount": 19499.0,
           "agency": "Defense Logistics Agency",
           "description": "8512256061!DUCT,VALVE ASSEMBLY",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-23",
+          "award_id": "SPE4A626F269T",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 12515.82,
+          "agency": "Defense Logistics Agency",
+          "description": "8512259169!SUPPORT,STRUCTURAL",
           "naics": "336413"
         }
       ]
@@ -681,11 +681,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-10-09T06:33:21.623419+00:00",
-      "score": 26.3,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-10-09T18:28:22.535505+00:00",
       "score": 26.3,
@@ -978,6 +973,11 @@
     },
     {
       "generated": "2026-10-25T16:42:30.098806+00:00",
+      "score": 20.4,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-25T21:08:30.510683+00:00",
       "score": 20.4,
       "status": "BASELINE"
     }
