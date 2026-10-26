@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-26T13:27:49.080950+00:00",
+    "generated": "2026-10-26T22:50:01.744806+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,24 +26,23 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 603,
+      "coverage": 602,
       "current_14d_weekly_equivalent": 49.0,
       "baseline_weekly_median": 41.0,
       "anomaly_z": 1.54,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
-          "id": "737194-2026",
+          "id": "737821-2026",
           "date": "2026-10-26",
-          "title": "Spain – Electronic and electrical spare parts for warships – Contrato para el Sostenimiento Integral de las CONSOLAS Navales Multifunción CONAM, de los Sistemas de Navegación WECDIS y de sus equipos asociados instalados en Buques de la Armada.",
-          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
+          "title": "Spain – Repair and maintenance services of military vehicles – Servicio De Mantenimiento Del Carro De Recuperación M-47 Er3, Carro De Zapadores M-60 Y Vehículo Lanzapuentes Sobre Barcaza M-60/M-47",
+          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
           "country": "ESP",
           "cpv": [
-            "35522000",
-            "35712000",
-            "50660000"
+            "50630000",
+            "35420000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/737194-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/737821-2026"
         },
         {
           "id": "738078-2026",
@@ -58,6 +57,19 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/738078-2026"
         },
         {
+          "id": "737194-2026",
+          "date": "2026-10-26",
+          "title": "Spain – Electronic and electrical spare parts for warships – Contrato para el Sostenimiento Integral de las CONSOLAS Navales Multifunción CONAM, de los Sistemas de Navegación WECDIS y de sus equipos asociados instalados en Buques de la Armada.",
+          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
+          "country": "ESP",
+          "cpv": [
+            "35522000",
+            "35712000",
+            "50660000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/737194-2026"
+        },
+        {
           "id": "740343-2026",
           "date": "2026-10-26",
           "title": "Estonia – Ammunition for firearms and warfare – 40mm, 23mm relvade ning 76mm, 40mm ja 23mm laskemoona ostmine koos elutsükli tagamisega",
@@ -68,18 +80,6 @@
             "35320000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/740343-2026"
-        },
-        {
-          "id": "737821-2026",
-          "date": "2026-10-26",
-          "title": "Spain – Repair and maintenance services of military vehicles – Servicio De Mantenimiento Del Carro De Recuperación M-47 Er3, Carro De Zapadores M-60 Y Vehículo Lanzapuentes Sobre Barcaza M-60/M-47",
-          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
-          "country": "ESP",
-          "cpv": [
-            "50630000",
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/737821-2026"
         },
         {
           "id": "739189-2026",
@@ -238,7 +238,7 @@
       "latest_observation": "2026-07-27",
       "reporting_lag_days": 91,
       "freshness_factor": 0.24,
-      "current_14d_weekly_equivalent": 13725816.93,
+      "current_14d_weekly_equivalent": 14219926.93,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -251,8 +251,12 @@
           "amount": 5667952.0
         },
         {
+          "name": "ADVANCED SYSTEMS & SOFTWARE ENGINEERING TECHNOLOGIES LLC",
+          "amount": 1049941.83
+        },
+        {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 316661.87
+          "amount": 297330.31
         },
         {
           "name": "DRS NETWORK & IMAGING SYSTEMS LLC",
@@ -265,10 +269,6 @@
         {
           "name": "GE AVIATION SYSTEMS LLC",
           "amount": 67212.0
-        },
-        {
-          "name": "CHEROKEE NATION ARMORED SOLUTIONS, LLC",
-          "amount": 61889.27
         },
         {
           "name": "KV ENGINEERING LLC",
@@ -342,6 +342,15 @@
         },
         {
           "date": "2026-07-23",
+          "award_id": "N6893623F0706",
+          "recipient": "ADVANCED SYSTEMS & SOFTWARE ENGINEERING TECHNOLOGIES LLC",
+          "amount": 1049941.83,
+          "agency": "Department of the Navy",
+          "description": "WSISS V 22D0038 23F0706 (11) WSDI SUPPORT",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-07-23",
           "award_id": "N0038324PM006",
           "recipient": "DRS NETWORK & IMAGING SYSTEMS LLC",
           "amount": 195200.4,
@@ -369,15 +378,6 @@
         },
         {
           "date": "2026-07-23",
-          "award_id": "N0038326FY62L",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 115073.12,
-          "agency": "Department of the Navy",
-          "description": "WALKING BEAM ASSEMB",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-23",
           "award_id": "SPE4A526F1392",
           "recipient": "GE AVIATION SYSTEMS LLC",
           "amount": 67212.0,
@@ -387,12 +387,21 @@
         },
         {
           "date": "2026-07-23",
-          "award_id": "SPRRA226F0113",
-          "recipient": "CHEROKEE NATION ARMORED SOLUTIONS, LLC",
-          "amount": 61889.27,
+          "award_id": "SPE4AX26F307C",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 56386.8,
           "agency": "Defense Logistics Agency",
-          "description": "THIS DELIVERY ORDER IS FOR INVENTORY MANAGEMENT AND MATERIAL SUPPORT FOR THAILAND CASE.",
-          "naics": "336414"
+          "description": "8512258861!WIRING HARNESS,BRANCHED",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-07-23",
+          "award_id": "SPE4AX26F307C",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 56386.8,
+          "agency": "Defense Logistics Agency",
+          "description": "8512258861!WIRING HARNESS,BRANCHED",
+          "naics": "336412"
         },
         {
           "date": "2026-07-23",
@@ -428,15 +437,6 @@
           "amount": 22115.0,
           "agency": "Department of the Navy",
           "description": "HYDRAULIC MODULE ASSEMBLY",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-23",
-          "award_id": "SPE4A626PY622",
-          "recipient": "AIR SHUNT INSTRUMENTS, INC.",
-          "amount": 19900.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512249944!PANEL,CONTROL,ELECT",
           "naics": "336413"
         }
       ]
@@ -482,7 +482,7 @@
             "munition"
           ],
           "weight": 3,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-10-01",
@@ -512,7 +512,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 26
+          "age": 27
         },
         {
           "date": "2026-09-28",
@@ -522,7 +522,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 27
+          "age": 28
         },
         {
           "date": "2026-09-28",
@@ -552,7 +552,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 27
+          "age": 28
         },
         {
           "date": "2026-09-28",
@@ -681,11 +681,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-10-10T06:16:41.161199+00:00",
-      "score": 26.3,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-10-10T12:56:58.759640+00:00",
       "score": 26.3,
@@ -978,6 +973,11 @@
     },
     {
       "generated": "2026-10-26T13:27:49.080950+00:00",
+      "score": 19.8,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-26T22:50:01.744806+00:00",
       "score": 19.8,
       "status": "BASELINE"
     }
