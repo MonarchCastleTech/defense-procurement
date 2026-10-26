@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-26T05:10:39.114292+00:00",
+    "generated": "2026-10-26T13:27:49.080950+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,36 +26,12 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 602,
+      "coverage": 603,
       "current_14d_weekly_equivalent": 49.0,
       "baseline_weekly_median": 41.0,
       "anomaly_z": 1.54,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
-        {
-          "id": "737821-2026",
-          "date": "2026-10-26",
-          "title": "Spain – Repair and maintenance services of military vehicles – Servicio De Mantenimiento Del Carro De Recuperación M-47 Er3, Carro De Zapadores M-60 Y Vehículo Lanzapuentes Sobre Barcaza M-60/M-47",
-          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
-          "country": "ESP",
-          "cpv": [
-            "50630000",
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/737821-2026"
-        },
-        {
-          "id": "738078-2026",
-          "date": "2026-10-26",
-          "title": "France – Mortars – La présente consultation concerne : 26MC0238AOO - FOURNITURE DE MORTIERS SPECIAUX ET DE PRODUITS PRETS A L'EMPLOI POUR L'ENTRETIEN DE LA VOIRIE",
-          "buyer": "Toulouse Métropole",
-          "country": "FRA",
-          "cpv": [
-            "35322400",
-            "34921000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/738078-2026"
-        },
         {
           "id": "737194-2026",
           "date": "2026-10-26",
@@ -70,6 +46,18 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/737194-2026"
         },
         {
+          "id": "738078-2026",
+          "date": "2026-10-26",
+          "title": "France – Mortars – La présente consultation concerne : 26MC0238AOO - FOURNITURE DE MORTIERS SPECIAUX ET DE PRODUITS PRETS A L'EMPLOI POUR L'ENTRETIEN DE LA VOIRIE",
+          "buyer": "Toulouse Métropole",
+          "country": "FRA",
+          "cpv": [
+            "35322400",
+            "34921000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/738078-2026"
+        },
+        {
           "id": "740343-2026",
           "date": "2026-10-26",
           "title": "Estonia – Ammunition for firearms and warfare – 40mm, 23mm relvade ning 76mm, 40mm ja 23mm laskemoona ostmine koos elutsükli tagamisega",
@@ -82,15 +70,16 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/740343-2026"
         },
         {
-          "id": "738010-2026",
+          "id": "737821-2026",
           "date": "2026-10-26",
-          "title": "Lithuania – Cartridges – 7,62x51 mm kalibro trasuojantys šoviniai (PPR-623)",
-          "buyer": "Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos",
-          "country": "LTU",
+          "title": "Spain – Repair and maintenance services of military vehicles – Servicio De Mantenimiento Del Carro De Recuperación M-47 Er3, Carro De Zapadores M-60 Y Vehículo Lanzapuentes Sobre Barcaza M-60/M-47",
+          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+          "country": "ESP",
           "cpv": [
-            "35331500"
+            "50630000",
+            "35420000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/738010-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/737821-2026"
         },
         {
           "id": "739189-2026",
@@ -107,15 +96,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/739189-2026"
         },
         {
-          "id": "739081-2026",
+          "id": "738010-2026",
           "date": "2026-10-26",
-          "title": "Czechia – Weapons, ammunition and associated parts – Rámcová dohoda - Náhradní komponenty pro SURE FIRE",
-          "buyer": "Ministerstvo vnitra ČR",
-          "country": "CZE",
+          "title": "Lithuania – Cartridges – 7,62x51 mm kalibro trasuojantys šoviniai (PPR-623)",
+          "buyer": "Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos",
+          "country": "LTU",
           "cpv": [
-            "35300000"
+            "35331500"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/739081-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/738010-2026"
         },
         {
           "id": "740470-2026",
@@ -127,17 +116,6 @@
             "35331000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/740470-2026"
-        },
-        {
-          "id": "739978-2026",
-          "date": "2026-10-26",
-          "title": "Czechia – Ammunition for firearms and warfare – Rámcová dohoda - náboje do brokovnic",
-          "buyer": "Ministerstvo vnitra",
-          "country": "CZE",
-          "cpv": [
-            "35331000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/739978-2026"
         },
         {
           "id": "737224-2026",
@@ -165,6 +143,28 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/738652-2026"
         },
         {
+          "id": "739081-2026",
+          "date": "2026-10-26",
+          "title": "Czechia – Weapons, ammunition and associated parts – Rámcová dohoda - Náhradní komponenty pro SURE FIRE",
+          "buyer": "Ministerstvo vnitra ČR",
+          "country": "CZE",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/739081-2026"
+        },
+        {
+          "id": "739978-2026",
+          "date": "2026-10-26",
+          "title": "Czechia – Ammunition for firearms and warfare – Rámcová dohoda - náboje do brokovnic",
+          "buyer": "Ministerstvo vnitra",
+          "country": "CZE",
+          "cpv": [
+            "35331000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/739978-2026"
+        },
+        {
           "id": "736327-2026",
           "date": "2026-10-23",
           "title": "Romania – Cartridges – Cartușe cal. 9x19 mm pentru antrenament cu efect de marcare",
@@ -190,17 +190,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/734698-2026"
         },
         {
-          "id": "734861-2026",
-          "date": "2026-10-23",
-          "title": "Czechia – Cartridges – Nákup munice 2026/VIII - Munice FX",
-          "buyer": "Ministerstvo obrany",
-          "country": "CZE",
-          "cpv": [
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/734861-2026"
-        },
-        {
           "id": "736919-2026",
           "date": "2026-10-23",
           "title": "Germany – Miscellaneous weapons – DistanzElektroImpulsGeräte (DEIG) inkl. Zubehör",
@@ -224,21 +213,32 @@
             "35420000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/735266-2026"
+        },
+        {
+          "id": "734861-2026",
+          "date": "2026-10-23",
+          "title": "Czechia – Cartridges – Nákup munice 2026/VIII - Munice FX",
+          "buyer": "Ministerstvo obrany",
+          "country": "CZE",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/734861-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 2.5,
+      "score": 2.8,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-07-24",
-      "reporting_lag_days": 94,
-      "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 13660252.93,
+      "latest_observation": "2026-07-27",
+      "reporting_lag_days": 91,
+      "freshness_factor": 0.24,
+      "current_14d_weekly_equivalent": 13725816.93,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -252,7 +252,7 @@
         },
         {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 249704.66
+          "amount": 316661.87
         },
         {
           "name": "DRS NETWORK & IMAGING SYSTEMS LLC",
@@ -267,16 +267,34 @@
           "amount": 67212.0
         },
         {
-          "name": "KV ENGINEERING LLC",
-          "amount": 54000.0
+          "name": "CHEROKEE NATION ARMORED SOLUTIONS, LLC",
+          "amount": 61889.27
         },
         {
-          "name": "COTTONWOOD INC",
-          "amount": 45112.2
+          "name": "KV ENGINEERING LLC",
+          "amount": 54000.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
+        {
+          "date": "2026-07-27",
+          "award_id": "SPE4AX26F310Q",
+          "recipient": "CFM INTERNATIONAL INC",
+          "amount": 20664.5,
+          "agency": "Defense Logistics Agency",
+          "description": "8512263742!TUBE ASSEMBLY,METAL",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-07-27",
+          "award_id": "SPE7L126V132S",
+          "recipient": "AVIARMS SUPPORT CORP",
+          "amount": 1116.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8512265421!RING,WIPER",
+          "naics": "336413"
+        },
         {
           "date": "2026-07-24",
           "award_id": "0014",
@@ -351,6 +369,15 @@
         },
         {
           "date": "2026-07-23",
+          "award_id": "N0038326FY62L",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 115073.12,
+          "agency": "Department of the Navy",
+          "description": "WALKING BEAM ASSEMB",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-23",
           "award_id": "SPE4A526F1392",
           "recipient": "GE AVIATION SYSTEMS LLC",
           "amount": 67212.0,
@@ -360,12 +387,12 @@
         },
         {
           "date": "2026-07-23",
-          "award_id": "SPE4AX26F307C",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 56386.8,
+          "award_id": "SPRRA226F0113",
+          "recipient": "CHEROKEE NATION ARMORED SOLUTIONS, LLC",
+          "amount": 61889.27,
           "agency": "Defense Logistics Agency",
-          "description": "8512258861!WIRING HARNESS,BRANCHED",
-          "naics": "336412"
+          "description": "THIS DELIVERY ORDER IS FOR INVENTORY MANAGEMENT AND MATERIAL SUPPORT FOR THAILAND CASE.",
+          "naics": "336414"
         },
         {
           "date": "2026-07-23",
@@ -411,33 +438,6 @@
           "agency": "Defense Logistics Agency",
           "description": "8512249944!PANEL,CONTROL,ELECT",
           "naics": "336413"
-        },
-        {
-          "date": "2026-07-23",
-          "award_id": "SPE4A026P2240",
-          "recipient": "AVIATRIX INC",
-          "amount": 19499.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512256061!DUCT,VALVE ASSEMBLY",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-23",
-          "award_id": "SPE4A626F269T",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 12515.82,
-          "agency": "Defense Logistics Agency",
-          "description": "8512259169!SUPPORT,STRUCTURAL",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-23",
-          "award_id": "SPE4AX26F306X",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 10230.3,
-          "agency": "Defense Logistics Agency",
-          "description": "8512258712!BEARING ASSY,SPINDLE",
-          "naics": "336412"
         }
       ]
     },
@@ -462,7 +462,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-10-15",
@@ -472,7 +472,7 @@
             "munition"
           ],
           "weight": 3,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-10-15",
@@ -492,7 +492,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 24
+          "age": 25
         },
         {
           "date": "2026-09-29",
@@ -502,7 +502,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 26
+          "age": 27
         },
         {
           "date": "2026-09-29",
@@ -532,7 +532,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 27
+          "age": 28
         },
         {
           "date": "2026-09-28",
@@ -542,7 +542,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 27
+          "age": 28
         },
         {
           "date": "2026-09-28",
@@ -562,7 +562,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 27
+          "age": 28
         },
         {
           "date": "2026-09-28",
@@ -572,7 +572,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 27
+          "age": 28
         }
       ]
     },
@@ -681,11 +681,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-10-09T22:49:34.735204+00:00",
-      "score": 26.3,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-10-10T06:16:41.161199+00:00",
       "score": 26.3,
@@ -978,6 +973,11 @@
     },
     {
       "generated": "2026-10-26T05:10:39.114292+00:00",
+      "score": 19.8,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-26T13:27:49.080950+00:00",
       "score": 19.8,
       "status": "BASELINE"
     }
