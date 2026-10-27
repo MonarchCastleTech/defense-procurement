@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-27T05:27:19.041518+00:00",
+    "generated": "2026-10-27T12:35:26.956001+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,7 +26,7 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 600,
+      "coverage": 599,
       "current_14d_weekly_equivalent": 48.0,
       "baseline_weekly_median": 41.5,
       "anomaly_z": 0.8,
@@ -235,16 +235,16 @@
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 2.7,
+      "score": 2.8,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-07-27",
-      "reporting_lag_days": 92,
-      "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 14208005.61,
+      "latest_observation": "2026-07-28",
+      "reporting_lag_days": 91,
+      "freshness_factor": 0.24,
+      "current_14d_weekly_equivalent": 14205666.95,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -283,6 +283,15 @@
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
+        {
+          "date": "2026-07-28",
+          "award_id": "SPE4A126F1335",
+          "recipient": "CANADIAN COMMERCIAL CORPORATION",
+          "amount": 17998.09,
+          "agency": "Defense Logistics Agency",
+          "description": "8512238568!DISK,COMPRESSOR,AIRCRAFT GAS",
+          "naics": "336413"
+        },
         {
           "date": "2026-07-27",
           "award_id": "SPE4AX26F310Q",
@@ -435,15 +444,6 @@
           "agency": "Department of the Navy",
           "description": "HYDRAULIC MODULE ASSEMBLY",
           "naics": "336413"
-        },
-        {
-          "date": "2026-07-23",
-          "award_id": "N0038326F0241",
-          "recipient": "TACTAIR FLUID CONTROLS INC",
-          "amount": 22115.0,
-          "agency": "Department of the Navy",
-          "description": "HYDRAULIC MODULE ASSEMBLY",
-          "naics": "336413"
         }
       ]
     },
@@ -468,7 +468,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-10-15",
@@ -478,7 +478,7 @@
             "munition"
           ],
           "weight": 3,
-          "age": 11
+          "age": 12
         },
         {
           "date": "2026-10-15",
@@ -508,7 +508,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 27
+          "age": 28
         },
         {
           "date": "2026-09-29",
@@ -687,11 +687,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-10-10T21:56:43.559689+00:00",
-      "score": 26.2,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-10-11T06:16:22.108748+00:00",
       "score": 26.2,
@@ -984,6 +979,11 @@
     },
     {
       "generated": "2026-10-27T05:27:19.041518+00:00",
+      "score": 18.6,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-27T12:35:26.956001+00:00",
       "score": 18.6,
       "status": "BASELINE"
     }
