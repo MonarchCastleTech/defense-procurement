@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-28T06:08:28.203152+00:00",
+    "generated": "2026-10-28T08:20:02.717382+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -59,6 +59,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/748326-2026"
         },
         {
+          "id": "745279-2026",
+          "date": "2026-10-28",
+          "title": "Lithuania – Parts of firearms and ammunition – Kolimatorinis taikiklis su priartintoju automatiniam ginklui (PPR-583)",
+          "buyer": "Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos",
+          "country": "LTU",
+          "cpv": [
+            "35340000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/745279-2026"
+        },
+        {
           "id": "745246-2026",
           "date": "2026-10-28",
           "title": "Czechia – Ammunition for firearms and warfare – Dodávky brokových nábojů (rámcová dohoda)",
@@ -69,17 +80,6 @@
             "35331500"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/745246-2026"
-        },
-        {
-          "id": "745279-2026",
-          "date": "2026-10-28",
-          "title": "Lithuania – Parts of firearms and ammunition – Kolimatorinis taikiklis su priartintoju automatiniam ginklui (PPR-583)",
-          "buyer": "Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos",
-          "country": "LTU",
-          "cpv": [
-            "35340000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/745279-2026"
         },
         {
           "id": "746083-2026",
@@ -93,17 +93,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/746083-2026"
         },
         {
-          "id": "747642-2026",
-          "date": "2026-10-28",
-          "title": "Italy – Electronic warfare systems and counter measures – Tomografia Computerizzata",
-          "buyer": "Direzione Armamenti Aeronautici e per l'Aeronavigabilità",
-          "country": "ITA",
-          "cpv": [
-            "35730000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/747642-2026"
-        },
-        {
           "id": "747899-2026",
           "date": "2026-10-28",
           "title": "Hungary – Miscellaneous weapons – Diszrupter készlet beszerzése (BBA)",
@@ -113,6 +102,17 @@
             "35310000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/747899-2026"
+        },
+        {
+          "id": "747642-2026",
+          "date": "2026-10-28",
+          "title": "Italy – Electronic warfare systems and counter measures – Tomografia Computerizzata",
+          "buyer": "Direzione Armamenti Aeronautici e per l'Aeronavigabilità",
+          "country": "ITA",
+          "cpv": [
+            "35730000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/747642-2026"
         },
         {
           "id": "748887-2026",
@@ -140,6 +140,18 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/742129-2026"
         },
         {
+          "id": "744839-2026",
+          "date": "2026-10-27",
+          "title": "Malta – Military vehicles and associated parts – NEGOTIATED PROCEDURE TO PROCURE A SECOND EXPLOSIVE ORDNANCE DISPOSAL (EOD) RESPONSE VEHICLE FOR THE ARMED FORCES OF MALTA",
+          "buyer": "Armed Forces of Malta (AFM)",
+          "country": "MLT",
+          "cpv": [
+            "35400000",
+            "73423000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/744839-2026"
+        },
+        {
           "id": "744960-2026",
           "date": "2026-10-27",
           "title": "Netherlands – Military research and technology – Marktconsultatie Ministerie van Defensie – Ruimtedomein",
@@ -163,18 +175,6 @@
             "35300000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/743282-2026"
-        },
-        {
-          "id": "744839-2026",
-          "date": "2026-10-27",
-          "title": "Malta – Military vehicles and associated parts – NEGOTIATED PROCEDURE TO PROCURE A SECOND EXPLOSIVE ORDNANCE DISPOSAL (EOD) RESPONSE VEHICLE FOR THE ARMED FORCES OF MALTA",
-          "buyer": "Armed Forces of Malta (AFM)",
-          "country": "MLT",
-          "cpv": [
-            "35400000",
-            "73423000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/744839-2026"
         },
         {
           "id": "744803-2026",
@@ -227,7 +227,8 @@
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/737194-2026"
         }
-      ]
+      ],
+      "source_collected_at": "2026-10-28T08:20:02.717382+00:00"
     },
     "us_awards": {
       "key": "us_awards",
@@ -441,7 +442,8 @@
           "description": "HYDRAULIC MODULE ASSEMBLY",
           "naics": "336413"
         }
-      ]
+      ],
+      "source_collected_at": "2026-10-28T08:20:02.717382+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -576,7 +578,8 @@
           "weight": 2.5,
           "age": 29
         }
-      ]
+      ],
+      "source_collected_at": "2026-10-28T08:20:02.717382+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -647,7 +650,8 @@
           "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20172/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-247",
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed revision and extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
-      ]
+      ],
+      "source_collected_at": "2026-10-28T08:20:02.717382+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -679,15 +683,11 @@
           "score": 3.0,
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
-      ]
+      ],
+      "source_collected_at": "2026-10-28T08:20:02.717382+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-11T22:20:57.223940+00:00",
-      "score": 26.2,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-10-12T06:22:45.852906+00:00",
       "score": 19.8,
@@ -980,6 +980,11 @@
     },
     {
       "generated": "2026-10-28T06:08:28.203152+00:00",
+      "score": 18.4,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-28T08:20:02.717382+00:00",
       "score": 18.4,
       "status": "BASELINE"
     }
