@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-28T13:25:15.841492+00:00",
+    "generated": "2026-10-28T22:46:37.136111+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 18.4,
-    "raw_score": 18.4,
+    "score": 22.0,
+    "raw_score": 22.0,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 18.4/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 22.0/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -228,7 +228,7 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/737194-2026"
         }
       ],
-      "source_collected_at": "2026-10-28T13:25:15.841492+00:00"
+      "source_collected_at": "2026-10-28T22:46:37.136111+00:00"
     },
     "us_awards": {
       "key": "us_awards",
@@ -443,21 +443,41 @@
           "naics": "336413"
         }
       ],
-      "source_collected_at": "2026-10-28T13:25:15.841492+00:00"
+      "source_collected_at": "2026-10-28T22:46:37.136111+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 21.7,
-      "status": "BASELINE",
+      "score": 39.8,
+      "status": "WATCH",
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 30,
-      "current_14d_weekly_equivalent": 4.5,
+      "coverage": 32,
+      "current_14d_weekly_equivalent": 7.5,
       "baseline_weekly_median": 2.5,
-      "anomaly_z": 0.54,
+      "anomaly_z": 1.35,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
+        {
+          "date": "2026-10-28",
+          "title": "Nato Deputy Secretary General At The Kyiv Security Forum Stresses Ukraines Urgent Need For More Air Defence",
+          "url": "https://www.nato.int/en/news-and-events/articles/news/2026/10/28/nato-deputy-secretary-general-at-the-kyiv-security-forum-stresses-ukraines-urgent-need-for-more-air-defence",
+          "terms": [
+            "air-defence"
+          ],
+          "weight": 3,
+          "age": 0
+        },
+        {
+          "date": "2026-10-28",
+          "title": "Nato Deputy Secretary General At The Kyiv Security Forum Stresses Ukraines Urgent Need For More Air Defence",
+          "url": "https://www.nato.int/fr/news-and-events/articles/news/2026/10/28/nato-deputy-secretary-general-at-the-kyiv-security-forum-stresses-ukraines-urgent-need-for-more-air-defence",
+          "terms": [
+            "air-defence"
+          ],
+          "weight": 3,
+          "age": 0
+        },
         {
           "date": "2026-10-19",
           "title": "Drone Footage Of Nato Hq",
@@ -486,7 +506,7 @@
             "munition"
           ],
           "weight": 3,
-          "age": 12
+          "age": 13
         },
         {
           "date": "2026-10-01",
@@ -516,7 +536,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 28
+          "age": 29
         },
         {
           "date": "2026-09-28",
@@ -526,7 +546,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 29
+          "age": 30
         },
         {
           "date": "2026-09-28",
@@ -556,7 +576,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 29
+          "age": 30
         },
         {
           "date": "2026-09-28",
@@ -566,7 +586,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 29
+          "age": 30
         },
         {
           "date": "2026-09-28",
@@ -576,10 +596,10 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 29
+          "age": 30
         }
       ],
-      "source_collected_at": "2026-10-28T13:25:15.841492+00:00"
+      "source_collected_at": "2026-10-28T22:46:37.136111+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -651,7 +671,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed revision and extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-10-28T13:25:15.841492+00:00"
+      "source_collected_at": "2026-10-28T22:46:37.136111+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -684,15 +704,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-10-28T13:25:15.841492+00:00"
+      "source_collected_at": "2026-10-28T22:46:37.136111+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-12T15:56:51.072476+00:00",
-      "score": 19.8,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-13T00:55:16.382116+00:00",
       "score": 17.5,
@@ -986,6 +1001,11 @@
     {
       "generated": "2026-10-28T13:25:15.841492+00:00",
       "score": 18.4,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-28T22:46:37.136111+00:00",
+      "score": 22.0,
       "status": "BASELINE"
     }
   ],
