@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-27T22:31:28.361161+00:00",
+    "generated": "2026-10-28T06:08:28.203152+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,27 +11,120 @@
     "source_notes": []
   },
   "warning": {
-    "score": 18.6,
-    "raw_score": 18.6,
+    "score": 18.4,
+    "raw_score": 18.4,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 18.6/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 18.4/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
     "eu_notices": {
       "key": "eu_notices",
-      "score": 36.7,
+      "score": 36.1,
       "status": "WATCH",
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 600,
-      "current_14d_weekly_equivalent": 48.0,
+      "coverage": 601,
+      "current_14d_weekly_equivalent": 49.5,
       "baseline_weekly_median": 41.5,
-      "anomaly_z": 0.8,
+      "anomaly_z": 0.72,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "746325-2026",
+          "date": "2026-10-28",
+          "title": "Ireland – Television aerials – Design of Aerial Fibre Optical Cables System",
+          "buyer": "Electricity Supply Board ( ESB )",
+          "country": "IRL",
+          "cpv": [
+            "32324400",
+            "32352000",
+            "35333000",
+            "35613100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/746325-2026"
+        },
+        {
+          "id": "748326-2026",
+          "date": "2026-10-28",
+          "title": "Malta – Military vehicles and associated parts – NEGOTIATED PROCEDURE TO PROCURE A SECOND EXPLOSIVE ORDNANCE DISPOSAL (EOD) RESPONSE VEHICLE FOR THE ARMED FORCES OF MALTA",
+          "buyer": "Armed Forces of Malta (AFM)",
+          "country": "MLT",
+          "cpv": [
+            "35400000",
+            "73423000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/748326-2026"
+        },
+        {
+          "id": "745246-2026",
+          "date": "2026-10-28",
+          "title": "Czechia – Ammunition for firearms and warfare – Dodávky brokových nábojů (rámcová dohoda)",
+          "buyer": "Lesy České republiky, s.p.",
+          "country": "CZE",
+          "cpv": [
+            "35331000",
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/745246-2026"
+        },
+        {
+          "id": "745279-2026",
+          "date": "2026-10-28",
+          "title": "Lithuania – Parts of firearms and ammunition – Kolimatorinis taikiklis su priartintoju automatiniam ginklui (PPR-583)",
+          "buyer": "Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos",
+          "country": "LTU",
+          "cpv": [
+            "35340000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/745279-2026"
+        },
+        {
+          "id": "746083-2026",
+          "date": "2026-10-28",
+          "title": "Denmark – Air/ground/sea launched cruise missiles – Langtrækkende krydsermissiler",
+          "buyer": "Danish Ministry of Defence Acquisition and Logistics Organisation",
+          "country": "DNK",
+          "cpv": [
+            "35623100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/746083-2026"
+        },
+        {
+          "id": "747642-2026",
+          "date": "2026-10-28",
+          "title": "Italy – Electronic warfare systems and counter measures – Tomografia Computerizzata",
+          "buyer": "Direzione Armamenti Aeronautici e per l'Aeronavigabilità",
+          "country": "ITA",
+          "cpv": [
+            "35730000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/747642-2026"
+        },
+        {
+          "id": "747899-2026",
+          "date": "2026-10-28",
+          "title": "Hungary – Miscellaneous weapons – Diszrupter készlet beszerzése (BBA)",
+          "buyer": "Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság",
+          "country": "HUN",
+          "cpv": [
+            "35310000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/747899-2026"
+        },
+        {
+          "id": "748887-2026",
+          "date": "2026-10-28",
+          "title": "Netherlands – Communication satellites – Aanschaf satellieten BCM",
+          "buyer": "Veiligheidsregio Drenthe",
+          "country": "NLD",
+          "cpv": [
+            "35631100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/748887-2026"
+        },
         {
           "id": "742129-2026",
           "date": "2026-10-27",
@@ -133,117 +226,20 @@
             "50660000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/737194-2026"
-        },
-        {
-          "id": "738078-2026",
-          "date": "2026-10-26",
-          "title": "France – Mortars – La présente consultation concerne : 26MC0238AOO - FOURNITURE DE MORTIERS SPECIAUX ET DE PRODUITS PRETS A L'EMPLOI POUR L'ENTRETIEN DE LA VOIRIE",
-          "buyer": "Toulouse Métropole",
-          "country": "FRA",
-          "cpv": [
-            "35322400",
-            "34921000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/738078-2026"
-        },
-        {
-          "id": "740343-2026",
-          "date": "2026-10-26",
-          "title": "Estonia – Ammunition for firearms and warfare – 40mm, 23mm relvade ning 76mm, 40mm ja 23mm laskemoona ostmine koos elutsükli tagamisega",
-          "buyer": "Riigi Kaitseinvesteeringute Keskus",
-          "country": "EST",
-          "cpv": [
-            "35331000",
-            "35320000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/740343-2026"
-        },
-        {
-          "id": "737821-2026",
-          "date": "2026-10-26",
-          "title": "Spain – Repair and maintenance services of military vehicles – Servicio De Mantenimiento Del Carro De Recuperación M-47 Er3, Carro De Zapadores M-60 Y Vehículo Lanzapuentes Sobre Barcaza M-60/M-47",
-          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
-          "country": "ESP",
-          "cpv": [
-            "50630000",
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/737821-2026"
-        },
-        {
-          "id": "739189-2026",
-          "date": "2026-10-26",
-          "title": "Estonia – Apparatus for sound, video-recording and reproduction – Elustiku mitmekesisuse seire tõhustamiseks uute tehnoloogiliste vahendite hankimine (Keskkonnaagentuur)",
-          "buyer": "Riigi Tugiteenuste Keskus",
-          "country": "EST",
-          "cpv": [
-            "32330000",
-            "30213200",
-            "38631000",
-            "38632000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/739189-2026"
-        },
-        {
-          "id": "738010-2026",
-          "date": "2026-10-26",
-          "title": "Lithuania – Cartridges – 7,62x51 mm kalibro trasuojantys šoviniai (PPR-623)",
-          "buyer": "Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos",
-          "country": "LTU",
-          "cpv": [
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/738010-2026"
-        },
-        {
-          "id": "740470-2026",
-          "date": "2026-10-26",
-          "title": "Czechia – Ammunition for firearms and warfare – Rámcová dohoda – náboje 9x19",
-          "buyer": "Ministerstvo vnitra ČR",
-          "country": "CZE",
-          "cpv": [
-            "35331000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/740470-2026"
-        },
-        {
-          "id": "737224-2026",
-          "date": "2026-10-26",
-          "title": "Portugal – Intelligence, surveillance, target acquisition and reconnaissance – 4026022192/DA/B0035/2026 - Aquisição de Módulos de Localização de Alvos - Jenoptik Nyxus Bird.",
-          "buyer": "Estado-Maior do Exército",
-          "country": "PRT",
-          "cpv": [
-            "35720000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/737224-2026"
-        },
-        {
-          "id": "738652-2026",
-          "date": "2026-10-26",
-          "title": "Netherlands – IT services: consulting, software development, Internet and support – Crisis Communicatie Platform en Bedrijfs Bedienings Platform – Bedrijfsvoerings Centrum (CCP BBP)",
-          "buyer": "Stedin",
-          "country": "NLD",
-          "cpv": [
-            "72000000",
-            "32412100",
-            "32524000",
-            "32570000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/738652-2026"
         }
       ]
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 2.8,
+      "score": 2.7,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-07-28",
-      "reporting_lag_days": 91,
-      "freshness_factor": 0.24,
+      "reporting_lag_days": 92,
+      "freshness_factor": 0.23,
       "current_14d_weekly_equivalent": 14206085.29,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
@@ -688,11 +684,6 @@
   },
   "history": [
     {
-      "generated": "2026-10-11T13:21:03.377849+00:00",
-      "score": 26.2,
-      "status": "WATCH"
-    },
-    {
       "generated": "2026-10-11T22:20:57.223940+00:00",
       "score": 26.2,
       "status": "WATCH"
@@ -985,6 +976,11 @@
     {
       "generated": "2026-10-27T22:31:28.361161+00:00",
       "score": 18.6,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-28T06:08:28.203152+00:00",
+      "score": 18.4,
       "status": "BASELINE"
     }
   ],
