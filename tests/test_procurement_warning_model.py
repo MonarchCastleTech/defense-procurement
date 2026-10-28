@@ -33,3 +33,10 @@ def test_recent_component_fallback_is_keyless_and_expires():
     assert component.get("retained") is None
     stale={"meta":{"generated":(now-timedelta(hours=73)).isoformat()},"components":{"eu_notices":component}}
     assert fallback(stale,"eu_notices",now,RuntimeError("offline"))["available"] is False
+
+def test_retained_source_expires_from_original_collection():
+    now=datetime.now(timezone.utc)
+    previous={"meta":{"generated":(now-timedelta(hours=71)).isoformat()},"components":{"eu_notices":{"score":52,"available":True,"weight":.3}}}
+    retained=fallback(previous,"eu_notices",now,RuntimeError("offline"))
+    refreshed={"meta":{"generated":now.isoformat()},"components":{"eu_notices":retained}}
+    assert fallback(refreshed,"eu_notices",now+timedelta(hours=2),RuntimeError("offline"))["available"] is False
