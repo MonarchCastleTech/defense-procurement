@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-29T13:33:30.742511+00:00",
+    "generated": "2026-10-29T22:55:09.187751+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 19.3,
-    "raw_score": 19.3,
+    "score": 19.4,
+    "raw_score": 19.4,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 19.3/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 19.4/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -26,7 +26,7 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 598,
+      "coverage": 597,
       "current_14d_weekly_equivalent": 48.0,
       "baseline_weekly_median": 40.5,
       "anomaly_z": 1.12,
@@ -66,6 +66,19 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/749392-2026"
         },
         {
+          "id": "751590-2026",
+          "date": "2026-10-29",
+          "title": "Netherlands – Command, control, communication and computer systems – Networked Video Observation System (NVOS)",
+          "buyer": "Ministerie van Defensie",
+          "country": "NLD",
+          "cpv": [
+            "35710000",
+            "35700000",
+            "73426000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/751590-2026"
+        },
+        {
           "id": "749708-2026",
           "date": "2026-10-29",
           "title": "Poland – Ammunition for naval warfare – Dostawa amunicji do okrętowych zestawów zakłóceń radioelektronicznych.",
@@ -89,19 +102,6 @@
             "44512910"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/751539-2026"
-        },
-        {
-          "id": "751590-2026",
-          "date": "2026-10-29",
-          "title": "Netherlands – Command, control, communication and computer systems – Networked Video Observation System (NVOS)",
-          "buyer": "Ministerie van Defensie",
-          "country": "NLD",
-          "cpv": [
-            "35710000",
-            "35700000",
-            "73426000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/751590-2026"
         },
         {
           "id": "752151-2026",
@@ -222,11 +222,11 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/742129-2026"
         }
       ],
-      "source_collected_at": "2026-10-29T13:33:30.742511+00:00"
+      "source_collected_at": "2026-10-29T22:55:09.187751+00:00"
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 2.5,
+      "score": 2.9,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
@@ -235,13 +235,17 @@
       "latest_observation": "2026-07-29",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 11368993.89,
+      "current_14d_weekly_equivalent": 17047724.31,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
           "name": "LOCKHEED MARTIN CORPORATION",
           "amount": 20760391.31
+        },
+        {
+          "name": "LOCKHEED MARTIN CORP",
+          "amount": 11335904.0
         },
         {
           "name": "ADVANCED SYSTEMS & SOFTWARE ENGINEERING TECHNOLOGIES LLC",
@@ -260,16 +264,12 @@
           "amount": 179371.83
         },
         {
+          "name": "TECHNOLOGY FOR ENERGY CORP",
+          "amount": 69421.6
+        },
+        {
           "name": "GE AVIATION SYSTEMS LLC",
           "amount": 67212.0
-        },
-        {
-          "name": "KV ENGINEERING LLC",
-          "amount": 54000.0
-        },
-        {
-          "name": "COTTONWOOD INC",
-          "amount": 46092.9
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -384,6 +384,24 @@
         },
         {
           "date": "2026-07-23",
+          "award_id": "FA882321C0001",
+          "recipient": "LOCKHEED MARTIN CORP",
+          "amount": 5667952.0,
+          "agency": "Department of the Air Force",
+          "description": "CONTRACT LINE ITEM NUMBER 5008 BLUE SUIT MAINTENANCEAND PRE-PRICED OPTION CONTRACT LINE ITEM NUMBER 5013.",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-07-23",
+          "award_id": "FA882321C0001",
+          "recipient": "LOCKHEED MARTIN CORP",
+          "amount": 5667952.0,
+          "agency": "Department of the Air Force",
+          "description": "CONTRACT LINE ITEM NUMBER 5008 BLUE SUIT MAINTENANCEAND PRE-PRICED OPTION CONTRACT LINE ITEM NUMBER 5013.",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-07-23",
           "award_id": "W31P4Q25F0031",
           "recipient": "LOCKHEED MARTIN CORPORATION",
           "amount": 4071132.95,
@@ -417,27 +435,9 @@
           "agency": "Department of the Army",
           "description": "ECUADOR KING AIR 360INTEGRATION",
           "naics": "336411"
-        },
-        {
-          "date": "2026-07-23",
-          "award_id": "N0038326FY62L",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 115073.12,
-          "agency": "Department of the Navy",
-          "description": "WALKING BEAM ASSEMB",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-23",
-          "award_id": "SPE4A526F1392",
-          "recipient": "GE AVIATION SYSTEMS LLC",
-          "amount": 67212.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8511742673!ROTOR,GENERATOR",
-          "naics": "336413"
         }
       ],
-      "source_collected_at": "2026-10-29T13:33:30.742511+00:00"
+      "source_collected_at": "2026-10-29T22:55:09.187751+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -453,7 +453,7 @@
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
-          "date": "2026-10-28",
+          "date": "2026-10-29",
           "title": "Nato Deputy Secretary General At The Kyiv Security Forum Stresses Ukraines Urgent Need For More Air Defence",
           "url": "https://www.nato.int/en/news-and-events/articles/news/2026/10/28/nato-deputy-secretary-general-at-the-kyiv-security-forum-stresses-ukraines-urgent-need-for-more-air-defence",
           "terms": [
@@ -470,7 +470,7 @@
             "air-defence"
           ],
           "weight": 3,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-10-19",
@@ -500,7 +500,7 @@
             "munition"
           ],
           "weight": 3,
-          "age": 13
+          "age": 14
         },
         {
           "date": "2026-10-01",
@@ -530,7 +530,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 29
+          "age": 30
         },
         {
           "date": "2026-09-28",
@@ -540,7 +540,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 30
+          "age": 31
         },
         {
           "date": "2026-09-28",
@@ -570,7 +570,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 30
+          "age": 31
         },
         {
           "date": "2026-09-28",
@@ -593,7 +593,7 @@
           "age": 31
         }
       ],
-      "source_collected_at": "2026-10-29T13:33:30.742511+00:00"
+      "source_collected_at": "2026-10-29T22:55:09.187751+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -665,7 +665,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed revision and extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-10-29T13:33:30.742511+00:00"
+      "source_collected_at": "2026-10-29T22:55:09.187751+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -698,15 +698,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-10-29T13:33:30.742511+00:00"
+      "source_collected_at": "2026-10-29T22:55:09.187751+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-13T23:01:53.268544+00:00",
-      "score": 17.6,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-14T05:15:53.792788+00:00",
       "score": 17.6,
@@ -1000,6 +995,11 @@
     {
       "generated": "2026-10-29T13:33:30.742511+00:00",
       "score": 19.3,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-29T22:55:09.187751+00:00",
+      "score": 19.4,
       "status": "BASELINE"
     }
   ],
