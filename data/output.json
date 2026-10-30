@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-30T13:23:46.900644+00:00",
+    "generated": "2026-10-30T22:35:32.480809+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -224,7 +224,7 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/752151-2026"
         }
       ],
-      "source_collected_at": "2026-10-30T13:23:46.900644+00:00"
+      "source_collected_at": "2026-10-30T22:35:32.480809+00:00"
     },
     "us_awards": {
       "key": "us_awards",
@@ -439,7 +439,7 @@
           "naics": "336414"
         }
       ],
-      "source_collected_at": "2026-10-30T13:23:46.900644+00:00"
+      "source_collected_at": "2026-10-30T22:35:32.480809+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -472,7 +472,7 @@
             "air-defence"
           ],
           "weight": 3,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-10-19",
@@ -502,7 +502,7 @@
             "munition"
           ],
           "weight": 3,
-          "age": 14
+          "age": 15
         },
         {
           "date": "2026-10-01",
@@ -532,7 +532,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 30
+          "age": 31
         },
         {
           "date": "2026-09-28",
@@ -542,7 +542,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 31
+          "age": 32
         },
         {
           "date": "2026-09-28",
@@ -572,7 +572,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 31
+          "age": 32
         },
         {
           "date": "2026-09-28",
@@ -582,7 +582,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 31
+          "age": 32
         },
         {
           "date": "2026-09-28",
@@ -592,10 +592,10 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 31
+          "age": 32
         }
       ],
-      "source_collected_at": "2026-10-30T13:23:46.900644+00:00"
+      "source_collected_at": "2026-10-30T22:35:32.480809+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -674,7 +674,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed revision and extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-10-30T13:23:46.900644+00:00"
+      "source_collected_at": "2026-10-30T22:35:32.480809+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -707,15 +707,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-10-30T13:23:46.900644+00:00"
+      "source_collected_at": "2026-10-30T22:35:32.480809+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-14T17:33:29.993570+00:00",
-      "score": 17.6,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-14T21:53:28.576816+00:00",
       "score": 17.7,
@@ -1008,6 +1003,11 @@
     },
     {
       "generated": "2026-10-30T13:23:46.900644+00:00",
+      "score": 23.6,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-30T22:35:32.480809+00:00",
       "score": 23.6,
       "status": "BASELINE"
     }
