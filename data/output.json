@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-31T06:09:50.577389+00:00",
+    "generated": "2026-10-31T12:58:01.126484+00:00",
     "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -9,7 +9,7 @@
     "coverage": "5/5",
     "confidence": "MEDIUM",
     "source_notes": [
-      "us_awards: retained (ConnectionError)"
+      "us_awards: retained (ReadTimeout)"
     ]
   },
   "warning": {
@@ -74,20 +74,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/754238-2026"
         },
         {
-          "id": "755927-2026",
-          "date": "2026-10-30",
-          "title": "Germany – Firefighting vehicles – 54 24 271 - Havixbeck - GW-L2",
-          "buyer": "Gemeinde Havixbeck",
-          "country": "DEU",
-          "cpv": [
-            "34144210",
-            "35000000",
-            "34144700",
-            "35412500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/755927-2026"
-        },
-        {
           "id": "756321-2026",
           "date": "2026-10-30",
           "title": "Spain – Unmanned aerial vehicles – Adquisición UAS Cautivo con capacidad Vigilancia todo tiempo y guerra electrónica",
@@ -110,15 +96,18 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/754712-2026"
         },
         {
-          "id": "752841-2026",
+          "id": "755927-2026",
           "date": "2026-10-30",
-          "title": "Cyprus – Unmanned aerial vehicles – F.D 77/2026 The Acquisition and Operational Deployment of Two Unmanned Aircraft Systems (UAS) for Border Surveillance",
-          "buyer": "Cyprus Police",
-          "country": "CYP",
+          "title": "Germany – Firefighting vehicles – 54 24 271 - Havixbeck - GW-L2",
+          "buyer": "Gemeinde Havixbeck",
+          "country": "DEU",
           "cpv": [
-            "35613000"
+            "34144210",
+            "35000000",
+            "34144700",
+            "35412500"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/752841-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/755927-2026"
         },
         {
           "id": "754570-2026",
@@ -144,6 +133,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/755822-2026"
         },
         {
+          "id": "752841-2026",
+          "date": "2026-10-30",
+          "title": "Cyprus – Unmanned aerial vehicles – F.D 77/2026 The Acquisition and Operational Deployment of Two Unmanned Aircraft Systems (UAS) for Border Surveillance",
+          "buyer": "Cyprus Police",
+          "country": "CYP",
+          "cpv": [
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/752841-2026"
+        },
+        {
           "id": "750935-2026",
           "date": "2026-10-29",
           "title": "Germany – Military vehicles and associated parts – 6003093206-BAAINBw E2.3V TV121",
@@ -166,6 +166,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/750233-2026"
         },
         {
+          "id": "749392-2026",
+          "date": "2026-10-29",
+          "title": "Germany – Infantry fighting vehicles – PF Getriebe HSWL 256",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35412100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/749392-2026"
+        },
+        {
           "id": "751590-2026",
           "date": "2026-10-29",
           "title": "Netherlands – Command, control, communication and computer systems – Networked Video Observation System (NVOS)",
@@ -177,17 +188,6 @@
             "73426000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/751590-2026"
-        },
-        {
-          "id": "749708-2026",
-          "date": "2026-10-29",
-          "title": "Poland – Ammunition for naval warfare – Dostawa amunicji do okrętowych zestawów zakłóceń radioelektronicznych.",
-          "buyer": "Agencja Uzbrojenia",
-          "country": "POL",
-          "cpv": [
-            "35332000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/749708-2026"
         },
         {
           "id": "751539-2026",
@@ -204,6 +204,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/751539-2026"
         },
         {
+          "id": "749708-2026",
+          "date": "2026-10-29",
+          "title": "Poland – Ammunition for naval warfare – Dostawa amunicji do okrętowych zestawów zakłóceń radioelektronicznych.",
+          "buyer": "Agencja Uzbrojenia",
+          "country": "POL",
+          "cpv": [
+            "35332000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/749708-2026"
+        },
+        {
           "id": "752151-2026",
           "date": "2026-10-29",
           "title": "Spain – Machine guns – Adquisición de Repuestos y Herramientas AMP 12,70 mm.",
@@ -213,20 +224,9 @@
             "35321300"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/752151-2026"
-        },
-        {
-          "id": "749392-2026",
-          "date": "2026-10-29",
-          "title": "Germany – Infantry fighting vehicles – PF Getriebe HSWL 256",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35412100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/749392-2026"
         }
       ],
-      "source_collected_at": "2026-10-31T06:09:50.577389+00:00"
+      "source_collected_at": "2026-10-31T12:58:01.126484+00:00"
     },
     "us_awards": {
       "key": "us_awards",
@@ -442,7 +442,7 @@
         }
       ],
       "source_collected_at": "2026-10-30T22:35:32.480809+00:00",
-      "retained_reason": "ConnectionError"
+      "retained_reason": "ReadTimeout"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -465,7 +465,7 @@
             "air-defence"
           ],
           "weight": 3,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-10-28",
@@ -485,7 +485,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 11
+          "age": 12
         },
         {
           "date": "2026-10-15",
@@ -495,7 +495,7 @@
             "munition"
           ],
           "weight": 3,
-          "age": 15
+          "age": 16
         },
         {
           "date": "2026-10-15",
@@ -525,7 +525,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 31
+          "age": 32
         },
         {
           "date": "2026-09-29",
@@ -598,7 +598,7 @@
           "age": 32
         }
       ],
-      "source_collected_at": "2026-10-31T06:09:50.577389+00:00"
+      "source_collected_at": "2026-10-31T12:58:01.126484+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -677,7 +677,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed revision and extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-10-31T06:09:50.577389+00:00"
+      "source_collected_at": "2026-10-31T12:58:01.126484+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -710,15 +710,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-10-31T06:09:50.577389+00:00"
+      "source_collected_at": "2026-10-31T12:58:01.126484+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-15T05:02:38.722725+00:00",
-      "score": 12.1,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-15T11:57:34.190716+00:00",
       "score": 12.5,
@@ -1011,6 +1006,11 @@
     },
     {
       "generated": "2026-10-31T06:09:50.577389+00:00",
+      "score": 23.6,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-31T12:58:01.126484+00:00",
       "score": 23.6,
       "status": "BASELINE"
     }
