@@ -1,23 +1,21 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-31T12:58:01.126484+00:00",
-    "mode": "partial",
+    "generated": "2026-10-31T21:48:53.997409+00:00",
+    "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
     "classification": "procurement-acceleration-screening-not-conflict-probability-or-contract-forecast",
     "coverage": "5/5",
-    "confidence": "MEDIUM",
-    "source_notes": [
-      "us_awards: retained (ReadTimeout)"
-    ]
+    "confidence": "HIGH",
+    "source_notes": []
   },
   "warning": {
-    "score": 23.6,
-    "raw_score": 23.6,
+    "score": 23.5,
+    "raw_score": 23.5,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 23.6/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 23.5/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -226,20 +224,20 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/752151-2026"
         }
       ],
-      "source_collected_at": "2026-10-31T12:58:01.126484+00:00"
+      "source_collected_at": "2026-10-31T21:48:53.997409+00:00"
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 2.8,
+      "score": 2.7,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
-      "retained": true,
+      "retained": false,
       "coverage": 600,
       "latest_observation": "2026-07-31",
-      "reporting_lag_days": 91,
-      "freshness_factor": 0.24,
-      "current_14d_weekly_equivalent": 14234852.9,
+      "reporting_lag_days": 92,
+      "freshness_factor": 0.23,
+      "current_14d_weekly_equivalent": 13730360.2,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -250,10 +248,6 @@
         {
           "name": "LOCKHEED MARTIN CORP",
           "amount": 5667952.0
-        },
-        {
-          "name": "ADVANCED SYSTEMS & SOFTWARE ENGINEERING TECHNOLOGIES LLC",
-          "amount": 1049941.83
         },
         {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
@@ -274,10 +268,23 @@
         {
           "name": "KV ENGINEERING LLC",
           "amount": 54000.0
+        },
+        {
+          "name": "COTTONWOOD INC",
+          "amount": 45112.2
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
+        {
+          "date": "2026-07-31",
+          "award_id": "SPE4A626FD74B",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 5766.3,
+          "agency": "Defense Logistics Agency",
+          "description": "4572547184!REFRIGERANT GAS MIX",
+          "naics": "336413"
+        },
         {
           "date": "2026-07-31",
           "award_id": "SPE4AX26F319S",
@@ -288,6 +295,24 @@
           "naics": "336412"
         },
         {
+          "date": "2026-07-30",
+          "award_id": "SPE4A626FD48G",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 25831.6,
+          "agency": "Defense Logistics Agency",
+          "description": "4572531080!TETRAFLUOROETHANE",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-30",
+          "award_id": "SPE4A626FD48J",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 4487.25,
+          "agency": "Defense Logistics Agency",
+          "description": "4572531082!REFRIGERANT GAS MIXTURE",
+          "naics": "336413"
+        },
+        {
           "date": "2026-07-29",
           "award_id": "SPE4A626PV634",
           "recipient": "BEK, INC.",
@@ -295,6 +320,15 @@
           "agency": "Defense Logistics Agency",
           "description": "8512195734!SCREW,CAP,SOCKET HEAD",
           "naics": "336412"
+        },
+        {
+          "date": "2026-07-29",
+          "award_id": "SPE7L026F5969",
+          "recipient": "ECI DEFENSE GROUP, INC.",
+          "amount": 4871.28,
+          "agency": "Defense Logistics Agency",
+          "description": "8512269523!GASKET",
+          "naics": "336411"
         },
         {
           "date": "2026-07-29",
@@ -403,46 +437,9 @@
           "agency": "Department of the Air Force",
           "description": "JOINT AIR TO SURFACE STANDOFF MISSILE (JASSM) ELECTRONIC SAFE AND ARM FUZE (ESAF)",
           "naics": "336414"
-        },
-        {
-          "date": "2026-07-24",
-          "award_id": "FA868219F1016",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": -5279.0,
-          "agency": "Department of the Air Force",
-          "description": "JOINT AIR TO SURFACE STANDOFF MISSILE",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-07-24",
-          "award_id": "FA813421F0019",
-          "recipient": "THE BOEING COMPANY",
-          "amount": -96562.41,
-          "agency": "Defense Contract Management Agency",
-          "description": "MAINT/REPAIR/REBUILD OF EQUIPMENT- AIRCRAFT AND AIRFRAME STRUCTURAL COMPONENTS. DEOBLIGATION OF EXCESS FUNDS",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-24",
-          "award_id": "S2606A26F0004",
-          "recipient": "THE BOEING COMPANY",
-          "amount": -119149.89,
-          "agency": "Defense Contract Management Agency",
-          "description": "CORPORATE BASIC ORDERING AGREEMENT (BOA) WITH THE BOEING COMPANY AND NAVAL AIR SYSTEMS COMMAND. (FPA)",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-07-23",
-          "award_id": "W31P4Q25F0031",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 16689258.36,
-          "agency": "Department of the Army",
-          "description": "PURCHASE OF HIGH MOBILITY ARTILLERY ROCKET SYSTEM (HIMARS) M142 FOR THE UNITED STATES (US) AND FOREIGN MILITARY SALES (FMS) PARTNERS.",
-          "naics": "336414"
         }
       ],
-      "source_collected_at": "2026-10-30T22:35:32.480809+00:00",
-      "retained_reason": "ReadTimeout"
+      "source_collected_at": "2026-10-31T21:48:53.997409+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -475,7 +472,7 @@
             "air-defence"
           ],
           "weight": 3,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-10-19",
@@ -505,7 +502,7 @@
             "munition"
           ],
           "weight": 3,
-          "age": 15
+          "age": 16
         },
         {
           "date": "2026-10-01",
@@ -515,7 +512,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 29
+          "age": 30
         },
         {
           "date": "2026-09-29",
@@ -535,7 +532,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 31
+          "age": 32
         },
         {
           "date": "2026-09-28",
@@ -545,7 +542,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 32
+          "age": 33
         },
         {
           "date": "2026-09-28",
@@ -555,7 +552,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 32
+          "age": 33
         },
         {
           "date": "2026-09-28",
@@ -565,7 +562,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 32
+          "age": 33
         },
         {
           "date": "2026-09-28",
@@ -575,7 +572,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 32
+          "age": 33
         },
         {
           "date": "2026-09-28",
@@ -585,7 +582,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 32
+          "age": 33
         },
         {
           "date": "2026-09-28",
@@ -595,10 +592,10 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 32
+          "age": 33
         }
       ],
-      "source_collected_at": "2026-10-31T12:58:01.126484+00:00"
+      "source_collected_at": "2026-10-31T21:48:53.997409+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -677,7 +674,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed revision and extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-10-31T12:58:01.126484+00:00"
+      "source_collected_at": "2026-10-31T21:48:53.997409+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -710,15 +707,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-10-31T12:58:01.126484+00:00"
+      "source_collected_at": "2026-10-31T21:48:53.997409+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-15T11:57:34.190716+00:00",
-      "score": 12.5,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-15T17:16:42.893001+00:00",
       "score": 12.5,
@@ -1012,6 +1004,11 @@
     {
       "generated": "2026-10-31T12:58:01.126484+00:00",
       "score": 23.6,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-31T21:48:53.997409+00:00",
+      "score": 23.5,
       "status": "BASELINE"
     }
   ],
