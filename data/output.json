@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-01T06:40:53.718452+00:00",
+    "generated": "2026-11-01T18:02:54.087236+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -72,6 +72,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/754238-2026"
         },
         {
+          "id": "754712-2026",
+          "date": "2026-10-30",
+          "title": "Czechia – Ammunition for firearms and warfare – Rámcová dohoda - náboje 4,6x30 mm v provedení pro ozbrojené složky",
+          "buyer": "Ministerstvo vnitra",
+          "country": "CZE",
+          "cpv": [
+            "35331000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/754712-2026"
+        },
+        {
           "id": "755927-2026",
           "date": "2026-10-30",
           "title": "Germany – Firefighting vehicles – 54 24 271 - Havixbeck - GW-L2",
@@ -97,15 +108,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/756321-2026"
         },
         {
-          "id": "754712-2026",
+          "id": "755822-2026",
           "date": "2026-10-30",
-          "title": "Czechia – Ammunition for firearms and warfare – Rámcová dohoda - náboje 4,6x30 mm v provedení pro ozbrojené složky",
-          "buyer": "Ministerstvo vnitra",
-          "country": "CZE",
+          "title": "Romania – Cartridges – Acord cadru furnizare muniții de antrenament SIMMUNITION",
+          "buyer": "Unitatea Militara 02655",
+          "country": "ROU",
           "cpv": [
-            "35331000"
+            "35331500"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/754712-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/755822-2026"
         },
         {
           "id": "752841-2026",
@@ -117,17 +128,6 @@
             "35613000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/752841-2026"
-        },
-        {
-          "id": "755822-2026",
-          "date": "2026-10-30",
-          "title": "Romania – Cartridges – Acord cadru furnizare muniții de antrenament SIMMUNITION",
-          "buyer": "Unitatea Militara 02655",
-          "country": "ROU",
-          "cpv": [
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/755822-2026"
         },
         {
           "id": "754570-2026",
@@ -142,17 +142,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/754570-2026"
         },
         {
-          "id": "750935-2026",
-          "date": "2026-10-29",
-          "title": "Germany – Military vehicles and associated parts – 6003093206-BAAINBw E2.3V TV121",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/750935-2026"
-        },
-        {
           "id": "750233-2026",
           "date": "2026-10-29",
           "title": "Bulgaria – Cartridges – „Доставка на боеприпаси за нуждите на Български стрелкови съоз при подготовка на спортисти за участия във вътрешни и международни състезания по спортна стрелба“",
@@ -164,15 +153,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/750233-2026"
         },
         {
-          "id": "749392-2026",
+          "id": "750935-2026",
           "date": "2026-10-29",
-          "title": "Germany – Infantry fighting vehicles – PF Getriebe HSWL 256",
+          "title": "Germany – Military vehicles and associated parts – 6003093206-BAAINBw E2.3V TV121",
           "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
           "country": "DEU",
           "cpv": [
-            "35412100"
+            "35400000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/749392-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/750935-2026"
         },
         {
           "id": "751590-2026",
@@ -186,6 +175,17 @@
             "73426000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/751590-2026"
+        },
+        {
+          "id": "749708-2026",
+          "date": "2026-10-29",
+          "title": "Poland – Ammunition for naval warfare – Dostawa amunicji do okrętowych zestawów zakłóceń radioelektronicznych.",
+          "buyer": "Agencja Uzbrojenia",
+          "country": "POL",
+          "cpv": [
+            "35332000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/749708-2026"
         },
         {
           "id": "751539-2026",
@@ -202,17 +202,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/751539-2026"
         },
         {
-          "id": "749708-2026",
-          "date": "2026-10-29",
-          "title": "Poland – Ammunition for naval warfare – Dostawa amunicji do okrętowych zestawów zakłóceń radioelektronicznych.",
-          "buyer": "Agencja Uzbrojenia",
-          "country": "POL",
-          "cpv": [
-            "35332000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/749708-2026"
-        },
-        {
           "id": "752151-2026",
           "date": "2026-10-29",
           "title": "Spain – Machine guns – Adquisición de Repuestos y Herramientas AMP 12,70 mm.",
@@ -222,9 +211,20 @@
             "35321300"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/752151-2026"
+        },
+        {
+          "id": "749392-2026",
+          "date": "2026-10-29",
+          "title": "Germany – Infantry fighting vehicles – PF Getriebe HSWL 256",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35412100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/749392-2026"
         }
       ],
-      "source_collected_at": "2026-11-01T06:40:53.718452+00:00"
+      "source_collected_at": "2026-11-01T18:02:54.087236+00:00"
     },
     "us_awards": {
       "key": "us_awards",
@@ -237,7 +237,7 @@
       "latest_observation": "2026-07-31",
       "reporting_lag_days": 93,
       "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 568684016.08,
+      "current_14d_weekly_equivalent": 568674486.6,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -267,7 +267,7 @@
         },
         {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 248737.51
+          "amount": 229678.54
         },
         {
           "name": "AEROFORCE LOGISTICS LLC",
@@ -439,7 +439,7 @@
           "naics": "336413"
         }
       ],
-      "source_collected_at": "2026-11-01T06:40:53.718452+00:00"
+      "source_collected_at": "2026-11-01T18:02:54.087236+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -462,7 +462,7 @@
             "air-defence"
           ],
           "weight": 3,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-10-28",
@@ -482,7 +482,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 12
+          "age": 13
         },
         {
           "date": "2026-10-15",
@@ -492,7 +492,7 @@
             "munition"
           ],
           "weight": 3,
-          "age": 16
+          "age": 17
         },
         {
           "date": "2026-10-15",
@@ -502,7 +502,7 @@
             "munition"
           ],
           "weight": 3,
-          "age": 16
+          "age": 17
         },
         {
           "date": "2026-10-01",
@@ -512,7 +512,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 30
+          "age": 31
         },
         {
           "date": "2026-09-29",
@@ -522,7 +522,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 32
+          "age": 33
         },
         {
           "date": "2026-09-29",
@@ -532,7 +532,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 32
+          "age": 33
         },
         {
           "date": "2026-09-28",
@@ -542,7 +542,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 33
+          "age": 34
         },
         {
           "date": "2026-09-28",
@@ -552,7 +552,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 33
+          "age": 34
         },
         {
           "date": "2026-09-28",
@@ -562,7 +562,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 33
+          "age": 34
         },
         {
           "date": "2026-09-28",
@@ -572,7 +572,7 @@
             "production"
           ],
           "weight": 3,
-          "age": 33
+          "age": 34
         },
         {
           "date": "2026-09-28",
@@ -582,7 +582,7 @@
             "capability"
           ],
           "weight": 2,
-          "age": 33
+          "age": 34
         },
         {
           "date": "2026-09-28",
@@ -592,10 +592,10 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 33
+          "age": 34
         }
       ],
-      "source_collected_at": "2026-11-01T06:40:53.718452+00:00"
+      "source_collected_at": "2026-11-01T18:02:54.087236+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -674,7 +674,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed revision and extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-01T06:40:53.718452+00:00"
+      "source_collected_at": "2026-11-01T18:02:54.087236+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -707,15 +707,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-01T06:40:53.718452+00:00"
+      "source_collected_at": "2026-11-01T18:02:54.087236+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-15T21:39:43.957279+00:00",
-      "score": 12.5,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-16T04:52:02.315041+00:00",
       "score": 12.5,
@@ -1008,6 +1003,11 @@
     },
     {
       "generated": "2026-11-01T06:40:53.718452+00:00",
+      "score": 24.4,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-01T18:02:54.087236+00:00",
       "score": 24.4,
       "status": "BASELINE"
     }
