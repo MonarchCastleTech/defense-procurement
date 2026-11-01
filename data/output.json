@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-10-31T21:48:53.997409+00:00",
+    "generated": "2026-11-01T06:40:53.718452+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 23.5,
-    "raw_score": 23.5,
+    "score": 24.4,
+    "raw_score": 24.4,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 23.5/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 24.4/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -26,7 +26,7 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 590,
+      "coverage": 589,
       "current_14d_weekly_equivalent": 47.5,
       "baseline_weekly_median": 42.5,
       "anomaly_z": 1.35,
@@ -72,6 +72,20 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/754238-2026"
         },
         {
+          "id": "755927-2026",
+          "date": "2026-10-30",
+          "title": "Germany – Firefighting vehicles – 54 24 271 - Havixbeck - GW-L2",
+          "buyer": "Gemeinde Havixbeck",
+          "country": "DEU",
+          "cpv": [
+            "34144210",
+            "35000000",
+            "34144700",
+            "35412500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/755927-2026"
+        },
+        {
           "id": "756321-2026",
           "date": "2026-10-30",
           "title": "Spain – Unmanned aerial vehicles – Adquisición UAS Cautivo con capacidad Vigilancia todo tiempo y guerra electrónica",
@@ -94,30 +108,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/754712-2026"
         },
         {
-          "id": "755927-2026",
+          "id": "752841-2026",
           "date": "2026-10-30",
-          "title": "Germany – Firefighting vehicles – 54 24 271 - Havixbeck - GW-L2",
-          "buyer": "Gemeinde Havixbeck",
-          "country": "DEU",
+          "title": "Cyprus – Unmanned aerial vehicles – F.D 77/2026 The Acquisition and Operational Deployment of Two Unmanned Aircraft Systems (UAS) for Border Surveillance",
+          "buyer": "Cyprus Police",
+          "country": "CYP",
           "cpv": [
-            "34144210",
-            "35000000",
-            "34144700",
-            "35412500"
+            "35613000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/755927-2026"
-        },
-        {
-          "id": "754570-2026",
-          "date": "2026-10-30",
-          "title": "Romania – Military electronic systems – Sisteme fixe de supraveghere la frontiera terestră",
-          "buyer": "INSPECTORATUL GENERAL AL POLITIEI DE FRONTIERA",
-          "country": "ROU",
-          "cpv": [
-            "35700000",
-            "72212900"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/754570-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/752841-2026"
         },
         {
           "id": "755822-2026",
@@ -131,15 +130,16 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/755822-2026"
         },
         {
-          "id": "752841-2026",
+          "id": "754570-2026",
           "date": "2026-10-30",
-          "title": "Cyprus – Unmanned aerial vehicles – F.D 77/2026 The Acquisition and Operational Deployment of Two Unmanned Aircraft Systems (UAS) for Border Surveillance",
-          "buyer": "Cyprus Police",
-          "country": "CYP",
+          "title": "Romania – Military electronic systems – Sisteme fixe de supraveghere la frontiera terestră",
+          "buyer": "INSPECTORATUL GENERAL AL POLITIEI DE FRONTIERA",
+          "country": "ROU",
           "cpv": [
-            "35613000"
+            "35700000",
+            "72212900"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/752841-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/754570-2026"
         },
         {
           "id": "750935-2026",
@@ -224,54 +224,54 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/752151-2026"
         }
       ],
-      "source_collected_at": "2026-10-31T21:48:53.997409+00:00"
+      "source_collected_at": "2026-11-01T06:40:53.718452+00:00"
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 2.7,
+      "score": 6.3,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-07-31",
-      "reporting_lag_days": 92,
-      "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 13730360.2,
+      "reporting_lag_days": 93,
+      "freshness_factor": 0.22,
+      "current_14d_weekly_equivalent": 568684016.08,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
         {
+          "name": "RTX CORPORATION",
+          "amount": 1081885600.99
+        },
+        {
           "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 20760391.31
+          "amount": 41520782.62
         },
         {
           "name": "LOCKHEED MARTIN CORP",
-          "amount": 5667952.0
+          "amount": 11335904.0
         },
         {
-          "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 252102.57
+          "name": "ADVANCED SYSTEMS & SOFTWARE ENGINEERING TECHNOLOGIES LLC",
+          "amount": 1049941.83
         },
         {
           "name": "DRS NETWORK & IMAGING SYSTEMS LLC",
-          "amount": 195200.4
+          "amount": 390400.8
         },
         {
           "name": "SCIENCE AND ENGINEERING SERVICES, LLC",
-          "amount": 179371.83
+          "amount": 358743.66
         },
         {
-          "name": "GE AVIATION SYSTEMS LLC",
-          "amount": 67212.0
+          "name": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 248737.51
         },
         {
-          "name": "KV ENGINEERING LLC",
-          "amount": 54000.0
-        },
-        {
-          "name": "COTTONWOOD INC",
-          "amount": 45112.2
+          "name": "AEROFORCE LOGISTICS LLC",
+          "amount": 79320.28
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -296,6 +296,15 @@
         },
         {
           "date": "2026-07-30",
+          "award_id": "N0001926F2227",
+          "recipient": "RTX CORPORATION",
+          "amount": 1081885600.99,
+          "agency": "Department of the Navy",
+          "description": "PROPULSION INITIAL SPARES",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-07-30",
           "award_id": "SPE4A626FD48G",
           "recipient": "HUDSON TECHNOLOGIES COMPANY",
           "amount": 25831.6,
@@ -310,6 +319,60 @@
           "amount": 4487.25,
           "agency": "Defense Logistics Agency",
           "description": "4572531082!REFRIGERANT GAS MIXTURE",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-30",
+          "award_id": "SPE4A626FD59Q",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 2325.72,
+          "agency": "Defense Logistics Agency",
+          "description": "4572536417!CALIBRATING GAS MIX",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-30",
+          "award_id": "SPE4A626FD49E",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 877.38,
+          "agency": "Defense Logistics Agency",
+          "description": "4572531487!CALIBRATING GAS MIXTURE",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-30",
+          "award_id": "SPE4A626FD46G",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 74.31,
+          "agency": "Defense Logistics Agency",
+          "description": "4572530671!OXYGEN,TECHNICAL",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-30",
+          "award_id": "SPE4A626FD48H",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 74.31,
+          "agency": "Defense Logistics Agency",
+          "description": "4572531081!OXYGEN,TECHNICAL",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-30",
+          "award_id": "SPE4AX25F7633",
+          "recipient": "AEROFORCE LOGISTICS LLC",
+          "amount": 0.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8511572091!DUCT ASSEMBLY,AIR C",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-29",
+          "award_id": "SPE4A726V4358",
+          "recipient": "MARTIN MILITARY INC",
+          "amount": 10134.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8512262125!HANDLE,LEVER CONTROL",
           "naics": "336413"
         },
         {
@@ -341,11 +404,29 @@
         },
         {
           "date": "2026-07-28",
+          "award_id": "SPE4AX26F311U",
+          "recipient": "AEROFORCE LOGISTICS LLC",
+          "amount": 23732.12,
+          "agency": "Defense Logistics Agency",
+          "description": "8512264580!STRIP,WING FLAP CARRIAGE",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-28",
           "award_id": "SPE4A126F1335",
           "recipient": "CANADIAN COMMERCIAL CORPORATION",
           "amount": 17998.09,
           "agency": "Defense Logistics Agency",
           "description": "8512238568!DISK,COMPRESSOR,AIRCRAFT GAS",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-28",
+          "award_id": "SPE4AX26F313Y",
+          "recipient": "AEROFORCE LOGISTICS LLC",
+          "amount": 16236.64,
+          "agency": "Defense Logistics Agency",
+          "description": "8512266712!RIB,AIRFOIL",
           "naics": "336413"
         },
         {
@@ -356,90 +437,9 @@
           "agency": "Defense Logistics Agency",
           "description": "8512265377!HEADREST,SEAT,AIRCR",
           "naics": "336413"
-        },
-        {
-          "date": "2026-07-28",
-          "award_id": "SPE4A526F8204",
-          "recipient": "HONEYWELL INTERNATIONAL INC.",
-          "amount": 3330.88,
-          "agency": "Defense Logistics Agency",
-          "description": "8512260828!SPRING,HELICAL,COMP",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-28",
-          "award_id": "FA811226F0022",
-          "recipient": "SAN ANTONIO LIGHTHOUSE FOR THE BLIND",
-          "amount": 0.0,
-          "agency": "Department of the Air Force",
-          "description": "KC-135 FLOORBOARDS FOR REPLACEMENT DURING PROGRAMMED DEPOT LEVEL MAINTENANCE.",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-27",
-          "award_id": "SPE4A526F7673",
-          "recipient": "HAMILTON SUNDSTRAND CORPORATION",
-          "amount": 23197.3,
-          "agency": "Defense Logistics Agency",
-          "description": "8512221476!COVER,BEARING",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-27",
-          "award_id": "SPE4AX26F310Q",
-          "recipient": "CFM INTERNATIONAL INC",
-          "amount": 20664.5,
-          "agency": "Defense Logistics Agency",
-          "description": "8512263742!TUBE ASSEMBLY,METAL",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-07-27",
-          "award_id": "SPE8E526P1353",
-          "recipient": "SPECIALTY COATINGS, INC.",
-          "amount": 5384.3,
-          "agency": "Defense Logistics Agency",
-          "description": "8512253259!WAX,AIRCRAFT",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-27",
-          "award_id": "SPE7L126V132S",
-          "recipient": "AVIARMS SUPPORT CORP",
-          "amount": 1116.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512265421!RING,WIPER",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-24",
-          "award_id": "FA480926F0048",
-          "recipient": "MERCURY MISSION SYSTEMS LLC",
-          "amount": 5932.32,
-          "agency": "Department of the Air Force",
-          "description": "PROVIDE ALL, EQUIPMENT AND SUPPLIES NECESSARY FOR THE REPAIR AND TESTING OF CABIN PRESSURE INDICATORS AND RETURN SHIPMENT TO THE 4TH FIGHTER WING AIR FORCE REPAIR ENHANCEMENT PROGRAM IN ACCORDANCE WITH THE STATEMENT OF WORK.",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-24",
-          "award_id": "SPE4A725P6821",
-          "recipient": "FXC CORPORATION",
-          "amount": 0.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8511240204!PILOT CHUTE",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-24",
-          "award_id": "0014",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": -5071.0,
-          "agency": "Department of the Air Force",
-          "description": "JOINT AIR TO SURFACE STANDOFF MISSILE (JASSM) ELECTRONIC SAFE AND ARM FUZE (ESAF)",
-          "naics": "336414"
         }
       ],
-      "source_collected_at": "2026-10-31T21:48:53.997409+00:00"
+      "source_collected_at": "2026-11-01T06:40:53.718452+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -595,7 +595,7 @@
           "age": 33
         }
       ],
-      "source_collected_at": "2026-10-31T21:48:53.997409+00:00"
+      "source_collected_at": "2026-11-01T06:40:53.718452+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -674,7 +674,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed revision and extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-10-31T21:48:53.997409+00:00"
+      "source_collected_at": "2026-11-01T06:40:53.718452+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -707,15 +707,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-10-31T21:48:53.997409+00:00"
+      "source_collected_at": "2026-11-01T06:40:53.718452+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-15T17:16:42.893001+00:00",
-      "score": 12.5,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-15T21:39:43.957279+00:00",
       "score": 12.5,
@@ -1009,6 +1004,11 @@
     {
       "generated": "2026-10-31T21:48:53.997409+00:00",
       "score": 23.5,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-01T06:40:53.718452+00:00",
+      "score": 24.4,
       "status": "BASELINE"
     }
   ],
