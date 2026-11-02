@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-02T06:39:46.850575+00:00",
+    "generated": "2026-11-02T21:52:34.891652+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,7 +26,7 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 597,
+      "coverage": 596,
       "current_14d_weekly_equivalent": 47.5,
       "baseline_weekly_median": 41.0,
       "anomaly_z": 1.25,
@@ -44,15 +44,18 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/757841-2026"
         },
         {
-          "id": "759026-2026",
+          "id": "756858-2026",
           "date": "2026-11-02",
-          "title": "France – Missiles – Fourniture de systèmes VL MICA, de munitions MICA et prestations associées pour les besoins des armées françaises et d’Etats Partenaires, membres ou non de l’Union Européenne",
-          "buyer": "Direction Générale de l’Armement / DOMN / Service des achats d'armement",
-          "country": "FRA",
+          "title": "Malta – Police equipment – Negotiated procedure for the supply of TASER '10' devices and equipment to the Malta Police Force",
+          "buyer": "Malta Police Force",
+          "country": "MLT",
           "cpv": [
-            "35620000"
+            "35200000",
+            "35300000",
+            "80500000",
+            "80600000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/759026-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/756858-2026"
         },
         {
           "id": "756437-2026",
@@ -66,18 +69,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/756437-2026"
         },
         {
-          "id": "756858-2026",
+          "id": "759026-2026",
           "date": "2026-11-02",
-          "title": "Malta – Police equipment – Negotiated procedure for the supply of TASER '10' devices and equipment to the Malta Police Force",
-          "buyer": "Malta Police Force",
-          "country": "MLT",
+          "title": "France – Missiles – Fourniture de systèmes VL MICA, de munitions MICA et prestations associées pour les besoins des armées françaises et d’Etats Partenaires, membres ou non de l’Union Européenne",
+          "buyer": "Direction Générale de l’Armement / DOMN / Service des achats d'armement",
+          "country": "FRA",
           "cpv": [
-            "35200000",
-            "35300000",
-            "80500000",
-            "80600000"
+            "35620000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/756858-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/759026-2026"
         },
         {
           "id": "760355-2026",
@@ -93,6 +93,18 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/760355-2026"
         },
         {
+          "id": "759174-2026",
+          "date": "2026-11-02",
+          "title": "Czechia – Armoured military vehicles – Univerzální kolová platforma",
+          "buyer": "Ministerstvo obrany",
+          "country": "CZE",
+          "cpv": [
+            "35410000",
+            "34114120"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/759174-2026"
+        },
+        {
           "id": "759649-2026",
           "date": "2026-11-02",
           "title": "Romania – Sports goods and equipment – Furnizare echipament si materiale sportive",
@@ -105,18 +117,6 @@
             "44512910"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/759649-2026"
-        },
-        {
-          "id": "759174-2026",
-          "date": "2026-11-02",
-          "title": "Czechia – Armoured military vehicles – Univerzální kolová platforma",
-          "buyer": "Ministerstvo obrany",
-          "country": "CZE",
-          "cpv": [
-            "35410000",
-            "34114120"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/759174-2026"
         },
         {
           "id": "756226-2026",
@@ -194,17 +194,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/754712-2026"
         },
         {
-          "id": "752841-2026",
-          "date": "2026-10-30",
-          "title": "Cyprus – Unmanned aerial vehicles – F.D 77/2026 The Acquisition and Operational Deployment of Two Unmanned Aircraft Systems (UAS) for Border Surveillance",
-          "buyer": "Cyprus Police",
-          "country": "CYP",
-          "cpv": [
-            "35613000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/752841-2026"
-        },
-        {
           "id": "755822-2026",
           "date": "2026-10-30",
           "title": "Romania – Cartridges – Acord cadru furnizare muniții de antrenament SIMMUNITION",
@@ -214,6 +203,17 @@
             "35331500"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/755822-2026"
+        },
+        {
+          "id": "752841-2026",
+          "date": "2026-10-30",
+          "title": "Cyprus – Unmanned aerial vehicles – F.D 77/2026 The Acquisition and Operational Deployment of Two Unmanned Aircraft Systems (UAS) for Border Surveillance",
+          "buyer": "Cyprus Police",
+          "country": "CYP",
+          "cpv": [
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/752841-2026"
         },
         {
           "id": "754570-2026",
@@ -228,7 +228,7 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/754570-2026"
         }
       ],
-      "source_collected_at": "2026-11-02T06:39:46.850575+00:00"
+      "source_collected_at": "2026-11-02T21:52:34.891652+00:00"
     },
     "us_awards": {
       "key": "us_awards",
@@ -241,7 +241,7 @@
       "latest_observation": "2026-07-31",
       "reporting_lag_days": 94,
       "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 541874283.96,
+      "current_14d_weekly_equivalent": 541322802.85,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -250,12 +250,8 @@
           "amount": 1081885600.99
         },
         {
-          "name": "ADVANCED SYSTEMS & SOFTWARE ENGINEERING TECHNOLOGIES LLC",
-          "amount": 1049941.83
-        },
-        {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 231525.15
+          "amount": 215719.56
         },
         {
           "name": "AEROFORCE LOGISTICS LLC",
@@ -266,16 +262,20 @@
           "amount": 67212.0
         },
         {
-          "name": "CHEROKEE NATION ARMORED SOLUTIONS, LLC",
-          "amount": 61889.27
-        },
-        {
           "name": "KV ENGINEERING LLC",
           "amount": 54000.0
         },
         {
           "name": "COTTONWOOD INC",
           "amount": 44551.8
+        },
+        {
+          "name": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 39436.87
+        },
+        {
+          "name": "CFM INTERNATIONAL INC",
+          "amount": 35420.1
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -345,20 +345,20 @@
         },
         {
           "date": "2026-07-30",
-          "award_id": "SPE4A626FD46G",
-          "recipient": "HUDSON TECHNOLOGIES COMPANY",
-          "amount": 74.31,
-          "agency": "Defense Logistics Agency",
-          "description": "4572530671!OXYGEN,TECHNICAL",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-30",
           "award_id": "SPE4A626FD48H",
           "recipient": "HUDSON TECHNOLOGIES COMPANY",
           "amount": 74.31,
           "agency": "Defense Logistics Agency",
           "description": "4572531081!OXYGEN,TECHNICAL",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-07-30",
+          "award_id": "SPE4A626FD46G",
+          "recipient": "HUDSON TECHNOLOGIES COMPANY",
+          "amount": 74.31,
+          "agency": "Defense Logistics Agency",
+          "description": "4572530671!OXYGEN,TECHNICAL",
           "naics": "336413"
         },
         {
@@ -399,6 +399,15 @@
         },
         {
           "date": "2026-07-29",
+          "award_id": "SPE7LX26F82K7",
+          "recipient": "ATLANTIC DIVING SUPPLY, INC.",
+          "amount": 4584.56,
+          "agency": "Defense Logistics Agency",
+          "description": "8512269319!PLATFORM,DROP LEG",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-07-29",
           "award_id": "FA873023C0025",
           "recipient": "THE BOEING COMPANY",
           "amount": 0.0,
@@ -432,18 +441,9 @@
           "agency": "Defense Logistics Agency",
           "description": "8512266712!RIB,AIRFOIL",
           "naics": "336413"
-        },
-        {
-          "date": "2026-07-28",
-          "award_id": "SPE4A726V4366",
-          "recipient": "HOOSIER INDUSTRIAL SUPPLY, INC",
-          "amount": 13772.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512265377!HEADREST,SEAT,AIRCR",
-          "naics": "336413"
         }
       ],
-      "source_collected_at": "2026-11-02T06:39:46.850575+00:00"
+      "source_collected_at": "2026-11-02T21:52:34.891652+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -466,7 +466,7 @@
             "air-defence"
           ],
           "weight": 3,
-          "age": 3
+          "age": 4
         },
         {
           "date": "2026-10-28",
@@ -476,7 +476,7 @@
             "air-defence"
           ],
           "weight": 3,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-10-19",
@@ -486,7 +486,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 13
+          "age": 14
         },
         {
           "date": "2026-10-15",
@@ -496,7 +496,7 @@
             "munition"
           ],
           "weight": 3,
-          "age": 17
+          "age": 18
         },
         {
           "date": "2026-10-15",
@@ -506,7 +506,7 @@
             "munition"
           ],
           "weight": 3,
-          "age": 17
+          "age": 18
         },
         {
           "date": "2026-10-01",
@@ -516,7 +516,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 31
+          "age": 32
         },
         {
           "date": "2026-09-29",
@@ -526,7 +526,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 33
+          "age": 34
         },
         {
           "date": "2026-09-29",
@@ -536,70 +536,10 @@
             "drone"
           ],
           "weight": 3,
-          "age": 33
-        },
-        {
-          "date": "2026-09-28",
-          "title": "Nato Releases Updated Defence Production Action Plan Commercial Space Strategy And Rapid Adoption Action Plan",
-          "url": "https://www.nato.int/en/news-and-events/articles/news/2025/06/24/nato-releases-updated-defence-production-action-plan-commercial-space-strategy-and-rapid-adoption-action-plan",
-          "terms": [
-            "production"
-          ],
-          "weight": 3,
-          "age": 34
-        },
-        {
-          "date": "2026-09-28",
-          "title": "Nato Allies Step Up Multinational Capability Delivery Cooperation",
-          "url": "https://www.nato.int/en/news-and-events/articles/news/2025/06/24/nato-allies-step-up-multinational-capability-delivery-cooperation",
-          "terms": [
-            "capability"
-          ],
-          "weight": 2,
-          "age": 34
-        },
-        {
-          "date": "2026-09-28",
-          "title": "Nato Summit Defence Industry Forum 2025 Time To Unite Innovate Deliver",
-          "url": "https://www.nato.int/en/news-and-events/articles/news/2025/06/24/nato-summit-defence-industry-forum-2025-time-to-unite-innovate--deliver",
-          "terms": [
-            "industry"
-          ],
-          "weight": 2.5,
-          "age": 34
-        },
-        {
-          "date": "2026-09-28",
-          "title": "Nato Releases Updated Defence Production Action Plan Commercial Space Strategy And Rapid Adoption Action Plan",
-          "url": "https://www.nato.int/fr/news-and-events/articles/news/2025/06/24/nato-releases-updated-defence-production-action-plan-commercial-space-strategy-and-rapid-adoption-action-plan",
-          "terms": [
-            "production"
-          ],
-          "weight": 3,
-          "age": 34
-        },
-        {
-          "date": "2026-09-28",
-          "title": "Nato Allies Step Up Multinational Capability Delivery Cooperation",
-          "url": "https://www.nato.int/fr/news-and-events/articles/news/2025/06/24/nato-allies-step-up-multinational-capability-delivery-cooperation",
-          "terms": [
-            "capability"
-          ],
-          "weight": 2,
-          "age": 34
-        },
-        {
-          "date": "2026-09-28",
-          "title": "Nato Summit Defence Industry Forum 2025 Time To Unite Innovate Deliver",
-          "url": "https://www.nato.int/fr/news-and-events/articles/news/2025/06/24/nato-summit-defence-industry-forum-2025-time-to-unite-innovate--deliver",
-          "terms": [
-            "industry"
-          ],
-          "weight": 2.5,
           "age": 34
         }
       ],
-      "source_collected_at": "2026-11-02T06:39:46.850575+00:00"
+      "source_collected_at": "2026-11-02T21:52:34.891652+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -678,7 +618,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed revision and extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-02T06:39:46.850575+00:00"
+      "source_collected_at": "2026-11-02T21:52:34.891652+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -711,15 +651,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-02T06:39:46.850575+00:00"
+      "source_collected_at": "2026-11-02T21:52:34.891652+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-16T16:52:26.123076+00:00",
-      "score": 11.9,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-16T21:35:28.784129+00:00",
       "score": 12.0,
@@ -1012,6 +947,11 @@
     },
     {
       "generated": "2026-11-02T06:39:46.850575+00:00",
+      "score": 16.9,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-02T21:52:34.891652+00:00",
       "score": 16.9,
       "status": "BASELINE"
     }
