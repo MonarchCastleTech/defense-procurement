@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-01T22:16:01.289528+00:00",
+    "generated": "2026-11-02T06:39:46.850575+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,27 +11,113 @@
     "source_notes": []
   },
   "warning": {
-    "score": 24.4,
-    "raw_score": 24.4,
+    "score": 16.9,
+    "raw_score": 16.9,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 24.4/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 16.9/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
     "eu_notices": {
       "key": "eu_notices",
-      "score": 41.2,
+      "score": 40.4,
       "status": "WATCH",
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 589,
+      "coverage": 597,
       "current_14d_weekly_equivalent": 47.5,
-      "baseline_weekly_median": 42.5,
-      "anomaly_z": 1.35,
+      "baseline_weekly_median": 41.0,
+      "anomaly_z": 1.25,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "757841-2026",
+          "date": "2026-11-02",
+          "title": "Hungary – Ammunition – 9x19 mm-es szolgálati és kiképzési pisztolylőszer",
+          "buyer": "Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság",
+          "country": "HUN",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/757841-2026"
+        },
+        {
+          "id": "759026-2026",
+          "date": "2026-11-02",
+          "title": "France – Missiles – Fourniture de systèmes VL MICA, de munitions MICA et prestations associées pour les besoins des armées françaises et d’Etats Partenaires, membres ou non de l’Union Européenne",
+          "buyer": "Direction Générale de l’Armement / DOMN / Service des achats d'armement",
+          "country": "FRA",
+          "cpv": [
+            "35620000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/759026-2026"
+        },
+        {
+          "id": "756437-2026",
+          "date": "2026-11-02",
+          "title": "Romania – Cartridges – Acord cadru furnizare muniții de antrenament 5,56 mm",
+          "buyer": "Unitatea Militara 02655",
+          "country": "ROU",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/756437-2026"
+        },
+        {
+          "id": "756858-2026",
+          "date": "2026-11-02",
+          "title": "Malta – Police equipment – Negotiated procedure for the supply of TASER '10' devices and equipment to the Malta Police Force",
+          "buyer": "Malta Police Force",
+          "country": "MLT",
+          "cpv": [
+            "35200000",
+            "35300000",
+            "80500000",
+            "80600000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/756858-2026"
+        },
+        {
+          "id": "760355-2026",
+          "date": "2026-11-02",
+          "title": "France – Police equipment – ACHAT DE FOURNITURES POUR LES MISSIONS DE POLICE EFFECTUEES PAR L’ONF",
+          "buyer": "OFFICE NATIONAL DES FORETS",
+          "country": "FRA",
+          "cpv": [
+            "35200000",
+            "35300000",
+            "35815100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/760355-2026"
+        },
+        {
+          "id": "759649-2026",
+          "date": "2026-11-02",
+          "title": "Romania – Sports goods and equipment – Furnizare echipament si materiale sportive",
+          "buyer": "FEDERATIA ROMANA DE SCHI BIATLON",
+          "country": "ROU",
+          "cpv": [
+            "37400000",
+            "37411100",
+            "35331500",
+            "44512910"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/759649-2026"
+        },
+        {
+          "id": "759174-2026",
+          "date": "2026-11-02",
+          "title": "Czechia – Armoured military vehicles – Univerzální kolová platforma",
+          "buyer": "Ministerstvo obrany",
+          "country": "CZE",
+          "cpv": [
+            "35410000",
+            "34114120"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/759174-2026"
+        },
         {
           "id": "756226-2026",
           "date": "2026-10-30",
@@ -72,17 +158,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/754238-2026"
         },
         {
-          "id": "754712-2026",
-          "date": "2026-10-30",
-          "title": "Czechia – Ammunition for firearms and warfare – Rámcová dohoda - náboje 4,6x30 mm v provedení pro ozbrojené složky",
-          "buyer": "Ministerstvo vnitra",
-          "country": "CZE",
-          "cpv": [
-            "35331000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/754712-2026"
-        },
-        {
           "id": "755927-2026",
           "date": "2026-10-30",
           "title": "Germany – Firefighting vehicles – 54 24 271 - Havixbeck - GW-L2",
@@ -108,15 +183,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/756321-2026"
         },
         {
-          "id": "755822-2026",
+          "id": "754712-2026",
           "date": "2026-10-30",
-          "title": "Romania – Cartridges – Acord cadru furnizare muniții de antrenament SIMMUNITION",
-          "buyer": "Unitatea Militara 02655",
-          "country": "ROU",
+          "title": "Czechia – Ammunition for firearms and warfare – Rámcová dohoda - náboje 4,6x30 mm v provedení pro ozbrojené složky",
+          "buyer": "Ministerstvo vnitra",
+          "country": "CZE",
           "cpv": [
-            "35331500"
+            "35331000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/755822-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/754712-2026"
         },
         {
           "id": "752841-2026",
@@ -130,6 +205,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/752841-2026"
         },
         {
+          "id": "755822-2026",
+          "date": "2026-10-30",
+          "title": "Romania – Cartridges – Acord cadru furnizare muniții de antrenament SIMMUNITION",
+          "buyer": "Unitatea Militara 02655",
+          "country": "ROU",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/755822-2026"
+        },
+        {
           "id": "754570-2026",
           "date": "2026-10-30",
           "title": "Romania – Military electronic systems – Sisteme fixe de supraveghere la frontiera terestră",
@@ -140,104 +226,22 @@
             "72212900"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/754570-2026"
-        },
-        {
-          "id": "750233-2026",
-          "date": "2026-10-29",
-          "title": "Bulgaria – Cartridges – „Доставка на боеприпаси за нуждите на Български стрелкови съоз при подготовка на спортисти за участия във вътрешни и международни състезания по спортна стрелба“",
-          "buyer": "БЪЛГАРСКИ СТРЕЛКОВИ СЪЮЗ Сдружение",
-          "country": "BGR",
-          "cpv": [
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/750233-2026"
-        },
-        {
-          "id": "750935-2026",
-          "date": "2026-10-29",
-          "title": "Germany – Military vehicles and associated parts – 6003093206-BAAINBw E2.3V TV121",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/750935-2026"
-        },
-        {
-          "id": "751590-2026",
-          "date": "2026-10-29",
-          "title": "Netherlands – Command, control, communication and computer systems – Networked Video Observation System (NVOS)",
-          "buyer": "Ministerie van Defensie",
-          "country": "NLD",
-          "cpv": [
-            "35710000",
-            "35700000",
-            "73426000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/751590-2026"
-        },
-        {
-          "id": "749708-2026",
-          "date": "2026-10-29",
-          "title": "Poland – Ammunition for naval warfare – Dostawa amunicji do okrętowych zestawów zakłóceń radioelektronicznych.",
-          "buyer": "Agencja Uzbrojenia",
-          "country": "POL",
-          "cpv": [
-            "35332000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/749708-2026"
-        },
-        {
-          "id": "751539-2026",
-          "date": "2026-10-29",
-          "title": "Romania – Sports goods and equipment – Furnizare echipament si materiale sportive",
-          "buyer": "FEDERATIA ROMANA DE SCHI BIATLON",
-          "country": "ROU",
-          "cpv": [
-            "37400000",
-            "37411100",
-            "35331500",
-            "44512910"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/751539-2026"
-        },
-        {
-          "id": "752151-2026",
-          "date": "2026-10-29",
-          "title": "Spain – Machine guns – Adquisición de Repuestos y Herramientas AMP 12,70 mm.",
-          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
-          "country": "ESP",
-          "cpv": [
-            "35321300"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/752151-2026"
-        },
-        {
-          "id": "749392-2026",
-          "date": "2026-10-29",
-          "title": "Germany – Infantry fighting vehicles – PF Getriebe HSWL 256",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35412100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/749392-2026"
         }
       ],
-      "source_collected_at": "2026-11-01T22:16:01.289528+00:00"
+      "source_collected_at": "2026-11-02T06:39:46.850575+00:00"
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 6.2,
+      "score": 6.0,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-07-31",
-      "reporting_lag_days": 93,
+      "reporting_lag_days": 94,
       "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 568111472.09,
+      "current_14d_weekly_equivalent": 541874283.96,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -246,24 +250,12 @@
           "amount": 1081885600.99
         },
         {
-          "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 41520782.62
-        },
-        {
-          "name": "LOCKHEED MARTIN CORP",
-          "amount": 11335904.0
-        },
-        {
-          "name": "DRS NETWORK & IMAGING SYSTEMS LLC",
-          "amount": 390400.8
-        },
-        {
-          "name": "SCIENCE AND ENGINEERING SERVICES, LLC",
-          "amount": 358743.66
+          "name": "ADVANCED SYSTEMS & SOFTWARE ENGINEERING TECHNOLOGIES LLC",
+          "amount": 1049941.83
         },
         {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 215480.62
+          "amount": 231525.15
         },
         {
           "name": "AEROFORCE LOGISTICS LLC",
@@ -272,6 +264,18 @@
         {
           "name": "GE AVIATION SYSTEMS LLC",
           "amount": 67212.0
+        },
+        {
+          "name": "CHEROKEE NATION ARMORED SOLUTIONS, LLC",
+          "amount": 61889.27
+        },
+        {
+          "name": "KV ENGINEERING LLC",
+          "amount": 54000.0
+        },
+        {
+          "name": "COTTONWOOD INC",
+          "amount": 44551.8
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -439,19 +443,19 @@
           "naics": "336413"
         }
       ],
-      "source_collected_at": "2026-11-01T22:16:01.289528+00:00"
+      "source_collected_at": "2026-11-02T06:39:46.850575+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 36.4,
-      "status": "WATCH",
+      "score": 11.6,
+      "status": "BASELINE",
       "weight": 0.2,
       "available": true,
       "retained": false,
       "coverage": 32,
-      "current_14d_weekly_equivalent": 4.5,
-      "baseline_weekly_median": 1.0,
-      "anomaly_z": 2.36,
+      "current_14d_weekly_equivalent": 3.0,
+      "baseline_weekly_median": 6.5,
+      "anomaly_z": -0.43,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -595,19 +599,19 @@
           "age": 34
         }
       ],
-      "source_collected_at": "2026-11-01T22:16:01.289528+00:00"
+      "source_collected_at": "2026-11-02T06:39:46.850575+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
-      "score": 20.5,
+      "score": 5.3,
       "status": "BASELINE",
       "weight": 0.15,
       "available": true,
       "retained": false,
       "coverage": 18,
-      "current_14d_weekly_equivalent": 2.0,
+      "current_14d_weekly_equivalent": 0.5,
       "baseline_weekly_median": 0.0,
-      "anomaly_z": 0.9,
+      "anomaly_z": 0.24,
       "method": "Defense Acquisition Regulations System publication velocity; rules weighted 1.5.",
       "evidence": [
         {
@@ -674,7 +678,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed revision and extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-01T22:16:01.289528+00:00"
+      "source_collected_at": "2026-11-02T06:39:46.850575+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -707,15 +711,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-01T22:16:01.289528+00:00"
+      "source_collected_at": "2026-11-02T06:39:46.850575+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-16T11:48:09.850201+00:00",
-      "score": 11.9,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-16T16:52:26.123076+00:00",
       "score": 11.9,
@@ -1009,6 +1008,11 @@
     {
       "generated": "2026-11-01T22:16:01.289528+00:00",
       "score": 24.4,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-02T06:39:46.850575+00:00",
+      "score": 16.9,
       "status": "BASELINE"
     }
   ],
