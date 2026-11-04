@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-03T19:43:49.617983+00:00",
+    "generated": "2026-11-04T06:54:09.097686+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,27 +11,172 @@
     "source_notes": []
   },
   "warning": {
-    "score": 15.3,
-    "raw_score": 15.3,
+    "score": 23.0,
+    "raw_score": 23.0,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 15.3/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 23.0/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
     "eu_notices": {
       "key": "eu_notices",
-      "score": 34.7,
+      "score": 34.6,
       "status": "WATCH",
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 595,
-      "current_14d_weekly_equivalent": 45.5,
-      "baseline_weekly_median": 41.0,
-      "anomaly_z": 0.55,
+      "coverage": 597,
+      "current_14d_weekly_equivalent": 47.5,
+      "baseline_weekly_median": 41.5,
+      "anomaly_z": 0.54,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "766807-2026",
+          "date": "2026-11-04",
+          "title": "Czechia – Weapons, ammunition and associated parts – Rámcová dohoda na dodávky náhradních dílů a dalších komponentů pro zbraňové komplety na bázi krátkých zbraní",
+          "buyer": "Ministerstvo vnitra",
+          "country": "CZE",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/766807-2026"
+        },
+        {
+          "id": "767196-2026",
+          "date": "2026-11-04",
+          "title": "Spain – Communications system maintenance services – Contratación de un servicio de mantenimiento integral para los despliegues fijos del Sistema Integrado de Vigilancia Exterior (SIVE)",
+          "buyer": "Jefatura de Asuntos Económicos de la Guardia Civil",
+          "country": "ESP",
+          "cpv": [
+            "50334400",
+            "32524000",
+            "34932000",
+            "35125100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/767196-2026"
+        },
+        {
+          "id": "765008-2026",
+          "date": "2026-11-04",
+          "title": "Poland – Electronic intelligence system – Zakup systemu detekcji i neutralizacji Bezzałogowych Statków Powietrznych dla PGE GiEK S.A. Oddział: KWB, ELB, KWT, ELT oraz ELO",
+          "buyer": "PGE GÓRNICTWO I ENERGETYKA KONWENCJONALNA SPÓŁKA AKCYJNA",
+          "country": "POL",
+          "cpv": [
+            "35721000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/765008-2026"
+        },
+        {
+          "id": "766841-2026",
+          "date": "2026-11-04",
+          "title": "Sweden – Military aircrafts, missiles and spacecrafts – Quadruped (four-legged) robot",
+          "buyer": "Totalförsvarets Forskningsinstitut, Foi",
+          "country": "SWE",
+          "cpv": [
+            "35600000",
+            "35623100",
+            "42997300"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/766841-2026"
+        },
+        {
+          "id": "765595-2026",
+          "date": "2026-11-04",
+          "title": "Germany – Ammunition – Prüfmunition 25x137mm APFSDS-T",
+          "buyer": "Bayerisches Landesamt für Maß und Gewicht",
+          "country": "DEU",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/765595-2026"
+        },
+        {
+          "id": "764879-2026",
+          "date": "2026-11-04",
+          "title": "Germany – Grenades – Angestrebt wird für die Herstellung und Lieferung von Granaten, Abschussgerät (ASG), 76 mm, Nebel, Infrarot (IR), roter Phosphor (RP) eine Mehrpartnerrahmenvereinbarung mit Miniwettbewerb",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35331300",
+            "35330000",
+            "39225500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/764879-2026"
+        },
+        {
+          "id": "765475-2026",
+          "date": "2026-11-04",
+          "title": "Netherlands – Radio, television, communication, telecommunication and related equipment – The establishment of a Framework Agreement for the sustainment of the FM-9000 series radio equipment and related accessories, including successor systems.",
+          "buyer": "Ministerie van Defensie",
+          "country": "NLD",
+          "cpv": [
+            "32000000",
+            "32352100",
+            "35712000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/765475-2026"
+        },
+        {
+          "id": "767282-2026",
+          "date": "2026-11-04",
+          "title": "Sweden – Command, control, communication and computer systems – Systemstöd för färdtjänsthandläggning",
+          "buyer": "Umeå kommun",
+          "country": "SWE",
+          "cpv": [
+            "35710000",
+            "48219300",
+            "48900000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/767282-2026"
+        },
+        {
+          "id": "764914-2026",
+          "date": "2026-11-04",
+          "title": "Czechia – Land mines – Nákup munice 2029/I - PT mina tlaková",
+          "buyer": "Česká republika - Ministerstvo obrany",
+          "country": "CZE",
+          "cpv": [
+            "35331400",
+            "24610000",
+            "39162200"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/764914-2026"
+        },
+        {
+          "id": "765047-2026",
+          "date": "2026-11-04",
+          "title": "Spain – Unmanned aerial vehicles – Adquisición de Kits de formación para operación FPV Fase 2",
+          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+          "country": "ESP",
+          "cpv": [
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/765047-2026"
+        },
+        {
+          "id": "767112-2026",
+          "date": "2026-11-04",
+          "title": "France – Weapons, ammunition and associated parts – Développement, industrialisation, production d’une munition volante de très longue portée et de forte charge (CHORUS) productible en masse et prestations associées.",
+          "buyer": "Direction Générale de l’Armement / DOMN / Service des achats d'armement",
+          "country": "FRA",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/767112-2026"
+        },
+        {
+          "id": "767487-2026",
+          "date": "2026-11-04",
+          "title": "Estonia – Ammunition – Pneumorelva laskemoona ostmine",
+          "buyer": "Politsei- ja Piirivalveamet",
+          "country": "EST",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/767487-2026"
+        },
         {
           "id": "762048-2026",
           "date": "2026-11-03",
@@ -79,172 +224,22 @@
             "34114400"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/763675-2026"
-        },
-        {
-          "id": "761581-2026",
-          "date": "2026-11-03",
-          "title": "Netherlands – Aviation ground support software package – Verwerven Obriy licenties inclusief support",
-          "buyer": "Ministerie van Defensie",
-          "country": "NLD",
-          "cpv": [
-            "48131000",
-            "34711200",
-            "35613000",
-            "48000000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/761581-2026"
-        },
-        {
-          "id": "757841-2026",
-          "date": "2026-11-02",
-          "title": "Hungary – Ammunition – 9x19 mm-es szolgálati és kiképzési pisztolylőszer",
-          "buyer": "Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság",
-          "country": "HUN",
-          "cpv": [
-            "35330000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/757841-2026"
-        },
-        {
-          "id": "756858-2026",
-          "date": "2026-11-02",
-          "title": "Malta – Police equipment – Negotiated procedure for the supply of TASER '10' devices and equipment to the Malta Police Force",
-          "buyer": "Malta Police Force",
-          "country": "MLT",
-          "cpv": [
-            "35200000",
-            "35300000",
-            "80500000",
-            "80600000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/756858-2026"
-        },
-        {
-          "id": "756437-2026",
-          "date": "2026-11-02",
-          "title": "Romania – Cartridges – Acord cadru furnizare muniții de antrenament 5,56 mm",
-          "buyer": "Unitatea Militara 02655",
-          "country": "ROU",
-          "cpv": [
-            "35331500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/756437-2026"
-        },
-        {
-          "id": "759026-2026",
-          "date": "2026-11-02",
-          "title": "France – Missiles – Fourniture de systèmes VL MICA, de munitions MICA et prestations associées pour les besoins des armées françaises et d’Etats Partenaires, membres ou non de l’Union Européenne",
-          "buyer": "Direction Générale de l’Armement / DOMN / Service des achats d'armement",
-          "country": "FRA",
-          "cpv": [
-            "35620000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/759026-2026"
-        },
-        {
-          "id": "760355-2026",
-          "date": "2026-11-02",
-          "title": "France – Police equipment – ACHAT DE FOURNITURES POUR LES MISSIONS DE POLICE EFFECTUEES PAR L’ONF",
-          "buyer": "OFFICE NATIONAL DES FORETS",
-          "country": "FRA",
-          "cpv": [
-            "35200000",
-            "35300000",
-            "35815100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/760355-2026"
-        },
-        {
-          "id": "759649-2026",
-          "date": "2026-11-02",
-          "title": "Romania – Sports goods and equipment – Furnizare echipament si materiale sportive",
-          "buyer": "FEDERATIA ROMANA DE SCHI BIATLON",
-          "country": "ROU",
-          "cpv": [
-            "37400000",
-            "37411100",
-            "35331500",
-            "44512910"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/759649-2026"
-        },
-        {
-          "id": "759174-2026",
-          "date": "2026-11-02",
-          "title": "Czechia – Armoured military vehicles – Univerzální kolová platforma",
-          "buyer": "Ministerstvo obrany",
-          "country": "CZE",
-          "cpv": [
-            "35410000",
-            "34114120"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/759174-2026"
-        },
-        {
-          "id": "756226-2026",
-          "date": "2026-10-30",
-          "title": "Czechia – Weapons, ammunition and associated parts – Rámcová dohoda na dodávky náhradních dílů a dalších komponentů pro zbraňové komplety na bázi dlouhých zbraní z výzbroje Policie ČR",
-          "buyer": "Ministerstvo vnitra",
-          "country": "CZE",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/756226-2026"
-        },
-        {
-          "id": "753958-2026",
-          "date": "2026-10-30",
-          "title": "Poland – Construction work – „Projekt i budowa drogi ekspresowej S7 na odcinku Płońsk–Czosnów, odcinek II od węzła „Załuski” (z węzłem) do węzła „Modlin” (bez węzła)”.",
-          "buyer": "Skarb Państwa, Generalny Dyrektor Dróg Krajowych i Autostrad, prowadzący postępowanie: Generalna Dyrekcja Dróg Krajowych i Autostrad, Oddział w Warszawie",
-          "country": "POL",
-          "cpv": [
-            "45000000",
-            "45233125",
-            "45233124",
-            "45221120"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/753958-2026"
-        },
-        {
-          "id": "754238-2026",
-          "date": "2026-10-30",
-          "title": "Czechia – Sensors – SOUMOS – dodávka technologického, monitorovacího a aplikačního vybavení pro systém prevence komářích kalamit",
-          "buyer": "Město Břeclav",
-          "country": "CZE",
-          "cpv": [
-            "35125100",
-            "42924300",
-            "34741000",
-            "35613000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/754238-2026"
-        },
-        {
-          "id": "754712-2026",
-          "date": "2026-10-30",
-          "title": "Czechia – Ammunition for firearms and warfare – Rámcová dohoda - náboje 4,6x30 mm v provedení pro ozbrojené složky",
-          "buyer": "Ministerstvo vnitra",
-          "country": "CZE",
-          "cpv": [
-            "35331000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/754712-2026"
         }
       ],
-      "source_collected_at": "2026-11-03T19:43:49.617983+00:00"
+      "source_collected_at": "2026-11-04T06:54:09.097686+00:00"
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 6.7,
+      "score": 6.5,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-08-04",
-      "reporting_lag_days": 91,
-      "freshness_factor": 0.24,
-      "current_14d_weekly_equivalent": 568736200.37,
+      "reporting_lag_days": 92,
+      "freshness_factor": 0.23,
+      "current_14d_weekly_equivalent": 555330987.44,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -254,27 +249,27 @@
         },
         {
           "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 41520782.62
+          "amount": 20760391.31
         },
         {
           "name": "LOCKHEED MARTIN CORP",
-          "amount": 11335904.0
+          "amount": 5667952.0
         },
         {
           "name": "ADVANCED SYSTEMS & SOFTWARE ENGINEERING TECHNOLOGIES LLC",
           "amount": 1049941.83
         },
         {
+          "name": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 266875.01
+        },
+        {
           "name": "DRS NETWORK & IMAGING SYSTEMS LLC",
-          "amount": 390400.8
+          "amount": 195200.4
         },
         {
           "name": "SCIENCE AND ENGINEERING SERVICES, LLC",
-          "amount": 358743.66
-        },
-        {
-          "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 296584.93
+          "amount": 179371.83
         },
         {
           "name": "AEROFORCE LOGISTICS LLC",
@@ -446,83 +441,165 @@
           "naics": "336411"
         }
       ],
-      "source_collected_at": "2026-11-03T19:43:49.617983+00:00"
+      "source_collected_at": "2026-11-04T06:54:09.097686+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 11.6,
-      "status": "BASELINE",
+      "score": 50.5,
+      "status": "ELEVATED",
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 32,
-      "current_14d_weekly_equivalent": 3.0,
-      "baseline_weekly_median": 3.0,
-      "anomaly_z": 0.0,
+      "coverage": 46,
+      "current_14d_weekly_equivalent": 25.0,
+      "baseline_weekly_median": 2.5,
+      "anomaly_z": 6.07,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
-          "date": "2026-10-29",
-          "title": "Nato Deputy Secretary General At The Kyiv Security Forum Stresses Ukraines Urgent Need For More Air Defence",
-          "url": "https://www.nato.int/en/news-and-events/articles/news/2026/10/28/nato-deputy-secretary-general-at-the-kyiv-security-forum-stresses-ukraines-urgent-need-for-more-air-defence",
+          "date": "2026-11-03",
+          "title": "Call For Action Strategic Investments In Defence And Security",
+          "url": "https://www.nato.int/en/multimedia/multimedia/audios/2026/07/07/call-for-action-strategic-investments-in-defence-and-security",
           "terms": [
-            "air-defence"
+            "investment"
           ],
-          "weight": 3,
-          "age": 5
+          "weight": 2,
+          "age": 0
         },
         {
-          "date": "2026-10-28",
-          "title": "Nato Deputy Secretary General At The Kyiv Security Forum Stresses Ukraines Urgent Need For More Air Defence",
-          "url": "https://www.nato.int/fr/news-and-events/articles/news/2026/10/28/nato-deputy-secretary-general-at-the-kyiv-security-forum-stresses-ukraines-urgent-need-for-more-air-defence",
+          "date": "2026-11-03",
+          "title": "Nato Secretary Generals Keynote Speech At The Nato Defence Industry Forum With The Vice President And The Minister Of Defence Of Turkiye",
+          "url": "https://www.nato.int/en/multimedia/multimedia/audios/2026/07/07/nato-secretary-generals-keynote-speech-at-the-nato-defence-industry-forum-with-the-vice-president-and-the-minister-of-defence-of-turkiye",
           "terms": [
-            "air-defence"
+            "industry"
           ],
-          "weight": 3,
-          "age": 5
+          "weight": 2.5,
+          "age": 0
         },
         {
-          "date": "2026-10-19",
-          "title": "Drone Footage Of Nato Hq",
-          "url": "https://www.nato.int/en/multimedia/multimedia/videos/general/drone-footage-of-nato-hq",
+          "date": "2026-11-03",
+          "title": "Plenary Session 1 People Plans And Products A Whole Of Society Approach To Industrial Preparedness",
+          "url": "https://www.nato.int/en/multimedia/multimedia/audios/2026/07/07/plenary-session-1-people-plans-and-products-a-whole-of-society-approach-to-industrial-preparedness",
           "terms": [
-            "drone"
+            "industrial"
           ],
-          "weight": 3,
-          "age": 15
+          "weight": 2.5,
+          "age": 0
         },
         {
-          "date": "2026-10-15",
-          "title": "Signing Ceremony Multinational Cooperation For The Provision Of Maritime Battle Decisive Munitions",
-          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2018/07/11/signing-ceremony-multinational-cooperation-for-the-provision-of-maritime-battle-decisive-munitions",
+          "date": "2026-11-03",
+          "title": "Plenary Session 2 Industry As A Military Variable An Alliance Ready For Tomorrows Battlefield",
+          "url": "https://www.nato.int/en/multimedia/multimedia/audios/2026/07/07/plenary-session-2-industry-as-a-military-variable-an-alliance-ready-for-tomorrows-battlefield",
           "terms": [
-            "munition"
+            "industry"
           ],
-          "weight": 3,
-          "age": 19
+          "weight": 2.5,
+          "age": 0
         },
         {
-          "date": "2026-10-15",
-          "title": "Signing Ceremony Memorandum Of Understanding On Multinational Cooperation For The Provision Of Land Battle Decisive Munitions Lbdm",
-          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2018/07/12/signing-ceremony-memorandum-of-understanding-on-multinational-cooperation-for-the-provision-of-land-battle-decisive-munitions-lbdm",
+          "date": "2026-11-03",
+          "title": "Plenary Session 3 From Innovation To Industrial Scale Financing Defence Capability",
+          "url": "https://www.nato.int/en/multimedia/multimedia/audios/2026/07/07/plenary-session-3-from-innovation-to-industrial-scale-financing-defence-capability",
           "terms": [
-            "munition"
+            "industrial",
+            "capability"
           ],
-          "weight": 3,
-          "age": 19
+          "weight": 3.5,
+          "age": 0
         },
         {
-          "date": "2026-10-01",
-          "title": "Nato Allies Test Drone Defences At Sea",
-          "url": "https://www.nato.int/en/multimedia/multimedia/videos/2026/10/01/nato-allies-test-drone-defences-at-sea",
+          "date": "2026-11-03",
+          "title": "Plenary Session 3 From Innovation To Industrial Scale Financing Defence Capability",
+          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2026/07/07/plenary-session-3-from-innovation-to-industrial-scale-financing-defence-capability",
           "terms": [
-            "drone"
+            "industrial",
+            "capability"
           ],
-          "weight": 3,
-          "age": 33
+          "weight": 3.5,
+          "age": 0
+        },
+        {
+          "date": "2026-11-03",
+          "title": "Plenary Session 4 Shared Values Stronger Industrial Base Expanding Partnerships And Cooperation",
+          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2026/07/07/plenary-session-4-shared-values-stronger-industrial-base-expanding-partnerships-and-cooperation",
+          "terms": [
+            "industrial"
+          ],
+          "weight": 2.5,
+          "age": 0
+        },
+        {
+          "date": "2026-11-03",
+          "title": "Call For Action Strategic Investments In Defence And Security",
+          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2026/07/07/call-for-action-strategic-investments-in-defence-and-security",
+          "terms": [
+            "investment"
+          ],
+          "weight": 2,
+          "age": 0
+        },
+        {
+          "date": "2026-11-03",
+          "title": "Nato Secretary Generals Keynote Speech At The Nato Defence Industry Forum With The Vice President And The Minister Of Defence Of Turkiye",
+          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2026/07/07/nato-secretary-generals-keynote-speech-at-the-nato-defence-industry-forum-with-the-vice-president-and-the-minister-of-defence-of-turkiye",
+          "terms": [
+            "industry"
+          ],
+          "weight": 2.5,
+          "age": 0
+        },
+        {
+          "date": "2026-11-03",
+          "title": "Plenary Session 1 People Plans And Products A Whole Of Society Approach To Industrial Preparedness",
+          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2026/07/07/plenary-session-1-people-plans-and-products-a-whole-of-society-approach-to-industrial-preparedness",
+          "terms": [
+            "industrial"
+          ],
+          "weight": 2.5,
+          "age": 0
+        },
+        {
+          "date": "2026-11-03",
+          "title": "Plenary Session 2 Industry As A Military Variable An Alliance Ready For Tomorrows Battlefield",
+          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2026/07/07/plenary-session-2-industry-as-a-military-variable-an-alliance-ready-for-tomorrows-battlefield",
+          "terms": [
+            "industry"
+          ],
+          "weight": 2.5,
+          "age": 0
+        },
+        {
+          "date": "2026-11-03",
+          "title": "Call For Action Strategic Investments In Defence And Security",
+          "url": "https://www.nato.int/en/multimedia/multimedia/videos/2026/07/07/call-for-action-strategic-investments-in-defence-and-security",
+          "terms": [
+            "investment"
+          ],
+          "weight": 2,
+          "age": 0
+        },
+        {
+          "date": "2026-11-03",
+          "title": "Nato Secretary Generals Keynote Speech At The Nato Defence Industry Forum With The Vice President And The Minister Of Defence Of Turkiye",
+          "url": "https://www.nato.int/en/multimedia/multimedia/videos/2026/07/07/nato-secretary-generals-keynote-speech-at-the-nato-defence-industry-forum-with-the-vice-president-and-the-minister-of-defence-of-turkiye",
+          "terms": [
+            "industry"
+          ],
+          "weight": 2.5,
+          "age": 0
+        },
+        {
+          "date": "2026-11-03",
+          "title": "Plenary Session 1 People Plans And Products A Whole Of Society Approach To Industrial Preparedness",
+          "url": "https://www.nato.int/en/multimedia/multimedia/videos/2026/07/07/plenary-session-1-people-plans-and-products-a-whole-of-society-approach-to-industrial-preparedness",
+          "terms": [
+            "industrial"
+          ],
+          "weight": 2.5,
+          "age": 0
         }
       ],
-      "source_collected_at": "2026-11-03T19:43:49.617983+00:00"
+      "source_collected_at": "2026-11-04T06:54:09.097686+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -601,7 +678,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed revision and extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-03T19:43:49.617983+00:00"
+      "source_collected_at": "2026-11-04T06:54:09.097686+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -634,15 +711,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-03T19:43:49.617983+00:00"
+      "source_collected_at": "2026-11-04T06:54:09.097686+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-17T11:04:53.272262+00:00",
-      "score": 12.3,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-17T15:50:52.221451+00:00",
       "score": 12.3,
@@ -936,6 +1008,11 @@
     {
       "generated": "2026-11-03T19:43:49.617983+00:00",
       "score": 15.3,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-04T06:54:09.097686+00:00",
+      "score": 23.0,
       "status": "BASELINE"
     }
   ],
