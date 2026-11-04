@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-04T06:54:09.097686+00:00",
+    "generated": "2026-11-04T19:58:26.363633+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 23.0,
-    "raw_score": 23.0,
+    "score": 23.1,
+    "raw_score": 23.1,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 23.0/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 23.1/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -33,29 +33,28 @@
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
-          "id": "766807-2026",
+          "id": "765595-2026",
           "date": "2026-11-04",
-          "title": "Czechia – Weapons, ammunition and associated parts – Rámcová dohoda na dodávky náhradních dílů a dalších komponentů pro zbraňové komplety na bázi krátkých zbraní",
-          "buyer": "Ministerstvo vnitra",
-          "country": "CZE",
+          "title": "Germany – Ammunition – Prüfmunition 25x137mm APFSDS-T",
+          "buyer": "Bayerisches Landesamt für Maß und Gewicht",
+          "country": "DEU",
           "cpv": [
-            "35300000"
+            "35330000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/766807-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/765595-2026"
         },
         {
-          "id": "767196-2026",
+          "id": "764879-2026",
           "date": "2026-11-04",
-          "title": "Spain – Communications system maintenance services – Contratación de un servicio de mantenimiento integral para los despliegues fijos del Sistema Integrado de Vigilancia Exterior (SIVE)",
-          "buyer": "Jefatura de Asuntos Económicos de la Guardia Civil",
-          "country": "ESP",
+          "title": "Germany – Grenades – Angestrebt wird für die Herstellung und Lieferung von Granaten, Abschussgerät (ASG), 76 mm, Nebel, Infrarot (IR), roter Phosphor (RP) eine Mehrpartnerrahmenvereinbarung mit Miniwettbewerb",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
           "cpv": [
-            "50334400",
-            "32524000",
-            "34932000",
-            "35125100"
+            "35331300",
+            "35330000",
+            "39225500"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/767196-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/764879-2026"
         },
         {
           "id": "765008-2026",
@@ -82,41 +81,29 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/766841-2026"
         },
         {
-          "id": "765595-2026",
+          "id": "766807-2026",
           "date": "2026-11-04",
-          "title": "Germany – Ammunition – Prüfmunition 25x137mm APFSDS-T",
-          "buyer": "Bayerisches Landesamt für Maß und Gewicht",
-          "country": "DEU",
+          "title": "Czechia – Weapons, ammunition and associated parts – Rámcová dohoda na dodávky náhradních dílů a dalších komponentů pro zbraňové komplety na bázi krátkých zbraní",
+          "buyer": "Ministerstvo vnitra",
+          "country": "CZE",
           "cpv": [
-            "35330000"
+            "35300000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/765595-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/766807-2026"
         },
         {
-          "id": "764879-2026",
+          "id": "767196-2026",
           "date": "2026-11-04",
-          "title": "Germany – Grenades – Angestrebt wird für die Herstellung und Lieferung von Granaten, Abschussgerät (ASG), 76 mm, Nebel, Infrarot (IR), roter Phosphor (RP) eine Mehrpartnerrahmenvereinbarung mit Miniwettbewerb",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
+          "title": "Spain – Communications system maintenance services – Contratación de un servicio de mantenimiento integral para los despliegues fijos del Sistema Integrado de Vigilancia Exterior (SIVE)",
+          "buyer": "Jefatura de Asuntos Económicos de la Guardia Civil",
+          "country": "ESP",
           "cpv": [
-            "35331300",
-            "35330000",
-            "39225500"
+            "50334400",
+            "32524000",
+            "34932000",
+            "35125100"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/764879-2026"
-        },
-        {
-          "id": "765475-2026",
-          "date": "2026-11-04",
-          "title": "Netherlands – Radio, television, communication, telecommunication and related equipment – The establishment of a Framework Agreement for the sustainment of the FM-9000 series radio equipment and related accessories, including successor systems.",
-          "buyer": "Ministerie van Defensie",
-          "country": "NLD",
-          "cpv": [
-            "32000000",
-            "32352100",
-            "35712000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/765475-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/767196-2026"
         },
         {
           "id": "767282-2026",
@@ -130,6 +117,19 @@
             "48900000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/767282-2026"
+        },
+        {
+          "id": "765475-2026",
+          "date": "2026-11-04",
+          "title": "Netherlands – Radio, television, communication, telecommunication and related equipment – The establishment of a Framework Agreement for the sustainment of the FM-9000 series radio equipment and related accessories, including successor systems.",
+          "buyer": "Ministerie van Defensie",
+          "country": "NLD",
+          "cpv": [
+            "32000000",
+            "32352100",
+            "35712000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/765475-2026"
         },
         {
           "id": "764914-2026",
@@ -201,17 +201,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/763462-2026"
         },
         {
-          "id": "763024-2026",
-          "date": "2026-11-03",
-          "title": "Germany – Infantry fighting vehicles – Lagereinheit, Gleit- für das Waffensystem (WS) Schützenpanzer (SPz) PUMA",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35412100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/763024-2026"
-        },
-        {
           "id": "763675-2026",
           "date": "2026-11-03",
           "title": "Romania – Motor vehicles – Achiziție de mijloace de mobilitate terestră",
@@ -224,22 +213,33 @@
             "34114400"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/763675-2026"
+        },
+        {
+          "id": "763024-2026",
+          "date": "2026-11-03",
+          "title": "Germany – Infantry fighting vehicles – Lagereinheit, Gleit- für das Waffensystem (WS) Schützenpanzer (SPz) PUMA",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35412100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/763024-2026"
         }
       ],
-      "source_collected_at": "2026-11-04T06:54:09.097686+00:00"
+      "source_collected_at": "2026-11-04T19:58:26.363633+00:00"
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 6.5,
+      "score": 6.8,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-08-04",
-      "reporting_lag_days": 92,
-      "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 555330987.44,
+      "latest_observation": "2026-08-05",
+      "reporting_lag_days": 91,
+      "freshness_factor": 0.24,
+      "current_14d_weekly_equivalent": 642324750.8,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -248,36 +248,144 @@
           "amount": 1081885600.99
         },
         {
+          "name": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 64483730.0
+        },
+        {
+          "name": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 62292570.37
+        },
+        {
           "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 20760391.31
+          "amount": 37031302.45
+        },
+        {
+          "name": "AEVEX AEROSPACE, LLC",
+          "amount": 10339776.0
+        },
+        {
+          "name": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.",
+          "amount": 7134862.0
         },
         {
           "name": "LOCKHEED MARTIN CORP",
           "amount": 5667952.0
         },
         {
-          "name": "ADVANCED SYSTEMS & SOFTWARE ENGINEERING TECHNOLOGIES LLC",
-          "amount": 1049941.83
-        },
-        {
-          "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 266875.01
-        },
-        {
-          "name": "DRS NETWORK & IMAGING SYSTEMS LLC",
-          "amount": 195200.4
-        },
-        {
-          "name": "SCIENCE AND ENGINEERING SERVICES, LLC",
-          "amount": 179371.83
-        },
-        {
-          "name": "AEROFORCE LOGISTICS LLC",
-          "amount": 79320.28
+          "name": "RAYTHEON COMPANY",
+          "amount": 5626663.0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
+        {
+          "date": "2026-08-05",
+          "award_id": "W15QKN24F0156",
+          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 0.0,
+          "agency": "Department of the Army",
+          "description": "MODIFICATION TO CHANGE CLIN 1001 DELIVERY DATE",
+          "naics": "332993"
+        },
+        {
+          "date": "2026-08-05",
+          "award_id": "W58RGZ24F0109",
+          "recipient": "SCIENCE AND ENGINEERING SERVICES, LLC",
+          "amount": 0.0,
+          "agency": "Department of the Army",
+          "description": "AVIATION MISSION SYSTEMS ANO ARCHITECTURE INTERNATIONAL PROGRAM OFFICE (AMSA IPO) REQUIREMENTS TO PROCURE, INTEGREATE, PACKAGE, ENSURE QUALITY ASSURANCE, KIT, AND LOAD FOR SHIPMENT",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-08-05",
+          "award_id": "W912CH26F0215",
+          "recipient": "BAE SYSTEMS GCS INTERNATIONAL LIMITED",
+          "amount": 0.0,
+          "agency": "Department of the Army",
+          "description": "LIFE CYCLE SUSTAINMENT (LCS) REQUIREMENTS COMPRISED OF CATALOG PARTS AND MANPOWER SERVICES TO SUPPORT THE MEDIUM TOWED 155MM M777 HOWITZER ARTILLERY SYSTEM.",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-08-05",
+          "award_id": "W58RGZ26F0083",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 0.0,
+          "agency": "Department of the Army",
+          "description": "UH-60M UPTURNED EXHAUST SYSTEM II",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-08-05",
+          "award_id": "W58RGZ23C0001",
+          "recipient": "BELL TEXTRON INC",
+          "amount": 0.0,
+          "agency": "Department of the Army",
+          "description": "THE FUTURE LONG RANGE ASSAULT AIRCRAFT (FLRAA) PROGRAM THAT WILL DEVELOP AND FIELD THE NEXT GENERATION OF AFFORDABLE VERTICAL LIFT ASSAULT/UTILITY FOR THE ARMY.",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-08-05",
+          "award_id": "W519TC24F0161",
+          "recipient": "GENERAL DYNAMICS ORDNANCE & TACTICAL SYSTEMS, INC.",
+          "amount": 0.0,
+          "agency": "Department of the Army",
+          "description": "25 MILLIMETER (MM) M919 ARMOR PIERCING FIN STABILIZED DISCARDING SABOT WITH TRACER (APFSDS-T) CARTRIDGE, MEDIUM CALIBER FAMILY BUY 3 DEFINITIZATION SCHEDULE UPDATE",
+          "naics": "332993"
+        },
+        {
+          "date": "2026-08-05",
+          "award_id": "W58RGZ26F0261",
+          "recipient": "HONEYWELL INTERNATIONAL INC.",
+          "amount": 0.0,
+          "agency": "Department of the Army",
+          "description": "OVERHAUL CH-47 T-55 ENGINE",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-08-05",
+          "award_id": "W58RGZ24C0037",
+          "recipient": "CHRONOS AVIATION LLC",
+          "amount": -1137.92,
+          "agency": "Department of the Army",
+          "description": "ACQUIRE AND INTEGRATE INTELLIGENCE, SURVEILLANCE, AND RECONNAISSANCE (ISR) EQUIPMENT TO SUPPORT DJIBOUTIAN AIR FORCE (DJA)",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-08-05",
+          "award_id": "W912CH26F0301",
+          "recipient": "BAE SYSTEMS GCS INTERNATIONAL LIMITED",
+          "amount": -9023.52,
+          "agency": "Department of the Army",
+          "description": "LIFE CYCLE SUSTAINMENT (LCS) REQUIREMENTS COMPRISED OF CATALOG PARTS AND MANPOWER SERVICES TO SUPPORT THE MEDIUM TOWED 155MM M777 HOWITZER ARTILLERY SYSTEM.",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-08-04",
+          "award_id": "W912CH26F0258",
+          "recipient": "BAE SYSTEMS GCS INTERNATIONAL LIMITED",
+          "amount": 263937.94,
+          "agency": "Department of the Army",
+          "description": "M777 SERVICES TOP UP. THIS TASK ORDER WAS PARTIALLY FUNDED AT TIME OF AWARD AND ESTABLISHED NEW CLIN 0044PE FOR ICP (SSTS)",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-08-04",
+          "award_id": "SPRRA226F0090",
+          "recipient": "STRATA-G SOLUTIONS, LLC",
+          "amount": 155153.0,
+          "agency": "Defense Logistics Agency",
+          "description": "MODIFICATION TO INCREASE FUNDING FOR LABOR SUPPORT.",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-08-04",
+          "award_id": "SPRRA226F0108",
+          "recipient": "PARTS AND REPAIR TECHNICAL SERVICES, INC.",
+          "amount": 24651.0,
+          "agency": "Defense Logistics Agency",
+          "description": "CIRCUIT CARD ASSEMB NSN: 5998-01-616-7898 MFR CAGE: 7ZXR5 MFR PART NUMBER: E8251-60647",
+          "naics": "336419"
+        },
         {
           "date": "2026-08-04",
           "award_id": "SPE4A526F8420",
@@ -288,160 +396,52 @@
           "naics": "336413"
         },
         {
-          "date": "2026-08-03",
-          "award_id": "SPE4A526F8292",
-          "recipient": "HONEYWELL INTERNATIONAL INC.",
-          "amount": 25705.98,
-          "agency": "Defense Logistics Agency",
-          "description": "8512267365!SEAL RING,LABYRINTH",
-          "naics": "336413"
+          "date": "2026-08-04",
+          "award_id": "W519TC24F0493",
+          "recipient": "ACCURATE ENERGETIC SYSTEMS, LLC",
+          "amount": 0.0,
+          "agency": "Department of the Army",
+          "description": "THE PURPOSE OF THIS MODIFICATION IS TO UPDATE ACCEPTANCE AND INSPECTION FROM ORIGIN TO DESTINATION ON MULTIPLE CLINS",
+          "naics": "332993"
         },
         {
-          "date": "2026-07-31",
-          "award_id": "SPE4A626FD74B",
-          "recipient": "HUDSON TECHNOLOGIES COMPANY",
-          "amount": 5766.3,
-          "agency": "Defense Logistics Agency",
-          "description": "4572547184!REFRIGERANT GAS MIX",
-          "naics": "336413"
+          "date": "2026-08-04",
+          "award_id": "W31P4Q25F0127",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 0.0,
+          "agency": "Department of the Army",
+          "description": "THIS CONTRACT IS FOR PATRIOT ADVANCED CAPABILITIES-3 (PAC-3) MISSILE SUPPORT CENTER (P3MSC) FOR THE UNITED STATES AND FOREIGN MILITARY SALES (FMS) CUSTOMERS.",
+          "naics": "336419"
         },
         {
-          "date": "2026-07-31",
-          "award_id": "SPE4AX26F319S",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 1290.3,
-          "agency": "Defense Logistics Agency",
-          "description": "8512274849!SHIM",
-          "naics": "336412"
+          "date": "2026-08-04",
+          "award_id": "W31P4Q23C0027",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 0.0,
+          "agency": "Department of the Army",
+          "description": "STRATEGIC AND OPERATION ROCKETS AND MISSILES PROJECT OFFICE IN SUPPORT OF GOVERNMENT FURNISHED PROPERTY SERVICES",
+          "naics": "336414"
         },
         {
-          "date": "2026-07-30",
-          "award_id": "N0001926F2227",
-          "recipient": "RTX CORPORATION",
-          "amount": 1081885600.99,
-          "agency": "Department of the Navy",
-          "description": "PROPULSION INITIAL SPARES",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-07-30",
-          "award_id": "SPE4A626FD48G",
-          "recipient": "HUDSON TECHNOLOGIES COMPANY",
-          "amount": 25831.6,
-          "agency": "Defense Logistics Agency",
-          "description": "4572531080!TETRAFLUOROETHANE",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-30",
-          "award_id": "SPE4A626FD48J",
-          "recipient": "HUDSON TECHNOLOGIES COMPANY",
-          "amount": 4487.25,
-          "agency": "Defense Logistics Agency",
-          "description": "4572531082!REFRIGERANT GAS MIXTURE",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-30",
-          "award_id": "SPE7L026F6030",
-          "recipient": "NORTH END GROUP LLC",
-          "amount": 2513.4,
-          "agency": "Defense Logistics Agency",
-          "description": "8512273726!KNIFE,COMBAT",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-07-30",
-          "award_id": "SPE4A626FD59Q",
-          "recipient": "HUDSON TECHNOLOGIES COMPANY",
-          "amount": 2325.72,
-          "agency": "Defense Logistics Agency",
-          "description": "4572536417!CALIBRATING GAS MIX",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-30",
-          "award_id": "SPE4A626FD49E",
-          "recipient": "HUDSON TECHNOLOGIES COMPANY",
-          "amount": 877.38,
-          "agency": "Defense Logistics Agency",
-          "description": "4572531487!CALIBRATING GAS MIXTURE",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-30",
-          "award_id": "SPE4A626FD48H",
-          "recipient": "HUDSON TECHNOLOGIES COMPANY",
-          "amount": 74.31,
-          "agency": "Defense Logistics Agency",
-          "description": "4572531081!OXYGEN,TECHNICAL",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-30",
-          "award_id": "SPE4A626FD46G",
-          "recipient": "HUDSON TECHNOLOGIES COMPANY",
-          "amount": 74.31,
-          "agency": "Defense Logistics Agency",
-          "description": "4572530671!OXYGEN,TECHNICAL",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-30",
-          "award_id": "SPE4AX25F7633",
-          "recipient": "AEROFORCE LOGISTICS LLC",
+          "date": "2026-08-04",
+          "award_id": "SPRDL125C0092",
+          "recipient": "JAMAICA BEARINGS CO., INC.",
           "amount": 0.0,
           "agency": "Defense Logistics Agency",
-          "description": "8511572091!DUCT ASSEMBLY,AIR C",
+          "description": "ADMIN MOD FOR PAY OFFICE",
           "naics": "336413"
         },
         {
-          "date": "2026-07-29",
-          "award_id": "SPE4A726V4358",
-          "recipient": "MARTIN MILITARY INC",
-          "amount": 10134.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512262125!HANDLE,LEVER CONTROL",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-07-29",
-          "award_id": "SPE4A626PV634",
-          "recipient": "BEK, INC.",
-          "amount": 5464.8,
-          "agency": "Defense Logistics Agency",
-          "description": "8512195734!SCREW,CAP,SOCKET HEAD",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-07-29",
-          "award_id": "SPE7L026F5969",
-          "recipient": "ECI DEFENSE GROUP, INC.",
-          "amount": 4871.28,
-          "agency": "Defense Logistics Agency",
-          "description": "8512269523!GASKET",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-07-29",
-          "award_id": "SPE7LX26F82K7",
-          "recipient": "ATLANTIC DIVING SUPPLY, INC.",
-          "amount": 4584.56,
-          "agency": "Defense Logistics Agency",
-          "description": "8512269319!PLATFORM,DROP LEG",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-07-29",
-          "award_id": "FA873023C0025",
+          "date": "2026-08-04",
+          "award_id": "W58RGZ23F0272",
           "recipient": "THE BOEING COMPANY",
           "amount": 0.0,
-          "agency": "Department of the Air Force",
-          "description": "E-7A RAPID PROTOTYPING",
-          "naics": "336411"
+          "agency": "Department of the Army",
+          "description": "CH-47F BLOCK II PRODUCTION RENEW AIRCRAFT",
+          "naics": "336412"
         }
       ],
-      "source_collected_at": "2026-11-04T06:54:09.097686+00:00"
+      "source_collected_at": "2026-11-04T19:58:26.363633+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -450,12 +450,132 @@
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 46,
-      "current_14d_weekly_equivalent": 25.0,
+      "coverage": 58,
+      "current_14d_weekly_equivalent": 40.75,
       "baseline_weekly_median": 2.5,
-      "anomaly_z": 6.07,
+      "anomaly_z": 10.32,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
+        {
+          "date": "2026-11-04",
+          "title": "Transatlantic Defence Industrial Cooperation In Action",
+          "url": "https://www.nato.int/en/multimedia/multimedia/audios/2026/07/07/transatlantic-defence-industrial-cooperation-in-action",
+          "terms": [
+            "industrial"
+          ],
+          "weight": 2.5,
+          "age": 0
+        },
+        {
+          "date": "2026-11-04",
+          "title": "Strike Capabilities",
+          "url": "https://www.nato.int/en/multimedia/multimedia/audios/2026/07/07/strike-capabilities",
+          "terms": [
+            "capabilities"
+          ],
+          "weight": 2,
+          "age": 0
+        },
+        {
+          "date": "2026-11-04",
+          "title": "Integrated Air And Missile Defence",
+          "url": "https://www.nato.int/en/multimedia/multimedia/audios/2026/07/07/integrated-air-and-missile-defence",
+          "terms": [
+            "missile"
+          ],
+          "weight": 3,
+          "age": 0
+        },
+        {
+          "date": "2026-11-04",
+          "title": "From Innovation To Mass Building Natos Drone Edge",
+          "url": "https://www.nato.int/en/multimedia/multimedia/audios/2026/07/07/from-innovation-to-mass-building-natos-drone-edge",
+          "terms": [
+            "drone"
+          ],
+          "weight": 3,
+          "age": 0
+        },
+        {
+          "date": "2026-11-04",
+          "title": "Transatlantic Defence Industrial Cooperation In Action",
+          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2026/07/07/transatlantic-defence-industrial-cooperation-in-action",
+          "terms": [
+            "industrial"
+          ],
+          "weight": 2.5,
+          "age": 0
+        },
+        {
+          "date": "2026-11-04",
+          "title": "Strike Capabilities",
+          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2026/07/07/strike-capabilities",
+          "terms": [
+            "capabilities"
+          ],
+          "weight": 2,
+          "age": 0
+        },
+        {
+          "date": "2026-11-04",
+          "title": "Integrated Air And Missile Defence",
+          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2026/07/07/integrated-air-and-missile-defence",
+          "terms": [
+            "missile"
+          ],
+          "weight": 3,
+          "age": 0
+        },
+        {
+          "date": "2026-11-04",
+          "title": "From Innovation To Mass Building Natos Drone Edge",
+          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2026/07/07/from-innovation-to-mass-building-natos-drone-edge",
+          "terms": [
+            "drone"
+          ],
+          "weight": 3,
+          "age": 0
+        },
+        {
+          "date": "2026-11-04",
+          "title": "Integrated Air And Missile Defence",
+          "url": "https://www.nato.int/en/multimedia/multimedia/videos/2026/07/07/integrated-air-and-missile-defence",
+          "terms": [
+            "missile"
+          ],
+          "weight": 3,
+          "age": 0
+        },
+        {
+          "date": "2026-11-04",
+          "title": "Strike Capabilities",
+          "url": "https://www.nato.int/en/multimedia/multimedia/videos/2026/07/07/strike-capabilities",
+          "terms": [
+            "capabilities"
+          ],
+          "weight": 2,
+          "age": 0
+        },
+        {
+          "date": "2026-11-04",
+          "title": "Transatlantic Defence Industrial Cooperation In Action",
+          "url": "https://www.nato.int/en/multimedia/multimedia/videos/2026/07/07/transatlantic-defence-industrial-cooperation-in-action",
+          "terms": [
+            "industrial"
+          ],
+          "weight": 2.5,
+          "age": 0
+        },
+        {
+          "date": "2026-11-04",
+          "title": "From Innovation To Mass Building Natos Drone Edge",
+          "url": "https://www.nato.int/en/multimedia/multimedia/videos/2026/07/07/from-innovation-to-mass-building-natos-drone-edge",
+          "terms": [
+            "drone"
+          ],
+          "weight": 3,
+          "age": 0
+        },
         {
           "date": "2026-11-03",
           "title": "Call For Action Strategic Investments In Defence And Security",
@@ -475,131 +595,9 @@
           ],
           "weight": 2.5,
           "age": 0
-        },
-        {
-          "date": "2026-11-03",
-          "title": "Plenary Session 1 People Plans And Products A Whole Of Society Approach To Industrial Preparedness",
-          "url": "https://www.nato.int/en/multimedia/multimedia/audios/2026/07/07/plenary-session-1-people-plans-and-products-a-whole-of-society-approach-to-industrial-preparedness",
-          "terms": [
-            "industrial"
-          ],
-          "weight": 2.5,
-          "age": 0
-        },
-        {
-          "date": "2026-11-03",
-          "title": "Plenary Session 2 Industry As A Military Variable An Alliance Ready For Tomorrows Battlefield",
-          "url": "https://www.nato.int/en/multimedia/multimedia/audios/2026/07/07/plenary-session-2-industry-as-a-military-variable-an-alliance-ready-for-tomorrows-battlefield",
-          "terms": [
-            "industry"
-          ],
-          "weight": 2.5,
-          "age": 0
-        },
-        {
-          "date": "2026-11-03",
-          "title": "Plenary Session 3 From Innovation To Industrial Scale Financing Defence Capability",
-          "url": "https://www.nato.int/en/multimedia/multimedia/audios/2026/07/07/plenary-session-3-from-innovation-to-industrial-scale-financing-defence-capability",
-          "terms": [
-            "industrial",
-            "capability"
-          ],
-          "weight": 3.5,
-          "age": 0
-        },
-        {
-          "date": "2026-11-03",
-          "title": "Plenary Session 3 From Innovation To Industrial Scale Financing Defence Capability",
-          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2026/07/07/plenary-session-3-from-innovation-to-industrial-scale-financing-defence-capability",
-          "terms": [
-            "industrial",
-            "capability"
-          ],
-          "weight": 3.5,
-          "age": 0
-        },
-        {
-          "date": "2026-11-03",
-          "title": "Plenary Session 4 Shared Values Stronger Industrial Base Expanding Partnerships And Cooperation",
-          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2026/07/07/plenary-session-4-shared-values-stronger-industrial-base-expanding-partnerships-and-cooperation",
-          "terms": [
-            "industrial"
-          ],
-          "weight": 2.5,
-          "age": 0
-        },
-        {
-          "date": "2026-11-03",
-          "title": "Call For Action Strategic Investments In Defence And Security",
-          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2026/07/07/call-for-action-strategic-investments-in-defence-and-security",
-          "terms": [
-            "investment"
-          ],
-          "weight": 2,
-          "age": 0
-        },
-        {
-          "date": "2026-11-03",
-          "title": "Nato Secretary Generals Keynote Speech At The Nato Defence Industry Forum With The Vice President And The Minister Of Defence Of Turkiye",
-          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2026/07/07/nato-secretary-generals-keynote-speech-at-the-nato-defence-industry-forum-with-the-vice-president-and-the-minister-of-defence-of-turkiye",
-          "terms": [
-            "industry"
-          ],
-          "weight": 2.5,
-          "age": 0
-        },
-        {
-          "date": "2026-11-03",
-          "title": "Plenary Session 1 People Plans And Products A Whole Of Society Approach To Industrial Preparedness",
-          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2026/07/07/plenary-session-1-people-plans-and-products-a-whole-of-society-approach-to-industrial-preparedness",
-          "terms": [
-            "industrial"
-          ],
-          "weight": 2.5,
-          "age": 0
-        },
-        {
-          "date": "2026-11-03",
-          "title": "Plenary Session 2 Industry As A Military Variable An Alliance Ready For Tomorrows Battlefield",
-          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2026/07/07/plenary-session-2-industry-as-a-military-variable-an-alliance-ready-for-tomorrows-battlefield",
-          "terms": [
-            "industry"
-          ],
-          "weight": 2.5,
-          "age": 0
-        },
-        {
-          "date": "2026-11-03",
-          "title": "Call For Action Strategic Investments In Defence And Security",
-          "url": "https://www.nato.int/en/multimedia/multimedia/videos/2026/07/07/call-for-action-strategic-investments-in-defence-and-security",
-          "terms": [
-            "investment"
-          ],
-          "weight": 2,
-          "age": 0
-        },
-        {
-          "date": "2026-11-03",
-          "title": "Nato Secretary Generals Keynote Speech At The Nato Defence Industry Forum With The Vice President And The Minister Of Defence Of Turkiye",
-          "url": "https://www.nato.int/en/multimedia/multimedia/videos/2026/07/07/nato-secretary-generals-keynote-speech-at-the-nato-defence-industry-forum-with-the-vice-president-and-the-minister-of-defence-of-turkiye",
-          "terms": [
-            "industry"
-          ],
-          "weight": 2.5,
-          "age": 0
-        },
-        {
-          "date": "2026-11-03",
-          "title": "Plenary Session 1 People Plans And Products A Whole Of Society Approach To Industrial Preparedness",
-          "url": "https://www.nato.int/en/multimedia/multimedia/videos/2026/07/07/plenary-session-1-people-plans-and-products-a-whole-of-society-approach-to-industrial-preparedness",
-          "terms": [
-            "industrial"
-          ],
-          "weight": 2.5,
-          "age": 0
         }
       ],
-      "source_collected_at": "2026-11-04T06:54:09.097686+00:00"
+      "source_collected_at": "2026-11-04T19:58:26.363633+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -678,7 +676,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed revision and extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-04T06:54:09.097686+00:00"
+      "source_collected_at": "2026-11-04T19:58:26.363633+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -711,15 +709,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-04T06:54:09.097686+00:00"
+      "source_collected_at": "2026-11-04T19:58:26.363633+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-17T15:50:52.221451+00:00",
-      "score": 12.3,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-17T20:51:44.734025+00:00",
       "score": 12.3,
@@ -1013,6 +1006,11 @@
     {
       "generated": "2026-11-04T06:54:09.097686+00:00",
       "score": 23.0,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-04T19:58:26.363633+00:00",
+      "score": 23.1,
       "status": "BASELINE"
     }
   ],
