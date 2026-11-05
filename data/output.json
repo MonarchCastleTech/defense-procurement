@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-05T07:14:08.814747+00:00",
+    "generated": "2026-11-05T20:12:58.031161+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -33,6 +33,17 @@
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
+          "id": "768070-2026",
+          "date": "2026-11-05",
+          "title": "Portugal – Firearms – Proc. 17/DPIE/2025 - Aquisição de Armas SIG MCX 300 Blackout para a PSP, no âmbito do DLPIEFSS.",
+          "buyer": "Secretaria-Geral do Ministério da Administração Interna",
+          "country": "PRT",
+          "cpv": [
+            "35320000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/768070-2026"
+        },
+        {
           "id": "767879-2026",
           "date": "2026-11-05",
           "title": "Denmark – Battle simulators – Aftale om levering og servicering af ILDS-systemer til Forsvaret",
@@ -45,15 +56,18 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/767879-2026"
         },
         {
-          "id": "768070-2026",
+          "id": "768776-2026",
           "date": "2026-11-05",
-          "title": "Portugal – Firearms – Proc. 17/DPIE/2025 - Aquisição de Armas SIG MCX 300 Blackout para a PSP, no âmbito do DLPIEFSS.",
-          "buyer": "Secretaria-Geral do Ministério da Administração Interna",
-          "country": "PRT",
+          "title": "Spain – Security cameras – Suministro e instalación de un sistema de videovigilancia y control de accesos a la ciudad, regulación del tráfico, ordenación y gestión de la disciplina del tránsito viario, en Coslada",
+          "buyer": "Junta de Gobierno Local del Ayuntamiento de Coslada",
+          "country": "ESP",
           "cpv": [
-            "35320000"
+            "35125300",
+            "32231000",
+            "32323500",
+            "34970000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/768070-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/768776-2026"
         },
         {
           "id": "770746-2026",
@@ -78,20 +92,6 @@
             "48000000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/771277-2026"
-        },
-        {
-          "id": "768776-2026",
-          "date": "2026-11-05",
-          "title": "Spain – Security cameras – Suministro e instalación de un sistema de videovigilancia y control de accesos a la ciudad, regulación del tráfico, ordenación y gestión de la disciplina del tránsito viario, en Coslada",
-          "buyer": "Junta de Gobierno Local del Ayuntamiento de Coslada",
-          "country": "ESP",
-          "cpv": [
-            "35125300",
-            "32231000",
-            "32323500",
-            "34970000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/768776-2026"
         },
         {
           "id": "770727-2026",
@@ -178,19 +178,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/767196-2026"
         },
         {
-          "id": "767282-2026",
-          "date": "2026-11-04",
-          "title": "Sweden – Command, control, communication and computer systems – Systemstöd för färdtjänsthandläggning",
-          "buyer": "Umeå kommun",
-          "country": "SWE",
-          "cpv": [
-            "35710000",
-            "48219300",
-            "48900000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/767282-2026"
-        },
-        {
           "id": "765475-2026",
           "date": "2026-11-04",
           "title": "Netherlands – Radio, television, communication, telecommunication and related equipment – The establishment of a Framework Agreement for the sustainment of the FM-9000 series radio equipment and related accessories, including successor systems.",
@@ -202,6 +189,19 @@
             "35712000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/765475-2026"
+        },
+        {
+          "id": "767282-2026",
+          "date": "2026-11-04",
+          "title": "Sweden – Command, control, communication and computer systems – Systemstöd för färdtjänsthandläggning",
+          "buyer": "Umeå kommun",
+          "country": "SWE",
+          "cpv": [
+            "35710000",
+            "48219300",
+            "48900000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/767282-2026"
         },
         {
           "id": "764914-2026",
@@ -228,7 +228,7 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/765047-2026"
         }
       ],
-      "source_collected_at": "2026-11-05T07:14:08.814747+00:00"
+      "source_collected_at": "2026-11-05T20:12:58.031161+00:00"
     },
     "us_awards": {
       "key": "us_awards",
@@ -241,7 +241,7 @@
       "latest_observation": "2026-08-05",
       "reporting_lag_days": 92,
       "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 642880812.95,
+      "current_14d_weekly_equivalent": 639599541.75,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -270,12 +270,12 @@
           "amount": 7134862.0
         },
         {
-          "name": "LOCKHEED MARTIN CORP",
-          "amount": 5667952.0
-        },
-        {
           "name": "RAYTHEON COMPANY",
           "amount": 5626663.0
+        },
+        {
+          "name": "THE BOEING COMPANY",
+          "amount": 4127443.7
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -443,7 +443,7 @@
           "naics": "336412"
         }
       ],
-      "source_collected_at": "2026-11-05T07:14:08.814747+00:00"
+      "source_collected_at": "2026-11-05T20:12:58.031161+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -452,12 +452,44 @@
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 58,
-      "current_14d_weekly_equivalent": 47.0,
+      "coverage": 61,
+      "current_14d_weekly_equivalent": 53.5,
       "baseline_weekly_median": 2.5,
-      "anomaly_z": 12.01,
+      "anomaly_z": 13.76,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
+        {
+          "date": "2026-11-05",
+          "title": "Nato Accelerates Procurement For Counter Drone Technologies",
+          "url": "https://www.nato.int/en/news-and-events/articles/news/2026/11/05/nato-accelerates-procurement-for-counter-drone-technologies",
+          "terms": [
+            "procurement",
+            "drone"
+          ],
+          "weight": 5,
+          "age": 0
+        },
+        {
+          "date": "2026-11-05",
+          "title": "Drone Masters Learning From Ukraine",
+          "url": "https://www.nato.int/en/multimedia/multimedia/videos/2026/11/05/drone-masters-learning-from-ukraine",
+          "terms": [
+            "drone"
+          ],
+          "weight": 3,
+          "age": 0
+        },
+        {
+          "date": "2026-11-05",
+          "title": "Nato Accelerates Procurement For Counter Drone Technologies",
+          "url": "https://www.nato.int/fr/news-and-events/articles/news/2026/11/05/nato-accelerates-procurement-for-counter-drone-technologies",
+          "terms": [
+            "procurement",
+            "drone"
+          ],
+          "weight": 5,
+          "age": 0
+        },
         {
           "date": "2026-11-04",
           "title": "Transatlantic Defence Industrial Cooperation In Action",
@@ -466,7 +498,7 @@
             "industrial"
           ],
           "weight": 2.5,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-11-04",
@@ -476,7 +508,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-11-04",
@@ -486,7 +518,7 @@
             "missile"
           ],
           "weight": 3,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-11-04",
@@ -496,7 +528,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-11-04",
@@ -506,7 +538,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-11-04",
@@ -516,7 +548,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-11-04",
@@ -526,7 +558,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-11-04",
@@ -536,7 +568,7 @@
             "industrial"
           ],
           "weight": 2.5,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-11-04",
@@ -546,7 +578,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-11-04",
@@ -556,7 +588,7 @@
             "missile"
           ],
           "weight": 3,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-11-04",
@@ -566,40 +598,10 @@
             "drone"
           ],
           "weight": 3,
-          "age": 0
-        },
-        {
-          "date": "2026-11-04",
-          "title": "Integrated Air And Missile Defence",
-          "url": "https://www.nato.int/en/multimedia/multimedia/videos/2026/07/07/integrated-air-and-missile-defence",
-          "terms": [
-            "missile"
-          ],
-          "weight": 3,
-          "age": 0
-        },
-        {
-          "date": "2026-11-04",
-          "title": "Strike Capabilities",
-          "url": "https://www.nato.int/en/multimedia/multimedia/videos/2026/07/07/strike-capabilities",
-          "terms": [
-            "capabilities"
-          ],
-          "weight": 2,
-          "age": 0
-        },
-        {
-          "date": "2026-11-04",
-          "title": "Transatlantic Defence Industrial Cooperation In Action",
-          "url": "https://www.nato.int/en/multimedia/multimedia/videos/2026/07/07/transatlantic-defence-industrial-cooperation-in-action",
-          "terms": [
-            "industrial"
-          ],
-          "weight": 2.5,
-          "age": 0
+          "age": 1
         }
       ],
-      "source_collected_at": "2026-11-05T07:14:08.814747+00:00"
+      "source_collected_at": "2026-11-05T20:12:58.031161+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -643,7 +645,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0497 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-05T07:14:08.814747+00:00"
+      "source_collected_at": "2026-11-05T20:12:58.031161+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -676,15 +678,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-05T07:14:08.814747+00:00"
+      "source_collected_at": "2026-11-05T20:12:58.031161+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-18T04:59:39.909723+00:00",
-      "score": 12.3,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-18T11:35:48.684168+00:00",
       "score": 12.3,
@@ -977,6 +974,11 @@
     },
     {
       "generated": "2026-11-05T07:14:08.814747+00:00",
+      "score": 21.8,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-05T20:12:58.031161+00:00",
       "score": 21.8,
       "status": "BASELINE"
     }
