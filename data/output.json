@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-04T19:58:26.363633+00:00",
+    "generated": "2026-11-05T07:14:08.814747+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,27 +11,99 @@
     "source_notes": []
   },
   "warning": {
-    "score": 23.1,
-    "raw_score": 23.1,
+    "score": 21.8,
+    "raw_score": 21.8,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 23.1/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 21.8/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
     "eu_notices": {
       "key": "eu_notices",
-      "score": 34.6,
+      "score": 30.3,
       "status": "WATCH",
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 597,
-      "current_14d_weekly_equivalent": 47.5,
-      "baseline_weekly_median": 41.5,
-      "anomaly_z": 0.54,
+      "coverage": 593,
+      "current_14d_weekly_equivalent": 39.5,
+      "baseline_weekly_median": 42.0,
+      "anomaly_z": -0.34,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "767879-2026",
+          "date": "2026-11-05",
+          "title": "Denmark – Battle simulators – Aftale om levering og servicering af ILDS-systemer til Forsvaret",
+          "buyer": "Forsvarsministeriets Materiel- og Indkøbsstyrelse",
+          "country": "DNK",
+          "cpv": [
+            "35740000",
+            "50660000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/767879-2026"
+        },
+        {
+          "id": "768070-2026",
+          "date": "2026-11-05",
+          "title": "Portugal – Firearms – Proc. 17/DPIE/2025 - Aquisição de Armas SIG MCX 300 Blackout para a PSP, no âmbito do DLPIEFSS.",
+          "buyer": "Secretaria-Geral do Ministério da Administração Interna",
+          "country": "PRT",
+          "cpv": [
+            "35320000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/768070-2026"
+        },
+        {
+          "id": "770746-2026",
+          "date": "2026-11-05",
+          "title": "Lithuania – Ammunition for naval warfare – Jūrinių minų sistemos",
+          "buyer": "GYNYBOS RESURSŲ AGENTŪRA PRIE KAM",
+          "country": "LTU",
+          "cpv": [
+            "35332000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/770746-2026"
+        },
+        {
+          "id": "771277-2026",
+          "date": "2026-11-05",
+          "title": "Hungary – Command, control, communication and computer systems – HM Válságreagáló Rendszer (HM VRR)",
+          "buyer": "Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság",
+          "country": "HUN",
+          "cpv": [
+            "35710000",
+            "71300000",
+            "48000000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/771277-2026"
+        },
+        {
+          "id": "768776-2026",
+          "date": "2026-11-05",
+          "title": "Spain – Security cameras – Suministro e instalación de un sistema de videovigilancia y control de accesos a la ciudad, regulación del tráfico, ordenación y gestión de la disciplina del tránsito viario, en Coslada",
+          "buyer": "Junta de Gobierno Local del Ayuntamiento de Coslada",
+          "country": "ESP",
+          "cpv": [
+            "35125300",
+            "32231000",
+            "32323500",
+            "34970000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/768776-2026"
+        },
+        {
+          "id": "770727-2026",
+          "date": "2026-11-05",
+          "title": "Romania – Parts of military vehicles – Piese comune cu economia pentru vehicule militare",
+          "buyer": "Unitatea Militară 01558 Târgoviște",
+          "country": "ROU",
+          "cpv": [
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/770727-2026"
+        },
         {
           "id": "765595-2026",
           "date": "2026-11-04",
@@ -154,92 +226,22 @@
             "35613000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/765047-2026"
-        },
-        {
-          "id": "767112-2026",
-          "date": "2026-11-04",
-          "title": "France – Weapons, ammunition and associated parts – Développement, industrialisation, production d’une munition volante de très longue portée et de forte charge (CHORUS) productible en masse et prestations associées.",
-          "buyer": "Direction Générale de l’Armement / DOMN / Service des achats d'armement",
-          "country": "FRA",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/767112-2026"
-        },
-        {
-          "id": "767487-2026",
-          "date": "2026-11-04",
-          "title": "Estonia – Ammunition – Pneumorelva laskemoona ostmine",
-          "buyer": "Politsei- ja Piirivalveamet",
-          "country": "EST",
-          "cpv": [
-            "35330000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/767487-2026"
-        },
-        {
-          "id": "762048-2026",
-          "date": "2026-11-03",
-          "title": "France – Ammunition – Fourniture de munitions de force intermédiaire de calibre 12 au profit des forces d’interventions spécialisées du Ministère de l’Intérieur et de l’administration pénitentiaire du Ministère de la Justice",
-          "buyer": "Ministère de l'Intérieur",
-          "country": "FRA",
-          "cpv": [
-            "35330000",
-            "35331000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/762048-2026"
-        },
-        {
-          "id": "763462-2026",
-          "date": "2026-11-03",
-          "title": "Finland – Weapons, ammunition and associated parts – Raskaiden kertasinkojen hankinta",
-          "buyer": "Puolustusvoimat",
-          "country": "FIN",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/763462-2026"
-        },
-        {
-          "id": "763675-2026",
-          "date": "2026-11-03",
-          "title": "Romania – Motor vehicles – Achiziție de mijloace de mobilitate terestră",
-          "buyer": "Unitatea Militara 0251 Bucuresti",
-          "country": "ROU",
-          "cpv": [
-            "34100000",
-            "35412000",
-            "34115200",
-            "34114400"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/763675-2026"
-        },
-        {
-          "id": "763024-2026",
-          "date": "2026-11-03",
-          "title": "Germany – Infantry fighting vehicles – Lagereinheit, Gleit- für das Waffensystem (WS) Schützenpanzer (SPz) PUMA",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35412100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/763024-2026"
         }
       ],
-      "source_collected_at": "2026-11-04T19:58:26.363633+00:00"
+      "source_collected_at": "2026-11-05T07:14:08.814747+00:00"
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 6.8,
+      "score": 6.6,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-08-05",
-      "reporting_lag_days": 91,
-      "freshness_factor": 0.24,
-      "current_14d_weekly_equivalent": 642324750.8,
+      "reporting_lag_days": 92,
+      "freshness_factor": 0.23,
+      "current_14d_weekly_equivalent": 642880812.95,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
       "recipient_concentration": [
@@ -253,7 +255,7 @@
         },
         {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 62292570.37
+          "amount": 62292863.57
         },
         {
           "name": "LOCKHEED MARTIN CORPORATION",
@@ -441,7 +443,7 @@
           "naics": "336412"
         }
       ],
-      "source_collected_at": "2026-11-04T19:58:26.363633+00:00"
+      "source_collected_at": "2026-11-05T07:14:08.814747+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -451,9 +453,9 @@
       "available": true,
       "retained": false,
       "coverage": 58,
-      "current_14d_weekly_equivalent": 40.75,
+      "current_14d_weekly_equivalent": 47.0,
       "baseline_weekly_median": 2.5,
-      "anomaly_z": 10.32,
+      "anomaly_z": 12.01,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -494,6 +496,36 @@
             "drone"
           ],
           "weight": 3,
+          "age": 0
+        },
+        {
+          "date": "2026-11-04",
+          "title": "Plenary Session Of The Nato Summit Defence Industry Forum",
+          "url": "https://www.nato.int/en/multimedia/multimedia/audios/2025/06/24/plenary-session-of-the-nato-summit-defence-industry-forum",
+          "terms": [
+            "industry"
+          ],
+          "weight": 2.5,
+          "age": 0
+        },
+        {
+          "date": "2026-11-04",
+          "title": "Signing Ceremony At The Nato Summit Defence Industry Forum",
+          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2025/06/24/signing-ceremony-at-the-nato-summit-defence-industry-forum",
+          "terms": [
+            "industry"
+          ],
+          "weight": 2.5,
+          "age": 0
+        },
+        {
+          "date": "2026-11-04",
+          "title": "Plenary Session Of The Nato Summit Defence Industry Forum",
+          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2025/06/24/plenary-session-of-the-nato-summit-defence-industry-forum",
+          "terms": [
+            "industry"
+          ],
+          "weight": 2.5,
           "age": 0
         },
         {
@@ -565,39 +597,9 @@
           ],
           "weight": 2.5,
           "age": 0
-        },
-        {
-          "date": "2026-11-04",
-          "title": "From Innovation To Mass Building Natos Drone Edge",
-          "url": "https://www.nato.int/en/multimedia/multimedia/videos/2026/07/07/from-innovation-to-mass-building-natos-drone-edge",
-          "terms": [
-            "drone"
-          ],
-          "weight": 3,
-          "age": 0
-        },
-        {
-          "date": "2026-11-03",
-          "title": "Call For Action Strategic Investments In Defence And Security",
-          "url": "https://www.nato.int/en/multimedia/multimedia/audios/2026/07/07/call-for-action-strategic-investments-in-defence-and-security",
-          "terms": [
-            "investment"
-          ],
-          "weight": 2,
-          "age": 0
-        },
-        {
-          "date": "2026-11-03",
-          "title": "Nato Secretary Generals Keynote Speech At The Nato Defence Industry Forum With The Vice President And The Minister Of Defence Of Turkiye",
-          "url": "https://www.nato.int/en/multimedia/multimedia/audios/2026/07/07/nato-secretary-generals-keynote-speech-at-the-nato-defence-industry-forum-with-the-vice-president-and-the-minister-of-defence-of-turkiye",
-          "terms": [
-            "industry"
-          ],
-          "weight": 2.5,
-          "age": 0
         }
       ],
-      "source_collected_at": "2026-11-04T19:58:26.363633+00:00"
+      "source_collected_at": "2026-11-05T07:14:08.814747+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -639,44 +641,9 @@
           "type": "Notice",
           "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21327/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-215",
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0497 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
-        },
-        {
-          "date": "2026-10-01",
-          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement; Covered Defense Telecommunications Equipment or Services",
-          "type": "Notice",
-          "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20176/information-collection-requirement-defense-federal-acquisition-regulation-supplement-covered-defense",
-          "abstract": "The Defense Acquisition Regulations System has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act."
-        },
-        {
-          "date": "2026-10-01",
-          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 219, Small Business Programs",
-          "type": "Notice",
-          "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20175/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-219",
-          "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0386 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
-        },
-        {
-          "date": "2026-10-01",
-          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 237, Service Contracting, and Related Clauses and Forms",
-          "type": "Notice",
-          "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20174/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-237",
-          "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0252 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
-        },
-        {
-          "date": "2026-10-01",
-          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 245, Government Property, Related Clauses and Forms",
-          "type": "Notice",
-          "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20173/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-245",
-          "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0246 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
-        },
-        {
-          "date": "2026-10-01",
-          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 247, Transportation and Related Clauses",
-          "type": "Notice",
-          "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20172/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-247",
-          "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed revision and extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-04T19:58:26.363633+00:00"
+      "source_collected_at": "2026-11-05T07:14:08.814747+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -709,15 +676,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-04T19:58:26.363633+00:00"
+      "source_collected_at": "2026-11-05T07:14:08.814747+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-17T20:51:44.734025+00:00",
-      "score": 12.3,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-18T04:59:39.909723+00:00",
       "score": 12.3,
@@ -1011,6 +973,11 @@
     {
       "generated": "2026-11-04T19:58:26.363633+00:00",
       "score": 23.1,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-05T07:14:08.814747+00:00",
+      "score": 21.8,
       "status": "BASELINE"
     }
   ],
