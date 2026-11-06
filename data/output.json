@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-06T07:13:53.501998+00:00",
+    "generated": "2026-11-06T19:38:14.082936+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -163,16 +163,18 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/772627-2026"
         },
         {
-          "id": "767879-2026",
+          "id": "768776-2026",
           "date": "2026-11-05",
-          "title": "Denmark – Battle simulators – Aftale om levering og servicering af ILDS-systemer til Forsvaret",
-          "buyer": "Forsvarsministeriets Materiel- og Indkøbsstyrelse",
-          "country": "DNK",
+          "title": "Spain – Security cameras – Suministro e instalación de un sistema de videovigilancia y control de accesos a la ciudad, regulación del tráfico, ordenación y gestión de la disciplina del tránsito viario, en Coslada",
+          "buyer": "Junta de Gobierno Local del Ayuntamiento de Coslada",
+          "country": "ESP",
           "cpv": [
-            "35740000",
-            "50660000"
+            "35125300",
+            "32231000",
+            "32323500",
+            "34970000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/767879-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/768776-2026"
         },
         {
           "id": "768070-2026",
@@ -210,21 +212,19 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/771277-2026"
         },
         {
-          "id": "768776-2026",
+          "id": "767879-2026",
           "date": "2026-11-05",
-          "title": "Spain – Security cameras – Suministro e instalación de un sistema de videovigilancia y control de accesos a la ciudad, regulación del tráfico, ordenación y gestión de la disciplina del tránsito viario, en Coslada",
-          "buyer": "Junta de Gobierno Local del Ayuntamiento de Coslada",
-          "country": "ESP",
+          "title": "Denmark – Battle simulators – Aftale om levering og servicering af ILDS-systemer til Forsvaret",
+          "buyer": "Forsvarsministeriets Materiel- og Indkøbsstyrelse",
+          "country": "DNK",
           "cpv": [
-            "35125300",
-            "32231000",
-            "32323500",
-            "34970000"
+            "35740000",
+            "50660000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/768776-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/767879-2026"
         }
       ],
-      "source_collected_at": "2026-11-06T07:13:53.501998+00:00"
+      "source_collected_at": "2026-11-06T19:38:14.082936+00:00"
     },
     "us_awards": {
       "key": "us_awards",
@@ -439,7 +439,7 @@
           "naics": "336412"
         }
       ],
-      "source_collected_at": "2026-11-06T07:13:53.501998+00:00"
+      "source_collected_at": "2026-11-06T19:38:14.082936+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -463,7 +463,7 @@
             "drone"
           ],
           "weight": 5,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-11-05",
@@ -473,7 +473,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-11-05",
@@ -484,7 +484,7 @@
             "drone"
           ],
           "weight": 5,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-11-04",
@@ -494,7 +494,7 @@
             "industrial"
           ],
           "weight": 2.5,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-11-04",
@@ -504,7 +504,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-11-04",
@@ -514,7 +514,7 @@
             "missile"
           ],
           "weight": 3,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-11-04",
@@ -524,7 +524,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-11-04",
@@ -534,7 +534,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-11-04",
@@ -544,7 +544,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-11-04",
@@ -554,7 +554,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-11-04",
@@ -564,7 +564,7 @@
             "industrial"
           ],
           "weight": 2.5,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-11-04",
@@ -574,7 +574,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-11-04",
@@ -584,7 +584,7 @@
             "missile"
           ],
           "weight": 3,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-11-04",
@@ -594,10 +594,10 @@
             "drone"
           ],
           "weight": 3,
-          "age": 1
+          "age": 2
         }
       ],
-      "source_collected_at": "2026-11-06T07:13:53.501998+00:00"
+      "source_collected_at": "2026-11-06T19:38:14.082936+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -641,7 +641,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0497 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-06T07:13:53.501998+00:00"
+      "source_collected_at": "2026-11-06T19:38:14.082936+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -674,15 +674,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-06T07:13:53.501998+00:00"
+      "source_collected_at": "2026-11-06T19:38:14.082936+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-18T16:04:46.609190+00:00",
-      "score": 12.3,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-18T20:58:26.938306+00:00",
       "score": 12.3,
@@ -975,6 +970,11 @@
     },
     {
       "generated": "2026-11-06T07:13:53.501998+00:00",
+      "score": 23.3,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-06T19:38:14.082936+00:00",
       "score": 23.3,
       "status": "BASELINE"
     }
