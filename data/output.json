@@ -1,14 +1,16 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-07T22:13:10.812653+00:00",
-    "mode": "live",
+    "generated": "2026-11-08T06:33:51.731486+00:00",
+    "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–90 days",
     "classification": "procurement-acceleration-screening-not-conflict-probability-or-contract-forecast",
     "coverage": "5/5",
-    "confidence": "HIGH",
-    "source_notes": []
+    "confidence": "MEDIUM",
+    "source_notes": [
+      "us_awards: retained (ReadTimeout)"
+    ]
   },
   "warning": {
     "score": 23.2,
@@ -81,40 +83,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/775012-2026"
         },
         {
-          "id": "773887-2026",
-          "date": "2026-11-06",
-          "title": "Finland – Structure and mechanical spare parts for military aerospace equipment – Hawk Mk51, Mk51A ja Mk66 -suihkuharjoituskoneiden laskutelineiden varaosia",
-          "buyer": "Puolustusvoimat",
-          "country": "FIN",
-          "cpv": [
-            "35641000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/773887-2026"
-        },
-        {
-          "id": "772386-2026",
-          "date": "2026-11-06",
-          "title": "Germany – Intelligence, surveillance, target acquisition and reconnaissance – Kauf eines Mobilfunkaufklärungssystems",
-          "buyer": "Thüringer Polizei, Landespolizeidirektion, Sachgebiet 24",
-          "country": "DEU",
-          "cpv": [
-            "35720000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/772386-2026"
-        },
-        {
-          "id": "772627-2026",
-          "date": "2026-11-06",
-          "title": "France – Weapons, ammunition and associated parts – 2026AVN0053 - Acquisition de caméras piétons et de pistolets à impulsion électrique (PIE) pour les besoins de la Police Municipale de la Ville d'Avignon",
-          "buyer": "Ville d'Avignon",
-          "country": "FRA",
-          "cpv": [
-            "35300000",
-            "35200000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/772627-2026"
-        },
-        {
           "id": "771405-2026",
           "date": "2026-11-06",
           "title": "Spain – Ammunition for firearms and warfare – Suministro de cargas conformadas",
@@ -161,6 +129,40 @@
             "35400000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/771578-2026"
+        },
+        {
+          "id": "773887-2026",
+          "date": "2026-11-06",
+          "title": "Finland – Structure and mechanical spare parts for military aerospace equipment – Hawk Mk51, Mk51A ja Mk66 -suihkuharjoituskoneiden laskutelineiden varaosia",
+          "buyer": "Puolustusvoimat",
+          "country": "FIN",
+          "cpv": [
+            "35641000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/773887-2026"
+        },
+        {
+          "id": "772386-2026",
+          "date": "2026-11-06",
+          "title": "Germany – Intelligence, surveillance, target acquisition and reconnaissance – Kauf eines Mobilfunkaufklärungssystems",
+          "buyer": "Thüringer Polizei, Landespolizeidirektion, Sachgebiet 24",
+          "country": "DEU",
+          "cpv": [
+            "35720000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/772386-2026"
+        },
+        {
+          "id": "772627-2026",
+          "date": "2026-11-06",
+          "title": "France – Weapons, ammunition and associated parts – 2026AVN0053 - Acquisition de caméras piétons et de pistolets à impulsion électrique (PIE) pour les besoins de la Police Municipale de la Ville d'Avignon",
+          "buyer": "Ville d'Avignon",
+          "country": "FRA",
+          "cpv": [
+            "35300000",
+            "35200000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/772627-2026"
         },
         {
           "id": "768070-2026",
@@ -224,7 +226,7 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/770746-2026"
         }
       ],
-      "source_collected_at": "2026-11-07T22:13:10.812653+00:00"
+      "source_collected_at": "2026-11-08T06:33:51.731486+00:00"
     },
     "us_awards": {
       "key": "us_awards",
@@ -232,7 +234,7 @@
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
-      "retained": false,
+      "retained": true,
       "coverage": 600,
       "latest_observation": "2026-08-07",
       "reporting_lag_days": 92,
@@ -439,7 +441,8 @@
           "naics": "336412"
         }
       ],
-      "source_collected_at": "2026-11-07T22:13:10.812653+00:00"
+      "source_collected_at": "2026-11-07T22:13:10.812653+00:00",
+      "retained_reason": "ReadTimeout"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -597,7 +600,7 @@
           "age": 3
         }
       ],
-      "source_collected_at": "2026-11-07T22:13:10.812653+00:00"
+      "source_collected_at": "2026-11-08T06:33:51.731486+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -641,7 +644,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0497 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-07T22:13:10.812653+00:00"
+      "source_collected_at": "2026-11-08T06:33:51.731486+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -674,15 +677,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-07T22:13:10.812653+00:00"
+      "source_collected_at": "2026-11-08T06:33:51.731486+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-19T22:34:24.936513+00:00",
-      "score": 18.2,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-20T05:08:57.633364+00:00",
       "score": 19.0,
@@ -975,6 +973,11 @@
     },
     {
       "generated": "2026-11-07T22:13:10.812653+00:00",
+      "score": 23.2,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-08T06:33:51.731486+00:00",
       "score": 23.2,
       "status": "BASELINE"
     }
