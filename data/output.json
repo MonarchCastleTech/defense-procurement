@@ -1,23 +1,21 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-08T06:33:51.731486+00:00",
-    "mode": "partial",
+    "generated": "2026-11-08T18:01:43.568279+00:00",
+    "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
     "classification": "procurement-acceleration-screening-not-conflict-probability-or-contract-forecast",
     "coverage": "5/5",
-    "confidence": "MEDIUM",
-    "source_notes": [
-      "us_awards: retained (ReadTimeout)"
-    ]
+    "confidence": "HIGH",
+    "source_notes": []
   },
   "warning": {
-    "score": 23.2,
-    "raw_score": 23.2,
+    "score": 23.1,
+    "raw_score": 23.1,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 23.2/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 23.1/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -83,17 +81,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/775012-2026"
         },
         {
-          "id": "771405-2026",
-          "date": "2026-11-06",
-          "title": "Spain – Ammunition for firearms and warfare – Suministro de cargas conformadas",
-          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
-          "country": "ESP",
-          "cpv": [
-            "35331000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/771405-2026"
-        },
-        {
           "id": "771535-2026",
           "date": "2026-11-06",
           "title": "Denmark – Firearms – Forlængelse og udvidelse af rammeaftale vedr. drift og vedligehold af TMG M2HB",
@@ -131,6 +118,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/771578-2026"
         },
         {
+          "id": "771405-2026",
+          "date": "2026-11-06",
+          "title": "Spain – Ammunition for firearms and warfare – Suministro de cargas conformadas",
+          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
+          "country": "ESP",
+          "cpv": [
+            "35331000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/771405-2026"
+        },
+        {
           "id": "773887-2026",
           "date": "2026-11-06",
           "title": "Finland – Structure and mechanical spare parts for military aerospace equipment – Hawk Mk51, Mk51A ja Mk66 -suihkuharjoituskoneiden laskutelineiden varaosia",
@@ -165,17 +163,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/772627-2026"
         },
         {
-          "id": "768070-2026",
-          "date": "2026-11-05",
-          "title": "Portugal – Firearms – Proc. 17/DPIE/2025 - Aquisição de Armas SIG MCX 300 Blackout para a PSP, no âmbito do DLPIEFSS.",
-          "buyer": "Secretaria-Geral do Ministério da Administração Interna",
-          "country": "PRT",
-          "cpv": [
-            "35320000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/768070-2026"
-        },
-        {
           "id": "767879-2026",
           "date": "2026-11-05",
           "title": "Denmark – Battle simulators – Aftale om levering og servicering af ILDS-systemer til Forsvaret",
@@ -202,17 +189,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/768776-2026"
         },
         {
-          "id": "771277-2026",
+          "id": "768070-2026",
           "date": "2026-11-05",
-          "title": "Hungary – Command, control, communication and computer systems – HM Válságreagáló Rendszer (HM VRR)",
-          "buyer": "Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság",
-          "country": "HUN",
+          "title": "Portugal – Firearms – Proc. 17/DPIE/2025 - Aquisição de Armas SIG MCX 300 Blackout para a PSP, no âmbito do DLPIEFSS.",
+          "buyer": "Secretaria-Geral do Ministério da Administração Interna",
+          "country": "PRT",
           "cpv": [
-            "35710000",
-            "71300000",
-            "48000000"
+            "35320000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/771277-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/768070-2026"
         },
         {
           "id": "770746-2026",
@@ -224,21 +209,34 @@
             "35332000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/770746-2026"
+        },
+        {
+          "id": "771277-2026",
+          "date": "2026-11-05",
+          "title": "Hungary – Command, control, communication and computer systems – HM Válságreagáló Rendszer (HM VRR)",
+          "buyer": "Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság",
+          "country": "HUN",
+          "cpv": [
+            "35710000",
+            "71300000",
+            "48000000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/771277-2026"
         }
       ],
-      "source_collected_at": "2026-11-08T06:33:51.731486+00:00"
+      "source_collected_at": "2026-11-08T18:01:43.568279+00:00"
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 11.7,
+      "score": 11.3,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
-      "retained": true,
+      "retained": false,
       "coverage": 600,
       "latest_observation": "2026-08-07",
-      "reporting_lag_days": 92,
-      "freshness_factor": 0.23,
+      "reporting_lag_days": 93,
+      "freshness_factor": 0.22,
       "current_14d_weekly_equivalent": 911485607.98,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 6.15,
@@ -441,8 +439,7 @@
           "naics": "336412"
         }
       ],
-      "source_collected_at": "2026-11-07T22:13:10.812653+00:00",
-      "retained_reason": "ReadTimeout"
+      "source_collected_at": "2026-11-08T18:01:43.568279+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -465,7 +462,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-11-05",
@@ -476,7 +473,7 @@
             "drone"
           ],
           "weight": 5,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-11-05",
@@ -487,7 +484,7 @@
             "drone"
           ],
           "weight": 5,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-11-04",
@@ -497,7 +494,7 @@
             "industrial"
           ],
           "weight": 2.5,
-          "age": 3
+          "age": 4
         },
         {
           "date": "2026-11-04",
@@ -507,7 +504,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 3
+          "age": 4
         },
         {
           "date": "2026-11-04",
@@ -517,7 +514,7 @@
             "missile"
           ],
           "weight": 3,
-          "age": 3
+          "age": 4
         },
         {
           "date": "2026-11-04",
@@ -527,7 +524,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 3
+          "age": 4
         },
         {
           "date": "2026-11-04",
@@ -567,7 +564,7 @@
             "industrial"
           ],
           "weight": 2.5,
-          "age": 3
+          "age": 4
         },
         {
           "date": "2026-11-04",
@@ -577,7 +574,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 3
+          "age": 4
         },
         {
           "date": "2026-11-04",
@@ -587,7 +584,7 @@
             "missile"
           ],
           "weight": 3,
-          "age": 3
+          "age": 4
         },
         {
           "date": "2026-11-04",
@@ -597,10 +594,10 @@
             "drone"
           ],
           "weight": 3,
-          "age": 3
+          "age": 4
         }
       ],
-      "source_collected_at": "2026-11-08T06:33:51.731486+00:00"
+      "source_collected_at": "2026-11-08T18:01:43.568279+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -644,7 +641,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0497 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-08T06:33:51.731486+00:00"
+      "source_collected_at": "2026-11-08T18:01:43.568279+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -677,15 +674,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-08T06:33:51.731486+00:00"
+      "source_collected_at": "2026-11-08T18:01:43.568279+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-20T05:08:57.633364+00:00",
-      "score": 19.0,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-20T11:59:02.049991+00:00",
       "score": 19.5,
@@ -979,6 +971,11 @@
     {
       "generated": "2026-11-08T06:33:51.731486+00:00",
       "score": 23.2,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-08T18:01:43.568279+00:00",
+      "score": 23.1,
       "status": "BASELINE"
     }
   ],
