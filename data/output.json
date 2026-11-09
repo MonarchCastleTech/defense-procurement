@@ -1,14 +1,16 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-08T22:22:58.177411+00:00",
-    "mode": "live",
+    "generated": "2026-11-09T07:03:26.509887+00:00",
+    "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–90 days",
     "classification": "procurement-acceleration-screening-not-conflict-probability-or-contract-forecast",
     "coverage": "5/5",
-    "confidence": "HIGH",
-    "source_notes": []
+    "confidence": "MEDIUM",
+    "source_notes": [
+      "us_awards: retained (ReadTimeout)"
+    ]
   },
   "warning": {
     "score": 23.1,
@@ -26,12 +28,86 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 589,
-      "current_14d_weekly_equivalent": 41.5,
-      "baseline_weekly_median": 43.0,
-      "anomaly_z": -0.22,
+      "coverage": 595,
+      "current_14d_weekly_equivalent": 39.0,
+      "baseline_weekly_median": 41.0,
+      "anomaly_z": -0.3,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "778953-2026",
+          "date": "2026-11-09",
+          "title": "Finland – Radio transmission apparatus with reception apparatus – Participation Application Request/ Base station radio for military aviation procurement",
+          "buyer": "Finnish Defence Forces",
+          "country": "FIN",
+          "cpv": [
+            "32230000",
+            "32260000",
+            "32418000",
+            "32236000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/778953-2026"
+        },
+        {
+          "id": "778462-2026",
+          "date": "2026-11-09",
+          "title": "Finland – Parts for military aerospace equipment – Hawk Mk51, Mk51A ja Mk66 -suihkuharjoituskoneiden varaosia",
+          "buyer": "Puolustusvoimat",
+          "country": "FIN",
+          "cpv": [
+            "35640000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/778462-2026"
+        },
+        {
+          "id": "777180-2026",
+          "date": "2026-11-09",
+          "title": "Poland – Specialist optical instruments – Zawarcie umowy ramowej na dostawę technicznych środków materiałowych do sprzętu optoelektronicznego w latach 2026-2029.",
+          "buyer": "2. Regionalna Baza Logistyczna",
+          "country": "POL",
+          "cpv": [
+            "38636000",
+            "35340000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/777180-2026"
+        },
+        {
+          "id": "777540-2026",
+          "date": "2026-11-09",
+          "title": "France – Emergency vehicles – Acquisition d’un poste de commandement pour le CHU Amiens Picardie",
+          "buyer": "CHU AMIENS PICARDIE (établissement support du GHT SLS)",
+          "country": "FRA",
+          "cpv": [
+            "34114100",
+            "35412500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/777540-2026"
+        },
+        {
+          "id": "777391-2026",
+          "date": "2026-11-09",
+          "title": "Slovakia – Dedicated-business telephone network services – Rádiokomunikačné a telekomunikačné služby a súvisiace softvérové funkcie pre potreby riadenia dopravy zabezpečovanej Dopravným podnikom Bratislava",
+          "buyer": "Dopravný podnik Bratislava, akciová spoločnosť",
+          "country": "SVK",
+          "cpv": [
+            "64214000",
+            "32200000",
+            "32230000",
+            "32236000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/777391-2026"
+        },
+        {
+          "id": "779068-2026",
+          "date": "2026-11-09",
+          "title": "Spain – Grenades – Adquisición de granadas 40 X 46 mm TPIS",
+          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+          "country": "ESP",
+          "cpv": [
+            "35331300"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/779068-2026"
+        },
         {
           "id": "774057-2026",
           "date": "2026-11-06",
@@ -81,6 +157,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/775012-2026"
         },
         {
+          "id": "771405-2026",
+          "date": "2026-11-06",
+          "title": "Spain – Ammunition for firearms and warfare – Suministro de cargas conformadas",
+          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
+          "country": "ESP",
+          "cpv": [
+            "35331000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/771405-2026"
+        },
+        {
           "id": "771535-2026",
           "date": "2026-11-06",
           "title": "Denmark – Firearms – Forlængelse og udvidelse af rammeaftale vedr. drift og vedligehold af TMG M2HB",
@@ -118,17 +205,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/771578-2026"
         },
         {
-          "id": "771405-2026",
-          "date": "2026-11-06",
-          "title": "Spain – Ammunition for firearms and warfare – Suministro de cargas conformadas",
-          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
-          "country": "ESP",
-          "cpv": [
-            "35331000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/771405-2026"
-        },
-        {
           "id": "773887-2026",
           "date": "2026-11-06",
           "title": "Finland – Structure and mechanical spare parts for military aerospace equipment – Hawk Mk51, Mk51A ja Mk66 -suihkuharjoituskoneiden laskutelineiden varaosia",
@@ -149,82 +225,9 @@
             "35720000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/772386-2026"
-        },
-        {
-          "id": "772627-2026",
-          "date": "2026-11-06",
-          "title": "France – Weapons, ammunition and associated parts – 2026AVN0053 - Acquisition de caméras piétons et de pistolets à impulsion électrique (PIE) pour les besoins de la Police Municipale de la Ville d'Avignon",
-          "buyer": "Ville d'Avignon",
-          "country": "FRA",
-          "cpv": [
-            "35300000",
-            "35200000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/772627-2026"
-        },
-        {
-          "id": "768070-2026",
-          "date": "2026-11-05",
-          "title": "Portugal – Firearms – Proc. 17/DPIE/2025 - Aquisição de Armas SIG MCX 300 Blackout para a PSP, no âmbito do DLPIEFSS.",
-          "buyer": "Secretaria-Geral do Ministério da Administração Interna",
-          "country": "PRT",
-          "cpv": [
-            "35320000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/768070-2026"
-        },
-        {
-          "id": "767879-2026",
-          "date": "2026-11-05",
-          "title": "Denmark – Battle simulators – Aftale om levering og servicering af ILDS-systemer til Forsvaret",
-          "buyer": "Forsvarsministeriets Materiel- og Indkøbsstyrelse",
-          "country": "DNK",
-          "cpv": [
-            "35740000",
-            "50660000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/767879-2026"
-        },
-        {
-          "id": "768776-2026",
-          "date": "2026-11-05",
-          "title": "Spain – Security cameras – Suministro e instalación de un sistema de videovigilancia y control de accesos a la ciudad, regulación del tráfico, ordenación y gestión de la disciplina del tránsito viario, en Coslada",
-          "buyer": "Junta de Gobierno Local del Ayuntamiento de Coslada",
-          "country": "ESP",
-          "cpv": [
-            "35125300",
-            "32231000",
-            "32323500",
-            "34970000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/768776-2026"
-        },
-        {
-          "id": "771277-2026",
-          "date": "2026-11-05",
-          "title": "Hungary – Command, control, communication and computer systems – HM Válságreagáló Rendszer (HM VRR)",
-          "buyer": "Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság",
-          "country": "HUN",
-          "cpv": [
-            "35710000",
-            "71300000",
-            "48000000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/771277-2026"
-        },
-        {
-          "id": "770746-2026",
-          "date": "2026-11-05",
-          "title": "Lithuania – Ammunition for naval warfare – Jūrinių minų sistemos",
-          "buyer": "GYNYBOS RESURSŲ AGENTŪRA PRIE KAM",
-          "country": "LTU",
-          "cpv": [
-            "35332000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/770746-2026"
         }
       ],
-      "source_collected_at": "2026-11-08T22:22:58.177411+00:00"
+      "source_collected_at": "2026-11-09T07:03:26.509887+00:00"
     },
     "us_awards": {
       "key": "us_awards",
@@ -232,7 +235,7 @@
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
-      "retained": false,
+      "retained": true,
       "coverage": 600,
       "latest_observation": "2026-08-07",
       "reporting_lag_days": 93,
@@ -439,7 +442,8 @@
           "naics": "336412"
         }
       ],
-      "source_collected_at": "2026-11-08T22:22:58.177411+00:00"
+      "source_collected_at": "2026-11-08T22:22:58.177411+00:00",
+      "retained_reason": "ReadTimeout"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -450,8 +454,8 @@
       "retained": false,
       "coverage": 61,
       "current_14d_weekly_equivalent": 53.5,
-      "baseline_weekly_median": 2.0,
-      "anomaly_z": 17.37,
+      "baseline_weekly_median": 3.5,
+      "anomaly_z": 9.64,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -597,7 +601,7 @@
           "age": 4
         }
       ],
-      "source_collected_at": "2026-11-08T22:22:58.177411+00:00"
+      "source_collected_at": "2026-11-09T07:03:26.509887+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -641,7 +645,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0497 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-08T22:22:58.177411+00:00"
+      "source_collected_at": "2026-11-09T07:03:26.509887+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -674,15 +678,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-08T22:22:58.177411+00:00"
+      "source_collected_at": "2026-11-09T07:03:26.509887+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-20T17:26:23.608550+00:00",
-      "score": 19.5,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-20T21:48:20.471946+00:00",
       "score": 19.5,
@@ -975,6 +974,11 @@
     },
     {
       "generated": "2026-11-08T22:22:58.177411+00:00",
+      "score": 23.1,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-09T07:03:26.509887+00:00",
       "score": 23.1,
       "status": "BASELINE"
     }
