@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-10T07:39:10.863560+00:00",
+    "generated": "2026-11-10T19:56:02.208354+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,12 +26,23 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 594,
+      "coverage": 593,
       "current_14d_weekly_equivalent": 39.5,
       "baseline_weekly_median": 41.0,
       "anomaly_z": -0.18,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "780365-2026",
+          "date": "2026-11-10",
+          "title": "Spain – Observation satellites – Suministro de dos coberturas nacionales de imágenes satelitales de Muy Alta Resolución (VHR), para los años 2024 y 2025 (VHR24 y VHR25)",
+          "buyer": "Dirección de la Agencia Espacial Española",
+          "country": "ESP",
+          "cpv": [
+            "35631200"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/780365-2026"
+        },
         {
           "id": "780644-2026",
           "date": "2026-11-10",
@@ -56,17 +67,6 @@
             "50312610"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/779206-2026"
-        },
-        {
-          "id": "780365-2026",
-          "date": "2026-11-10",
-          "title": "Spain – Observation satellites – Suministro de dos coberturas nacionales de imágenes satelitales de Muy Alta Resolución (VHR), para los años 2024 y 2025 (VHR24 y VHR25)",
-          "buyer": "Dirección de la Agencia Espacial Española",
-          "country": "ESP",
-          "cpv": [
-            "35631200"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/780365-2026"
         },
         {
           "id": "781802-2026",
@@ -130,17 +130,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/779510-2026"
         },
         {
-          "id": "778462-2026",
-          "date": "2026-11-09",
-          "title": "Finland – Parts for military aerospace equipment – Hawk Mk51, Mk51A ja Mk66 -suihkuharjoituskoneiden varaosia",
-          "buyer": "Puolustusvoimat",
-          "country": "FIN",
-          "cpv": [
-            "35640000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/778462-2026"
-        },
-        {
           "id": "778953-2026",
           "date": "2026-11-09",
           "title": "Finland – Radio transmission apparatus with reception apparatus – Participation Application Request/ Base station radio for military aviation procurement",
@@ -153,6 +142,17 @@
             "32236000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/778953-2026"
+        },
+        {
+          "id": "778462-2026",
+          "date": "2026-11-09",
+          "title": "Finland – Parts for military aerospace equipment – Hawk Mk51, Mk51A ja Mk66 -suihkuharjoituskoneiden varaosia",
+          "buyer": "Puolustusvoimat",
+          "country": "FIN",
+          "cpv": [
+            "35640000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/778462-2026"
         },
         {
           "id": "777180-2026",
@@ -228,7 +228,7 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/771586-2026"
         }
       ],
-      "source_collected_at": "2026-11-10T07:39:10.863560+00:00"
+      "source_collected_at": "2026-11-10T19:56:02.208354+00:00"
     },
     "us_awards": {
       "key": "us_awards",
@@ -243,7 +243,7 @@
       "freshness_factor": 0.21,
       "current_14d_weekly_equivalent": 911485607.98,
       "baseline_weekly_median": 0.0,
-      "anomaly_z": 22.71,
+      "anomaly_z": 23.2,
       "recipient_concentration": [
         {
           "name": "RTX CORPORATION",
@@ -267,7 +267,7 @@
         },
         {
           "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 61335870.8
+          "amount": 58273852.8
         },
         {
           "name": "MISTRAL INC",
@@ -443,7 +443,7 @@
           "naics": "336411"
         }
       ],
-      "source_collected_at": "2026-11-10T07:39:10.863560+00:00"
+      "source_collected_at": "2026-11-10T19:56:02.208354+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -452,12 +452,22 @@
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 61,
-      "current_14d_weekly_equivalent": 53.5,
+      "coverage": 62,
+      "current_14d_weekly_equivalent": 54.5,
       "baseline_weekly_median": 2.5,
-      "anomaly_z": 13.76,
+      "anomaly_z": 14.03,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
+        {
+          "date": "2026-11-10",
+          "title": "Nato Discusses Deep Precision Strike Capabilities For Deterrence And Defence",
+          "url": "https://www.nato.int/en/news-and-events/articles/news/2026/11/10/nato-discusses-deep-precision-strike-capabilities-for-deterrence-and-defence",
+          "terms": [
+            "capabilities"
+          ],
+          "weight": 2,
+          "age": 0
+        },
         {
           "date": "2026-11-06",
           "title": "Drone Masters Learning From Ukraine",
@@ -466,7 +476,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 3
+          "age": 4
         },
         {
           "date": "2026-11-05",
@@ -477,7 +487,7 @@
             "drone"
           ],
           "weight": 5,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-11-05",
@@ -488,7 +498,7 @@
             "drone"
           ],
           "weight": 5,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-11-04",
@@ -498,7 +508,7 @@
             "industrial"
           ],
           "weight": 2.5,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-11-04",
@@ -508,7 +518,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-11-04",
@@ -518,7 +528,7 @@
             "missile"
           ],
           "weight": 3,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-11-04",
@@ -528,7 +538,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-11-04",
@@ -538,7 +548,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-11-04",
@@ -548,7 +558,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-11-04",
@@ -558,7 +568,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-11-04",
@@ -568,7 +578,7 @@
             "industrial"
           ],
           "weight": 2.5,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-11-04",
@@ -578,7 +588,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-11-04",
@@ -588,20 +598,10 @@
             "missile"
           ],
           "weight": 3,
-          "age": 5
-        },
-        {
-          "date": "2026-11-04",
-          "title": "From Innovation To Mass Building Natos Drone Edge",
-          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2026/07/07/from-innovation-to-mass-building-natos-drone-edge",
-          "terms": [
-            "drone"
-          ],
-          "weight": 3,
-          "age": 5
+          "age": 6
         }
       ],
-      "source_collected_at": "2026-11-10T07:39:10.863560+00:00"
+      "source_collected_at": "2026-11-10T19:56:02.208354+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -645,7 +645,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0497 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-10T07:39:10.863560+00:00"
+      "source_collected_at": "2026-11-10T19:56:02.208354+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -678,15 +678,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-10T07:39:10.863560+00:00"
+      "source_collected_at": "2026-11-10T19:56:02.208354+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-21T12:13:52.234335+00:00",
-      "score": 18.3,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-21T17:34:40.511504+00:00",
       "score": 18.3,
@@ -979,6 +974,11 @@
     },
     {
       "generated": "2026-11-10T07:39:10.863560+00:00",
+      "score": 22.8,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-10T19:56:02.208354+00:00",
       "score": 22.8,
       "status": "BASELINE"
     }
