@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-11T06:58:19.512943+00:00",
+    "generated": "2026-11-11T19:48:50.136886+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -72,40 +72,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/785716-2026"
         },
         {
-          "id": "783333-2026",
-          "date": "2026-11-11",
-          "title": "Germany – Parts of military vehicles – 6003091578-BAAINBw E2.5F mechan. Getriebe u. Kupplungsscheiben, WS Leopard 2",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/783333-2026"
-        },
-        {
-          "id": "783092-2026",
-          "date": "2026-11-11",
-          "title": "Slovenia – Military electronic systems – komunikacijska oprema za LKOV 4x4",
-          "buyer": "MINISTRSTVO ZA OBRAMBO",
-          "country": "SVN",
-          "cpv": [
-            "35700000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/783092-2026"
-        },
-        {
-          "id": "785099-2026",
-          "date": "2026-11-11",
-          "title": "Germany – Radar detectors – RV IRIS Radar System mit Zubehör",
-          "buyer": "Freistaat Bayern, vertreten durch das Logistikzentrum der Bayerischen Polizei (LZBP)",
-          "country": "DEU",
-          "cpv": [
-            "35121900",
-            "35722000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/785099-2026"
-        },
-        {
           "id": "784048-2026",
           "date": "2026-11-11",
           "title": "Czechia – Weapons, ammunition and associated parts – Náhradní díly - zbraně zahraniční (belgické) výroby 2025-2029",
@@ -137,6 +103,40 @@
             "35420000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/785581-2026"
+        },
+        {
+          "id": "785099-2026",
+          "date": "2026-11-11",
+          "title": "Germany – Radar detectors – RV IRIS Radar System mit Zubehör",
+          "buyer": "Freistaat Bayern, vertreten durch das Logistikzentrum der Bayerischen Polizei (LZBP)",
+          "country": "DEU",
+          "cpv": [
+            "35121900",
+            "35722000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/785099-2026"
+        },
+        {
+          "id": "783092-2026",
+          "date": "2026-11-11",
+          "title": "Slovenia – Military electronic systems – komunikacijska oprema za LKOV 4x4",
+          "buyer": "MINISTRSTVO ZA OBRAMBO",
+          "country": "SVN",
+          "cpv": [
+            "35700000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/783092-2026"
+        },
+        {
+          "id": "783333-2026",
+          "date": "2026-11-11",
+          "title": "Germany – Parts of military vehicles – 6003091578-BAAINBw E2.5F mechan. Getriebe u. Kupplungsscheiben, WS Leopard 2",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/783333-2026"
         },
         {
           "id": "783202-2026",
@@ -224,7 +224,7 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/781577-2026"
         }
       ],
-      "source_collected_at": "2026-11-11T06:58:19.512943+00:00"
+      "source_collected_at": "2026-11-11T19:48:50.136886+00:00"
     },
     "us_awards": {
       "key": "us_awards",
@@ -439,7 +439,7 @@
           "naics": "332993"
         }
       ],
-      "source_collected_at": "2026-11-11T06:58:19.512943+00:00"
+      "source_collected_at": "2026-11-11T19:48:50.136886+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -462,7 +462,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-11-06",
@@ -472,7 +472,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-11-05",
@@ -483,7 +483,7 @@
             "drone"
           ],
           "weight": 5,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-11-05",
@@ -494,7 +494,7 @@
             "drone"
           ],
           "weight": 5,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-11-04",
@@ -504,7 +504,7 @@
             "industrial"
           ],
           "weight": 2.5,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-11-04",
@@ -514,7 +514,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-11-04",
@@ -524,7 +524,7 @@
             "missile"
           ],
           "weight": 3,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-11-04",
@@ -534,7 +534,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-11-04",
@@ -544,7 +544,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-11-04",
@@ -554,7 +554,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-11-04",
@@ -564,7 +564,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-11-04",
@@ -574,7 +574,7 @@
             "industrial"
           ],
           "weight": 2.5,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-11-04",
@@ -584,7 +584,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-11-04",
@@ -594,10 +594,10 @@
             "missile"
           ],
           "weight": 3,
-          "age": 6
+          "age": 7
         }
       ],
-      "source_collected_at": "2026-11-11T06:58:19.512943+00:00"
+      "source_collected_at": "2026-11-11T19:48:50.136886+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -641,7 +641,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0497 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-11T06:58:19.512943+00:00"
+      "source_collected_at": "2026-11-11T19:48:50.136886+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -674,15 +674,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-11T06:58:19.512943+00:00"
+      "source_collected_at": "2026-11-11T19:48:50.136886+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-21T21:55:17.705217+00:00",
-      "score": 18.3,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-22T05:14:46.668045+00:00",
       "score": 22.9,
@@ -975,6 +970,11 @@
     },
     {
       "generated": "2026-11-11T06:58:19.512943+00:00",
+      "score": 23.2,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-11T19:48:50.136886+00:00",
       "score": 23.2,
       "status": "BASELINE"
     }
