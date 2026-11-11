@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-10T19:56:02.208354+00:00",
+    "generated": "2026-11-11T06:58:19.512943+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 22.8,
-    "raw_score": 22.8,
+    "score": 23.2,
+    "raw_score": 23.2,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 22.8/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 23.2/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -26,12 +26,142 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 593,
-      "current_14d_weekly_equivalent": 39.5,
-      "baseline_weekly_median": 41.0,
-      "anomaly_z": -0.18,
+      "coverage": 591,
+      "current_14d_weekly_equivalent": 41.0,
+      "baseline_weekly_median": 41.5,
+      "anomaly_z": -0.04,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "784801-2026",
+          "date": "2026-11-11",
+          "title": "Germany – Military vehicles and associated parts – Ersatzteilfolgebedarf neuer Antriebsstrang WS Spz Marder - VB073",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/784801-2026"
+        },
+        {
+          "id": "783841-2026",
+          "date": "2026-11-11",
+          "title": "Greece – Detection and analysis apparatus – Προμήθεια και εγκατάσταση εξειδικευμένου ερευνητικού εξοπλισμού και λογισμικού, στο πλαίσιο της Πράξης «PROMITHEUS - Προώθηση βιώσιμης διαχείρισης εδαφοϋδατικών πόρων και ενίσχυσης της ανθεκτικότητας των οικοσυστημάτων στην Κεντρική Μακεδονία με τεχνολογίες αιχμής, του Προγραμμάτος «Κεντρική Μακεδονία 2021-2027»",
+          "buyer": "ΕΛΛΗΝΙΚΟΣ ΓΕΩΡΓΙΚΟΣ ΟΡΓΑΝΙΣΜΟΣ ΔΗΜΗΤΡΑ",
+          "country": "GRC",
+          "cpv": [
+            "38430000",
+            "38420000",
+            "38000000",
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/783841-2026"
+        },
+        {
+          "id": "785716-2026",
+          "date": "2026-11-11",
+          "title": "Greece – Electronic, electromechanical and electrotechnical supplies – 02846/2024 - Προμήθεια εργαστηριακού εξοπλισμού για την Σχολή Θετικών Επιστημών",
+          "buyer": "Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών / Ειδικός Λογαριασμός Κονδυλίων Έρευνας",
+          "country": "GRC",
+          "cpv": [
+            "31700000",
+            "38000000",
+            "39711120",
+            "38515100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/785716-2026"
+        },
+        {
+          "id": "783333-2026",
+          "date": "2026-11-11",
+          "title": "Germany – Parts of military vehicles – 6003091578-BAAINBw E2.5F mechan. Getriebe u. Kupplungsscheiben, WS Leopard 2",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/783333-2026"
+        },
+        {
+          "id": "783092-2026",
+          "date": "2026-11-11",
+          "title": "Slovenia – Military electronic systems – komunikacijska oprema za LKOV 4x4",
+          "buyer": "MINISTRSTVO ZA OBRAMBO",
+          "country": "SVN",
+          "cpv": [
+            "35700000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/783092-2026"
+        },
+        {
+          "id": "785099-2026",
+          "date": "2026-11-11",
+          "title": "Germany – Radar detectors – RV IRIS Radar System mit Zubehör",
+          "buyer": "Freistaat Bayern, vertreten durch das Logistikzentrum der Bayerischen Polizei (LZBP)",
+          "country": "DEU",
+          "cpv": [
+            "35121900",
+            "35722000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/785099-2026"
+        },
+        {
+          "id": "784048-2026",
+          "date": "2026-11-11",
+          "title": "Czechia – Weapons, ammunition and associated parts – Náhradní díly - zbraně zahraniční (belgické) výroby 2025-2029",
+          "buyer": "Ministerstvo obrany",
+          "country": "CZE",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/784048-2026"
+        },
+        {
+          "id": "785559-2026",
+          "date": "2026-11-11",
+          "title": "Slovenia – Weapons, ammunition and associated parts – namerilne naprave in povečave",
+          "buyer": "MINISTRSTVO ZA OBRAMBO",
+          "country": "SVN",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/785559-2026"
+        },
+        {
+          "id": "785581-2026",
+          "date": "2026-11-11",
+          "title": "Germany – Parts of military vehicles – 6003147361-BAAINBw E2.5F Gleiskettenglieder u. Einsätze WS Leopard 2",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/785581-2026"
+        },
+        {
+          "id": "783202-2026",
+          "date": "2026-11-11",
+          "title": "Germany – Military vehicles and associated parts – Design, Production and Initial In-Service Support of Engin du Génie de Combat (EGC)",
+          "buyer": "OCCAR",
+          "country": "DEU",
+          "cpv": [
+            "35400000",
+            "43300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/783202-2026"
+        },
+        {
+          "id": "783682-2026",
+          "date": "2026-11-11",
+          "title": "Netherlands – Navigation satellites – HE-ESA-026 EGNOS-NEXT: System architecture and test beacon for Governmental SAR",
+          "buyer": "European Space Agency",
+          "country": "NLD",
+          "cpv": [
+            "35631300",
+            "73100000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/783682-2026"
+        },
         {
           "id": "780365-2026",
           "date": "2026-11-10",
@@ -92,158 +222,24 @@
             "35420000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/781577-2026"
-        },
-        {
-          "id": "779714-2026",
-          "date": "2026-11-10",
-          "title": "Poland – Vehicles for the emergency services – Samochód dowodzenia i łączności (kompanijne stanowisko dowodzenia) – 9 sztuk",
-          "buyer": "Komenda Wojewódzka Państwowej Straży Pożarnej w Poznaniu",
-          "country": "POL",
-          "cpv": [
-            "34144200",
-            "35110000",
-            "35412500",
-            "34144210"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/779714-2026"
-        },
-        {
-          "id": "782168-2026",
-          "date": "2026-11-10",
-          "title": "Poland – Parts of military vehicles – D/110/2026 Dostawa części do pojazdów wojskowych",
-          "buyer": "2. Regionalna Baza Logistyczna",
-          "country": "POL",
-          "cpv": [
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/782168-2026"
-        },
-        {
-          "id": "779510-2026",
-          "date": "2026-11-10",
-          "title": "Finland – Structure and mechanical spare parts for military aerospace equipment – Hawk Mk51, Mk51A ja Mk66 -suihkuharjoituskoneiden varaosia",
-          "buyer": "Puolustusvoimat",
-          "country": "FIN",
-          "cpv": [
-            "35641000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/779510-2026"
-        },
-        {
-          "id": "778953-2026",
-          "date": "2026-11-09",
-          "title": "Finland – Radio transmission apparatus with reception apparatus – Participation Application Request/ Base station radio for military aviation procurement",
-          "buyer": "Finnish Defence Forces",
-          "country": "FIN",
-          "cpv": [
-            "32230000",
-            "32260000",
-            "32418000",
-            "32236000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/778953-2026"
-        },
-        {
-          "id": "778462-2026",
-          "date": "2026-11-09",
-          "title": "Finland – Parts for military aerospace equipment – Hawk Mk51, Mk51A ja Mk66 -suihkuharjoituskoneiden varaosia",
-          "buyer": "Puolustusvoimat",
-          "country": "FIN",
-          "cpv": [
-            "35640000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/778462-2026"
-        },
-        {
-          "id": "777180-2026",
-          "date": "2026-11-09",
-          "title": "Poland – Specialist optical instruments – Zawarcie umowy ramowej na dostawę technicznych środków materiałowych do sprzętu optoelektronicznego w latach 2026-2029.",
-          "buyer": "2. Regionalna Baza Logistyczna",
-          "country": "POL",
-          "cpv": [
-            "38636000",
-            "35340000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/777180-2026"
-        },
-        {
-          "id": "777540-2026",
-          "date": "2026-11-09",
-          "title": "France – Emergency vehicles – Acquisition d’un poste de commandement pour le CHU Amiens Picardie",
-          "buyer": "CHU AMIENS PICARDIE (établissement support du GHT SLS)",
-          "country": "FRA",
-          "cpv": [
-            "34114100",
-            "35412500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/777540-2026"
-        },
-        {
-          "id": "777391-2026",
-          "date": "2026-11-09",
-          "title": "Slovakia – Dedicated-business telephone network services – Rádiokomunikačné a telekomunikačné služby a súvisiace softvérové funkcie pre potreby riadenia dopravy zabezpečovanej Dopravným podnikom Bratislava",
-          "buyer": "Dopravný podnik Bratislava, akciová spoločnosť",
-          "country": "SVK",
-          "cpv": [
-            "64214000",
-            "32200000",
-            "32230000",
-            "32236000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/777391-2026"
-        },
-        {
-          "id": "779068-2026",
-          "date": "2026-11-09",
-          "title": "Spain – Grenades – Adquisición de granadas 40 X 46 mm TPIS",
-          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
-          "country": "ESP",
-          "cpv": [
-            "35331300"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/779068-2026"
-        },
-        {
-          "id": "774057-2026",
-          "date": "2026-11-06",
-          "title": "Netherlands – Weapons, ammunition and associated parts – RFI Wirecutter",
-          "buyer": "Ministerie van Defensie",
-          "country": "NLD",
-          "cpv": [
-            "35300000",
-            "35330000",
-            "35340000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/774057-2026"
-        },
-        {
-          "id": "771586-2026",
-          "date": "2026-11-06",
-          "title": "Romania – Battle simulators – SIMULATOR VIRTUAL DE TRAGERE- 1 buc in cadrul Proiectului GreenLight – Green Light for border crossing points, finanțat prin Programul INTERREG VI NEXT Ungaria -Slovacia-România-Ucraina 2021-2027",
-          "buyer": "INSPECTORATUL TERITORIAL AL POLITIEI DE FRONTIERA SIGHETU MARMATIEI",
-          "country": "ROU",
-          "cpv": [
-            "35740000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/771586-2026"
         }
       ],
-      "source_collected_at": "2026-11-10T19:56:02.208354+00:00"
+      "source_collected_at": "2026-11-11T06:58:19.512943+00:00"
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 10.4,
+      "score": 12.0,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-08-07",
-      "reporting_lag_days": 95,
-      "freshness_factor": 0.21,
-      "current_14d_weekly_equivalent": 911485607.98,
+      "latest_observation": "2026-08-12",
+      "reporting_lag_days": 91,
+      "freshness_factor": 0.24,
+      "current_14d_weekly_equivalent": 855210078.75,
       "baseline_weekly_median": 0.0,
-      "anomaly_z": 23.2,
+      "anomaly_z": 15.42,
       "recipient_concentration": [
         {
           "name": "RTX CORPORATION",
@@ -255,195 +251,195 @@
         },
         {
           "name": "RAYTHEON COMPANY",
-          "amount": 64738761.06
+          "amount": 75088761.06
         },
         {
           "name": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 64574275.0
+          "amount": 66442535.0
         },
         {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 62113461.42
+          "amount": 62132578.88
         },
         {
           "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 58273852.8
-        },
-        {
-          "name": "MISTRAL INC",
-          "amount": 52905096.08
+          "amount": 37924501.91
         },
         {
           "name": "GENERAL DYNAMICS ORDNANCE & TACTICAL SYSTEMS, INC.",
           "amount": 37428409.37
+        },
+        {
+          "name": "DAY & ZIMMERMANN LONE STAR LLC",
+          "amount": 20985955.96
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
         {
-          "date": "2026-08-07",
-          "award_id": "W31P4Q24F0206",
-          "recipient": "RAYTHEON/LOCKHEED MARTIN JAVELIN JV",
-          "amount": 236317670.35,
+          "date": "2026-08-12",
+          "award_id": "W58RGZ21F0146",
+          "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 1868260.0,
           "agency": "Department of the Army",
-          "description": "JAVELIN PRODUCTION",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-08-07",
-          "award_id": "W31P4Q23F0177",
-          "recipient": "RAYTHEON/LOCKHEED MARTIN JAVELIN JV",
-          "amount": 214349731.14,
-          "agency": "Department of the Army",
-          "description": "JAVELIN PRODUCTION",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-08-07",
-          "award_id": "W31P4Q23C0026",
-          "recipient": "RAYTHEON COMPANY",
-          "amount": 54951648.0,
-          "agency": "Department of the Army",
-          "description": "TUBE-LAUNCHED OPTICALLY TRACKED WIRELESS-GUIDED (TOW) UNDEFINITIZED CONTRACTUAL ACTION (UCA) FOR FY26.",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-08-07",
-          "award_id": "W31P4Q24F0206",
-          "recipient": "RAYTHEON/LOCKHEED MARTIN JAVELIN JV",
-          "amount": 21573027.02,
-          "agency": "Department of the Army",
-          "description": "JAVELIN PRODUCTION",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-08-07",
-          "award_id": "W31P4Q23F0177",
-          "recipient": "RAYTHEON/LOCKHEED MARTIN JAVELIN JV",
-          "amount": -74146118.21,
-          "agency": "Department of the Army",
-          "description": "JAVELIN PRODUCTION",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-08-06",
-          "award_id": "W31P4Q23C0032",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 0.0,
-          "agency": "Department of the Army",
-          "description": "MULTIPLE LAUNCH ROCKET SYSTEM RECAPITALIZATION",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-08-06",
-          "award_id": "W58RGZ12C0008",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 0.0,
-          "agency": "Department of the Army",
-          "description": "MIGRATION PREPARATION FOR PADDS TO ACWS CONTRACT WRITING SYSTEM",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-08-06",
-          "award_id": "W15QKN19C0017",
-          "recipient": "RAYTHEON COMPANY",
-          "amount": 0.0,
-          "agency": "Department of the Army",
-          "description": "ADMINISTRATIVE MOD TO ADD PSC TO ALLOW ACWS MIGRATION",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-08-06",
-          "award_id": "W31P4Q19C0076",
-          "recipient": "RAYTHEON/LOCKHEED MARTIN JAVELIN JV",
-          "amount": 0.0,
-          "agency": "Department of the Army",
-          "description": "JAVELIN PRODUCTION",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-08-06",
-          "award_id": "W31P4Q19C0038",
-          "recipient": "RAYTHEON/LOCKHEED MARTIN JAVELIN JV",
-          "amount": 0.0,
-          "agency": "Department of the Army",
-          "description": "ENGINEERING SERVICES IN SUPPORT OF JAVELIN WEAPONS SYSTEM",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-08-05",
-          "award_id": "W31P4Q19C0055",
-          "recipient": "RAYTHEON COMPANY",
-          "amount": 0.06,
-          "agency": "Department of the Army",
-          "description": "DSCL",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-08-05",
-          "award_id": "W15QKN24F0156",
-          "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-          "amount": 0.0,
-          "agency": "Department of the Army",
-          "description": "MODIFICATION TO CHANGE CLIN 1001 DELIVERY DATE",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-08-05",
-          "award_id": "W58RGZ24F0109",
-          "recipient": "SCIENCE AND ENGINEERING SERVICES, LLC",
-          "amount": 0.0,
-          "agency": "Department of the Army",
-          "description": "AVIATION MISSION SYSTEMS ANO ARCHITECTURE INTERNATIONAL PROGRAM OFFICE (AMSA IPO) REQUIREMENTS TO PROCURE, INTEGREATE, PACKAGE, ENSURE QUALITY ASSURANCE, KIT, AND LOAD FOR SHIPMENT",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-08-05",
-          "award_id": "W519TC24F0161",
-          "recipient": "GENERAL DYNAMICS ORDNANCE & TACTICAL SYSTEMS, INC.",
-          "amount": 0.0,
-          "agency": "Department of the Army",
-          "description": "25 MILLIMETER (MM) M919 ARMOR PIERCING FIN STABILIZED DISCARDING SABOT WITH TRACER (APFSDS-T) CARTRIDGE, MEDIUM CALIBER FAMILY BUY 3 DEFINITIZATION SCHEDULE UPDATE",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-08-05",
-          "award_id": "W58RGZ26F0261",
-          "recipient": "HONEYWELL INTERNATIONAL INC.",
-          "amount": 0.0,
-          "agency": "Department of the Army",
-          "description": "OVERHAUL CH-47 T-55 ENGINE",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-08-05",
-          "award_id": "W912CH26F0215",
-          "recipient": "BAE SYSTEMS GCS INTERNATIONAL LIMITED",
-          "amount": 0.0,
-          "agency": "Department of the Army",
-          "description": "LIFE CYCLE SUSTAINMENT (LCS) REQUIREMENTS COMPRISED OF CATALOG PARTS AND MANPOWER SERVICES TO SUPPORT THE MEDIUM TOWED 155MM M777 HOWITZER ARTILLERY SYSTEM.",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-08-05",
-          "award_id": "W58RGZ26F0083",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 0.0,
-          "agency": "Department of the Army",
-          "description": "UH-60M UPTURNED EXHAUST SYSTEM II",
+          "description": "FOREIGN MILITARY SALES APACHE SUPPORT KITS MOROCCO, QATAR, NETHERLANDS, UNITED ARAB EMIRATES, UNITED KINGDOM, AND KOREA",
           "naics": "336413"
         },
         {
-          "date": "2026-08-05",
-          "award_id": "W58RGZ23C0001",
-          "recipient": "BELL TEXTRON INC",
+          "date": "2026-08-12",
+          "award_id": "W519TC26F0175",
+          "recipient": "ACCURATE ENERGETIC SYSTEMS, LLC",
+          "amount": 1079859.81,
+          "agency": "Department of the Army",
+          "description": "TNT SUPP CHARGES DELIVERY ORDER",
+          "naics": "332993"
+        },
+        {
+          "date": "2026-08-12",
+          "award_id": "W519TC26F0175",
+          "recipient": "ACCURATE ENERGETIC SYSTEMS, LLC",
+          "amount": 710578.32,
+          "agency": "Department of the Army",
+          "description": "TNT SUPP CHARGES DELIVERY ORDER",
+          "naics": "332993"
+        },
+        {
+          "date": "2026-08-12",
+          "award_id": "W58RGZ26F0059",
+          "recipient": "L3 TECHNOLOGIES, INC.",
+          "amount": 636648.0,
+          "agency": "Department of the Army",
+          "description": "MANNED UNMANNED TEAMING EXPANDED CAPABILITIES (MUMT-X) INDEFINITE DELIVERY, INDEFINITE QUANTITY (IDIQ), PRODUCTION CONTACT",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-08-12",
+          "award_id": "SPE4A526F8582",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 7085.32,
+          "agency": "Defense Logistics Agency",
+          "description": "8512296237!FITTING,STRUCTURAL",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-08-12",
+          "award_id": "SPE4A726PE314",
+          "recipient": "IPECO HOLDINGS LIMITED",
+          "amount": 955.28,
+          "agency": "Defense Logistics Agency",
+          "description": "8512256327!PAD,CUSHIONING",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-08-12",
+          "award_id": "W31P4Q24C0022",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
           "amount": 0.0,
           "agency": "Department of the Army",
-          "description": "THE FUTURE LONG RANGE ASSAULT AIRCRAFT (FLRAA) PROGRAM THAT WILL DEVELOP AND FIELD THE NEXT GENERATION OF AFFORDABLE VERTICAL LIFT ASSAULT/UTILITY FOR THE ARMY.",
+          "description": "EXECUTE PHASED ARRAY TRACKING RADAR TO INTERCEPT ON TARGET (PATRIOT) ADVANCED CAPABILITY-3 (PAC-3) MISSILE PRODUCTION BY PROVIDING INCIDENTAL SERVICES, HARDWARE, FACILITIES, EQUIPMENT, AND TECHNICAL, PLANNING, MANAGEMENT, AND MANUFACTURING EFFORTS.",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-08-12",
+          "award_id": "W31P4Q20C0023",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 0.0,
+          "agency": "Department of the Army",
+          "description": "EXECUTE PHASED ARRAY TRACKING RADAR TO INTERCEPT ON TARGET (PATRIOT) ADVANCED CAPABILITY-3 (PAC-3) MISSILE PRODUCTION BY PROVIDING INCIDENTAL SERVICES, HARDWARE, FACILITIES, EQUIPMENT, AND TECHNICAL, PLANNING, MANAGEMENT, AND MANUFACTURING EFFORTS.",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-08-12",
+          "award_id": "W31P4Q24C0022",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 0.0,
+          "agency": "Department of the Army",
+          "description": "EXECUTE PHASED ARRAY TRACKING RADAR TO INTERCEPT ON TARGET (PATRIOT) ADVANCED CAPABILITY-3 (PAC-3) MISSILE PRODUCTION BY PROVIDING INCIDENTAL SERVICES, HARDWARE, FACILITIES, EQUIPMENT, AND TECHNICAL, PLANNING, MANAGEMENT, AND MANUFACTURING EFFORTS.",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-08-12",
+          "award_id": "W31P4Q21C0039",
+          "recipient": "LOCKHEED MARTIN CORPORATION",
+          "amount": 0.0,
+          "agency": "Department of the Army",
+          "description": "M299 LONGBOW HELLFIRE LAUNCHER.",
+          "naics": "336415"
+        },
+        {
+          "date": "2026-08-12",
+          "award_id": "W519TC25F0357",
+          "recipient": "AMERICAN ORDNANCE LLC",
+          "amount": 0.0,
+          "agency": "Department of the Army",
+          "description": "ORDER W519TC25F0357 IS FOR THE CONTRACTOR TO LOAD, ASSEMBLE, AND PACK A QUANTITY OF 388,436 155MM M795 TNT LOADED PROJECTILES.",
+          "naics": "332993"
+        },
+        {
+          "date": "2026-08-12",
+          "award_id": "W31P4Q19C0059",
+          "recipient": "RAYTHEON/LOCKHEED MARTIN JAVELIN JV",
+          "amount": 0.0,
+          "agency": "Department of the Army",
+          "description": "LIFE CYCLE CONTRACTOR SUPPORT SERVICES FOR JAVELIN WEAPON SYSTEM.",
+          "naics": "336414"
+        },
+        {
+          "date": "2026-08-11",
+          "award_id": "SPE4A726F9338",
+          "recipient": "GENTEX CORP",
+          "amount": 47967.36,
+          "agency": "Defense Logistics Agency",
+          "description": "8512295974!MASK,OXYGEN",
           "naics": "336411"
+        },
+        {
+          "date": "2026-08-11",
+          "award_id": "SPE4AX26F343L",
+          "recipient": "CFM INTERNATIONAL INC",
+          "amount": 7303.8,
+          "agency": "Defense Logistics Agency",
+          "description": "8512296483!NOZZLE,LUBRICATING,AIRCRAFT G",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-08-11",
+          "award_id": "SPE7M126V083G",
+          "recipient": "RALMARK CO",
+          "amount": 6392.82,
+          "agency": "Defense Logistics Agency",
+          "description": "8512298051!PULLEY,GROOVE",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-08-11",
+          "award_id": "SPE4A526F8453",
+          "recipient": "HONEYWELL INTERNATIONAL INC.",
+          "amount": 4741.38,
+          "agency": "Defense Logistics Agency",
+          "description": "8512281930!VALVE ASSEMBLY,POPP",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-08-11",
+          "award_id": "W58RGZ17C0009",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 0.0,
+          "agency": "Department of the Army",
+          "description": "ADMINISTRATIVE ACTION TO ADD PSC CODES TO SLINS WITHOUT THEM.",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-08-10",
+          "award_id": "FA865625FB002",
+          "recipient": "RAYTHEON COMPANY",
+          "amount": 10350000.0,
+          "agency": "Department of the Air Force",
+          "description": "HACM REQUIRES AN INCREASE IN MANUFACTURING CAPACITY OF THE AUR AND HACM-SPECIFIC COMPONENTS TO ACHIEVE EXPECTED PRODUCTION RATES. THE ANTICIPATED FUTURE PRODUCTION NEED IS GREATER THAN WHAT THE HACM INDUSTRIAL BASE IS CURRENTLY ESTIMATED TO ACHIEVE.",
+          "naics": "332993"
         }
       ],
-      "source_collected_at": "2026-11-10T19:56:02.208354+00:00"
+      "source_collected_at": "2026-11-11T06:58:19.512943+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -453,9 +449,9 @@
       "available": true,
       "retained": false,
       "coverage": 62,
-      "current_14d_weekly_equivalent": 54.5,
-      "baseline_weekly_median": 2.5,
-      "anomaly_z": 14.03,
+      "current_14d_weekly_equivalent": 53.0,
+      "baseline_weekly_median": 3.0,
+      "anomaly_z": 11.24,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -601,7 +597,7 @@
           "age": 6
         }
       ],
-      "source_collected_at": "2026-11-10T19:56:02.208354+00:00"
+      "source_collected_at": "2026-11-11T06:58:19.512943+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -645,7 +641,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0497 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-10T19:56:02.208354+00:00"
+      "source_collected_at": "2026-11-11T06:58:19.512943+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -678,15 +674,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-10T19:56:02.208354+00:00"
+      "source_collected_at": "2026-11-11T06:58:19.512943+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-21T17:34:40.511504+00:00",
-      "score": 18.3,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-21T21:55:17.705217+00:00",
       "score": 18.3,
@@ -980,6 +971,11 @@
     {
       "generated": "2026-11-10T19:56:02.208354+00:00",
       "score": 22.8,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-11T06:58:19.512943+00:00",
+      "score": 23.2,
       "status": "BASELINE"
     }
   ],
