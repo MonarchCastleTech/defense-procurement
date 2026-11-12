@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-12T07:35:20.504643+00:00",
+    "generated": "2026-11-12T20:18:50.427749+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,7 +26,7 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 590,
+      "coverage": 591,
       "current_14d_weekly_equivalent": 41.5,
       "baseline_weekly_median": 40.0,
       "anomaly_z": 0.2,
@@ -66,18 +66,16 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/787317-2026"
         },
         {
-          "id": "786733-2026",
+          "id": "789441-2026",
           "date": "2026-11-12",
-          "title": "Sweden – Application service providers – Medarbetarenkät",
-          "buyer": "Umeå kommun",
-          "country": "SWE",
+          "title": "Spain – Repair and maintenance services of military vehicles – Servicio De Mantenimiento Del Carro De Recuperación M-47 Er3, Carro De Zapadores M-60 Y Vehículo Lanzapuentes Sobre Barcaza M-60/M-47",
+          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+          "country": "ESP",
           "cpv": [
-            "72416000",
-            "79311200",
-            "79633000",
-            "72260000"
+            "50630000",
+            "35420000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/786733-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/789441-2026"
         },
         {
           "id": "787667-2026",
@@ -91,16 +89,18 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/787667-2026"
         },
         {
-          "id": "789441-2026",
+          "id": "786733-2026",
           "date": "2026-11-12",
-          "title": "Spain – Repair and maintenance services of military vehicles – Servicio De Mantenimiento Del Carro De Recuperación M-47 Er3, Carro De Zapadores M-60 Y Vehículo Lanzapuentes Sobre Barcaza M-60/M-47",
-          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
-          "country": "ESP",
+          "title": "Sweden – Application service providers – Medarbetarenkät",
+          "buyer": "Umeå kommun",
+          "country": "SWE",
           "cpv": [
-            "50630000",
-            "35420000"
+            "72416000",
+            "79311200",
+            "79633000",
+            "72260000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/789441-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/786733-2026"
         },
         {
           "id": "787829-2026",
@@ -221,7 +221,7 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/785559-2026"
         }
       ],
-      "source_collected_at": "2026-11-12T07:35:20.504643+00:00"
+      "source_collected_at": "2026-11-12T20:18:50.427749+00:00"
     },
     "us_awards": {
       "key": "us_awards",
@@ -436,7 +436,7 @@
           "naics": "336413"
         }
       ],
-      "source_collected_at": "2026-11-12T07:35:20.504643+00:00"
+      "source_collected_at": "2026-11-12T20:18:50.427749+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -445,7 +445,7 @@
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 62,
+      "coverage": 61,
       "current_14d_weekly_equivalent": 51.5,
       "baseline_weekly_median": 3.0,
       "anomaly_z": 10.9,
@@ -459,7 +459,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 1
+          "age": 2
         },
         {
           "date": "2026-11-06",
@@ -469,7 +469,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-11-05",
@@ -480,7 +480,7 @@
             "drone"
           ],
           "weight": 5,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-11-05",
@@ -491,7 +491,7 @@
             "drone"
           ],
           "weight": 5,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-11-04",
@@ -501,7 +501,7 @@
             "industrial"
           ],
           "weight": 2.5,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-11-04",
@@ -511,7 +511,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-11-04",
@@ -521,7 +521,7 @@
             "missile"
           ],
           "weight": 3,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-11-04",
@@ -531,7 +531,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-11-04",
@@ -541,7 +541,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-11-04",
@@ -551,7 +551,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-11-04",
@@ -561,7 +561,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-11-04",
@@ -571,7 +571,7 @@
             "industrial"
           ],
           "weight": 2.5,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-11-04",
@@ -581,7 +581,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-11-04",
@@ -591,10 +591,10 @@
             "missile"
           ],
           "weight": 3,
-          "age": 7
+          "age": 8
         }
       ],
-      "source_collected_at": "2026-11-12T07:35:20.504643+00:00"
+      "source_collected_at": "2026-11-12T20:18:50.427749+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -638,7 +638,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0497 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-12T07:35:20.504643+00:00"
+      "source_collected_at": "2026-11-12T20:18:50.427749+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -671,15 +671,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-12T07:35:20.504643+00:00"
+      "source_collected_at": "2026-11-12T20:18:50.427749+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-22T12:16:28.568162+00:00",
-      "score": 23.5,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-22T17:31:15.156148+00:00",
       "score": 23.6,
@@ -972,6 +967,11 @@
     },
     {
       "generated": "2026-11-12T07:35:20.504643+00:00",
+      "score": 22.6,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-12T20:18:50.427749+00:00",
       "score": 22.6,
       "status": "BASELINE"
     }
