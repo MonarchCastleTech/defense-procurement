@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-11T19:48:50.136886+00:00",
+    "generated": "2026-11-12T07:35:20.504643+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,27 +11,120 @@
     "source_notes": []
   },
   "warning": {
-    "score": 23.2,
-    "raw_score": 23.2,
+    "score": 22.6,
+    "raw_score": 22.6,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 23.2/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 22.6/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
     "eu_notices": {
       "key": "eu_notices",
-      "score": 30.3,
+      "score": 31.9,
       "status": "WATCH",
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 591,
-      "current_14d_weekly_equivalent": 41.0,
-      "baseline_weekly_median": 41.5,
-      "anomaly_z": -0.04,
+      "coverage": 590,
+      "current_14d_weekly_equivalent": 41.5,
+      "baseline_weekly_median": 40.0,
+      "anomaly_z": 0.2,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "787600-2026",
+          "date": "2026-11-12",
+          "title": "Portugal – Weapons, ammunition and associated parts – Proc. nº 29/DPIE/2025 - Aquisição de coldres e acessórios para a Pistola Glock 19, para a PSP, no âmbito do DLPIEFSS.",
+          "buyer": "Secretaria-Geral do Ministério da Administração Interna",
+          "country": "PRT",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/787600-2026"
+        },
+        {
+          "id": "787825-2026",
+          "date": "2026-11-12",
+          "title": "Portugal – Weapons, ammunition and associated parts – Proc. nº 29/DPIE/2025 - Aquisição de coldres e acessórios para a Pistola Glock 19, para a PSP, no âmbito do DLPIEFSS.",
+          "buyer": "Secretaria-Geral do Ministério da Administração Interna",
+          "country": "PRT",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/787825-2026"
+        },
+        {
+          "id": "787317-2026",
+          "date": "2026-11-12",
+          "title": "Portugal – Weapons, ammunition and associated parts – Proc. nº 29/DPIE/2025 - Aquisição de coldres e acessórios para a Pistola Glock 19, para a PSP, no âmbito do DLPIEFSS.",
+          "buyer": "Secretaria-Geral do Ministério da Administração Interna",
+          "country": "PRT",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/787317-2026"
+        },
+        {
+          "id": "786733-2026",
+          "date": "2026-11-12",
+          "title": "Sweden – Application service providers – Medarbetarenkät",
+          "buyer": "Umeå kommun",
+          "country": "SWE",
+          "cpv": [
+            "72416000",
+            "79311200",
+            "79633000",
+            "72260000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/786733-2026"
+        },
+        {
+          "id": "787667-2026",
+          "date": "2026-11-12",
+          "title": "Portugal – Weapons, ammunition and associated parts – Proc. nº 29/DPIE/2025 - Aquisição de coldres e acessórios para a Pistola Glock 19, para a PSP, no âmbito do DLPIEFSS.",
+          "buyer": "Secretaria-Geral do Ministério da Administração Interna",
+          "country": "PRT",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/787667-2026"
+        },
+        {
+          "id": "789441-2026",
+          "date": "2026-11-12",
+          "title": "Spain – Repair and maintenance services of military vehicles – Servicio De Mantenimiento Del Carro De Recuperación M-47 Er3, Carro De Zapadores M-60 Y Vehículo Lanzapuentes Sobre Barcaza M-60/M-47",
+          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+          "country": "ESP",
+          "cpv": [
+            "50630000",
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/789441-2026"
+        },
+        {
+          "id": "787829-2026",
+          "date": "2026-11-12",
+          "title": "Latvia – Police equipment – Šaujamieroču piegāde Jelgavas pašvaldības policijas vajadzībām",
+          "buyer": "Jelgavas valstspilsētas pašvaldība",
+          "country": "LVA",
+          "cpv": [
+            "35200000",
+            "35320000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/787829-2026"
+        },
+        {
+          "id": "788557-2026",
+          "date": "2026-11-12",
+          "title": "Germany – Military vehicles and associated parts – 138_6003131414-BAAINBw E2.5F",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+          "country": "DEU",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/788557-2026"
+        },
         {
           "id": "784801-2026",
           "date": "2026-11-11",
@@ -72,6 +165,40 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/785716-2026"
         },
         {
+          "id": "783333-2026",
+          "date": "2026-11-11",
+          "title": "Germany – Parts of military vehicles – 6003091578-BAAINBw E2.5F mechan. Getriebe u. Kupplungsscheiben, WS Leopard 2",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/783333-2026"
+        },
+        {
+          "id": "783092-2026",
+          "date": "2026-11-11",
+          "title": "Slovenia – Military electronic systems – komunikacijska oprema za LKOV 4x4",
+          "buyer": "MINISTRSTVO ZA OBRAMBO",
+          "country": "SVN",
+          "cpv": [
+            "35700000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/783092-2026"
+        },
+        {
+          "id": "785099-2026",
+          "date": "2026-11-11",
+          "title": "Germany – Radar detectors – RV IRIS Radar System mit Zubehör",
+          "buyer": "Freistaat Bayern, vertreten durch das Logistikzentrum der Bayerischen Polizei (LZBP)",
+          "country": "DEU",
+          "cpv": [
+            "35121900",
+            "35722000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/785099-2026"
+        },
+        {
           "id": "784048-2026",
           "date": "2026-11-11",
           "title": "Czechia – Weapons, ammunition and associated parts – Náhradní díly - zbraně zahraniční (belgické) výroby 2025-2029",
@@ -92,154 +219,24 @@
             "35300000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/785559-2026"
-        },
-        {
-          "id": "785581-2026",
-          "date": "2026-11-11",
-          "title": "Germany – Parts of military vehicles – 6003147361-BAAINBw E2.5F Gleiskettenglieder u. Einsätze WS Leopard 2",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/785581-2026"
-        },
-        {
-          "id": "785099-2026",
-          "date": "2026-11-11",
-          "title": "Germany – Radar detectors – RV IRIS Radar System mit Zubehör",
-          "buyer": "Freistaat Bayern, vertreten durch das Logistikzentrum der Bayerischen Polizei (LZBP)",
-          "country": "DEU",
-          "cpv": [
-            "35121900",
-            "35722000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/785099-2026"
-        },
-        {
-          "id": "783092-2026",
-          "date": "2026-11-11",
-          "title": "Slovenia – Military electronic systems – komunikacijska oprema za LKOV 4x4",
-          "buyer": "MINISTRSTVO ZA OBRAMBO",
-          "country": "SVN",
-          "cpv": [
-            "35700000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/783092-2026"
-        },
-        {
-          "id": "783333-2026",
-          "date": "2026-11-11",
-          "title": "Germany – Parts of military vehicles – 6003091578-BAAINBw E2.5F mechan. Getriebe u. Kupplungsscheiben, WS Leopard 2",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/783333-2026"
-        },
-        {
-          "id": "783202-2026",
-          "date": "2026-11-11",
-          "title": "Germany – Military vehicles and associated parts – Design, Production and Initial In-Service Support of Engin du Génie de Combat (EGC)",
-          "buyer": "OCCAR",
-          "country": "DEU",
-          "cpv": [
-            "35400000",
-            "43300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/783202-2026"
-        },
-        {
-          "id": "783682-2026",
-          "date": "2026-11-11",
-          "title": "Netherlands – Navigation satellites – HE-ESA-026 EGNOS-NEXT: System architecture and test beacon for Governmental SAR",
-          "buyer": "European Space Agency",
-          "country": "NLD",
-          "cpv": [
-            "35631300",
-            "73100000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/783682-2026"
-        },
-        {
-          "id": "780365-2026",
-          "date": "2026-11-10",
-          "title": "Spain – Observation satellites – Suministro de dos coberturas nacionales de imágenes satelitales de Muy Alta Resolución (VHR), para los años 2024 y 2025 (VHR24 y VHR25)",
-          "buyer": "Dirección de la Agencia Espacial Española",
-          "country": "ESP",
-          "cpv": [
-            "35631200"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/780365-2026"
-        },
-        {
-          "id": "780644-2026",
-          "date": "2026-11-10",
-          "title": "Lithuania – Rifles – PUSIAU AUTOMATINIS 12 KALIBRO LYGIAVAMZDIS ŠAUTUVAS",
-          "buyer": "GYNYBOS RESURSŲ AGENTŪRA PRIE KAM",
-          "country": "LTU",
-          "cpv": [
-            "35321200"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/780644-2026"
-        },
-        {
-          "id": "779206-2026",
-          "date": "2026-11-10",
-          "title": "Germany – Data-processing machines (hardware) – ZRF Region Ingolstadt: Beschaffung von Ausstattungsleistungen für die ILS Ingolstadt",
-          "buyer": "Zweckverband für Rettungsdienst und Feuerwehralarmierung Region Ingolstadt",
-          "country": "DEU",
-          "cpv": [
-            "30210000",
-            "39134000",
-            "51610000",
-            "50312610"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/779206-2026"
-        },
-        {
-          "id": "781802-2026",
-          "date": "2026-11-10",
-          "title": "Latvia – Sports goods and equipment – Sporta inventāra, ekipējuma un specializēto sporta apavu iegāde “Daugavpils sporta skola” vajadzībām",
-          "buyer": "Daugavpils valstspilsētas pašvaldība",
-          "country": "LVA",
-          "cpv": [
-            "37400000",
-            "37441900",
-            "37440000",
-            "37411100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/781802-2026"
-        },
-        {
-          "id": "781577-2026",
-          "date": "2026-11-10",
-          "title": "Germany – Parts of military vehicles – 6003146423-BAAINBw E2.5F Getriebe, Wechsellenk, WS Leopard 2",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/781577-2026"
         }
       ],
-      "source_collected_at": "2026-11-11T19:48:50.136886+00:00"
+      "source_collected_at": "2026-11-12T07:35:20.504643+00:00"
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 12.0,
+      "score": 7.7,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-08-12",
+      "latest_observation": "2026-08-13",
       "reporting_lag_days": 91,
       "freshness_factor": 0.24,
-      "current_14d_weekly_equivalent": 855210078.75,
+      "current_14d_weekly_equivalent": 305271853.78,
       "baseline_weekly_median": 0.0,
-      "anomaly_z": 15.42,
+      "anomaly_z": 0.87,
       "recipient_concentration": [
         {
           "name": "RTX CORPORATION",
@@ -259,7 +256,7 @@
         },
         {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 62132578.88
+          "amount": 62175408.45
         },
         {
           "name": "LOCKHEED MARTIN CORPORATION",
@@ -276,6 +273,15 @@
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
+        {
+          "date": "2026-08-13",
+          "award_id": "FA812426FB085",
+          "recipient": "ATEC INC",
+          "amount": 841079.92,
+          "agency": "Department of the Air Force",
+          "description": "8K FUEL TANK SYSTEM PROCUREMENT AND INSTALLATION IN SUPPORT F110-GE-100/129 ENGINES.",
+          "naics": "336413"
+        },
         {
           "date": "2026-08-12",
           "award_id": "W58RGZ21F0146",
@@ -332,7 +338,7 @@
         },
         {
           "date": "2026-08-12",
-          "award_id": "W31P4Q24C0022",
+          "award_id": "W31P4Q20C0023",
           "recipient": "LOCKHEED MARTIN CORPORATION",
           "amount": 0.0,
           "agency": "Department of the Army",
@@ -341,7 +347,7 @@
         },
         {
           "date": "2026-08-12",
-          "award_id": "W31P4Q20C0023",
+          "award_id": "W31P4Q24C0022",
           "recipient": "LOCKHEED MARTIN CORPORATION",
           "amount": 0.0,
           "agency": "Department of the Army",
@@ -386,6 +392,15 @@
         },
         {
           "date": "2026-08-11",
+          "award_id": "FA812426FB042",
+          "recipient": "STANDARD AERO (SAN ANTONIO) INC.",
+          "amount": 4118373.0,
+          "agency": "Department of the Air Force",
+          "description": "J85 MRO OPTION YEAR 2",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-08-11",
           "award_id": "SPE4A726F9338",
           "recipient": "GENTEX CORP",
           "amount": 47967.36,
@@ -419,27 +434,9 @@
           "agency": "Defense Logistics Agency",
           "description": "8512281930!VALVE ASSEMBLY,POPP",
           "naics": "336413"
-        },
-        {
-          "date": "2026-08-11",
-          "award_id": "W58RGZ17C0009",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 0.0,
-          "agency": "Department of the Army",
-          "description": "ADMINISTRATIVE ACTION TO ADD PSC CODES TO SLINS WITHOUT THEM.",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-08-10",
-          "award_id": "FA865625FB002",
-          "recipient": "RAYTHEON COMPANY",
-          "amount": 10350000.0,
-          "agency": "Department of the Air Force",
-          "description": "HACM REQUIRES AN INCREASE IN MANUFACTURING CAPACITY OF THE AUR AND HACM-SPECIFIC COMPONENTS TO ACHIEVE EXPECTED PRODUCTION RATES. THE ANTICIPATED FUTURE PRODUCTION NEED IS GREATER THAN WHAT THE HACM INDUSTRIAL BASE IS CURRENTLY ESTIMATED TO ACHIEVE.",
-          "naics": "332993"
         }
       ],
-      "source_collected_at": "2026-11-11T19:48:50.136886+00:00"
+      "source_collected_at": "2026-11-12T07:35:20.504643+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -449,9 +446,9 @@
       "available": true,
       "retained": false,
       "coverage": 62,
-      "current_14d_weekly_equivalent": 53.0,
+      "current_14d_weekly_equivalent": 51.5,
       "baseline_weekly_median": 3.0,
-      "anomaly_z": 11.24,
+      "anomaly_z": 10.9,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -597,7 +594,7 @@
           "age": 7
         }
       ],
-      "source_collected_at": "2026-11-11T19:48:50.136886+00:00"
+      "source_collected_at": "2026-11-12T07:35:20.504643+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -641,7 +638,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0497 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-11T19:48:50.136886+00:00"
+      "source_collected_at": "2026-11-12T07:35:20.504643+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -674,15 +671,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-11T19:48:50.136886+00:00"
+      "source_collected_at": "2026-11-12T07:35:20.504643+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-22T05:14:46.668045+00:00",
-      "score": 22.9,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-22T12:16:28.568162+00:00",
       "score": 23.5,
@@ -976,6 +968,11 @@
     {
       "generated": "2026-11-11T19:48:50.136886+00:00",
       "score": 23.2,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-12T07:35:20.504643+00:00",
+      "score": 22.6,
       "status": "BASELINE"
     }
   ],
