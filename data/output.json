@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-13T07:06:10.091943+00:00",
+    "generated": "2026-11-13T19:57:32.338447+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,7 +26,7 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 593,
+      "coverage": 592,
       "current_14d_weekly_equivalent": 41.0,
       "baseline_weekly_median": 42.5,
       "anomaly_z": -0.29,
@@ -93,6 +93,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/789503-2026"
         },
         {
+          "id": "791939-2026",
+          "date": "2026-11-13",
+          "title": "Germany – Weapons, ammunition and associated parts – Ersatzteilfolgebedarf für Umrüstung G36",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/791939-2026"
+        },
+        {
           "id": "789614-2026",
           "date": "2026-11-13",
           "title": "Norway – Repair and maintenance services – Framework agreement for building automation in Fredrikstad municipality.",
@@ -116,17 +127,6 @@
             "35420000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/791666-2026"
-        },
-        {
-          "id": "791939-2026",
-          "date": "2026-11-13",
-          "title": "Germany – Weapons, ammunition and associated parts – Ersatzteilfolgebedarf für Umrüstung G36",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/791939-2026"
         },
         {
           "id": "787600-2026",
@@ -174,17 +174,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/789441-2026"
         },
         {
-          "id": "787667-2026",
-          "date": "2026-11-12",
-          "title": "Portugal – Weapons, ammunition and associated parts – Proc. nº 29/DPIE/2025 - Aquisição de coldres e acessórios para a Pistola Glock 19, para a PSP, no âmbito do DLPIEFSS.",
-          "buyer": "Secretaria-Geral do Ministério da Administração Interna",
-          "country": "PRT",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/787667-2026"
-        },
-        {
           "id": "786733-2026",
           "date": "2026-11-12",
           "title": "Sweden – Application service providers – Medarbetarenkät",
@@ -199,16 +188,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/786733-2026"
         },
         {
-          "id": "787829-2026",
+          "id": "787667-2026",
           "date": "2026-11-12",
-          "title": "Latvia – Police equipment – Šaujamieroču piegāde Jelgavas pašvaldības policijas vajadzībām",
-          "buyer": "Jelgavas valstspilsētas pašvaldība",
-          "country": "LVA",
+          "title": "Portugal – Weapons, ammunition and associated parts – Proc. nº 29/DPIE/2025 - Aquisição de coldres e acessórios para a Pistola Glock 19, para a PSP, no âmbito do DLPIEFSS.",
+          "buyer": "Secretaria-Geral do Ministério da Administração Interna",
+          "country": "PRT",
           "cpv": [
-            "35200000",
-            "35320000"
+            "35300000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/787829-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/787667-2026"
         },
         {
           "id": "788557-2026",
@@ -220,9 +208,21 @@
             "35400000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/788557-2026"
+        },
+        {
+          "id": "787829-2026",
+          "date": "2026-11-12",
+          "title": "Latvia – Police equipment – Šaujamieroču piegāde Jelgavas pašvaldības policijas vajadzībām",
+          "buyer": "Jelgavas valstspilsētas pašvaldība",
+          "country": "LVA",
+          "cpv": [
+            "35200000",
+            "35320000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/787829-2026"
         }
       ],
-      "source_collected_at": "2026-11-13T07:06:10.091943+00:00"
+      "source_collected_at": "2026-11-13T19:57:32.338447+00:00"
     },
     "us_awards": {
       "key": "us_awards",
@@ -375,21 +375,21 @@
         },
         {
           "date": "2026-08-12",
-          "award_id": "W519TC25F0357",
-          "recipient": "AMERICAN ORDNANCE LLC",
-          "amount": 0.0,
-          "agency": "Department of the Army",
-          "description": "ORDER W519TC25F0357 IS FOR THE CONTRACTOR TO LOAD, ASSEMBLE, AND PACK A QUANTITY OF 388,436 155MM M795 TNT LOADED PROJECTILES.",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-08-12",
           "award_id": "W31P4Q19C0059",
           "recipient": "RAYTHEON/LOCKHEED MARTIN JAVELIN JV",
           "amount": 0.0,
           "agency": "Department of the Army",
           "description": "LIFE CYCLE CONTRACTOR SUPPORT SERVICES FOR JAVELIN WEAPON SYSTEM.",
           "naics": "336414"
+        },
+        {
+          "date": "2026-08-12",
+          "award_id": "W519TC25F0357",
+          "recipient": "AMERICAN ORDNANCE LLC",
+          "amount": 0.0,
+          "agency": "Department of the Army",
+          "description": "ORDER W519TC25F0357 IS FOR THE CONTRACTOR TO LOAD, ASSEMBLE, AND PACK A QUANTITY OF 388,436 155MM M795 TNT LOADED PROJECTILES.",
+          "naics": "332993"
         },
         {
           "date": "2026-08-11",
@@ -437,7 +437,7 @@
           "naics": "336413"
         }
       ],
-      "source_collected_at": "2026-11-13T07:06:10.091943+00:00"
+      "source_collected_at": "2026-11-13T19:57:32.338447+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -461,7 +461,7 @@
             "drone"
           ],
           "weight": 5,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-11-12",
@@ -471,7 +471,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-11-10",
@@ -481,7 +481,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-11-06",
@@ -491,7 +491,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-11-05",
@@ -502,7 +502,7 @@
             "drone"
           ],
           "weight": 5,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-11-04",
@@ -512,7 +512,7 @@
             "industrial"
           ],
           "weight": 2.5,
-          "age": 8
+          "age": 9
         },
         {
           "date": "2026-11-04",
@@ -522,7 +522,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 8
+          "age": 9
         },
         {
           "date": "2026-11-04",
@@ -532,7 +532,7 @@
             "missile"
           ],
           "weight": 3,
-          "age": 8
+          "age": 9
         },
         {
           "date": "2026-11-04",
@@ -542,7 +542,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 8
+          "age": 9
         },
         {
           "date": "2026-11-04",
@@ -552,7 +552,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 8
+          "age": 9
         },
         {
           "date": "2026-11-04",
@@ -562,7 +562,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 8
+          "age": 9
         },
         {
           "date": "2026-11-04",
@@ -572,7 +572,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 8
+          "age": 9
         },
         {
           "date": "2026-11-04",
@@ -582,7 +582,7 @@
             "industrial"
           ],
           "weight": 2.5,
-          "age": 8
+          "age": 9
         },
         {
           "date": "2026-11-04",
@@ -592,10 +592,10 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 8
+          "age": 9
         }
       ],
-      "source_collected_at": "2026-11-13T07:06:10.091943+00:00"
+      "source_collected_at": "2026-11-13T19:57:32.338447+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -639,7 +639,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0497 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-13T07:06:10.091943+00:00"
+      "source_collected_at": "2026-11-13T19:57:32.338447+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -672,15 +672,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-13T07:06:10.091943+00:00"
+      "source_collected_at": "2026-11-13T19:57:32.338447+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-22T21:51:48.645774+00:00",
-      "score": 21.8,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-23T05:13:42.149089+00:00",
       "score": 20.9,
@@ -973,6 +968,11 @@
     },
     {
       "generated": "2026-11-13T07:06:10.091943+00:00",
+      "score": 21.2,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-13T19:57:32.338447+00:00",
       "score": 21.2,
       "status": "BASELINE"
     }
