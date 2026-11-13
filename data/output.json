@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-12T20:18:50.427749+00:00",
+    "generated": "2026-11-13T07:06:10.091943+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,27 +11,123 @@
     "source_notes": []
   },
   "warning": {
-    "score": 22.6,
-    "raw_score": 22.6,
+    "score": 21.2,
+    "raw_score": 21.2,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 22.6/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 21.2/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
     "eu_notices": {
       "key": "eu_notices",
-      "score": 31.9,
+      "score": 30.3,
       "status": "WATCH",
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 591,
-      "current_14d_weekly_equivalent": 41.5,
-      "baseline_weekly_median": 40.0,
-      "anomaly_z": 0.2,
+      "coverage": 593,
+      "current_14d_weekly_equivalent": 41.0,
+      "baseline_weekly_median": 42.5,
+      "anomaly_z": -0.29,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "792195-2026",
+          "date": "2026-11-13",
+          "title": "Lithuania – Cartridges – 9 x 19 šoviniai (PPR-324)",
+          "buyer": "Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos",
+          "country": "LTU",
+          "cpv": [
+            "35331500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/792195-2026"
+        },
+        {
+          "id": "790408-2026",
+          "date": "2026-11-13",
+          "title": "Austria – Software package and information systems – Beschaffungen für die Implementierung und den Betrieb einer österreichweiten LTE450-MHz-Sprachlösung in drei Losen",
+          "buyer": "Österreichs E-Wirtschaft Service GmbH",
+          "country": "AUT",
+          "cpv": [
+            "48000000",
+            "32524000",
+            "32250000",
+            "32000000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/790408-2026"
+        },
+        {
+          "id": "790801-2026",
+          "date": "2026-11-13",
+          "title": "Poland – Security, fire-fighting, police and defence equipment – Zakup broni, amunicji i środków przymusu bezpośredniego na potrzeby IAS w Rzeszowie",
+          "buyer": "Izba Administracji Skarbowej w Rzeszowie",
+          "country": "POL",
+          "cpv": [
+            "35000000",
+            "35331000",
+            "35321100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/790801-2026"
+        },
+        {
+          "id": "790612-2026",
+          "date": "2026-11-13",
+          "title": "Denmark – Weapons, ammunition and associated parts – Military Droneguardian shotguns",
+          "buyer": "Forsvarsministeriets Materiel- og Indkøbsstyrelse",
+          "country": "DNK",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/790612-2026"
+        },
+        {
+          "id": "789503-2026",
+          "date": "2026-11-13",
+          "title": "Lithuania – Firearms – 5,56x45 mm kalibro šturmo karabinai AR15 tipo (PPR-435)",
+          "buyer": "Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos",
+          "country": "LTU",
+          "cpv": [
+            "35320000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/789503-2026"
+        },
+        {
+          "id": "789614-2026",
+          "date": "2026-11-13",
+          "title": "Norway – Repair and maintenance services – Framework agreement for building automation in Fredrikstad municipality.",
+          "buyer": "Fredrikstad kommune",
+          "country": "NOR",
+          "cpv": [
+            "50000000",
+            "35710000",
+            "38570000",
+            "38800000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/789614-2026"
+        },
+        {
+          "id": "791666-2026",
+          "date": "2026-11-13",
+          "title": "Poland – Parts of military vehicles – Dostawa technicznych środków materiałowych do czołgów K2.",
+          "buyer": "2. Regionalna Baza Logistyczna",
+          "country": "POL",
+          "cpv": [
+            "35420000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/791666-2026"
+        },
+        {
+          "id": "791939-2026",
+          "date": "2026-11-13",
+          "title": "Germany – Weapons, ammunition and associated parts – Ersatzteilfolgebedarf für Umrüstung G36",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/791939-2026"
+        },
         {
           "id": "787600-2026",
           "date": "2026-11-12",
@@ -124,116 +220,21 @@
             "35400000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/788557-2026"
-        },
-        {
-          "id": "784801-2026",
-          "date": "2026-11-11",
-          "title": "Germany – Military vehicles and associated parts – Ersatzteilfolgebedarf neuer Antriebsstrang WS Spz Marder - VB073",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/784801-2026"
-        },
-        {
-          "id": "783841-2026",
-          "date": "2026-11-11",
-          "title": "Greece – Detection and analysis apparatus – Προμήθεια και εγκατάσταση εξειδικευμένου ερευνητικού εξοπλισμού και λογισμικού, στο πλαίσιο της Πράξης «PROMITHEUS - Προώθηση βιώσιμης διαχείρισης εδαφοϋδατικών πόρων και ενίσχυσης της ανθεκτικότητας των οικοσυστημάτων στην Κεντρική Μακεδονία με τεχνολογίες αιχμής, του Προγραμμάτος «Κεντρική Μακεδονία 2021-2027»",
-          "buyer": "ΕΛΛΗΝΙΚΟΣ ΓΕΩΡΓΙΚΟΣ ΟΡΓΑΝΙΣΜΟΣ ΔΗΜΗΤΡΑ",
-          "country": "GRC",
-          "cpv": [
-            "38430000",
-            "38420000",
-            "38000000",
-            "35613000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/783841-2026"
-        },
-        {
-          "id": "785716-2026",
-          "date": "2026-11-11",
-          "title": "Greece – Electronic, electromechanical and electrotechnical supplies – 02846/2024 - Προμήθεια εργαστηριακού εξοπλισμού για την Σχολή Θετικών Επιστημών",
-          "buyer": "Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών / Ειδικός Λογαριασμός Κονδυλίων Έρευνας",
-          "country": "GRC",
-          "cpv": [
-            "31700000",
-            "38000000",
-            "39711120",
-            "38515100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/785716-2026"
-        },
-        {
-          "id": "783333-2026",
-          "date": "2026-11-11",
-          "title": "Germany – Parts of military vehicles – 6003091578-BAAINBw E2.5F mechan. Getriebe u. Kupplungsscheiben, WS Leopard 2",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/783333-2026"
-        },
-        {
-          "id": "783092-2026",
-          "date": "2026-11-11",
-          "title": "Slovenia – Military electronic systems – komunikacijska oprema za LKOV 4x4",
-          "buyer": "MINISTRSTVO ZA OBRAMBO",
-          "country": "SVN",
-          "cpv": [
-            "35700000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/783092-2026"
-        },
-        {
-          "id": "785099-2026",
-          "date": "2026-11-11",
-          "title": "Germany – Radar detectors – RV IRIS Radar System mit Zubehör",
-          "buyer": "Freistaat Bayern, vertreten durch das Logistikzentrum der Bayerischen Polizei (LZBP)",
-          "country": "DEU",
-          "cpv": [
-            "35121900",
-            "35722000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/785099-2026"
-        },
-        {
-          "id": "784048-2026",
-          "date": "2026-11-11",
-          "title": "Czechia – Weapons, ammunition and associated parts – Náhradní díly - zbraně zahraniční (belgické) výroby 2025-2029",
-          "buyer": "Ministerstvo obrany",
-          "country": "CZE",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/784048-2026"
-        },
-        {
-          "id": "785559-2026",
-          "date": "2026-11-11",
-          "title": "Slovenia – Weapons, ammunition and associated parts – namerilne naprave in povečave",
-          "buyer": "MINISTRSTVO ZA OBRAMBO",
-          "country": "SVN",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/785559-2026"
         }
       ],
-      "source_collected_at": "2026-11-12T20:18:50.427749+00:00"
+      "source_collected_at": "2026-11-13T07:06:10.091943+00:00"
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 7.7,
+      "score": 7.5,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-08-13",
-      "reporting_lag_days": 91,
-      "freshness_factor": 0.24,
+      "reporting_lag_days": 92,
+      "freshness_factor": 0.23,
       "current_14d_weekly_equivalent": 305271853.78,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.87,
@@ -436,7 +437,7 @@
           "naics": "336413"
         }
       ],
-      "source_collected_at": "2026-11-12T20:18:50.427749+00:00"
+      "source_collected_at": "2026-11-13T07:06:10.091943+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -445,12 +446,33 @@
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 61,
-      "current_14d_weekly_equivalent": 51.5,
-      "baseline_weekly_median": 3.0,
-      "anomaly_z": 10.9,
+      "coverage": 62,
+      "current_14d_weekly_equivalent": 52.5,
+      "baseline_weekly_median": 2.5,
+      "anomaly_z": 13.49,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
+        {
+          "date": "2026-11-12",
+          "title": "Nato Accelerates Procurement For Counter Drone Technologies",
+          "url": "https://www.nato.int/en/news-and-events/articles/news/2026/11/05/nato-accelerates-procurement-for-counter-drone-technologies",
+          "terms": [
+            "procurement",
+            "drone"
+          ],
+          "weight": 5,
+          "age": 0
+        },
+        {
+          "date": "2026-11-12",
+          "title": "Nato Discusses Deep Precision Strike Capabilities For Deterrence And Defence",
+          "url": "https://www.nato.int/fr/news-and-events/articles/news/2026/11/10/nato-discusses-deep-precision-strike-capabilities-for-deterrence-and-defence",
+          "terms": [
+            "capabilities"
+          ],
+          "weight": 2,
+          "age": 0
+        },
         {
           "date": "2026-11-10",
           "title": "Nato Discusses Deep Precision Strike Capabilities For Deterrence And Defence",
@@ -470,17 +492,6 @@
           ],
           "weight": 3,
           "age": 6
-        },
-        {
-          "date": "2026-11-05",
-          "title": "Nato Accelerates Procurement For Counter Drone Technologies",
-          "url": "https://www.nato.int/en/news-and-events/articles/news/2026/11/05/nato-accelerates-procurement-for-counter-drone-technologies",
-          "terms": [
-            "procurement",
-            "drone"
-          ],
-          "weight": 5,
-          "age": 7
         },
         {
           "date": "2026-11-05",
@@ -582,31 +593,21 @@
           ],
           "weight": 2,
           "age": 8
-        },
-        {
-          "date": "2026-11-04",
-          "title": "Integrated Air And Missile Defence",
-          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2026/07/07/integrated-air-and-missile-defence",
-          "terms": [
-            "missile"
-          ],
-          "weight": 3,
-          "age": 8
         }
       ],
-      "source_collected_at": "2026-11-12T20:18:50.427749+00:00"
+      "source_collected_at": "2026-11-13T07:06:10.091943+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
-      "score": 6.0,
+      "score": 0.0,
       "status": "BASELINE",
       "weight": 0.15,
       "available": true,
       "retained": false,
       "coverage": 11,
-      "current_14d_weekly_equivalent": 0.5,
+      "current_14d_weekly_equivalent": 0.0,
       "baseline_weekly_median": 0.0,
-      "anomaly_z": 0.33,
+      "anomaly_z": 0.0,
       "method": "Defense Acquisition Regulations System publication velocity; rules weighted 1.5.",
       "evidence": [
         {
@@ -638,7 +639,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0497 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-12T20:18:50.427749+00:00"
+      "source_collected_at": "2026-11-13T07:06:10.091943+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -671,15 +672,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-12T20:18:50.427749+00:00"
+      "source_collected_at": "2026-11-13T07:06:10.091943+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-22T17:31:15.156148+00:00",
-      "score": 23.6,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-22T21:51:48.645774+00:00",
       "score": 21.8,
@@ -973,6 +969,11 @@
     {
       "generated": "2026-11-12T20:18:50.427749+00:00",
       "score": 22.6,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-13T07:06:10.091943+00:00",
+      "score": 21.2,
       "status": "BASELINE"
     }
   ],
