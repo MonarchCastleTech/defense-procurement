@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-13T19:57:32.338447+00:00",
+    "generated": "2026-11-14T06:55:05.549416+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 21.2,
-    "raw_score": 21.2,
+    "score": 21.1,
+    "raw_score": 21.1,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 21.2/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 21.1/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -26,7 +26,7 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 592,
+      "coverage": 584,
       "current_14d_weekly_equivalent": 41.0,
       "baseline_weekly_median": 42.5,
       "anomaly_z": -0.29,
@@ -44,6 +44,19 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/792195-2026"
         },
         {
+          "id": "790801-2026",
+          "date": "2026-11-13",
+          "title": "Poland – Security, fire-fighting, police and defence equipment – Zakup broni, amunicji i środków przymusu bezpośredniego na potrzeby IAS w Rzeszowie",
+          "buyer": "Izba Administracji Skarbowej w Rzeszowie",
+          "country": "POL",
+          "cpv": [
+            "35000000",
+            "35331000",
+            "35321100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/790801-2026"
+        },
+        {
           "id": "790408-2026",
           "date": "2026-11-13",
           "title": "Austria – Software package and information systems – Beschaffungen für die Implementierung und den Betrieb einer österreichweiten LTE450-MHz-Sprachlösung in drei Losen",
@@ -56,19 +69,6 @@
             "32000000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/790408-2026"
-        },
-        {
-          "id": "790801-2026",
-          "date": "2026-11-13",
-          "title": "Poland – Security, fire-fighting, police and defence equipment – Zakup broni, amunicji i środków przymusu bezpośredniego na potrzeby IAS w Rzeszowie",
-          "buyer": "Izba Administracji Skarbowej w Rzeszowie",
-          "country": "POL",
-          "cpv": [
-            "35000000",
-            "35331000",
-            "35321100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/790801-2026"
         },
         {
           "id": "790612-2026",
@@ -91,17 +91,6 @@
             "35320000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/789503-2026"
-        },
-        {
-          "id": "791939-2026",
-          "date": "2026-11-13",
-          "title": "Germany – Weapons, ammunition and associated parts – Ersatzteilfolgebedarf für Umrüstung G36",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/791939-2026"
         },
         {
           "id": "789614-2026",
@@ -129,15 +118,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/791666-2026"
         },
         {
-          "id": "787600-2026",
-          "date": "2026-11-12",
-          "title": "Portugal – Weapons, ammunition and associated parts – Proc. nº 29/DPIE/2025 - Aquisição de coldres e acessórios para a Pistola Glock 19, para a PSP, no âmbito do DLPIEFSS.",
-          "buyer": "Secretaria-Geral do Ministério da Administração Interna",
-          "country": "PRT",
+          "id": "791939-2026",
+          "date": "2026-11-13",
+          "title": "Germany – Weapons, ammunition and associated parts – Ersatzteilfolgebedarf für Umrüstung G36",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
           "cpv": [
             "35300000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/787600-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/791939-2026"
         },
         {
           "id": "787825-2026",
@@ -162,6 +151,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/787317-2026"
         },
         {
+          "id": "787600-2026",
+          "date": "2026-11-12",
+          "title": "Portugal – Weapons, ammunition and associated parts – Proc. nº 29/DPIE/2025 - Aquisição de coldres e acessórios para a Pistola Glock 19, para a PSP, no âmbito do DLPIEFSS.",
+          "buyer": "Secretaria-Geral do Ministério da Administração Interna",
+          "country": "PRT",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/787600-2026"
+        },
+        {
           "id": "789441-2026",
           "date": "2026-11-12",
           "title": "Spain – Repair and maintenance services of military vehicles – Servicio De Mantenimiento Del Carro De Recuperación M-47 Er3, Carro De Zapadores M-60 Y Vehículo Lanzapuentes Sobre Barcaza M-60/M-47",
@@ -172,6 +172,17 @@
             "35420000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/789441-2026"
+        },
+        {
+          "id": "787667-2026",
+          "date": "2026-11-12",
+          "title": "Portugal – Weapons, ammunition and associated parts – Proc. nº 29/DPIE/2025 - Aquisição de coldres e acessórios para a Pistola Glock 19, para a PSP, no âmbito do DLPIEFSS.",
+          "buyer": "Secretaria-Geral do Ministério da Administração Interna",
+          "country": "PRT",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/787667-2026"
         },
         {
           "id": "786733-2026",
@@ -186,17 +197,6 @@
             "72260000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/786733-2026"
-        },
-        {
-          "id": "787667-2026",
-          "date": "2026-11-12",
-          "title": "Portugal – Weapons, ammunition and associated parts – Proc. nº 29/DPIE/2025 - Aquisição de coldres e acessórios para a Pistola Glock 19, para a PSP, no âmbito do DLPIEFSS.",
-          "buyer": "Secretaria-Geral do Ministério da Administração Interna",
-          "country": "PRT",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/787667-2026"
         },
         {
           "id": "788557-2026",
@@ -222,20 +222,20 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/787829-2026"
         }
       ],
-      "source_collected_at": "2026-11-13T19:57:32.338447+00:00"
+      "source_collected_at": "2026-11-14T06:55:05.549416+00:00"
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 7.5,
+      "score": 7.2,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-08-13",
-      "reporting_lag_days": 92,
-      "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 305271853.78,
+      "reporting_lag_days": 93,
+      "freshness_factor": 0.22,
+      "current_14d_weekly_equivalent": 305762212.13,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.87,
       "recipient_concentration": [
@@ -248,20 +248,16 @@
           "amount": 472240428.51
         },
         {
+          "name": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 79264267.0
+        },
+        {
           "name": "RAYTHEON COMPANY",
           "amount": 75088761.06
         },
         {
-          "name": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 66442535.0
-        },
-        {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 62175408.45
-        },
-        {
-          "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 37924501.91
+          "amount": 62132578.88
         },
         {
           "name": "GENERAL DYNAMICS ORDNANCE & TACTICAL SYSTEMS, INC.",
@@ -270,6 +266,10 @@
         {
           "name": "DAY & ZIMMERMANN LONE STAR LLC",
           "amount": 20985955.96
+        },
+        {
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "amount": 17164110.6
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
@@ -281,7 +281,34 @@
           "amount": 841079.92,
           "agency": "Department of the Air Force",
           "description": "8K FUEL TANK SYSTEM PROCUREMENT AND INSTALLATION IN SUPPORT F110-GE-100/129 ENGINES.",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-08-13",
+          "award_id": "W58RGZ23F0461",
+          "recipient": "BELL TEXTRON INC",
+          "amount": 329548.4,
+          "agency": "Department of the Army",
+          "description": "BELL 505 AIRCRAFT",
           "naics": "336413"
+        },
+        {
+          "date": "2026-08-13",
+          "award_id": "N0038326FT909",
+          "recipient": "DRYTECH INC",
+          "amount": 6136.95,
+          "agency": "Department of the Navy",
+          "description": "COMPOSITE REPAIR SE",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-08-13",
+          "award_id": "FA812426FB030",
+          "recipient": "ATEC INC",
+          "amount": 0.0,
+          "agency": "Department of the Air Force",
+          "description": "PROCUREMENT OF ENGINE TEST CELL SPARE PARTS AND EQUIPMENT FOR MSA ANNUAL MAINTENANCE. REFERENCE ATEC QUOTE: 1006057_REV1. FMS REQUIREMENT: LOA BA-D-QAT LINE 074",
+          "naics": "336412"
         },
         {
           "date": "2026-08-12",
@@ -309,6 +336,15 @@
           "agency": "Department of the Army",
           "description": "TNT SUPP CHARGES DELIVERY ORDER",
           "naics": "332993"
+        },
+        {
+          "date": "2026-08-12",
+          "award_id": "FA823226FB263",
+          "recipient": "AERO-GLEN INTERNATIONAL LLC",
+          "amount": 645031.36,
+          "agency": "Department of the Air Force",
+          "description": "TO PROCURE SLEP FY26 MOD WING KITS",
+          "naics": "336413"
         },
         {
           "date": "2026-08-12",
@@ -375,21 +411,21 @@
         },
         {
           "date": "2026-08-12",
-          "award_id": "W31P4Q19C0059",
-          "recipient": "RAYTHEON/LOCKHEED MARTIN JAVELIN JV",
-          "amount": 0.0,
-          "agency": "Department of the Army",
-          "description": "LIFE CYCLE CONTRACTOR SUPPORT SERVICES FOR JAVELIN WEAPON SYSTEM.",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-08-12",
           "award_id": "W519TC25F0357",
           "recipient": "AMERICAN ORDNANCE LLC",
           "amount": 0.0,
           "agency": "Department of the Army",
           "description": "ORDER W519TC25F0357 IS FOR THE CONTRACTOR TO LOAD, ASSEMBLE, AND PACK A QUANTITY OF 388,436 155MM M795 TNT LOADED PROJECTILES.",
           "naics": "332993"
+        },
+        {
+          "date": "2026-08-12",
+          "award_id": "W31P4Q19C0059",
+          "recipient": "RAYTHEON/LOCKHEED MARTIN JAVELIN JV",
+          "amount": 0.0,
+          "agency": "Department of the Army",
+          "description": "LIFE CYCLE CONTRACTOR SUPPORT SERVICES FOR JAVELIN WEAPON SYSTEM.",
+          "naics": "336414"
         },
         {
           "date": "2026-08-11",
@@ -399,45 +435,9 @@
           "agency": "Department of the Air Force",
           "description": "J85 MRO OPTION YEAR 2",
           "naics": "336413"
-        },
-        {
-          "date": "2026-08-11",
-          "award_id": "SPE4A726F9338",
-          "recipient": "GENTEX CORP",
-          "amount": 47967.36,
-          "agency": "Defense Logistics Agency",
-          "description": "8512295974!MASK,OXYGEN",
-          "naics": "336411"
-        },
-        {
-          "date": "2026-08-11",
-          "award_id": "SPE4AX26F343L",
-          "recipient": "CFM INTERNATIONAL INC",
-          "amount": 7303.8,
-          "agency": "Defense Logistics Agency",
-          "description": "8512296483!NOZZLE,LUBRICATING,AIRCRAFT G",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-08-11",
-          "award_id": "SPE7M126V083G",
-          "recipient": "RALMARK CO",
-          "amount": 6392.82,
-          "agency": "Defense Logistics Agency",
-          "description": "8512298051!PULLEY,GROOVE",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-08-11",
-          "award_id": "SPE4A526F8453",
-          "recipient": "HONEYWELL INTERNATIONAL INC.",
-          "amount": 4741.38,
-          "agency": "Defense Logistics Agency",
-          "description": "8512281930!VALVE ASSEMBLY,POPP",
-          "naics": "336413"
         }
       ],
-      "source_collected_at": "2026-11-13T19:57:32.338447+00:00"
+      "source_collected_at": "2026-11-14T06:55:05.549416+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -595,7 +595,7 @@
           "age": 9
         }
       ],
-      "source_collected_at": "2026-11-13T19:57:32.338447+00:00"
+      "source_collected_at": "2026-11-14T06:55:05.549416+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -639,7 +639,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0497 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-13T19:57:32.338447+00:00"
+      "source_collected_at": "2026-11-14T06:55:05.549416+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -672,15 +672,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-13T19:57:32.338447+00:00"
+      "source_collected_at": "2026-11-14T06:55:05.549416+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-23T05:13:42.149089+00:00",
-      "score": 20.9,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-23T11:57:55.530968+00:00",
       "score": 20.4,
@@ -974,6 +969,11 @@
     {
       "generated": "2026-11-13T19:57:32.338447+00:00",
       "score": 21.2,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-14T06:55:05.549416+00:00",
+      "score": 21.1,
       "status": "BASELINE"
     }
   ],
