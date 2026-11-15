@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-15T07:01:28.794182+00:00",
+    "generated": "2026-11-15T19:02:35.940389+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,7 +26,7 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 584,
+      "coverage": 583,
       "current_14d_weekly_equivalent": 41.0,
       "baseline_weekly_median": 42.5,
       "anomaly_z": -0.29,
@@ -44,6 +44,19 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/792195-2026"
         },
         {
+          "id": "790801-2026",
+          "date": "2026-11-13",
+          "title": "Poland – Security, fire-fighting, police and defence equipment – Zakup broni, amunicji i środków przymusu bezpośredniego na potrzeby IAS w Rzeszowie",
+          "buyer": "Izba Administracji Skarbowej w Rzeszowie",
+          "country": "POL",
+          "cpv": [
+            "35000000",
+            "35331000",
+            "35321100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/790801-2026"
+        },
+        {
           "id": "790408-2026",
           "date": "2026-11-13",
           "title": "Austria – Software package and information systems – Beschaffungen für die Implementierung und den Betrieb einer österreichweiten LTE450-MHz-Sprachlösung in drei Losen",
@@ -56,19 +69,6 @@
             "32000000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/790408-2026"
-        },
-        {
-          "id": "790801-2026",
-          "date": "2026-11-13",
-          "title": "Poland – Security, fire-fighting, police and defence equipment – Zakup broni, amunicji i środków przymusu bezpośredniego na potrzeby IAS w Rzeszowie",
-          "buyer": "Izba Administracji Skarbowej w Rzeszowie",
-          "country": "POL",
-          "cpv": [
-            "35000000",
-            "35331000",
-            "35321100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/790801-2026"
         },
         {
           "id": "790612-2026",
@@ -91,6 +91,17 @@
             "35320000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/789503-2026"
+        },
+        {
+          "id": "791939-2026",
+          "date": "2026-11-13",
+          "title": "Germany – Weapons, ammunition and associated parts – Ersatzteilfolgebedarf für Umrüstung G36",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/791939-2026"
         },
         {
           "id": "789614-2026",
@@ -118,28 +129,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/791666-2026"
         },
         {
-          "id": "791939-2026",
-          "date": "2026-11-13",
-          "title": "Germany – Weapons, ammunition and associated parts – Ersatzteilfolgebedarf für Umrüstung G36",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/791939-2026"
-        },
-        {
-          "id": "787600-2026",
-          "date": "2026-11-12",
-          "title": "Portugal – Weapons, ammunition and associated parts – Proc. nº 29/DPIE/2025 - Aquisição de coldres e acessórios para a Pistola Glock 19, para a PSP, no âmbito do DLPIEFSS.",
-          "buyer": "Secretaria-Geral do Ministério da Administração Interna",
-          "country": "PRT",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/787600-2026"
-        },
-        {
           "id": "787825-2026",
           "date": "2026-11-12",
           "title": "Portugal – Weapons, ammunition and associated parts – Proc. nº 29/DPIE/2025 - Aquisição de coldres e acessórios para a Pistola Glock 19, para a PSP, no âmbito do DLPIEFSS.",
@@ -162,6 +151,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/787317-2026"
         },
         {
+          "id": "787600-2026",
+          "date": "2026-11-12",
+          "title": "Portugal – Weapons, ammunition and associated parts – Proc. nº 29/DPIE/2025 - Aquisição de coldres e acessórios para a Pistola Glock 19, para a PSP, no âmbito do DLPIEFSS.",
+          "buyer": "Secretaria-Geral do Ministério da Administração Interna",
+          "country": "PRT",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/787600-2026"
+        },
+        {
           "id": "789441-2026",
           "date": "2026-11-12",
           "title": "Spain – Repair and maintenance services of military vehicles – Servicio De Mantenimiento Del Carro De Recuperación M-47 Er3, Carro De Zapadores M-60 Y Vehículo Lanzapuentes Sobre Barcaza M-60/M-47",
@@ -172,17 +172,6 @@
             "35420000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/789441-2026"
-        },
-        {
-          "id": "787667-2026",
-          "date": "2026-11-12",
-          "title": "Portugal – Weapons, ammunition and associated parts – Proc. nº 29/DPIE/2025 - Aquisição de coldres e acessórios para a Pistola Glock 19, para a PSP, no âmbito do DLPIEFSS.",
-          "buyer": "Secretaria-Geral do Ministério da Administração Interna",
-          "country": "PRT",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/787667-2026"
         },
         {
           "id": "786733-2026",
@@ -197,6 +186,17 @@
             "72260000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/786733-2026"
+        },
+        {
+          "id": "787667-2026",
+          "date": "2026-11-12",
+          "title": "Portugal – Weapons, ammunition and associated parts – Proc. nº 29/DPIE/2025 - Aquisição de coldres e acessórios para a Pistola Glock 19, para a PSP, no âmbito do DLPIEFSS.",
+          "buyer": "Secretaria-Geral do Ministério da Administração Interna",
+          "country": "PRT",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/787667-2026"
         },
         {
           "id": "787829-2026",
@@ -222,7 +222,7 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/788557-2026"
         }
       ],
-      "source_collected_at": "2026-11-15T07:01:28.794182+00:00"
+      "source_collected_at": "2026-11-15T19:02:35.940389+00:00"
     },
     "us_awards": {
       "key": "us_awards",
@@ -437,7 +437,7 @@
           "naics": "336412"
         }
       ],
-      "source_collected_at": "2026-11-15T07:01:28.794182+00:00"
+      "source_collected_at": "2026-11-15T19:02:35.940389+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -461,7 +461,7 @@
             "drone"
           ],
           "weight": 5,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-11-12",
@@ -471,7 +471,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-11-10",
@@ -481,7 +481,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-11-06",
@@ -491,7 +491,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 8
+          "age": 9
         },
         {
           "date": "2026-11-05",
@@ -502,7 +502,7 @@
             "drone"
           ],
           "weight": 5,
-          "age": 9
+          "age": 10
         },
         {
           "date": "2026-11-04",
@@ -512,7 +512,7 @@
             "industrial"
           ],
           "weight": 2.5,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-11-04",
@@ -522,7 +522,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-11-04",
@@ -532,7 +532,7 @@
             "missile"
           ],
           "weight": 3,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-11-04",
@@ -542,7 +542,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-11-04",
@@ -582,7 +582,7 @@
             "industrial"
           ],
           "weight": 2.5,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-11-04",
@@ -592,10 +592,10 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 10
+          "age": 11
         }
       ],
-      "source_collected_at": "2026-11-15T07:01:28.794182+00:00"
+      "source_collected_at": "2026-11-15T19:02:35.940389+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -639,7 +639,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0497 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-15T07:01:28.794182+00:00"
+      "source_collected_at": "2026-11-15T19:02:35.940389+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -672,15 +672,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-15T07:01:28.794182+00:00"
+      "source_collected_at": "2026-11-15T19:02:35.940389+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-24T04:55:48.108620+00:00",
-      "score": 20.4,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-24T11:27:48.894747+00:00",
       "score": 20.4,
@@ -973,6 +968,11 @@
     },
     {
       "generated": "2026-11-15T07:01:28.794182+00:00",
+      "score": 21.1,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-15T19:02:35.940389+00:00",
       "score": 21.1,
       "status": "BASELINE"
     }
