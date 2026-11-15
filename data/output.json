@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-14T22:40:46.696950+00:00",
+    "generated": "2026-11-15T07:01:28.794182+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,7 +26,7 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 583,
+      "coverage": 584,
       "current_14d_weekly_equivalent": 41.0,
       "baseline_weekly_median": 42.5,
       "anomaly_z": -0.29,
@@ -222,7 +222,7 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/788557-2026"
         }
       ],
-      "source_collected_at": "2026-11-14T22:40:46.696950+00:00"
+      "source_collected_at": "2026-11-15T07:01:28.794182+00:00"
     },
     "us_awards": {
       "key": "us_awards",
@@ -232,10 +232,10 @@
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-08-13",
+      "latest_observation": "2026-08-14",
       "reporting_lag_days": 93,
       "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 305762212.13,
+      "current_14d_weekly_equivalent": 299476542.94,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.87,
       "recipient_concentration": [
@@ -248,16 +248,20 @@
           "amount": 472240428.51
         },
         {
-          "name": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 79264267.0
-        },
-        {
           "name": "RAYTHEON COMPANY",
           "amount": 75088761.06
         },
         {
+          "name": "DEFENSE SYSTEMS AND SOLUTIONS",
+          "amount": 66442535.0
+        },
+        {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 62132578.88
+          "amount": 62155743.68
+        },
+        {
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "amount": 37932801.91
         },
         {
           "name": "GENERAL DYNAMICS ORDNANCE & TACTICAL SYSTEMS, INC.",
@@ -266,14 +270,100 @@
         {
           "name": "DAY & ZIMMERMANN LONE STAR LLC",
           "amount": 20985955.96
-        },
-        {
-          "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 17164110.6
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
+        {
+          "date": "2026-08-14",
+          "award_id": "SPE7L126FZ362",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 1203.68,
+          "agency": "Defense Logistics Agency",
+          "description": "4572686936!HOSE ASSEMBLY,NONME",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-08-14",
+          "award_id": "SPE7LX26FB5Y8",
+          "recipient": "OSHKOSH DEFENSE LLC",
+          "amount": 795.8,
+          "agency": "Defense Logistics Agency",
+          "description": "4572688109!HOSE,NONMETALLIC",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-08-14",
+          "award_id": "SPE7L126FZ375",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 723.19,
+          "agency": "Defense Logistics Agency",
+          "description": "4572686955!HOSE ASSEMBLY SET,N",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-08-14",
+          "award_id": "SPE7L126FZ373",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 723.19,
+          "agency": "Defense Logistics Agency",
+          "description": "4572686952!HOSE ASSEMBLY SET,N",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-08-14",
+          "award_id": "SPE7L126FZ347",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 452.01,
+          "agency": "Defense Logistics Agency",
+          "description": "4572686914!HOSE,NONMETALLIC",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-08-14",
+          "award_id": "SPE7L126FAEE1",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 452.01,
+          "agency": "Defense Logistics Agency",
+          "description": "4572688072!HOSE,NONMETALLIC",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-08-14",
+          "award_id": "SPE7LX26FB5Y7",
+          "recipient": "OSHKOSH DEFENSE LLC",
+          "amount": 294.1,
+          "agency": "Defense Logistics Agency",
+          "description": "4572688108!HOSE,NONMETALLIC",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-08-14",
+          "award_id": "SPE7LX26FB5Z1",
+          "recipient": "OSHKOSH DEFENSE LLC",
+          "amount": 138.4,
+          "agency": "Defense Logistics Agency",
+          "description": "4572688112!HOSE,NONMETALLIC",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-08-14",
+          "award_id": "SPE7L126FADW0",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 102.67,
+          "agency": "Defense Logistics Agency",
+          "description": "4572687988!HOSE ASSEMBLY,NONME",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-08-14",
+          "award_id": "SPE7L126FZ337",
+          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
+          "amount": 101.37,
+          "agency": "Defense Logistics Agency",
+          "description": "4572686899!HOSE ASSEMBLY,NONME",
+          "naics": "332994"
+        },
         {
           "date": "2026-08-13",
           "award_id": "FA812426FB085",
@@ -294,11 +384,47 @@
         },
         {
           "date": "2026-08-13",
+          "award_id": "SPE4A726PE801",
+          "recipient": "AEROCONTROLEX GROUP, INC.",
+          "amount": 46000.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8512278268!COVER ASSY,ACTUATOR",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-08-13",
+          "award_id": "SPE4A726PF080",
+          "recipient": "PACIFIC SKY SUPPLY, INC.",
+          "amount": 28350.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8512294423!BLADE,TURBINE ROTOR",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-08-13",
+          "award_id": "SPE4A726PF016",
+          "recipient": "HARTWELL CORPORATION",
+          "amount": 7333.65,
+          "agency": "Defense Logistics Agency",
+          "description": "8512290749!101299-1",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-08-13",
           "award_id": "N0038326FT909",
           "recipient": "DRYTECH INC",
           "amount": 6136.95,
           "agency": "Department of the Navy",
           "description": "COMPOSITE REPAIR SE",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-08-13",
+          "award_id": "SPE4A726PF192",
+          "recipient": "TACTAIR FLUID CONTROLS INC",
+          "amount": 1958.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8512300356!FILTERING DISK,FLUI",
           "naics": "336413"
         },
         {
@@ -309,135 +435,9 @@
           "agency": "Department of the Air Force",
           "description": "PROCUREMENT OF ENGINE TEST CELL SPARE PARTS AND EQUIPMENT FOR MSA ANNUAL MAINTENANCE. REFERENCE ATEC QUOTE: 1006057_REV1. FMS REQUIREMENT: LOA BA-D-QAT LINE 074",
           "naics": "336412"
-        },
-        {
-          "date": "2026-08-12",
-          "award_id": "W58RGZ21F0146",
-          "recipient": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 1868260.0,
-          "agency": "Department of the Army",
-          "description": "FOREIGN MILITARY SALES APACHE SUPPORT KITS MOROCCO, QATAR, NETHERLANDS, UNITED ARAB EMIRATES, UNITED KINGDOM, AND KOREA",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-08-12",
-          "award_id": "W519TC26F0175",
-          "recipient": "ACCURATE ENERGETIC SYSTEMS, LLC",
-          "amount": 1079859.81,
-          "agency": "Department of the Army",
-          "description": "TNT SUPP CHARGES DELIVERY ORDER",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-08-12",
-          "award_id": "W519TC26F0175",
-          "recipient": "ACCURATE ENERGETIC SYSTEMS, LLC",
-          "amount": 710578.32,
-          "agency": "Department of the Army",
-          "description": "TNT SUPP CHARGES DELIVERY ORDER",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-08-12",
-          "award_id": "FA823226FB263",
-          "recipient": "AERO-GLEN INTERNATIONAL LLC",
-          "amount": 645031.36,
-          "agency": "Department of the Air Force",
-          "description": "TO PROCURE SLEP FY26 MOD WING KITS",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-08-12",
-          "award_id": "W58RGZ26F0059",
-          "recipient": "L3 TECHNOLOGIES, INC.",
-          "amount": 636648.0,
-          "agency": "Department of the Army",
-          "description": "MANNED UNMANNED TEAMING EXPANDED CAPABILITIES (MUMT-X) INDEFINITE DELIVERY, INDEFINITE QUANTITY (IDIQ), PRODUCTION CONTACT",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-08-12",
-          "award_id": "SPE4A526F8582",
-          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 7085.32,
-          "agency": "Defense Logistics Agency",
-          "description": "8512296237!FITTING,STRUCTURAL",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-08-12",
-          "award_id": "SPE4A726PE314",
-          "recipient": "IPECO HOLDINGS LIMITED",
-          "amount": 955.28,
-          "agency": "Defense Logistics Agency",
-          "description": "8512256327!PAD,CUSHIONING",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-08-12",
-          "award_id": "W31P4Q20C0023",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 0.0,
-          "agency": "Department of the Army",
-          "description": "EXECUTE PHASED ARRAY TRACKING RADAR TO INTERCEPT ON TARGET (PATRIOT) ADVANCED CAPABILITY-3 (PAC-3) MISSILE PRODUCTION BY PROVIDING INCIDENTAL SERVICES, HARDWARE, FACILITIES, EQUIPMENT, AND TECHNICAL, PLANNING, MANAGEMENT, AND MANUFACTURING EFFORTS.",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-08-12",
-          "award_id": "W31P4Q24C0022",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 0.0,
-          "agency": "Department of the Army",
-          "description": "EXECUTE PHASED ARRAY TRACKING RADAR TO INTERCEPT ON TARGET (PATRIOT) ADVANCED CAPABILITY-3 (PAC-3) MISSILE PRODUCTION BY PROVIDING INCIDENTAL SERVICES, HARDWARE, FACILITIES, EQUIPMENT, AND TECHNICAL, PLANNING, MANAGEMENT, AND MANUFACTURING EFFORTS.",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-08-12",
-          "award_id": "W31P4Q24C0022",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 0.0,
-          "agency": "Department of the Army",
-          "description": "EXECUTE PHASED ARRAY TRACKING RADAR TO INTERCEPT ON TARGET (PATRIOT) ADVANCED CAPABILITY-3 (PAC-3) MISSILE PRODUCTION BY PROVIDING INCIDENTAL SERVICES, HARDWARE, FACILITIES, EQUIPMENT, AND TECHNICAL, PLANNING, MANAGEMENT, AND MANUFACTURING EFFORTS.",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-08-12",
-          "award_id": "W31P4Q21C0039",
-          "recipient": "LOCKHEED MARTIN CORPORATION",
-          "amount": 0.0,
-          "agency": "Department of the Army",
-          "description": "M299 LONGBOW HELLFIRE LAUNCHER.",
-          "naics": "336415"
-        },
-        {
-          "date": "2026-08-12",
-          "award_id": "W519TC25F0357",
-          "recipient": "AMERICAN ORDNANCE LLC",
-          "amount": 0.0,
-          "agency": "Department of the Army",
-          "description": "ORDER W519TC25F0357 IS FOR THE CONTRACTOR TO LOAD, ASSEMBLE, AND PACK A QUANTITY OF 388,436 155MM M795 TNT LOADED PROJECTILES.",
-          "naics": "332993"
-        },
-        {
-          "date": "2026-08-12",
-          "award_id": "W31P4Q19C0059",
-          "recipient": "RAYTHEON/LOCKHEED MARTIN JAVELIN JV",
-          "amount": 0.0,
-          "agency": "Department of the Army",
-          "description": "LIFE CYCLE CONTRACTOR SUPPORT SERVICES FOR JAVELIN WEAPON SYSTEM.",
-          "naics": "336414"
-        },
-        {
-          "date": "2026-08-11",
-          "award_id": "FA812426FB042",
-          "recipient": "STANDARD AERO (SAN ANTONIO) INC.",
-          "amount": 4118373.0,
-          "agency": "Department of the Air Force",
-          "description": "J85 MRO OPTION YEAR 2",
-          "naics": "336413"
         }
       ],
-      "source_collected_at": "2026-11-14T22:40:46.696950+00:00"
+      "source_collected_at": "2026-11-15T07:01:28.794182+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -595,7 +595,7 @@
           "age": 10
         }
       ],
-      "source_collected_at": "2026-11-14T22:40:46.696950+00:00"
+      "source_collected_at": "2026-11-15T07:01:28.794182+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -639,7 +639,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0497 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-14T22:40:46.696950+00:00"
+      "source_collected_at": "2026-11-15T07:01:28.794182+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -672,15 +672,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-14T22:40:46.696950+00:00"
+      "source_collected_at": "2026-11-15T07:01:28.794182+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-23T21:34:59.082444+00:00",
-      "score": 20.4,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-24T04:55:48.108620+00:00",
       "score": 20.4,
@@ -973,6 +968,11 @@
     },
     {
       "generated": "2026-11-14T22:40:46.696950+00:00",
+      "score": 21.1,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-15T07:01:28.794182+00:00",
       "score": 21.1,
       "status": "BASELINE"
     }
