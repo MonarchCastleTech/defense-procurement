@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-18T07:51:36.133305+00:00",
+    "generated": "2026-11-18T20:50:01.457380+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 19.5,
-    "raw_score": 19.5,
+    "score": 20.4,
+    "raw_score": 20.4,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 19.5/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 20.4/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -47,6 +47,17 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/803516-2026"
         },
         {
+          "id": "801578-2026",
+          "date": "2026-11-18",
+          "title": "Spain – Intelligence, surveillance, target acquisition and reconnaissance – Acuerdo Marco para el suministro de imágenes de muy alta resolución espacial de operadores de constelaciones satelitales comerciales de observación terrestre, en las bandas del espectro visible, infrarrojo y radar",
+          "buyer": "Jefatura de Asuntos Económicos del Estado Mayor de la Defensa",
+          "country": "ESP",
+          "cpv": [
+            "35720000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/801578-2026"
+        },
+        {
           "id": "801067-2026",
           "date": "2026-11-18",
           "title": "Belgium – Belts – meerjarige raamovereenkomst van leveringen voor de aankoop van gordels en toebehoren & holsters ten voordele van de geïntegreerde politie gestructureerd op 2 niveaus",
@@ -57,17 +68,6 @@
             "35300000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/801067-2026"
-        },
-        {
-          "id": "801578-2026",
-          "date": "2026-11-18",
-          "title": "Spain – Intelligence, surveillance, target acquisition and reconnaissance – Acuerdo Marco para el suministro de imágenes de muy alta resolución espacial de operadores de constelaciones satelitales comerciales de observación terrestre, en las bandas del espectro visible, infrarrojo y radar",
-          "buyer": "Jefatura de Asuntos Económicos del Estado Mayor de la Defensa",
-          "country": "ESP",
-          "cpv": [
-            "35720000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/801578-2026"
         },
         {
           "id": "799870-2026",
@@ -92,15 +92,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/797653-2026"
         },
         {
-          "id": "797639-2026",
+          "id": "796992-2026",
           "date": "2026-11-17",
-          "title": "Germany – Military vehicles and associated parts – Kaufbedarf EU für den GTK Boxer",
-          "buyer": "HIL Heeresinstandsetzungslogistik GmbH",
+          "title": "Germany – Ammunition – Munition 9x19mm SWDD",
+          "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
           "country": "DEU",
           "cpv": [
-            "35400000"
+            "35330000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/797639-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/796992-2026"
         },
         {
           "id": "796873-2026",
@@ -114,27 +114,29 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/796873-2026"
         },
         {
-          "id": "796992-2026",
+          "id": "797639-2026",
           "date": "2026-11-17",
-          "title": "Germany – Ammunition – Munition 9x19mm SWDD",
-          "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+          "title": "Germany – Military vehicles and associated parts – Kaufbedarf EU für den GTK Boxer",
+          "buyer": "HIL Heeresinstandsetzungslogistik GmbH",
           "country": "DEU",
           "cpv": [
-            "35330000"
+            "35400000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/796992-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/797639-2026"
         },
         {
-          "id": "798299-2026",
+          "id": "797500-2026",
           "date": "2026-11-17",
-          "title": "France – Weapons, ammunition and associated parts – 26V0283. Acquisition de lanceur de balle de défense (LBD), ses accessoires et de leurs munitions",
-          "buyer": "VILLE DE NICE",
-          "country": "FRA",
+          "title": "Norway – Armoured personnel carriers – Procurement of a framework agreement for the purchase of armoured vehicles",
+          "buyer": "Utenriksdepartementet",
+          "country": "NOR",
           "cpv": [
-            "35300000",
-            "35331000"
+            "35412200",
+            "35000000",
+            "35400000",
+            "35410000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/798299-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/797500-2026"
         },
         {
           "id": "798280-2026",
@@ -149,15 +151,28 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/798280-2026"
         },
         {
-          "id": "798868-2026",
+          "id": "798299-2026",
           "date": "2026-11-17",
-          "title": "Germany – Weapons, ammunition and associated parts – Beschaffung von Werkzeugsätzen IED Spezialkräfte - Anteil Bolzenschießgerät",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
+          "title": "France – Weapons, ammunition and associated parts – 26V0283. Acquisition de lanceur de balle de défense (LBD), ses accessoires et de leurs munitions",
+          "buyer": "VILLE DE NICE",
+          "country": "FRA",
           "cpv": [
-            "35300000"
+            "35300000",
+            "35331000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/798868-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/798299-2026"
+        },
+        {
+          "id": "797417-2026",
+          "date": "2026-11-17",
+          "title": "Portugal – Ammunition – 4026014972/DA/B0038/2026-Aquisição, por lotes, de Munições para Canal Normal de Reabastecimento (CNR)",
+          "buyer": "Estado-Maior do Exército",
+          "country": "PRT",
+          "cpv": [
+            "35330000",
+            "35331300"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/797417-2026"
         },
         {
           "id": "800008-2026",
@@ -174,30 +189,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/800008-2026"
         },
         {
-          "id": "797417-2026",
+          "id": "798868-2026",
           "date": "2026-11-17",
-          "title": "Portugal – Ammunition – 4026014972/DA/B0038/2026-Aquisição, por lotes, de Munições para Canal Normal de Reabastecimento (CNR)",
-          "buyer": "Estado-Maior do Exército",
-          "country": "PRT",
+          "title": "Germany – Weapons, ammunition and associated parts – Beschaffung von Werkzeugsätzen IED Spezialkräfte - Anteil Bolzenschießgerät",
+          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "country": "DEU",
           "cpv": [
-            "35330000",
-            "35331300"
+            "35300000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/797417-2026"
-        },
-        {
-          "id": "797500-2026",
-          "date": "2026-11-17",
-          "title": "Norway – Armoured personnel carriers – Procurement of a framework agreement for the purchase of armoured vehicles",
-          "buyer": "Utenriksdepartementet",
-          "country": "NOR",
-          "cpv": [
-            "35412200",
-            "35000000",
-            "35400000",
-            "35410000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/797500-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/798868-2026"
         },
         {
           "id": "794406-2026",
@@ -225,7 +225,7 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/793987-2026"
         }
       ],
-      "source_collected_at": "2026-11-18T07:51:36.133305+00:00"
+      "source_collected_at": "2026-11-18T20:50:01.457380+00:00"
     },
     "us_awards": {
       "key": "us_awards",
@@ -440,21 +440,41 @@
           "naics": "332994"
         }
       ],
-      "source_collected_at": "2026-11-18T07:51:36.133305+00:00"
+      "source_collected_at": "2026-11-18T20:50:01.457380+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 40.3,
+      "score": 44.8,
       "status": "WATCH",
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 62,
-      "current_14d_weekly_equivalent": 8.5,
+      "coverage": 64,
+      "current_14d_weekly_equivalent": 11.0,
       "baseline_weekly_median": 3.0,
-      "anomaly_z": 1.24,
+      "anomaly_z": 1.8,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
+        {
+          "date": "2026-11-18",
+          "title": "Nato Deputy Secretary General Calls For Innovation And Cooperation With Industry At Nato Edge",
+          "url": "https://www.nato.int/en/news-and-events/articles/news/2026/11/18/nato-deputy-secretary-general-calls-for-innovation-and-cooperation-with-industry-at-nato-edge",
+          "terms": [
+            "industry"
+          ],
+          "weight": 2.5,
+          "age": 0
+        },
+        {
+          "date": "2026-11-18",
+          "title": "Nato Deputy Secretary General Calls For Innovation And Cooperation With Industry At Nato Edge",
+          "url": "https://www.nato.int/fr/news-and-events/articles/news/2026/11/18/nato-deputy-secretary-general-calls-for-innovation-and-cooperation-with-industry-at-nato-edge",
+          "terms": [
+            "industry"
+          ],
+          "weight": 2.5,
+          "age": 0
+        },
         {
           "date": "2026-11-12",
           "title": "Nato Accelerates Procurement For Counter Drone Technologies",
@@ -464,7 +484,7 @@
             "drone"
           ],
           "weight": 5,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-11-12",
@@ -474,7 +494,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-11-10",
@@ -484,7 +504,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 7
+          "age": 8
         },
         {
           "date": "2026-11-06",
@@ -494,7 +514,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 11
+          "age": 12
         },
         {
           "date": "2026-11-05",
@@ -505,7 +525,7 @@
             "drone"
           ],
           "weight": 5,
-          "age": 12
+          "age": 13
         },
         {
           "date": "2026-11-04",
@@ -515,7 +535,7 @@
             "industrial"
           ],
           "weight": 2.5,
-          "age": 13
+          "age": 14
         },
         {
           "date": "2026-11-04",
@@ -525,7 +545,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 13
+          "age": 14
         },
         {
           "date": "2026-11-04",
@@ -535,7 +555,7 @@
             "missile"
           ],
           "weight": 3,
-          "age": 13
+          "age": 14
         },
         {
           "date": "2026-11-04",
@@ -545,7 +565,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 13
+          "age": 14
         },
         {
           "date": "2026-11-04",
@@ -555,7 +575,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 13
+          "age": 14
         },
         {
           "date": "2026-11-04",
@@ -565,7 +585,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 13
+          "age": 14
         },
         {
           "date": "2026-11-04",
@@ -575,30 +595,10 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 13
-        },
-        {
-          "date": "2026-11-04",
-          "title": "Transatlantic Defence Industrial Cooperation In Action",
-          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2026/07/07/transatlantic-defence-industrial-cooperation-in-action",
-          "terms": [
-            "industrial"
-          ],
-          "weight": 2.5,
-          "age": 13
-        },
-        {
-          "date": "2026-11-04",
-          "title": "Strike Capabilities",
-          "url": "https://www.nato.int/en/multimedia/multimedia/photos/2026/07/07/strike-capabilities",
-          "terms": [
-            "capabilities"
-          ],
-          "weight": 2,
-          "age": 13
+          "age": 14
         }
       ],
-      "source_collected_at": "2026-11-18T07:51:36.133305+00:00"
+      "source_collected_at": "2026-11-18T20:50:01.457380+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -642,7 +642,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0497 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-18T07:51:36.133305+00:00"
+      "source_collected_at": "2026-11-18T20:50:01.457380+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -675,15 +675,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-18T07:51:36.133305+00:00"
+      "source_collected_at": "2026-11-18T20:50:01.457380+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-25T16:42:30.098806+00:00",
-      "score": 20.4,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-25T21:08:30.510683+00:00",
       "score": 20.4,
@@ -977,6 +972,11 @@
     {
       "generated": "2026-11-18T07:51:36.133305+00:00",
       "score": 19.5,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-18T20:50:01.457380+00:00",
+      "score": 20.4,
       "status": "BASELINE"
     }
   ],
