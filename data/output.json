@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-17T21:16:19.477606+00:00",
+    "generated": "2026-11-18T07:51:36.133305+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,27 +11,64 @@
     "source_notes": []
   },
   "warning": {
-    "score": 23.3,
-    "raw_score": 23.3,
+    "score": 19.5,
+    "raw_score": 19.5,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 23.3/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 19.5/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
     "eu_notices": {
       "key": "eu_notices",
-      "score": 37.4,
+      "score": 31.3,
       "status": "WATCH",
       "weight": 0.3,
       "available": true,
       "retained": false,
       "coverage": 604,
-      "current_14d_weekly_equivalent": 47.5,
-      "baseline_weekly_median": 41.0,
-      "anomaly_z": 0.88,
+      "current_14d_weekly_equivalent": 43.0,
+      "baseline_weekly_median": 41.5,
+      "anomaly_z": 0.13,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "803516-2026",
+          "date": "2026-11-18",
+          "title": "Finland – Surveillance and security systems and devices – Turvallisuustekniikka 2026–2030",
+          "buyer": "Liikenteenohjausyhtiö Fintraffic Oy",
+          "country": "FIN",
+          "cpv": [
+            "35120000",
+            "98395000",
+            "71354200",
+            "31682500"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/803516-2026"
+        },
+        {
+          "id": "801067-2026",
+          "date": "2026-11-18",
+          "title": "Belgium – Belts – meerjarige raamovereenkomst van leveringen voor de aankoop van gordels en toebehoren & holsters ten voordele van de geïntegreerde politie gestructureerd op 2 niveaus",
+          "buyer": "Police Fédérale",
+          "country": "BEL",
+          "cpv": [
+            "18425000",
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/801067-2026"
+        },
+        {
+          "id": "801578-2026",
+          "date": "2026-11-18",
+          "title": "Spain – Intelligence, surveillance, target acquisition and reconnaissance – Acuerdo Marco para el suministro de imágenes de muy alta resolución espacial de operadores de constelaciones satelitales comerciales de observación terrestre, en las bandas del espectro visible, infrarrojo y radar",
+          "buyer": "Jefatura de Asuntos Económicos del Estado Mayor de la Defensa",
+          "country": "ESP",
+          "cpv": [
+            "35720000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/801578-2026"
+        },
         {
           "id": "799870-2026",
           "date": "2026-11-17",
@@ -55,15 +92,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/797653-2026"
         },
         {
-          "id": "796992-2026",
+          "id": "797639-2026",
           "date": "2026-11-17",
-          "title": "Germany – Ammunition – Munition 9x19mm SWDD",
-          "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+          "title": "Germany – Military vehicles and associated parts – Kaufbedarf EU für den GTK Boxer",
+          "buyer": "HIL Heeresinstandsetzungslogistik GmbH",
           "country": "DEU",
           "cpv": [
-            "35330000"
+            "35400000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/796992-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/797639-2026"
         },
         {
           "id": "796873-2026",
@@ -77,15 +114,15 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/796873-2026"
         },
         {
-          "id": "797639-2026",
+          "id": "796992-2026",
           "date": "2026-11-17",
-          "title": "Germany – Military vehicles and associated parts – Kaufbedarf EU für den GTK Boxer",
-          "buyer": "HIL Heeresinstandsetzungslogistik GmbH",
+          "title": "Germany – Ammunition – Munition 9x19mm SWDD",
+          "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
           "country": "DEU",
           "cpv": [
-            "35400000"
+            "35330000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/797639-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/796992-2026"
         },
         {
           "id": "798299-2026",
@@ -186,60 +223,24 @@
             "35321200"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/793987-2026"
-        },
-        {
-          "id": "794763-2026",
-          "date": "2026-11-16",
-          "title": "Cyprus – Military vehicles and associated parts – Προμήθεια 200 Εδαφικών Τροχών των Τεθωρακισμένων Οχημάτων Μεταφοράς Προσωπικού (ΤΟΜΠ) ΛΕΩΝΙΔΑΣ.",
-          "buyer": "Υπουργείο Άμυνας",
-          "country": "CYP",
-          "cpv": [
-            "35400000",
-            "35420000",
-            "35421000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/794763-2026"
-        },
-        {
-          "id": "795035-2026",
-          "date": "2026-11-16",
-          "title": "Poland – Grenades – Dostawa Ćwiczebnych Granatów Łzawiących CGŁ-1 lub wyrobów równoważnych",
-          "buyer": "Agencja Uzbrojenia",
-          "country": "POL",
-          "cpv": [
-            "35331300"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/795035-2026"
-        },
-        {
-          "id": "795424-2026",
-          "date": "2026-11-16",
-          "title": "Germany – Intelligence, surveillance, target acquisition and reconnaissance – Q-U2CA-PA083-MA213-System Passiver Ortungsbetrieb",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35720000",
-            "44211100"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/795424-2026"
         }
       ],
-      "source_collected_at": "2026-11-17T21:16:19.477606+00:00"
+      "source_collected_at": "2026-11-18T07:51:36.133305+00:00"
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 7.3,
+      "score": 7.7,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-08-17",
-      "reporting_lag_days": 92,
-      "freshness_factor": 0.23,
-      "current_14d_weekly_equivalent": 285490838.6,
+      "latest_observation": "2026-08-19",
+      "reporting_lag_days": 91,
+      "freshness_factor": 0.24,
+      "current_14d_weekly_equivalent": 280119048.1,
       "baseline_weekly_median": 0.0,
-      "anomaly_z": 0.83,
+      "anomaly_z": 0.87,
       "recipient_concentration": [
         {
           "name": "RTX CORPORATION",
@@ -255,11 +256,15 @@
         },
         {
           "name": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 66422172.0
+          "amount": 66442535.0
         },
         {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 62190208.45
+          "amount": 62139049.98
+        },
+        {
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "amount": 49458426.91
         },
         {
           "name": "GENERAL DYNAMICS ORDNANCE & TACTICAL SYSTEMS, INC.",
@@ -268,14 +273,55 @@
         {
           "name": "DAY & ZIMMERMANN LONE STAR LLC",
           "amount": 20985955.96
-        },
-        {
-          "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 17172410.6
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
+        {
+          "date": "2026-08-19",
+          "award_id": "FA868923F2650",
+          "recipient": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.",
+          "amount": 0.0,
+          "agency": "Department of the Air Force",
+          "description": "MQ-9 REAPER OPEN MISSION SYSTEM (OMS) STELLAR RELAY (SR) AND LINK-16 RETROFIT UCA",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-08-18",
+          "award_id": "SPE7L126V175C",
+          "recipient": "DUTCH VALLEY SUPPLY CO.",
+          "amount": 15030.33,
+          "agency": "Defense Logistics Agency",
+          "description": "8512313681!O-RING KIT",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-08-18",
+          "award_id": "SPE7L126V176M",
+          "recipient": "BASIC RUBBER AND PLASTICS CO.",
+          "amount": 880.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8512316709!COVER,ACCESS",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-08-18",
+          "award_id": "0001",
+          "recipient": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 0.0,
+          "agency": "Department of the Army",
+          "description": "REGIONAL CONTRACTOR FIELD SERVICE REPRESENTATIVES IN SUPPORT OF THE BLACKHAWK AIRCRAFT",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-08-17",
+          "award_id": "SPE7L326V4647",
+          "recipient": "ECI DEFENSE GROUP, INC.",
+          "amount": 14267.88,
+          "agency": "Defense Logistics Agency",
+          "description": "8512301827!COVER,GUN MOUNT",
+          "naics": "332994"
+        },
         {
           "date": "2026-08-17",
           "award_id": "SPE4A626F348M",
@@ -293,6 +339,24 @@
           "agency": "Defense Logistics Agency",
           "description": "8512311669!SPAR,AIRCRAFT",
           "naics": "336413"
+        },
+        {
+          "date": "2026-08-17",
+          "award_id": "SPE7L126V174M",
+          "recipient": "BASIC RUBBER AND PLASTICS CO.",
+          "amount": 832.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8512313550!GASKET",
+          "naics": "336411"
+        },
+        {
+          "date": "2026-08-16",
+          "award_id": "SPE7M126F5066",
+          "recipient": "QUALITY SOCKET SCREW MANUFACTURING CORP",
+          "amount": 420.8,
+          "agency": "Defense Logistics Agency",
+          "description": "8512308329!SCREW,CAP,HEXAGON HEAD",
+          "naics": "336412"
         },
         {
           "date": "2026-08-14",
@@ -374,84 +438,21 @@
           "agency": "Defense Logistics Agency",
           "description": "4572688112!HOSE,NONMETALLIC",
           "naics": "332994"
-        },
-        {
-          "date": "2026-08-14",
-          "award_id": "SPE7L126FADW0",
-          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
-          "amount": 102.67,
-          "agency": "Defense Logistics Agency",
-          "description": "4572687988!HOSE ASSEMBLY,NONME",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-08-14",
-          "award_id": "SPE7L126FZ337",
-          "recipient": "RDO AGRICULTURE EQUIPMENT CO",
-          "amount": 101.37,
-          "agency": "Defense Logistics Agency",
-          "description": "4572686899!HOSE ASSEMBLY,NONME",
-          "naics": "332994"
-        },
-        {
-          "date": "2026-08-13",
-          "award_id": "FA812426FB085",
-          "recipient": "ATEC INC",
-          "amount": 841079.92,
-          "agency": "Department of the Air Force",
-          "description": "8K FUEL TANK SYSTEM PROCUREMENT AND INSTALLATION IN SUPPORT F110-GE-100/129 ENGINES.",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-08-13",
-          "award_id": "W58RGZ23F0461",
-          "recipient": "BELL TEXTRON INC",
-          "amount": 329548.4,
-          "agency": "Department of the Army",
-          "description": "BELL 505 AIRCRAFT",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-08-13",
-          "award_id": "SPE4A726PE801",
-          "recipient": "AEROCONTROLEX GROUP, INC.",
-          "amount": 46000.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512278268!COVER ASSY,ACTUATOR",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-08-13",
-          "award_id": "SPE4A726PF080",
-          "recipient": "PACIFIC SKY SUPPLY, INC.",
-          "amount": 28350.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512294423!BLADE,TURBINE ROTOR",
-          "naics": "336412"
-        },
-        {
-          "date": "2026-08-13",
-          "award_id": "SPE4A726PF016",
-          "recipient": "HARTWELL CORPORATION",
-          "amount": 7333.65,
-          "agency": "Defense Logistics Agency",
-          "description": "8512290749!101299-1",
-          "naics": "336413"
         }
       ],
-      "source_collected_at": "2026-11-17T21:16:19.477606+00:00"
+      "source_collected_at": "2026-11-18T07:51:36.133305+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 50.5,
-      "status": "ELEVATED",
+      "score": 40.3,
+      "status": "WATCH",
       "weight": 0.2,
       "available": true,
       "retained": false,
       "coverage": 62,
-      "current_14d_weekly_equivalent": 30.5,
+      "current_14d_weekly_equivalent": 8.5,
       "baseline_weekly_median": 3.0,
-      "anomaly_z": 6.18,
+      "anomaly_z": 1.24,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -597,7 +598,7 @@
           "age": 13
         }
       ],
-      "source_collected_at": "2026-11-17T21:16:19.477606+00:00"
+      "source_collected_at": "2026-11-18T07:51:36.133305+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -641,7 +642,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0497 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-17T21:16:19.477606+00:00"
+      "source_collected_at": "2026-11-18T07:51:36.133305+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -674,15 +675,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-17T21:16:19.477606+00:00"
+      "source_collected_at": "2026-11-18T07:51:36.133305+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-25T11:55:24.812465+00:00",
-      "score": 20.4,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-25T16:42:30.098806+00:00",
       "score": 20.4,
@@ -976,6 +972,11 @@
     {
       "generated": "2026-11-17T21:16:19.477606+00:00",
       "score": 23.3,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-18T07:51:36.133305+00:00",
+      "score": 19.5,
       "status": "BASELINE"
     }
   ],
