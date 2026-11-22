@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-22T07:18:49.600847+00:00",
+    "generated": "2026-11-22T19:55:18.895855+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -218,18 +218,19 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/803516-2026"
         },
         {
-          "id": "801578-2026",
+          "id": "801067-2026",
           "date": "2026-11-18",
-          "title": "Spain – Intelligence, surveillance, target acquisition and reconnaissance – Acuerdo Marco para el suministro de imágenes de muy alta resolución espacial de operadores de constelaciones satelitales comerciales de observación terrestre, en las bandas del espectro visible, infrarrojo y radar",
-          "buyer": "Jefatura de Asuntos Económicos del Estado Mayor de la Defensa",
-          "country": "ESP",
+          "title": "Belgium – Belts – meerjarige raamovereenkomst van leveringen voor de aankoop van gordels en toebehoren & holsters ten voordele van de geïntegreerde politie gestructureerd op 2 niveaus",
+          "buyer": "Police Fédérale",
+          "country": "BEL",
           "cpv": [
-            "35720000"
+            "18425000",
+            "35300000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/801578-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/801067-2026"
         }
       ],
-      "source_collected_at": "2026-11-22T07:18:49.600847+00:00"
+      "source_collected_at": "2026-11-22T19:55:18.895855+00:00"
     },
     "us_awards": {
       "key": "us_awards",
@@ -242,7 +243,7 @@
       "latest_observation": "2026-08-20",
       "reporting_lag_days": 94,
       "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 288035130.12,
+      "current_14d_weekly_equivalent": 288035724.91,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.82,
       "recipient_concentration": [
@@ -444,7 +445,7 @@
           "naics": "336411"
         }
       ],
-      "source_collected_at": "2026-11-22T07:18:49.600847+00:00"
+      "source_collected_at": "2026-11-22T19:55:18.895855+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -468,7 +469,7 @@
             "drone"
           ],
           "weight": 5,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-11-19",
@@ -478,7 +479,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-11-19",
@@ -489,7 +490,7 @@
             "drone"
           ],
           "weight": 4,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-11-19",
@@ -500,7 +501,7 @@
             "drone"
           ],
           "weight": 4,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-11-19",
@@ -510,7 +511,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 2
+          "age": 3
         },
         {
           "date": "2026-11-18",
@@ -520,7 +521,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 3
+          "age": 4
         },
         {
           "date": "2026-11-18",
@@ -530,7 +531,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 3
+          "age": 4
         },
         {
           "date": "2026-11-12",
@@ -540,7 +541,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 9
+          "age": 10
         },
         {
           "date": "2026-11-10",
@@ -550,7 +551,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 11
+          "age": 12
         },
         {
           "date": "2026-11-06",
@@ -560,7 +561,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 15
+          "age": 16
         },
         {
           "date": "2026-11-05",
@@ -571,7 +572,7 @@
             "drone"
           ],
           "weight": 5,
-          "age": 16
+          "age": 17
         },
         {
           "date": "2026-11-04",
@@ -581,7 +582,7 @@
             "industrial"
           ],
           "weight": 2.5,
-          "age": 17
+          "age": 18
         },
         {
           "date": "2026-11-04",
@@ -591,7 +592,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 17
+          "age": 18
         },
         {
           "date": "2026-11-04",
@@ -601,10 +602,10 @@
             "missile"
           ],
           "weight": 3,
-          "age": 17
+          "age": 18
         }
       ],
-      "source_collected_at": "2026-11-22T07:18:49.600847+00:00"
+      "source_collected_at": "2026-11-22T19:55:18.895855+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -648,7 +649,7 @@
           "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0497 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-22T07:18:49.600847+00:00"
+      "source_collected_at": "2026-11-22T19:55:18.895855+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -681,15 +682,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-22T07:18:49.600847+00:00"
+      "source_collected_at": "2026-11-22T19:55:18.895855+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-28T06:08:28.203152+00:00",
-      "score": 18.4,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-28T08:20:02.717382+00:00",
       "score": 18.4,
@@ -982,6 +978,11 @@
     },
     {
       "generated": "2026-11-22T07:18:49.600847+00:00",
+      "score": 19.2,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-22T19:55:18.895855+00:00",
       "score": 19.2,
       "status": "BASELINE"
     }
