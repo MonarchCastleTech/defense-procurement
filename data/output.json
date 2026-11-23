@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-22T19:55:18.895855+00:00",
+    "generated": "2026-11-23T08:03:00.120125+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,27 +11,107 @@
     "source_notes": []
   },
   "warning": {
-    "score": 19.2,
-    "raw_score": 19.2,
+    "score": 19.5,
+    "raw_score": 19.5,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 19.2/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 19.5/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
     "eu_notices": {
       "key": "eu_notices",
-      "score": 30.3,
+      "score": 31.8,
       "status": "WATCH",
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 594,
+      "coverage": 600,
       "current_14d_weekly_equivalent": 41.5,
-      "baseline_weekly_median": 42.5,
-      "anomaly_z": -0.45,
+      "baseline_weekly_median": 40.5,
+      "anomaly_z": 0.19,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "813187-2026",
+          "date": "2026-11-23",
+          "title": "Netherlands – Military vehicles and associated parts – Onbemenste Doorbraaksystemen",
+          "buyer": "Ministerie van Defensie",
+          "country": "NLD",
+          "cpv": [
+            "35400000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/813187-2026"
+        },
+        {
+          "id": "811219-2026",
+          "date": "2026-11-23",
+          "title": "Germany – Armoured personnel carriers – Feuerwache Neunkirchen - Lieferung 5 Mannschaftstransportwagen",
+          "buyer": "Kreisstadt Neunkirchen",
+          "country": "DEU",
+          "cpv": [
+            "35412200",
+            "34144210",
+            "35110000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/811219-2026"
+        },
+        {
+          "id": "811484-2026",
+          "date": "2026-11-23",
+          "title": "Spain – Technical support services – Contrato de apoyo para alcanzar la capacidad de mantenimiento D1 de misiles NSM en una instalación de la Armada.",
+          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
+          "country": "ESP",
+          "cpv": [
+            "71356300",
+            "35622000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/811484-2026"
+        },
+        {
+          "id": "813536-2026",
+          "date": "2026-11-23",
+          "title": "France – Weapons, ammunition and associated parts – Fourniture d'armement pour la Police Municipale de la Ville de Grenoble",
+          "buyer": "VILLE DE GRENOBLE",
+          "country": "FRA",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/813536-2026"
+        },
+        {
+          "id": "811422-2026",
+          "date": "2026-11-23",
+          "title": "Austria – Ammunition – 5.000.000 Stk 7,62 mm Knall-Patronen/MG 74/gegurtet (7,62 mm K-Patr/MG 74/geg) (Lieferung 1. Quartal 2029 erwünscht) Verhandlungsverfahren mit vorheriger Bekanntmachung im OSB gemäß § 23 (3) BVergGVS",
+          "buyer": "REPUBLIK ÖSTERREICH (Bund) vertreten durch die Bundesministerin für Landesverteidigung",
+          "country": "AUT",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/811422-2026"
+        },
+        {
+          "id": "812081-2026",
+          "date": "2026-11-23",
+          "title": "Lithuania – Intelligence, surveillance, target acquisition and reconnaissance – Mobilios transporto priemonės, skirtos bepiločių orlaivių aptikimui ir neutralizavimui (Atviras tarptautinis pirkimas)",
+          "buyer": "VšĮ Vilniaus pirkimų agentūra",
+          "country": "LTU",
+          "cpv": [
+            "35720000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/812081-2026"
+        },
+        {
+          "id": "807969-2026",
+          "date": "2026-11-20",
+          "title": "Finland – Unmanned aerial vehicles – Micro-UAS Procurement v2",
+          "buyer": "The Finnish Border Guard",
+          "country": "FIN",
+          "cpv": [
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/807969-2026"
+        },
         {
           "id": "809590-2026",
           "date": "2026-11-20",
@@ -53,17 +133,6 @@
             "35331500"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/809826-2026"
-        },
-        {
-          "id": "807969-2026",
-          "date": "2026-11-20",
-          "title": "Finland – Unmanned aerial vehicles – Micro-UAS Procurement v2",
-          "buyer": "The Finnish Border Guard",
-          "country": "FIN",
-          "cpv": [
-            "35613000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/807969-2026"
         },
         {
           "id": "810480-2026",
@@ -129,19 +198,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/805818-2026"
         },
         {
-          "id": "806292-2026",
-          "date": "2026-11-19",
-          "title": "Netherlands – Installation services of communications equipment – Portofoonnetwerken t.b.v. posten in het buitenland",
-          "buyer": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
-          "country": "NLD",
-          "cpv": [
-            "51300000",
-            "32412000",
-            "35710000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/806292-2026"
-        },
-        {
           "id": "804828-2026",
           "date": "2026-11-19",
           "title": "Denmark – Security, fire-fighting, police and defence equipment – Anskaffelse af undervandstelefoner til Søværnet",
@@ -154,96 +210,33 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/804828-2026"
         },
         {
-          "id": "804251-2026",
+          "id": "806292-2026",
           "date": "2026-11-19",
-          "title": "Germany – Missiles – Fertigung und Integration von Raketenspitzen",
-          "buyer": "Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR) - Oberpfaffenhofen",
-          "country": "DEU",
+          "title": "Netherlands – Installation services of communications equipment – Portofoonnetwerken t.b.v. posten in het buitenland",
+          "buyer": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
+          "country": "NLD",
           "cpv": [
-            "35620000"
+            "51300000",
+            "32412000",
+            "35710000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/804251-2026"
-        },
-        {
-          "id": "806731-2026",
-          "date": "2026-11-19",
-          "title": "Belgium – Weapons, ammunition and associated parts – Raamovereenkomst voor levering van stroomstootwapens, munitie en toebehoren",
-          "buyer": "PZ CARMA",
-          "country": "BEL",
-          "cpv": [
-            "35300000",
-            "35330000",
-            "35320000",
-            "35000000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/806731-2026"
-        },
-        {
-          "id": "806531-2026",
-          "date": "2026-11-19",
-          "title": "Czechia – Unmanned aerial vehicles – FPV prostředky",
-          "buyer": "Ministerstvo obrany",
-          "country": "CZE",
-          "cpv": [
-            "35613000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/806531-2026"
-        },
-        {
-          "id": "806555-2026",
-          "date": "2026-11-19",
-          "title": "Norway – Armoured personnel carriers – Procurement of a framework agreement for the purchase of armoured vehicles",
-          "buyer": "Utenriksdepartementet",
-          "country": "NOR",
-          "cpv": [
-            "35412200",
-            "35000000",
-            "35400000",
-            "35410000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/806555-2026"
-        },
-        {
-          "id": "803516-2026",
-          "date": "2026-11-18",
-          "title": "Finland – Surveillance and security systems and devices – Turvallisuustekniikka 2026–2030",
-          "buyer": "Liikenteenohjausyhtiö Fintraffic Oy",
-          "country": "FIN",
-          "cpv": [
-            "35120000",
-            "98395000",
-            "71354200",
-            "31682500"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/803516-2026"
-        },
-        {
-          "id": "801067-2026",
-          "date": "2026-11-18",
-          "title": "Belgium – Belts – meerjarige raamovereenkomst van leveringen voor de aankoop van gordels en toebehoren & holsters ten voordele van de geïntegreerde politie gestructureerd op 2 niveaus",
-          "buyer": "Police Fédérale",
-          "country": "BEL",
-          "cpv": [
-            "18425000",
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/801067-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/806292-2026"
         }
       ],
-      "source_collected_at": "2026-11-22T19:55:18.895855+00:00"
+      "source_collected_at": "2026-11-23T08:03:00.120125+00:00"
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 6.8,
+      "score": 6.5,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-08-20",
-      "reporting_lag_days": 94,
-      "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 288035724.91,
+      "reporting_lag_days": 95,
+      "freshness_factor": 0.21,
+      "current_14d_weekly_equivalent": 288064357.83,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.82,
       "recipient_concentration": [
@@ -316,6 +309,15 @@
           "amount": 25000.0,
           "agency": "Department of the Air Force",
           "description": "AFLCMC/WI",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-08-20",
+          "award_id": "SPE2DH26V2878",
+          "recipient": "AMERICAN 3B SCIENTIFIC, L.P.",
+          "amount": 2856.0,
+          "agency": "Defense Logistics Agency",
+          "description": "8512323700!MOULAGE SET,WAR WOUNDS",
           "naics": "336413"
         },
         {
@@ -434,18 +436,9 @@
           "agency": "Defense Logistics Agency",
           "description": "8512313681!O-RING KIT",
           "naics": "332994"
-        },
-        {
-          "date": "2026-08-18",
-          "award_id": "SPE7L126V176M",
-          "recipient": "BASIC RUBBER AND PLASTICS CO.",
-          "amount": 880.0,
-          "agency": "Defense Logistics Agency",
-          "description": "8512316709!COVER,ACCESS",
-          "naics": "336411"
         }
       ],
-      "source_collected_at": "2026-11-22T19:55:18.895855+00:00"
+      "source_collected_at": "2026-11-23T08:03:00.120125+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -456,7 +449,7 @@
       "retained": false,
       "coverage": 68,
       "current_14d_weekly_equivalent": 13.5,
-      "baseline_weekly_median": 4.5,
+      "baseline_weekly_median": 5.5,
       "anomaly_z": 1.35,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
@@ -605,7 +598,7 @@
           "age": 18
         }
       ],
-      "source_collected_at": "2026-11-22T19:55:18.895855+00:00"
+      "source_collected_at": "2026-11-23T08:03:00.120125+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -626,30 +619,9 @@
           "type": "Notice",
           "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22183/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-appendix",
           "abstract": "The Defense Acquisition Regulations System has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act."
-        },
-        {
-          "date": "2026-10-19",
-          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Parts 223 and 226, Occupational Safety and Drug-Free Work Force",
-          "type": "Notice",
-          "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21330/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-parts-223",
-          "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0272 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
-        },
-        {
-          "date": "2026-10-19",
-          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS); Inspection and Receiving Report",
-          "type": "Notice",
-          "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21329/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars",
-          "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0248 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
-        },
-        {
-          "date": "2026-10-19",
-          "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 215 Negotiation",
-          "type": "Notice",
-          "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21327/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-215",
-          "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0704-0497 through January 31, 2027. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date."
         }
       ],
-      "source_collected_at": "2026-11-22T19:55:18.895855+00:00"
+      "source_collected_at": "2026-11-23T08:03:00.120125+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -682,15 +654,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-22T19:55:18.895855+00:00"
+      "source_collected_at": "2026-11-23T08:03:00.120125+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-28T08:20:02.717382+00:00",
-      "score": 18.4,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-28T13:25:15.841492+00:00",
       "score": 18.4,
@@ -984,6 +951,11 @@
     {
       "generated": "2026-11-22T19:55:18.895855+00:00",
       "score": 19.2,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-23T08:03:00.120125+00:00",
+      "score": 19.5,
       "status": "BASELINE"
     }
   ],
