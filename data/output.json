@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-23T08:03:00.120125+00:00",
+    "generated": "2026-11-24T00:15:13.889785+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,27 +11,63 @@
     "source_notes": []
   },
   "warning": {
-    "score": 19.5,
-    "raw_score": 19.5,
+    "score": 18.5,
+    "raw_score": 18.5,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 19.5/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 18.5/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
     "eu_notices": {
       "key": "eu_notices",
-      "score": 31.8,
+      "score": 30.3,
       "status": "WATCH",
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 600,
-      "current_14d_weekly_equivalent": 41.5,
-      "baseline_weekly_median": 40.5,
-      "anomaly_z": 0.19,
+      "coverage": 595,
+      "current_14d_weekly_equivalent": 39.0,
+      "baseline_weekly_median": 41.5,
+      "anomaly_z": -0.48,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "815265-2026",
+          "date": "2026-11-24",
+          "title": "Spain – Ammunition – Adquisición de munición artillería de campaña 155 MM alcance extendido",
+          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+          "country": "ESP",
+          "cpv": [
+            "35330000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/815265-2026"
+        },
+        {
+          "id": "816990-2026",
+          "date": "2026-11-24",
+          "title": "Romania – Bombs – Lovitură 120 mm cu bombă explozivă",
+          "buyer": "Ministerul Apararii - Unitatea Militara 02550 Bucuresti",
+          "country": "ROU",
+          "cpv": [
+            "35333100"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/816990-2026"
+        },
+        {
+          "id": "814354-2026",
+          "date": "2026-11-24",
+          "title": "Ireland – Machine tools – The Supply, Delivery, Installation and Commissioning of Equipment for Technology/Construction/Engineering/DCG in 6 Lots for Limerick and Clare Education and Training Board",
+          "buyer": "Limerick and Clare Education and Training Board",
+          "country": "IRL",
+          "cpv": [
+            "42600000",
+            "42610000",
+            "42621000",
+            "43812000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/814354-2026"
+        },
         {
           "id": "813187-2026",
           "date": "2026-11-23",
@@ -42,6 +78,17 @@
             "35400000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/813187-2026"
+        },
+        {
+          "id": "813536-2026",
+          "date": "2026-11-23",
+          "title": "France – Weapons, ammunition and associated parts – Fourniture d'armement pour la Police Municipale de la Ville de Grenoble",
+          "buyer": "VILLE DE GRENOBLE",
+          "country": "FRA",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/813536-2026"
         },
         {
           "id": "811219-2026",
@@ -67,17 +114,6 @@
             "35622000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/811484-2026"
-        },
-        {
-          "id": "813536-2026",
-          "date": "2026-11-23",
-          "title": "France – Weapons, ammunition and associated parts – Fourniture d'armement pour la Police Municipale de la Ville de Grenoble",
-          "buyer": "VILLE DE GRENOBLE",
-          "country": "FRA",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/813536-2026"
         },
         {
           "id": "811422-2026",
@@ -185,57 +221,21 @@
             "79961200"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/810276-2026"
-        },
-        {
-          "id": "805818-2026",
-          "date": "2026-11-19",
-          "title": "Greece – Intelligence, surveillance, target acquisition and reconnaissance – Προμήθεια και Εγκατάσταση Συστημάτων Ραδιογωνομέτρησης",
-          "buyer": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
-          "country": "GRC",
-          "cpv": [
-            "35720000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/805818-2026"
-        },
-        {
-          "id": "804828-2026",
-          "date": "2026-11-19",
-          "title": "Denmark – Security, fire-fighting, police and defence equipment – Anskaffelse af undervandstelefoner til Søværnet",
-          "buyer": "Danish Ministry of Defence Acquisition and Logistics Organisation",
-          "country": "DNK",
-          "cpv": [
-            "35000000",
-            "35710000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/804828-2026"
-        },
-        {
-          "id": "806292-2026",
-          "date": "2026-11-19",
-          "title": "Netherlands – Installation services of communications equipment – Portofoonnetwerken t.b.v. posten in het buitenland",
-          "buyer": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
-          "country": "NLD",
-          "cpv": [
-            "51300000",
-            "32412000",
-            "35710000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/806292-2026"
         }
       ],
-      "source_collected_at": "2026-11-23T08:03:00.120125+00:00"
+      "source_collected_at": "2026-11-24T00:15:13.889785+00:00"
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 6.5,
+      "score": 6.3,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-08-20",
-      "reporting_lag_days": 95,
-      "freshness_factor": 0.21,
+      "reporting_lag_days": 96,
+      "freshness_factor": 0.2,
       "current_14d_weekly_equivalent": 288064357.83,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.82,
@@ -438,19 +438,19 @@
           "naics": "332994"
         }
       ],
-      "source_collected_at": "2026-11-23T08:03:00.120125+00:00"
+      "source_collected_at": "2026-11-24T00:15:13.889785+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 41.2,
+      "score": 38.4,
       "status": "WATCH",
       "weight": 0.2,
       "available": true,
       "retained": false,
       "coverage": 68,
-      "current_14d_weekly_equivalent": 13.5,
-      "baseline_weekly_median": 5.5,
-      "anomaly_z": 1.35,
+      "current_14d_weekly_equivalent": 12.5,
+      "baseline_weekly_median": 5.0,
+      "anomaly_z": 1.01,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -462,7 +462,7 @@
             "drone"
           ],
           "weight": 5,
-          "age": 3
+          "age": 4
         },
         {
           "date": "2026-11-19",
@@ -472,7 +472,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 3
+          "age": 4
         },
         {
           "date": "2026-11-19",
@@ -483,7 +483,7 @@
             "drone"
           ],
           "weight": 4,
-          "age": 3
+          "age": 4
         },
         {
           "date": "2026-11-19",
@@ -494,7 +494,7 @@
             "drone"
           ],
           "weight": 4,
-          "age": 3
+          "age": 4
         },
         {
           "date": "2026-11-19",
@@ -504,7 +504,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 3
+          "age": 4
         },
         {
           "date": "2026-11-18",
@@ -514,7 +514,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-11-18",
@@ -524,7 +524,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-11-12",
@@ -534,7 +534,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 10
+          "age": 11
         },
         {
           "date": "2026-11-10",
@@ -544,7 +544,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 12
+          "age": 13
         },
         {
           "date": "2026-11-06",
@@ -554,7 +554,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 16
+          "age": 17
         },
         {
           "date": "2026-11-05",
@@ -565,7 +565,7 @@
             "drone"
           ],
           "weight": 5,
-          "age": 17
+          "age": 18
         },
         {
           "date": "2026-11-04",
@@ -575,7 +575,7 @@
             "industrial"
           ],
           "weight": 2.5,
-          "age": 18
+          "age": 19
         },
         {
           "date": "2026-11-04",
@@ -585,7 +585,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 18
+          "age": 19
         },
         {
           "date": "2026-11-04",
@@ -595,10 +595,10 @@
             "missile"
           ],
           "weight": 3,
-          "age": 18
+          "age": 19
         }
       ],
-      "source_collected_at": "2026-11-23T08:03:00.120125+00:00"
+      "source_collected_at": "2026-11-24T00:15:13.889785+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -607,7 +607,7 @@
       "weight": 0.15,
       "available": true,
       "retained": false,
-      "coverage": 11,
+      "coverage": 10,
       "current_14d_weekly_equivalent": 0.0,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.0,
@@ -621,7 +621,7 @@
           "abstract": "The Defense Acquisition Regulations System has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act."
         }
       ],
-      "source_collected_at": "2026-11-23T08:03:00.120125+00:00"
+      "source_collected_at": "2026-11-24T00:15:13.889785+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -654,15 +654,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-23T08:03:00.120125+00:00"
+      "source_collected_at": "2026-11-24T00:15:13.889785+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-28T13:25:15.841492+00:00",
-      "score": 18.4,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-28T22:46:37.136111+00:00",
       "score": 22.0,
@@ -956,6 +951,11 @@
     {
       "generated": "2026-11-23T08:03:00.120125+00:00",
       "score": 19.5,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-24T00:15:13.889785+00:00",
+      "score": 18.5,
       "status": "BASELINE"
     }
   ],
