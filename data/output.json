@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-24T00:15:13.889785+00:00",
+    "generated": "2026-11-24T10:19:16.194794+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,7 +26,7 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 595,
+      "coverage": 596,
       "current_14d_weekly_equivalent": 39.0,
       "baseline_weekly_median": 41.5,
       "anomaly_z": -0.48,
@@ -138,17 +138,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/812081-2026"
         },
         {
-          "id": "807969-2026",
-          "date": "2026-11-20",
-          "title": "Finland – Unmanned aerial vehicles – Micro-UAS Procurement v2",
-          "buyer": "The Finnish Border Guard",
-          "country": "FIN",
-          "cpv": [
-            "35613000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/807969-2026"
-        },
-        {
           "id": "809590-2026",
           "date": "2026-11-20",
           "title": "Greece – Intelligence, surveillance, target acquisition and reconnaissance – Προμήθεια και Εγκατάσταση Ηλεκτροπτικών Συστημάτων Επιτήρησης Απομακρυσμένου Ελέγχου",
@@ -169,6 +158,17 @@
             "35331500"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/809826-2026"
+        },
+        {
+          "id": "807969-2026",
+          "date": "2026-11-20",
+          "title": "Finland – Unmanned aerial vehicles – Micro-UAS Procurement v2",
+          "buyer": "The Finnish Border Guard",
+          "country": "FIN",
+          "cpv": [
+            "35613000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/807969-2026"
         },
         {
           "id": "810480-2026",
@@ -223,7 +223,7 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/810276-2026"
         }
       ],
-      "source_collected_at": "2026-11-24T00:15:13.889785+00:00"
+      "source_collected_at": "2026-11-24T10:19:16.194794+00:00"
     },
     "us_awards": {
       "key": "us_awards",
@@ -236,7 +236,7 @@
       "latest_observation": "2026-08-20",
       "reporting_lag_days": 96,
       "freshness_factor": 0.2,
-      "current_14d_weekly_equivalent": 288064357.83,
+      "current_14d_weekly_equivalent": 288571579.04,
       "baseline_weekly_median": 0.0,
       "anomaly_z": 0.82,
       "recipient_concentration": [
@@ -258,7 +258,7 @@
         },
         {
           "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 62154851.37
+          "amount": 62173659.24
         },
         {
           "name": "GENERAL DYNAMICS ORDNANCE & TACTICAL SYSTEMS, INC.",
@@ -385,6 +385,15 @@
         },
         {
           "date": "2026-08-19",
+          "award_id": "SPE4A526F8694",
+          "recipient": "HONEYWELL INTERNATIONAL INC.",
+          "amount": 1046.1,
+          "agency": "Defense Logistics Agency",
+          "description": "8512310647!PACKING,PREFORMED",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-08-19",
           "award_id": "SPE4A626FD2CV",
           "recipient": "HUDSON TECHNOLOGIES COMPANY",
           "amount": 40.4,
@@ -427,18 +436,9 @@
           "agency": "Department of the Air Force",
           "description": "AFLCMC/WI",
           "naics": "336412"
-        },
-        {
-          "date": "2026-08-18",
-          "award_id": "SPE7L126V175C",
-          "recipient": "DUTCH VALLEY SUPPLY CO.",
-          "amount": 15030.33,
-          "agency": "Defense Logistics Agency",
-          "description": "8512313681!O-RING KIT",
-          "naics": "332994"
         }
       ],
-      "source_collected_at": "2026-11-24T00:15:13.889785+00:00"
+      "source_collected_at": "2026-11-24T10:19:16.194794+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -472,7 +472,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-11-19",
@@ -554,7 +554,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 17
+          "age": 18
         },
         {
           "date": "2026-11-05",
@@ -598,7 +598,7 @@
           "age": 19
         }
       ],
-      "source_collected_at": "2026-11-24T00:15:13.889785+00:00"
+      "source_collected_at": "2026-11-24T10:19:16.194794+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -621,7 +621,7 @@
           "abstract": "The Defense Acquisition Regulations System has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act."
         }
       ],
-      "source_collected_at": "2026-11-24T00:15:13.889785+00:00"
+      "source_collected_at": "2026-11-24T10:19:16.194794+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -654,15 +654,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-24T00:15:13.889785+00:00"
+      "source_collected_at": "2026-11-24T10:19:16.194794+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-28T22:46:37.136111+00:00",
-      "score": 22.0,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-29T06:17:54.938020+00:00",
       "score": 19.4,
@@ -955,6 +950,11 @@
     },
     {
       "generated": "2026-11-24T00:15:13.889785+00:00",
+      "score": 18.5,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-24T10:19:16.194794+00:00",
       "score": 18.5,
       "status": "BASELINE"
     }
