@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-24T10:19:16.194794+00:00",
+    "generated": "2026-11-24T22:41:44.982721+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -223,7 +223,7 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/810276-2026"
         }
       ],
-      "source_collected_at": "2026-11-24T10:19:16.194794+00:00"
+      "source_collected_at": "2026-11-24T22:41:44.982721+00:00"
     },
     "us_awards": {
       "key": "us_awards",
@@ -438,7 +438,7 @@
           "naics": "336412"
         }
       ],
-      "source_collected_at": "2026-11-24T10:19:16.194794+00:00"
+      "source_collected_at": "2026-11-24T22:41:44.982721+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -462,7 +462,7 @@
             "drone"
           ],
           "weight": 5,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-11-19",
@@ -483,7 +483,17 @@
             "drone"
           ],
           "weight": 4,
-          "age": 4
+          "age": 5
+        },
+        {
+          "date": "2026-11-19",
+          "title": "Nato And Cyber Industry Leaders Discuss Enhanced Cooperation For Cyberspace Defence",
+          "url": "https://www.nato.int/fr/news-and-events/articles/news/2026/11/19/nato-and-cyber-industry-leaders-discuss-enhanced-cooperation-for-cyberspace-defence",
+          "terms": [
+            "industry"
+          ],
+          "weight": 2.5,
+          "age": 5
         },
         {
           "date": "2026-11-19",
@@ -494,17 +504,7 @@
             "drone"
           ],
           "weight": 4,
-          "age": 4
-        },
-        {
-          "date": "2026-11-19",
-          "title": "Nato And Cyber Industry Leaders Discuss Enhanced Cooperation For Cyberspace Defence",
-          "url": "https://www.nato.int/fr/news-and-events/articles/news/2026/11/19/nato-and-cyber-industry-leaders-discuss-enhanced-cooperation-for-cyberspace-defence",
-          "terms": [
-            "industry"
-          ],
-          "weight": 2.5,
-          "age": 4
+          "age": 5
         },
         {
           "date": "2026-11-18",
@@ -514,7 +514,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-11-18",
@@ -524,7 +524,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-11-12",
@@ -534,7 +534,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 11
+          "age": 12
         },
         {
           "date": "2026-11-10",
@@ -544,7 +544,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 13
+          "age": 14
         },
         {
           "date": "2026-11-06",
@@ -565,7 +565,7 @@
             "drone"
           ],
           "weight": 5,
-          "age": 18
+          "age": 19
         },
         {
           "date": "2026-11-04",
@@ -575,7 +575,7 @@
             "industrial"
           ],
           "weight": 2.5,
-          "age": 19
+          "age": 20
         },
         {
           "date": "2026-11-04",
@@ -585,7 +585,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 19
+          "age": 20
         },
         {
           "date": "2026-11-04",
@@ -595,10 +595,10 @@
             "missile"
           ],
           "weight": 3,
-          "age": 19
+          "age": 20
         }
       ],
-      "source_collected_at": "2026-11-24T10:19:16.194794+00:00"
+      "source_collected_at": "2026-11-24T22:41:44.982721+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -621,7 +621,7 @@
           "abstract": "The Defense Acquisition Regulations System has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act."
         }
       ],
-      "source_collected_at": "2026-11-24T10:19:16.194794+00:00"
+      "source_collected_at": "2026-11-24T22:41:44.982721+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -654,15 +654,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-24T10:19:16.194794+00:00"
+      "source_collected_at": "2026-11-24T22:41:44.982721+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-29T06:17:54.938020+00:00",
-      "score": 19.4,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-29T13:33:30.742511+00:00",
       "score": 19.3,
@@ -955,6 +950,11 @@
     },
     {
       "generated": "2026-11-24T10:19:16.194794+00:00",
+      "score": 18.5,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-24T22:41:44.982721+00:00",
       "score": 18.5,
       "status": "BASELINE"
     }
