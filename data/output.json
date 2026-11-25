@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-25T09:00:11.834085+00:00",
+    "generated": "2026-11-25T21:56:11.979883+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -26,84 +26,23 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 610,
+      "coverage": 609,
       "current_14d_weekly_equivalent": 42.0,
       "baseline_weekly_median": 42.0,
       "anomaly_z": 0.0,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
-          "id": "817910-2026",
+          "id": "820380-2026",
           "date": "2026-11-25",
-          "title": "Spain – Military electronic systems – 20266369 Adquisición de un entrenador cognitivo",
-          "buyer": "Dirección de Adquisiciones del Mando de Apoyo Logístico del Ejército del Aire y del Espacio",
-          "country": "ESP",
-          "cpv": [
-            "35700000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/817910-2026"
-        },
-        {
-          "id": "818604-2026",
-          "date": "2026-11-25",
-          "title": "Spain – Ammunition for firearms and warfare – Suministro de munición de calibre .338",
-          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
-          "country": "ESP",
-          "cpv": [
-            "35331000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/818604-2026"
-        },
-        {
-          "id": "817602-2026",
-          "date": "2026-11-25",
-          "title": "Norway – Armoured personnel carriers – Procurement of a framework agreement for the purchase of armoured vehicles",
-          "buyer": "Utenriksdepartementet",
-          "country": "NOR",
-          "cpv": [
-            "35412200",
-            "35000000",
-            "35400000",
-            "35410000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/817602-2026"
-        },
-        {
-          "id": "817872-2026",
-          "date": "2026-11-25",
-          "title": "Lithuania – Rifles – PUSIAU AUTOMATINIS 12 KALIBRO LYGIAVAMZDIS ŠAUTUVAS",
-          "buyer": "GYNYBOS RESURSŲ AGENTŪRA PRIE KAM",
-          "country": "LTU",
-          "cpv": [
-            "35321200"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/817872-2026"
-        },
-        {
-          "id": "819821-2026",
-          "date": "2026-11-25",
-          "title": "Poland – Explosives – Dostawa materiałów wybuchowych, środków inicjujących wybuch, środków pozoracji oraz materiałów eksploatacyjnych na potrzeby realizacji szkoleń przez CSSG w Kętrzynie oraz na potrzeby W-MOSG",
-          "buyer": "WARMIŃSKO-MAZURSKI ODDZIAŁ STRAŻY GRANICZNEJ im. gen. bryg. Stefana Pasławskiego",
-          "country": "POL",
-          "cpv": [
-            "24600000",
-            "24615000",
-            "24612200",
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/819821-2026"
-        },
-        {
-          "id": "819333-2026",
-          "date": "2026-11-25",
-          "title": "Estonia – Communications equipment – Kõrvaklapid ja rääkimislülitid",
+          "title": "Estonia – Communications equipment – RACAL",
           "buyer": "Riigi Kaitseinvesteeringute Keskus",
           "country": "EST",
           "cpv": [
             "32570000",
             "35422000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/819333-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/820380-2026"
         },
         {
           "id": "820153-2026",
@@ -120,16 +59,88 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/820153-2026"
         },
         {
-          "id": "820380-2026",
+          "id": "817872-2026",
           "date": "2026-11-25",
-          "title": "Estonia – Communications equipment – RACAL",
+          "title": "Lithuania – Rifles – PUSIAU AUTOMATINIS 12 KALIBRO LYGIAVAMZDIS ŠAUTUVAS",
+          "buyer": "GYNYBOS RESURSŲ AGENTŪRA PRIE KAM",
+          "country": "LTU",
+          "cpv": [
+            "35321200"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/817872-2026"
+        },
+        {
+          "id": "817910-2026",
+          "date": "2026-11-25",
+          "title": "Spain – Military electronic systems – 20266369 Adquisición de un entrenador cognitivo",
+          "buyer": "Dirección de Adquisiciones del Mando de Apoyo Logístico del Ejército del Aire y del Espacio",
+          "country": "ESP",
+          "cpv": [
+            "35700000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/817910-2026"
+        },
+        {
+          "id": "817602-2026",
+          "date": "2026-11-25",
+          "title": "Norway – Armoured personnel carriers – Procurement of a framework agreement for the purchase of armoured vehicles",
+          "buyer": "Utenriksdepartementet",
+          "country": "NOR",
+          "cpv": [
+            "35412200",
+            "35000000",
+            "35400000",
+            "35410000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/817602-2026"
+        },
+        {
+          "id": "819333-2026",
+          "date": "2026-11-25",
+          "title": "Estonia – Communications equipment – Kõrvaklapid ja rääkimislülitid",
           "buyer": "Riigi Kaitseinvesteeringute Keskus",
           "country": "EST",
           "cpv": [
             "32570000",
             "35422000"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/820380-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/819333-2026"
+        },
+        {
+          "id": "818604-2026",
+          "date": "2026-11-25",
+          "title": "Spain – Ammunition for firearms and warfare – Suministro de munición de calibre .338",
+          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
+          "country": "ESP",
+          "cpv": [
+            "35331000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/818604-2026"
+        },
+        {
+          "id": "819821-2026",
+          "date": "2026-11-25",
+          "title": "Poland – Explosives – Dostawa materiałów wybuchowych, środków inicjujących wybuch, środków pozoracji oraz materiałów eksploatacyjnych na potrzeby realizacji szkoleń przez CSSG w Kętrzynie oraz na potrzeby W-MOSG",
+          "buyer": "WARMIŃSKO-MAZURSKI ODDZIAŁ STRAŻY GRANICZNEJ im. gen. bryg. Stefana Pasławskiego",
+          "country": "POL",
+          "cpv": [
+            "24600000",
+            "24615000",
+            "24612200",
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/819821-2026"
+        },
+        {
+          "id": "820117-2026",
+          "date": "2026-11-25",
+          "title": "Sweden – Machine guns – Prototype M230LF Dual Feed",
+          "buyer": "FMV",
+          "country": "SWE",
+          "cpv": [
+            "35321300"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/820117-2026"
         },
         {
           "id": "819844-2026",
@@ -145,15 +156,37 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/819844-2026"
         },
         {
-          "id": "820117-2026",
+          "id": "819810-2026",
           "date": "2026-11-25",
-          "title": "Sweden – Machine guns – Prototype M230LF Dual Feed",
-          "buyer": "FMV",
-          "country": "SWE",
+          "title": "Spain – Grenades – Suministro de granadas de mortero de 81 y 60 MM",
+          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
+          "country": "ESP",
           "cpv": [
-            "35321300"
+            "35331300"
           ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/820117-2026"
+          "url": "https://ted.europa.eu/en/notice/-/detail/819810-2026"
+        },
+        {
+          "id": "820270-2026",
+          "date": "2026-11-25",
+          "title": "Slovenia – Military aircrafts – Nakup vojaških ISR SBPZ MIKRO",
+          "buyer": "MINISTRSTVO ZA OBRAMBO",
+          "country": "SVN",
+          "cpv": [
+            "35610000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/820270-2026"
+        },
+        {
+          "id": "818368-2026",
+          "date": "2026-11-25",
+          "title": "Spain – Weapons, ammunition and associated parts – Contrato de suministro de pistolas reglamentarias, con sus correspondientes accesorios, destinadas al Cuerpo de Policía Municipal del Ayuntamiento de Madrid",
+          "buyer": "Área de Gobierno de Vicealcaldía, Portavoz, Seguridad y Emergencias del Ayuntamiento de Madrid",
+          "country": "ESP",
+          "cpv": [
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/818368-2026"
         },
         {
           "id": "818370-2026",
@@ -166,17 +199,6 @@
             "35420000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/818370-2026"
-        },
-        {
-          "id": "819810-2026",
-          "date": "2026-11-25",
-          "title": "Spain – Grenades – Suministro de granadas de mortero de 81 y 60 MM",
-          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
-          "country": "ESP",
-          "cpv": [
-            "35331300"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/819810-2026"
         },
         {
           "id": "818073-2026",
@@ -192,28 +214,6 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/818073-2026"
         },
         {
-          "id": "818368-2026",
-          "date": "2026-11-25",
-          "title": "Spain – Weapons, ammunition and associated parts – Contrato de suministro de pistolas reglamentarias, con sus correspondientes accesorios, destinadas al Cuerpo de Policía Municipal del Ayuntamiento de Madrid",
-          "buyer": "Área de Gobierno de Vicealcaldía, Portavoz, Seguridad y Emergencias del Ayuntamiento de Madrid",
-          "country": "ESP",
-          "cpv": [
-            "35300000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/818368-2026"
-        },
-        {
-          "id": "820270-2026",
-          "date": "2026-11-25",
-          "title": "Slovenia – Military aircrafts – Nakup vojaških ISR SBPZ MIKRO",
-          "buyer": "MINISTRSTVO ZA OBRAMBO",
-          "country": "SVN",
-          "cpv": [
-            "35610000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/820270-2026"
-        },
-        {
           "id": "819760-2026",
           "date": "2026-11-25",
           "title": "Germany – Military vehicles and associated parts – 6003034046-BAAINBw E2.3Y_E23Y003233",
@@ -225,7 +225,7 @@
           "url": "https://ted.europa.eu/en/notice/-/detail/819760-2026"
         }
       ],
-      "source_collected_at": "2026-11-25T09:00:11.834085+00:00"
+      "source_collected_at": "2026-11-25T21:56:11.979883+00:00"
     },
     "us_awards": {
       "key": "us_awards",
@@ -440,7 +440,7 @@
           "naics": "336411"
         }
       ],
-      "source_collected_at": "2026-11-25T09:00:11.834085+00:00"
+      "source_collected_at": "2026-11-25T21:56:11.979883+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
@@ -449,7 +449,7 @@
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 70,
+      "coverage": 69,
       "current_14d_weekly_equivalent": 15.5,
       "baseline_weekly_median": 5.0,
       "anomaly_z": 1.42,
@@ -463,7 +463,7 @@
             "missile"
           ],
           "weight": 3,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-11-24",
@@ -473,7 +473,7 @@
             "missile"
           ],
           "weight": 3,
-          "age": 0
+          "age": 1
         },
         {
           "date": "2026-11-19",
@@ -484,7 +484,7 @@
             "drone"
           ],
           "weight": 5,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-11-19",
@@ -494,7 +494,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-11-19",
@@ -505,7 +505,7 @@
             "drone"
           ],
           "weight": 4,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-11-19",
@@ -515,7 +515,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-11-19",
@@ -526,7 +526,7 @@
             "drone"
           ],
           "weight": 4,
-          "age": 5
+          "age": 6
         },
         {
           "date": "2026-11-18",
@@ -536,7 +536,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-11-18",
@@ -546,7 +546,7 @@
             "industry"
           ],
           "weight": 2.5,
-          "age": 6
+          "age": 7
         },
         {
           "date": "2026-11-12",
@@ -556,7 +556,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 12
+          "age": 13
         },
         {
           "date": "2026-11-10",
@@ -566,7 +566,7 @@
             "capabilities"
           ],
           "weight": 2,
-          "age": 14
+          "age": 15
         },
         {
           "date": "2026-11-06",
@@ -576,7 +576,7 @@
             "drone"
           ],
           "weight": 3,
-          "age": 18
+          "age": 19
         },
         {
           "date": "2026-11-05",
@@ -587,7 +587,7 @@
             "drone"
           ],
           "weight": 5,
-          "age": 19
+          "age": 20
         },
         {
           "date": "2026-11-04",
@@ -597,10 +597,10 @@
             "industrial"
           ],
           "weight": 2.5,
-          "age": 20
+          "age": 21
         }
       ],
-      "source_collected_at": "2026-11-25T09:00:11.834085+00:00"
+      "source_collected_at": "2026-11-25T21:56:11.979883+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -623,7 +623,7 @@
           "abstract": "The Defense Acquisition Regulations System has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act."
         }
       ],
-      "source_collected_at": "2026-11-25T09:00:11.834085+00:00"
+      "source_collected_at": "2026-11-25T21:56:11.979883+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -656,15 +656,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-25T09:00:11.834085+00:00"
+      "source_collected_at": "2026-11-25T21:56:11.979883+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-29T22:55:09.187751+00:00",
-      "score": 19.4,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-30T06:17:56.175424+00:00",
       "score": 22.9,
@@ -957,6 +952,11 @@
     },
     {
       "generated": "2026-11-25T09:00:11.834085+00:00",
+      "score": 18.2,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-25T21:56:11.979883+00:00",
       "score": 18.2,
       "status": "BASELINE"
     }
