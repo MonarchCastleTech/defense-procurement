@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-25T21:56:11.979883+00:00",
+    "generated": "2026-11-26T08:47:02.400458+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 18.2,
-    "raw_score": 18.2,
+    "score": 17.9,
+    "raw_score": 17.9,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 18.2/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 17.9/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -26,12 +26,50 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 609,
-      "current_14d_weekly_equivalent": 42.0,
-      "baseline_weekly_median": 42.0,
-      "anomaly_z": 0.0,
+      "coverage": 600,
+      "current_14d_weekly_equivalent": 39.5,
+      "baseline_weekly_median": 40.0,
+      "anomaly_z": -0.1,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "820587-2026",
+          "date": "2026-11-26",
+          "title": "Czechia – Firearms – Pistole pro speciální síly s příslušenstvím",
+          "buyer": "Ministerstvo obrany",
+          "country": "CZE",
+          "cpv": [
+            "35320000",
+            "35341000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/820587-2026"
+        },
+        {
+          "id": "821696-2026",
+          "date": "2026-11-26",
+          "title": "Germany – Radar detectors – Rahmenvereinbarung über die Lieferung von mobilen Drohnendetektoren auf Radarbasis, Radar Panel Echo Guard",
+          "buyer": "Freistaat Bayern, vertreten durch das Logistikzentrum der Bayerischen Polizei (LZBP)",
+          "country": "DEU",
+          "cpv": [
+            "35121900",
+            "35722000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/821696-2026"
+        },
+        {
+          "id": "822218-2026",
+          "date": "2026-11-26",
+          "title": "Ireland – Surface surveying services – Drone Surveying Services",
+          "buyer": "Office of Public Works (OPW)",
+          "country": "IRL",
+          "cpv": [
+            "71353000",
+            "34711200",
+            "35613000",
+            "38296000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/822218-2026"
+        },
         {
           "id": "820380-2026",
           "date": "2026-11-25",
@@ -187,96 +225,41 @@
             "35300000"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/818368-2026"
-        },
-        {
-          "id": "818370-2026",
-          "date": "2026-11-25",
-          "title": "Spain – Repair and maintenance services of military vehicles – Servicio De Mantenimiento Del Carro De Recuperación M-47 Er3, Carro De Zapadores M-60 Y Vehículo Lanzapuentes Sobre Barcaza M-60/M-47",
-          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
-          "country": "ESP",
-          "cpv": [
-            "50630000",
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/818370-2026"
-        },
-        {
-          "id": "818073-2026",
-          "date": "2026-11-25",
-          "title": "Slovakia – Hand guns – Zbrane a príslušenstvo",
-          "buyer": "Ministerstvo vnútra Slovenskej republiky",
-          "country": "SVK",
-          "cpv": [
-            "35321100",
-            "35321200",
-            "38121000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/818073-2026"
-        },
-        {
-          "id": "819760-2026",
-          "date": "2026-11-25",
-          "title": "Germany – Military vehicles and associated parts – 6003034046-BAAINBw E2.3Y_E23Y003233",
-          "buyer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
-          "country": "DEU",
-          "cpv": [
-            "35400000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/819760-2026"
         }
       ],
-      "source_collected_at": "2026-11-25T21:56:11.979883+00:00"
+      "source_collected_at": "2026-11-26T08:47:02.400458+00:00"
     },
     "us_awards": {
       "key": "us_awards",
-      "score": 2.7,
+      "score": 0.0,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
       "coverage": 600,
-      "latest_observation": "2026-08-24",
-      "reporting_lag_days": 93,
-      "freshness_factor": 0.22,
-      "current_14d_weekly_equivalent": 14064694.55,
+      "latest_observation": "2026-11-12",
+      "reporting_lag_days": 14,
+      "freshness_factor": 0.88,
+      "current_14d_weekly_equivalent": 0.0,
       "baseline_weekly_median": 0.0,
-      "anomaly_z": 0.04,
+      "anomaly_z": 0.0,
       "recipient_concentration": [
         {
-          "name": "RTX CORPORATION",
-          "amount": 1081885600.99
-        },
-        {
-          "name": "RAYTHEON/LOCKHEED MARTIN JAVELIN JV",
-          "amount": 472240428.51
-        },
-        {
-          "name": "RAYTHEON COMPANY",
-          "amount": 75088761.06
-        },
-        {
-          "name": "DEFENSE SYSTEMS AND SOLUTIONS",
-          "amount": 66442535.0
-        },
-        {
-          "name": "SIKORSKY AIRCRAFT CORPORATION",
-          "amount": 62173659.24
-        },
-        {
-          "name": "GENERAL DYNAMICS ORDNANCE & TACTICAL SYSTEMS, INC.",
-          "amount": 37428409.37
-        },
-        {
-          "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 28715446.27
-        },
-        {
-          "name": "DAY & ZIMMERMANN LONE STAR LLC",
-          "amount": 20985955.96
+          "name": "STRATEGIC TECHNOLOGY INSTITUTE INC",
+          "amount": 0
         }
       ],
       "method": "Defense-industrial NAICS obligations anchored to latest reported date and freshness-discounted.",
       "evidence": [
+        {
+          "date": "2026-11-12",
+          "award_id": "FA810824FB001",
+          "recipient": "STRATEGIC TECHNOLOGY INSTITUTE INC",
+          "amount": 0.0,
+          "agency": "Department of the Air Force",
+          "description": "USCG AVIATION TRAINING CENTER (ATC) GROUND SUPPORT EQUIPMENT (GSE) MAINTENANCE, MOBILE, AL",
+          "naics": "336411"
+        },
         {
           "date": "2026-08-24",
           "award_id": "FA930226P0108",
@@ -311,6 +294,24 @@
           "amount": 46325.0,
           "agency": "Defense Logistics Agency",
           "description": "8512321655!PANEL,STRUCTURAL,AIRCRAFT",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-08-20",
+          "award_id": "SPE4A626F375S",
+          "recipient": "KIDDE TECHNOLOGIES, INC",
+          "amount": 37788.53,
+          "agency": "Defense Logistics Agency",
+          "description": "8512321803!OPTICAL FIRE SENSOR",
+          "naics": "336412"
+        },
+        {
+          "date": "2026-08-20",
+          "award_id": "SPRRA126F0068",
+          "recipient": "THE BOEING COMPANY",
+          "amount": 37764.83,
+          "agency": "Defense Logistics Agency",
+          "description": "MAINTENANCE AND OVERHAUL (M&O) OF THE FWD AND AFT ROTARY BLADES AND IN SUPPORT OF THE CHINOOK WEAPON SYSTEM. THIS MOD P00002 IS ADDING A PRODUCT QUALITY AUDIT (PQA) DUE TO MAJOR SUBCONTRACTOR (AVTASK) MOVING FACILITIES.",
           "naics": "336413"
         },
         {
@@ -411,48 +412,21 @@
           "agency": "Defense Logistics Agency",
           "description": "8512310647!PACKING,PREFORMED",
           "naics": "336413"
-        },
-        {
-          "date": "2026-08-19",
-          "award_id": "SPE4A626FD2CV",
-          "recipient": "HUDSON TECHNOLOGIES COMPANY",
-          "amount": 40.4,
-          "agency": "Defense Logistics Agency",
-          "description": "4572739437!OXYGEN,AVIATOR'S BREATHING",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-08-19",
-          "award_id": "FA862023F4039",
-          "recipient": "SIERRA NEVADA COMPANY, LLC",
-          "amount": 0.0,
-          "agency": "Department of the Air Force",
-          "description": "AFLCMC/WI",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-08-19",
-          "award_id": "FA868923F2650",
-          "recipient": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.",
-          "amount": 0.0,
-          "agency": "Department of the Air Force",
-          "description": "MQ-9 REAPER OPEN MISSION SYSTEM (OMS) STELLAR RELAY (SR) AND LINK-16 RETROFIT UCA",
-          "naics": "336411"
         }
       ],
-      "source_collected_at": "2026-11-25T21:56:11.979883+00:00"
+      "source_collected_at": "2026-11-26T08:47:02.400458+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 41.7,
+      "score": 43.5,
       "status": "WATCH",
       "weight": 0.2,
       "available": true,
       "retained": false,
       "coverage": 69,
-      "current_14d_weekly_equivalent": 15.5,
-      "baseline_weekly_median": 5.0,
-      "anomaly_z": 1.42,
+      "current_14d_weekly_equivalent": 14.5,
+      "baseline_weekly_median": 6.0,
+      "anomaly_z": 1.64,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -600,7 +574,7 @@
           "age": 21
         }
       ],
-      "source_collected_at": "2026-11-25T21:56:11.979883+00:00"
+      "source_collected_at": "2026-11-26T08:47:02.400458+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -623,7 +597,7 @@
           "abstract": "The Defense Acquisition Regulations System has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act."
         }
       ],
-      "source_collected_at": "2026-11-25T21:56:11.979883+00:00"
+      "source_collected_at": "2026-11-26T08:47:02.400458+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -656,15 +630,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-25T21:56:11.979883+00:00"
+      "source_collected_at": "2026-11-26T08:47:02.400458+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-30T06:17:56.175424+00:00",
-      "score": 22.9,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-30T13:23:46.900644+00:00",
       "score": 23.6,
@@ -958,6 +927,11 @@
     {
       "generated": "2026-11-25T21:56:11.979883+00:00",
       "score": 18.2,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-26T08:47:02.400458+00:00",
+      "score": 17.9,
       "status": "BASELINE"
     }
   ],
