@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "defense-procurement",
-    "generated": "2026-11-26T21:50:00.786523+00:00",
+    "generated": "2026-11-27T08:58:04.160403+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–90 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 17.9,
-    "raw_score": 17.9,
+    "score": 17.4,
+    "raw_score": 17.4,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Defense procurement acceleration pressure is baseline at 17.9/100.",
+    "headline": "Defense procurement acceleration pressure is baseline at 17.4/100.",
     "interpretation": "The index detects unusual procurement, policy, industrial-demand and input-cost pressure. It is a screening warning, not a conflict probability or contract forecast."
   },
   "components": {
@@ -26,12 +26,49 @@
       "weight": 0.3,
       "available": true,
       "retained": false,
-      "coverage": 600,
-      "current_14d_weekly_equivalent": 39.5,
-      "baseline_weekly_median": 40.0,
-      "anomaly_z": -0.1,
+      "coverage": 589,
+      "current_14d_weekly_equivalent": 37.0,
+      "baseline_weekly_median": 42.0,
+      "anomaly_z": -1.69,
       "method": "Defense CPV publication velocity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "id": "827889-2026",
+          "date": "2026-11-27",
+          "title": "Estonia – Ammunition for firearms and warfare – 40mm, 23mm relvade ning 76mm, 40mm ja 23mm laskemoona ostmine koos elutsükli tagamisega",
+          "buyer": "Riigi Kaitseinvesteeringute Keskus",
+          "country": "EST",
+          "cpv": [
+            "35331000",
+            "35320000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/827889-2026"
+        },
+        {
+          "id": "825979-2026",
+          "date": "2026-11-27",
+          "title": "Finland – Structure and mechanical spare parts for military aerospace equipment – Hawk Mk51, Mk51A ja Mk66 -suihkuharjoituskoneiden jarrujen varaosia",
+          "buyer": "Puolustusvoimat",
+          "country": "FIN",
+          "cpv": [
+            "35641000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/825979-2026"
+        },
+        {
+          "id": "825321-2026",
+          "date": "2026-11-27",
+          "title": "Poland – Explosives – Dostawa materiałów wybuchowych, środków inicjujących wybuch, środków pozoracji oraz materiałów eksploatacyjnych na potrzeby realizacji szkoleń przez CSSG w Kętrzynie oraz na potrzeby W-MOSG",
+          "buyer": "WARMIŃSKO-MAZURSKI ODDZIAŁ STRAŻY GRANICZNEJ im. gen. bryg. Stefana Pasławskiego",
+          "country": "POL",
+          "cpv": [
+            "24600000",
+            "24615000",
+            "24612200",
+            "35300000"
+          ],
+          "url": "https://ted.europa.eu/en/notice/-/detail/825321-2026"
+        },
         {
           "id": "820587-2026",
           "date": "2026-11-26",
@@ -192,44 +229,9 @@
             "35321300"
           ],
           "url": "https://ted.europa.eu/en/notice/-/detail/820117-2026"
-        },
-        {
-          "id": "817934-2026",
-          "date": "2026-11-25",
-          "title": "Spain – Unmanned aerial vehicles – Servicio de mantenimiento, suministro de repuestos y accesorios y asistencia técnica para el sostenimiento de los sistemas RPAS CLASE I MICRO ALA ROTATORIA SKYDIO.",
-          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
-          "country": "ESP",
-          "cpv": [
-            "35613000",
-            "80650000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/817934-2026"
-        },
-        {
-          "id": "818370-2026",
-          "date": "2026-11-25",
-          "title": "Spain – Repair and maintenance services of military vehicles – Servicio De Mantenimiento Del Carro De Recuperación M-47 Er3, Carro De Zapadores M-60 Y Vehículo Lanzapuentes Sobre Barcaza M-60/M-47",
-          "buyer": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
-          "country": "ESP",
-          "cpv": [
-            "50630000",
-            "35420000"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/818370-2026"
-        },
-        {
-          "id": "819810-2026",
-          "date": "2026-11-25",
-          "title": "Spain – Grenades – Suministro de granadas de mortero de 81 y 60 MM",
-          "buyer": "Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada",
-          "country": "ESP",
-          "cpv": [
-            "35331300"
-          ],
-          "url": "https://ted.europa.eu/en/notice/-/detail/819810-2026"
         }
       ],
-      "source_collected_at": "2026-11-26T21:50:00.786523+00:00"
+      "source_collected_at": "2026-11-27T08:58:04.160403+00:00"
     },
     "us_awards": {
       "key": "us_awards",
@@ -240,7 +242,7 @@
       "retained": false,
       "coverage": 600,
       "latest_observation": "2026-11-12",
-      "reporting_lag_days": 14,
+      "reporting_lag_days": 15,
       "freshness_factor": 0.88,
       "current_14d_weekly_equivalent": 0.0,
       "baseline_weekly_median": 0.0,
@@ -261,6 +263,33 @@
           "agency": "Department of the Air Force",
           "description": "USCG AVIATION TRAINING CENTER (ATC) GROUND SUPPORT EQUIPMENT (GSE) MAINTENANCE, MOBILE, AL",
           "naics": "336411"
+        },
+        {
+          "date": "2026-08-26",
+          "award_id": "SPE4A626F380X",
+          "recipient": "HONEYWELL INTERNATIONAL INC.",
+          "amount": 761056.24,
+          "agency": "Defense Logistics Agency",
+          "description": "8512326359/ 3110-01-250-1216",
+          "naics": "336413"
+        },
+        {
+          "date": "2026-08-26",
+          "award_id": "W912CH26F0174",
+          "recipient": "BAE SYSTEMS GCS INTERNATIONAL LIMITED",
+          "amount": 0.0,
+          "agency": "Department of the Army",
+          "description": "LIFE CYCLE SUSTAINMENT (LCS) REQUIREMENTS COMPRISED OF CATALOG PARTS AND MANPOWER SERVICES TO SUPPORT THE MEDIUM TOWED 155MM M777 HOWITZER ARTILLERY SYSTEM.",
+          "naics": "332994"
+        },
+        {
+          "date": "2026-08-26",
+          "award_id": "FA812125F0123",
+          "recipient": "HONEYWELL INTERNATIONAL INC.",
+          "amount": 0.0,
+          "agency": "Department of the Air Force",
+          "description": "OVERHAUL OF F100-PW-220-229 FUEL CONTROLS AND ACCESSORIES",
+          "naics": "336412"
         },
         {
           "date": "2026-08-24",
@@ -387,48 +416,21 @@
           "agency": "Defense Logistics Agency",
           "description": "8512315692!RIB,STIFFENER,AIRCR",
           "naics": "336413"
-        },
-        {
-          "date": "2026-08-19",
-          "award_id": "SPE4A726PF536",
-          "recipient": "H C MERCHANDISERS, INC.",
-          "amount": 18684.47,
-          "agency": "Defense Logistics Agency",
-          "description": "8512315946!CAP AND ADAPTER ASS",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-08-19",
-          "award_id": "SPE4A626F368V",
-          "recipient": "ROSEMOUNT AEROSPACE INC",
-          "amount": 3211.02,
-          "agency": "Defense Logistics Agency",
-          "description": "8512318482!SCREW,CAP,SOCKET HEAD",
-          "naics": "336413"
-        },
-        {
-          "date": "2026-08-19",
-          "award_id": "SPE4A526F8694",
-          "recipient": "HONEYWELL INTERNATIONAL INC.",
-          "amount": 1046.1,
-          "agency": "Defense Logistics Agency",
-          "description": "8512310647!PACKING,PREFORMED",
-          "naics": "336413"
         }
       ],
-      "source_collected_at": "2026-11-26T21:50:00.786523+00:00"
+      "source_collected_at": "2026-11-27T08:58:04.160403+00:00"
     },
     "nato_demand": {
       "key": "nato_demand",
-      "score": 43.5,
+      "score": 40.6,
       "status": "WATCH",
       "weight": 0.2,
       "available": true,
       "retained": false,
       "coverage": 69,
       "current_14d_weekly_equivalent": 14.5,
-      "baseline_weekly_median": 6.0,
-      "anomaly_z": 1.64,
+      "baseline_weekly_median": 5.0,
+      "anomaly_z": 1.28,
       "method": "Official NATO capability, procurement and production title-language velocity.",
       "evidence": [
         {
@@ -576,7 +578,7 @@
           "age": 22
         }
       ],
-      "source_collected_at": "2026-11-26T21:50:00.786523+00:00"
+      "source_collected_at": "2026-11-27T08:58:04.160403+00:00"
     },
     "acquisition_policy": {
       "key": "acquisition_policy",
@@ -599,7 +601,7 @@
           "abstract": "The Defense Acquisition Regulations System has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act."
         }
       ],
-      "source_collected_at": "2026-11-26T21:50:00.786523+00:00"
+      "source_collected_at": "2026-11-27T08:58:04.160403+00:00"
     },
     "critical_materials": {
       "key": "critical_materials",
@@ -632,15 +634,10 @@
           "url": "https://fred.stlouisfed.org/series/PNICKUSDM"
         }
       ],
-      "source_collected_at": "2026-11-26T21:50:00.786523+00:00"
+      "source_collected_at": "2026-11-27T08:58:04.160403+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-30T22:35:32.480809+00:00",
-      "score": 23.6,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-10-31T06:09:50.577389+00:00",
       "score": 23.6,
@@ -934,6 +931,11 @@
     {
       "generated": "2026-11-26T21:50:00.786523+00:00",
       "score": 17.9,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-27T08:58:04.160403+00:00",
+      "score": 17.4,
       "status": "BASELINE"
     }
   ],
